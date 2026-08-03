@@ -1,29 +1,29 @@
 {
   "IntroPage": {
     "seo": {
-      "title": "关于 FigmaEdu — Figma Education 账号分销商",
-      "description": "FigmaEdu 是 Figma Education 账号的独立分销商。了解我们的使命、邮件交付登录信息的流程以及购买 Figma edu 账号时的服务承诺。",
-      "keywords": "FigmaEdu, Figma Education, 购买 Figma 账号, Figma edu, Figma 分销商, figmaedu.shop, 关于 FigmaEdu"
+      "title": "关于 TKAIPro — 购买 Google AI Pro、Ultra & Antigravity 账号",
+      "description": "TKAIPro (tkaipro.shop) 是独立分销商：提供购买 Google AI Pro、Google Ultra、Antigravity PRO/ULTRA 账号服务。通过电子邮件交付登录信息，售后质保清晰。与 Google LLC 无关联。",
+      "keywords": "TKAIPro, tkaipro.shop, 购买 Google AI 账号, Google PRO, Google ULTRA, Antigravity PRO, Antigravity ULTRA, Google AI 分销商"
     },
     "hero": {
-      "title": "关于 FigmaEdu",
-      "subtitle": "Figma Education 账号独立分销商 — 为设计系学生和 UI 自由职业者提供实惠价格。购买 Figma edu 账号，支持本地支付，邮件接收登录信息。",
+      "title": "关于 TKAIPro",
+      "subtitle": "位于 tkaipro.shop 的独立分销商 — 购买 Google AI Pro、Ultra 及 Antigravity PRO/ULTRA 账号。支持本地支付，通过电子邮件获取登录信息。",
       "ctaConfig": "查看价格表",
-      "ctaBuy": "购买 Figma Edu",
-      "badge": "价格实惠",
+      "ctaBuy": "购买 Google AI",
+      "badge": "价格合理",
       "trustBadges": {
-        "authentic": "信誉分销商",
-        "fast": "约5分钟邮件交付",
-        "warranty": "1对1质保"
+        "authentic": "信誉良好的分销商",
+        "fast": "邮件交付约 5 分钟",
+        "warranty": "1 换 1 质保"
       }
     },
     "about": {
-      "title": "关于 figmaedu.shop",
-      "description": "FigmaEdu 是 Figma Education 账号的第三方独立分销商（third-party reseller）。我们与 Figma, Inc. 无直接关联。我们的使命是帮助学生和项目团队通过本地支付和便捷支持更轻松地使用 Figma edu。",
+      "title": "关于 tkaipro.shop",
+      "description": "TKAIPro 是位于 tkaipro.shop 的第三方独立分销商 (third-party reseller) — 专注于提供 Google AI Pro、Google Ultra 及 Antigravity PRO/ULTRA 账号购买。我们与 Google LLC 无关联。我们的使命：帮助 AI 用户通过本地支付和便捷支持更容易地获取 Pro/Ultra 方案。",
       "features": {
         "price": "市场优选价格",
         "support": "24/7 技术支持",
-        "warranty": "店铺原因1对1质保"
+        "warranty": "商家责任 1 换 1 质保"
       },
       "sectionLabel": "关于我们"
     },
@@ -31,24 +31,24 @@
       "title": "为什么选择我们？",
       "items": {
         "authentic": {
-          "title": "透明正规分销",
-          "description": "订阅（Subscription）均通过正规合法渠道购买并完成验证支付。无破解，无欺诈。"
+          "title": "透明正规的分销商",
+          "description": "订阅均通过合法渠道购买，并使用验证过的支付方式。无破解、无欺诈。"
         },
         "fast": {
-          "title": "快速交付",
-          "description": "支付后 5–10 分钟内即可通过电子邮件接收登录信息。高度自动化流程。"
+          "title": "快速发货",
+          "description": "付款后约 5–10 分钟内通过电子邮件接收登录信息。高度自动化的流程。"
         },
         "cheap": {
-          "title": "性价比极佳",
-          "description": "相比直接订阅大幅节省成本。为学生和 UI 自由职业者提供多种灵活套餐。"
+          "title": "性价比极高",
+          "description": "相比直接订阅大幅节省成本。为学生和 Gemini 用户提供多种灵活套餐。"
         },
         "privacy": {
-          "title": "严格隐私保护",
-          "description": "所有客户信息均经加密与安全保护。绝不向第三方共享。"
+          "title": "绝对隐私安全",
+          "description": "所有客户信息均经过加密和保密处理。绝不与第三方共享。"
         },
         "support": {
-          "title": "贴心售后支持",
-          "description": "经验丰富的团队随时为您提供 Figma 登录指导及 24/7 故障排除服务。"
+          "title": "全心服务与支持",
+          "description": "经验丰富的团队随时准备指导 Google AI 登录并 24/7 处理问题。"
         }
       },
       "sectionLabel": "为什么选择我们"
@@ -56,54 +56,54 @@
     "products": {
       "title": "热销套餐",
       "trial": {
-        "name": "Figma Edu 短期体验版",
-        "description": "体验短期 Figma Education，适合新手入门。",
-        "label": "体验版"
+        "name": "Google AI 短期体验包",
+        "description": "短期体验 Google AI。适合新手入门。",
+        "label": "体验包"
       },
       "shared": {
         "name": "热门学习套餐",
-        "description": "极致超值。非常适合学生及基础课程项目需求。",
-        "label": "超值版",
+        "description": "最大化节省成本。适合学生及基础项目需求。",
+        "label": "超值省钱",
         "badge": "🔥 最受欢迎"
       },
       "private": {
-        "name": "长期 / 个人独立套餐",
-        "description": "长期稳定。拥有完整 edu 权限，满足 UI 自由职业者与深度学习需求。",
-        "label": "Premium"
+        "name": "长期 / 个人独享套餐",
+        "description": "长期稳定。为 Gemini 用户和深度学习提供充沛的权限支持。",
+        "label": "高级版"
       },
-      "sectionLabel": "产品服务"
+      "sectionLabel": "服务项目"
     },
     "payment": {
       "title": "支付方式",
-      "subtitle": "灵活多样，安全便捷",
+      "subtitle": "多样、灵活且安全",
       "methods": {
         "bank": "银行转账 (VietQR)",
         "crypto": "Binance Pay (加密货币)",
         "momo": "MoMo 电子钱包"
       },
-      "support": "通过 Hotline/Zalo 提供 24/7 交易处理支持",
+      "support": "通过热线/Zalo 提供 24/7 交易处理支持",
       "sectionLabel": "支付方式"
     },
     "contact": {
-      "title": "联系客服",
-      "website": "Website: https://figmaedu.shop",
-      "telegram": "Telegram: FigmaEdu 客服",
-      "fanpage": "Fanpage: FigmaEdu",
-      "cta": "需要紧急协助？立即与我们在线咨询！"
+      "title": "联系支持",
+      "website": "网站: https://tkaipro.shop",
+      "telegram": "Telegram: TKAIPro 客服",
+      "fanpage": "Fanpage: TKAIPro",
+      "cta": "需要紧急帮助？立即与我们在线交谈！"
     },
     "commitment": {
       "title": "我们的承诺",
       "items": {
-        "1": "账号信息 100% 真实相符",
-        "2": "若属店家问题照政策免费更换",
-        "3": "坚决杜绝破解与盗号行为",
-        "4": "每笔交易均公开透明"
+        "1": "账号 100% 符合描述",
+        "2": "商家原因故障按政策免费更换",
+        "3": "坚决拒绝破解、扫描账号",
+        "4": "每一笔交易公开透明"
       },
       "sectionLabel": "服务承诺"
     },
     "ctaSection": {
-      "title": "立即购买 Figma Education 账号",
-      "subtitle": "别让预算阻碍您的设计项目。通过 FigmaEdu 以极具竞争力的价格获取 Figma edu，登录信息直接发送至邮箱。",
+      "title": "立即购买 Google AI 账号",
+      "subtitle": "不要让成本成为您项目的阻碍。通过 TKAIPro 以具有竞争力的价格拥有 Google AI，通过电子邮件接收登录信息。",
       "buyNow": "查看价格表",
       "contact": "联系咨询"
     }
@@ -116,35 +116,35 @@
       "change": "更换",
       "remove": "删除",
       "uploading": "正在上传...",
-      "success": "头像更新成功",
-      "error": "头像更新失败"
+      "success": "更新头像成功",
+      "error": "更新头像失败"
     },
     "form": {
       "name": "姓名",
       "email": "电子邮箱",
       "save": "保存更改",
       "saving": "正在保存...",
-      "success": "信息更新成功",
-      "error": "信息更新失败"
+      "success": "更新信息成功",
+      "error": "更新信息失败"
     }
   },
   "DashboardSettings": {
     "title": "设置",
-    "description": "管理您的账号设置与偏好",
+    "description": "管理您的账号设置和偏好",
     "tabs": {
       "profile": "个人资料",
-      "security": "账号安全"
+      "security": "安全设置"
     },
     "profile": {
-      "title": "个人信息",
+      "title": "个人资料信息",
       "name": "姓名",
       "namePlaceholder": "请输入您的姓名",
       "email": "电子邮箱",
       "emailPlaceholder": "请输入您的电子邮箱",
       "save": "保存更改",
       "saving": "正在保存...",
-      "success": "信息更新成功",
-      "error": "信息更新失败"
+      "success": "更新信息成功",
+      "error": "更新信息失败"
     },
     "security": {
       "title": "安全设置",
@@ -153,19 +153,19 @@
       "newPassword": "新密码",
       "newPasswordPlaceholder": "请输入新密码",
       "confirmPassword": "确认新密码",
-      "confirmPasswordPlaceholder": "请再次输入新密码",
+      "confirmPasswordPlaceholder": "请确认新密码",
       "update": "更新密码",
       "updating": "正在更新...",
-      "success": "密码修改成功",
-      "error": "密码修改失败",
+      "success": "修改密码成功",
+      "error": "修改密码失败",
       "errorMatch": "两次输入的密码不一致",
-      "errorLength": "新密码长度至少需要 8 个字符"
+      "errorLength": "新密码长度至少需 8 个字符"
     }
   },
   "RecentPurchases": {
-    "title": "最新购买",
-    "justBought": "刚刚购买了",
-    "recently": "最近",
+    "title": "最近购买",
+    "justBought": "刚刚购买",
+    "recently": "近期",
     "ago": "前",
     "hours": "小时",
     "hour": "小时",
@@ -177,23 +177,23 @@
   },
   "DashboardOrders": {
     "title": "我的订单",
-    "subtitle": "查看并追踪您的订单状态",
+    "subtitle": "查看并追踪订单状态",
     "refresh": "刷新",
     "loginRequired": "请先登录",
-    "loginDescription": "您需要登录后才能查看订单。",
-    "errorTitle": "加载数据失败",
-    "errorDescription": "无法加载订单列表，请稍后再试。",
+    "loginDescription": "您需要登录才能查看您的订单。",
+    "errorTitle": "数据加载错误",
+    "errorDescription": "无法加载订单列表，请稍后重试。",
     "stats": {
-      "totalOrders": "订单总量",
+      "totalOrders": "总订单",
       "paidOrders": "已支付",
       "pendingPayment": "待支付",
-      "totalSpent": "消费总额"
+      "totalSpent": "总消费"
     },
     "filters": {
       "statusPlaceholder": "订单状态",
       "paymentPlaceholder": "支付状态",
-      "allStatus": "全部状态",
-      "allPayment": "全部支付状态"
+      "allStatus": "所有状态",
+      "allPayment": "所有支付"
     },
     "status": {
       "pending": "待处理",
@@ -207,10 +207,10 @@
       "failed": "支付失败"
     },
     "table": {
-      "orderNumber": "订单号",
+      "orderNumber": "订单编号",
       "products": "商品",
-      "otherProducts": "+{count} 件其他商品",
-      "total": "总金额",
+      "otherProducts": "+{count} 个其他商品",
+      "total": "总计",
       "status": "状态",
       "payment": "支付",
       "date": "下单日期",
@@ -218,11 +218,11 @@
       "viewDetails": "查看详情",
       "payNow": "立即支付"
     },
-    "pagination": "第 {current}/{total} 页",
+    "pagination": "页码 {current}/{total}",
     "empty": {
       "title": "暂无订单",
-      "description": "您还没有任何订单，立即开始选购吧！",
-      "cta": "浏览商品"
+      "description": "您目前没有订单。立即开始购物吧！",
+      "cta": "探索商品"
     },
     "toast": {
       "loadError": "加载订单数据失败",
@@ -230,66 +230,66 @@
     }
   },
   "Pricing": {
-    "title": "Chọn Gói Phù Hợp Với Bạn",
-    "description": "所有方案均包含 Figma Education 申请协助服务、激活状态追踪以及透明的售后保障。",
+    "title": "选择适合您的方案",
+    "description": "所有方案均包含 Google AI 订阅协助、激活追踪以及透明的售后支持服务。",
     "popular": "最受欢迎",
     "perMonth": "₫/月",
     "guarantees": {
       "oneTime": "一次性付款",
       "noRenew": "无自动续费",
-      "refund": "店铺责任1换1质保"
+      "refund": "商家责任1对1质保"
     },
     "plans": {
       "1-month": {
-        "name": "1个月",
-        "description": "适合新手快速体验与咨询",
+        "name": "1 个月",
+        "description": "适合新手的快速咨询",
         "button": "申请 1 个月方案",
         "features": {
-          "0": "Figma Education 在线申请指导",
-          "1": "详细的安装与激活视频教程",
+          "0": "Google AI 在线购买指南",
+          "1": "详细的安装与激活视频",
           "2": "支付方式选择咨询",
           "3": "激活后检查清单",
-          "4": "24/7 客服支持",
-          "5": "1换1质保"
+          "4": "24/7 全天候支持",
+          "5": "1对1 售后质保"
         }
       },
       "3-months": {
-        "name": "3个月",
-        "description": "自由职业者热门方案",
+        "name": "3 个月",
+        "description": "自由职业者的热门选择",
         "button": "选择 3 个月方案",
         "features": {
           "0": "包含 1 个月方案的所有服务",
-          "1": "根据更长期需求推荐适合的 Figma Education 方案",
-          "2": "需要身份验证时享有优先支持",
-          "3": "提供带指导的续费提醒",
-          "4": "Figma 工作流优化资源",
+          "1": "适合长期需求的 Google AI 方案咨询",
+          "2": "需要验证时享受优先支持",
+          "3": "带指导的续费提醒",
+          "4": "使用 Google AI 优化工作流的资源",
           "5": "专属客户服务群组"
         }
       },
       "6-months": {
-        "name": "6个月",
-        "description": "适合专业设计系学生的性价比之选",
+        "name": "6 个月",
+        "description": "专业 AI 用户的超值之选",
         "button": "订购 6 个月方案",
         "features": {
           "0": "包含 3 个月方案的所有服务",
-          "1": "激活时提供 1对1 视频通话支持",
-          "2": "定期追踪账号状态",
-          "3": "最新 Figma 政策实时更新",
-          "4": "进阶工作流指南",
-          "5": "精选插件与扩展推荐"
+          "1": "激活时提供 1对1 视频通话指导",
+          "2": "定期监控账号状态",
+          "3": "最新 Google AI 政策更新",
+          "4": "进阶工作流文档",
+          "5": "推荐扩展程序库"
         }
       },
       "12-months": {
-        "name": "12个月",
-        "description": "适合团队与学习小组",
-        "button": "联系购买 12 个月方案",
+        "name": "12 个月",
+        "description": "适合团队与企业",
+        "button": "联系 12 个月方案",
         "features": {
           "0": "包含 6 个月方案的所有服务",
           "1": "多成员账号配置咨询",
-          "2": "安全与权限管理清单",
-          "3": "Figma 突发问题协助处理",
-          "4": "批量续费协调管理",
-          "5": "新成员入职/新手引导文档"
+          "2": "安全与权限分配检查清单",
+          "3": "Google AI 突发问题处理支持",
+          "4": "分批续费协调管理",
+          "5": "新成员入职培训文档"
         }
       }
     }
@@ -297,24 +297,24 @@
   "MockData": {
     "fallbackProducts": {
       "mock-1": {
-        "name": "Figma Education 账号 - 1个月",
-        "description": "Figma Education 1个月方案 — 适合快速体验。付款后通过邮件发送登录信息，并附带登录指南。",
+        "name": "Google AI 账号 - 1 个月",
+        "description": "Google AI 1 个月套餐 — 适合快速体验。付款后通过电子邮件发送登录信息，附带登录指南。",
         "shortDescription": "适合快速体验"
       },
       "mock-2": {
-        "name": "Figma Education 账号 - 3个月",
-        "description": "Figma Education 3个月方案 — 学期大作业热门选择。提供方案咨询与本地支付支持。",
-        "shortDescription": "课程作业推荐方案"
+        "name": "Google AI 账号 - 3 个月",
+        "description": "Google AI 3 个月套餐 — 学期项目的热门选择。提供方案选择咨询及本地支付支持。",
+        "shortDescription": "学期项目热门套餐"
       },
       "mock-3": {
-        "name": "Figma Education 账号 - 6个月",
-        "description": "Figma Education 6个月方案 — 适合设计系学生与UI自由职业者长期使用，更具性价比。",
-        "shortDescription": "高频使用者长期省钱之选"
+        "name": "Google AI 账号 - 6 个月",
+        "description": "Google AI 6 个月套餐 — 适合 AI 及 Gemini 常用用户的长期省钱方案。",
+        "shortDescription": "高频用户的长期省钱方案"
       },
       "mock-4": {
-        "name": "Figma Education 账号 - 12个月",
-        "description": "Figma Education 12个月方案 — 适合项目小组或长期学习，全长学年成本最优。",
-        "shortDescription": "1年期方案，全学年超值之选"
+        "name": "Google AI 账号 - 12 个月",
+        "description": "Google AI 12 个月套餐 — 为项目小组或持续学习者优化全年成本。",
+        "shortDescription": "1 年套餐，优化全学年成本"
       }
     }
   },
@@ -335,7 +335,7 @@
     "info": {
       "title": "订单信息",
       "orderNumber": "订单编号",
-      "orderDate": "下单时间",
+      "orderDate": "下单日期",
       "customer": "客户",
       "email": "电子邮箱"
     },
@@ -347,9 +347,9 @@
     "payment": {
       "title": "支付明细",
       "subtotal": "小计",
-      "discount": "优惠",
-      "total": "合计",
-      "paidAt": "支付时间"
+      "discount": "折扣",
+      "total": "总计",
+      "paidAt": "已支付"
     },
     "notes": {
       "title": "订单备注"
@@ -360,54 +360,54 @@
       "contact": "联系客服"
     },
     "statusLabels": {
-      "order": "订单状态：",
-      "payment": "支付状态："
+      "order": "订单：",
+      "payment": "支付："
     },
     "loginLinkInstructions": {
-      "title": "🔗 账号领取指南（手动流程）",
-      "lead": "请按以下步骤操作以获取账号：",
-      "step1": "在电脑上打开 <b>Figma IDE</b>，退出当前登录账号",
-      "step2": "点击应用内的 <b>\"Sign in\"</b>",
-      "step3": "Figma 将在浏览器中打开如下格式的登录链接：",
-      "linkExample": "https://www.figma.com/loginDeepControl?challenge=xxxxx&uuid=xxxxx&mode=login",
-      "step4": "<b>立即复制该链接</b>并发送给客服",
+      "title": "🔗 获取账号指南（手动）",
+      "lead": "如需获取账号，请按以下步骤操作：",
+      "step1": "在设备上打开 <b>Gemini / Google AI</b>，退出当前账号",
+      "step2": "点击应用中的 <b>\"Sign in\"</b>",
+      "step3": "Google 将在浏览器中打开如下格式的登录链接：",
+      "linkExample": "https://gemini.google.com/loginDeepControl?challenge=xxxxx&uuid=xxxxx&mode=login",
+      "step4": "<b>立即复制此链接</b>发送给店铺",
       "noteTitle": "⚠️ 重要提示：",
-      "note1": "切勿在网页浏览器中点击登录",
-      "note2": "切勿使用已跳转至 authenticator.cursor.sh 的链接",
-      "note3": "只需复制原链接发送给客服即可 ✅",
+      "note1": "请勿在网页浏览器中点击登录",
+      "note2": "请勿提取已重定向至身份验证页面的链接",
+      "note3": "只需复制链接并发送给店铺即可 ✅",
       "videoBtn": "▶️ 视频教程",
       "fbBtn": "📘 Facebook",
       "tgBtn": "✈️ Telegram",
-      "footer": "发送登录链接并附上订单编号 <b>#{orderNumber}</b> 即可获取账号。"
+      "footer": "发送登录链接及订单号 <b>#{orderNumber}</b> 以获取账号。"
     }
   },
   "PrivacyPage": {
     "seo": {
       "title": "隐私政策",
-      "description": "FigmaEdu 客户信息隐私政策。承诺 100% 安全保护个人数据与支付信息。"
+      "description": "TKAIPro 客户信息隐私政策。承诺 100% 安全保护个人数据与支付信息。"
     },
     "hero": {
-      "title": "隐私",
-      "highlight": "政策",
-      "description": "FigmaEdu 承诺采用先进的安全措施保护您的个人信息，并对数据的使用保持完全透明。",
-      "update": "最后更新时间：2026年7月7日"
+      "title": "政策",
+      "highlight": "隐私",
+      "description": "TKAIPro 致力于通过先进的安防措施保护您的个人信息，并在数据使用方面保持完全透明。",
+      "update": "最后更新：2026年7月7日"
     },
     "highlights": {
       "ssl": {
-        "title": "256位 SSL 加密",
-        "desc": "所有传输数据均采用银行级标准加密"
+        "title": "256 位 SSL 加密",
+        "desc": "所有数据均采用银行级标准加密"
       },
       "noCard": {
-        "title": "不存储银行卡信息",
-        "desc": "我们绝不记录或存储您的任何支付卡信息"
+        "title": "不保存卡片信息",
+        "desc": "我们不会存储您的支付信息"
       },
       "transparent": {
         "title": "完全透明",
-        "desc": "明确告知数据的收集与使用方式"
+        "desc": "清晰地展示数据收集与使用方式"
       },
       "rights": {
         "title": "您的权利",
-        "desc": "您拥有查看、修改、删除个人信息的完整权利"
+        "desc": "您有权查看、修改、删除个人信息"
       }
     },
     "sections": {
@@ -415,157 +415,157 @@
         "title": "1. 我们收集的信息",
         "basic": "基本个人信息：",
         "basicItems": {
-          "1": "姓名、电子邮箱、手机号码",
-          "2": "IP 地址、浏览器信息、设备指纹（用于防欺诈）",
-          "3": "交易历史、钱包余额、加密货币交易哈希/参考号"
+          "1": "姓名、电子邮件、电话号码",
+          "2": "IP 地址、浏览器信息、设备指纹（防欺诈）",
+          "3": "交易历史、钱包余额、加密货币参考代码"
         },
         "payment": "支付信息：",
         "paymentItems": {
-          "1": "支付方式（SePay/VietQR、加密货币、电子钱包）",
-          "2": "交易单号（不存储卡号）",
-          "3": "支付状态与交易金额"
+          "1": "支付方式（SePay/VietQR、加密货币、钱包）",
+          "2": "交易代码（不存储卡号）",
+          "3": "支付状态与金额"
         }
       },
       "usage": {
-        "title": "2. 信息的使用方式",
+        "title": "2. 我们如何使用信息",
         "purpose": "使用目的：",
         "purposeItems": {
-          "1": "处理订单并交付 Figma Education 账号",
-          "2": "提供客户支持与解决售后问题",
+          "1": "处理订单并交付 Google AI 账号",
+          "2": "客户支持与问题解决",
           "3": "发送有关订单的重要通知",
-          "4": "改善服务质量与用户体验",
-          "5": "遵守相关法律法规要求"
+          "4": "提升服务质量",
+          "5": "遵守法律法规"
         },
-        "commitment": "我们承诺【绝不出售】个人数据，【绝不用于】定向广告，且【不会故意】收集未满 18 周岁未成年人的数据。"
+        "commitment": "我们不会出售数据，不会用于定向广告，也不会故意收集 18 岁以下未成年人的数据。"
       },
       "security": {
-        "title": "3. 信息安全保障",
-        "measures": "安全防护措施：",
+        "title": "3. 信息安全",
+        "measures": "安全措施：",
         "measuresItems": {
-          "1": "对所有传输数据实施 256位 SSL 加密",
-          "2": "部署防火墙与入侵防御系统",
-          "3": "定期开展安全审计与检查",
-          "4": "严格限制内部人员的数据访问权限",
-          "5": "安全的数据备份机制"
+          "1": "对所有传输的数据使用 256 位 SSL 加密",
+          "2": "防火墙与入侵防御系统",
+          "3": "定期进行安全检查",
+          "4": "限制内部访问权限",
+          "5": "安全的数据备份"
         },
         "paymentSec": "支付安全：",
         "paymentSecItems": {
-          "1": "支付处理支持：SePay/VietQR、加密货币（Binance、Bybit、链上转账）、电子钱包",
-          "2": "不存储任何信用卡/借记卡敏感数据",
-          "3": "整合 Cloudflare Turnstile 人机验证防范 Bot 攻击"
+          "1": "支付处理：SePay/VietQR、加密货币（Binance, Bybit, on-chain）、钱包",
+          "2": "不存储信用卡信息",
+          "3": "Cloudflare Turnstile 防机器人"
         }
       },
       "rights": {
-        "title": "4. 您的个人权利",
-        "desc": "您对自己的个人信息享有充分的控制权：",
+        "title": "4. 您的权利",
+        "desc": "您对自己的个人信息拥有完全的控制权：",
         "items": {
-          "access": "访问权：有权要求查看存储的个人信息",
-          "edit": "更正权：有权更新或修改个人信息",
-          "delete": "删除权：有权要求删除个人信息",
-          "object": "异议权：有权拒绝特定的数据处理行为",
-          "complain": "投诉权：有权举报任何数据安全违规行为"
+          "access": "访问权：要求查看存储的个人信息",
+          "edit": "修改权：更新或修改信息",
+          "delete": "删除权：要求删除个人信息",
+          "object": "反对权：拒绝处理数据",
+          "complain": "投诉权：举报安全违规行为"
         },
         "contact": "如需行使上述权利，请联系："
       },
       "cookies": {
-        "title": "5. Cookie 与追踪技术",
-        "desc": "我们使用 Cookie 以提升您的用户体验：",
+        "title": "5. Cookies 与追踪",
+        "desc": "我们使用 Cookie 来提升用户体验：",
         "items": {
-          "1": "必要 Cookie：用于登录状态、购物车、安全防护及授权偏好保存",
-          "2": "分析型 Cookie（需主动同意）：Microsoft Clarity、Vercel Analytics",
-          "3": "绝不使用任何第三方定向广告 Cookie"
+          "1": "必需的 Cookie：登录、购物车、安全、保存同意选项",
+          "2": "分析类 Cookie（可选）：Microsoft Clarity、Vercel Analytics",
+          "3": "不使用定向广告 Cookie"
         },
-        "note": "您可以在浏览器设置中禁用 Cookie，但这可能导致部分网站功能无法正常使用。"
+        "note": "您可以在浏览器设置中禁用 Cookie，但某些功能可能无法正常运行。"
       },
       "sharing": {
-        "title": "6. 信息共享与披露",
-        "desc": "仅在以下必要情况下，我们才会共享您的信息：",
+        "title": "6. 信息共享",
+        "desc": "我们仅在以下情况下共享信息：",
         "items": {
-          "1": "支付结算：SePay/VietQR、加密货币（Binance、Bybit、链上转账）、电子钱包",
-          "2": "基础设施服务商：Vercel（托管）、Cloudflare Turnstile、Brevo（邮件服务）",
-          "3": "配合执法机关：在收到依法发出的调取请求时",
-          "4": "在取得您明确同意的其他情况下"
+          "1": "支付：SePay/VietQR、加密货币（Binance, Bybit, on-chain）、钱包",
+          "2": "基础设施：Vercel（托管）、Cloudflare Turnstile、Brevo（电子邮件）",
+          "3": "接到法律要求的执法机关",
+          "4": "获得您的明确同意"
         }
       },
       "storage": {
-        "title": "7. 数据存储期限",
+        "title": "7. 数据存储",
         "items": {
-          "1": "账号信息：在您的平台账号有效使用期间持续保存",
-          "2": "订单/交易历史：根据相关税务与会计法规要求保存 5 年",
-          "3": "系统日志与设备指纹：最长保存 12 个月",
-          "4": "营销数据：在您取消订阅后立即删除"
+          "1": "账号信息：在商店账号运营期间持续保存",
+          "2": "订单/交易历史：根据越南税法/会计法保存 5 年",
+          "3": "系统日志与指纹：最多 12 个月",
+          "4": "营销数据：当您取消订阅时删除"
         }
       },
       "minors": {
-        "title": "8. 未成年人隐私保护",
-        "desc": "本服务不面向未满 18 周岁的未成年人。我们不会故意收集未成年人的数据。如果您认为我们误收集了未成年人信息，请立即联系我们予以删除。"
+        "title": "8. 18 岁以下未成年人",
+        "desc": "本服务面向 18 岁及以上用户。我们不会故意收集儿童数据。如果您认为我们收集了 18 岁以下人群的数据，请联系我们要求删除。"
       },
       "international": {
-        "title": "9. 跨境数据传输",
-        "desc": "您的数据可能会在美国及其他国家的服务器上进行处理（包括 Vercel、Brevo、Cloudflare）。使用本服务即表示您同意此类传输。欧盟用户请注意，其他国家的数据保护标准可能与您所在地区有所不同。"
+        "title": "9. 跨国数据传输",
+        "desc": "数据可能会在位于美国及其他国家的服务器（Vercel, Brevo, Cloudflare）上进行处理。使用本服务即表示您同意此传输。欧盟用户请注意，保护级别可能与您所在国家有所不同。"
       },
       "contact": {
-        "title": "10. 联系我们与投诉",
-        "desc": "如果您对本隐私政策有任何疑问或建言，请通过以下方式联系：",
-        "direct": "直接联系方式：",
+        "title": "10. 联系方式与投诉",
+        "desc": "如果您对本隐私政策有任何疑问，请联系：",
+        "direct": "直接联系：",
         "company": "公司信息：",
-        "supportTime": "客服在线时间：24/7 全天候"
+        "supportTime": "支持时间：24/7"
       }
     },
     "cta": {
-      "title": "对隐私与安全仍有疑问？",
-      "description": "我们的安全团队随时准备为您解答任何相关疑问",
+      "title": "有关于安全的问题？",
+      "description": "我们的安全团队随时准备解答您的任何疑问",
       "contact": "立即联系",
       "terms": "查看服务条款"
     }
   },
   "PaymentResult": {
     "title": "订单支付",
-    "orderNumber": "订单号 #{number}",
+    "orderNumber": "订单 #{number}",
     "status": {
       "paid": "已支付",
-      "pending": "待支付"
+      "pending": "等待支付"
     },
     "progress": {
       "info": "订单信息",
-      "payment": "进行支付",
+      "payment": "支付",
       "finish": "完成"
     },
     "transfer": {
       "title": "转账信息",
-      "scan": "扫码进行转账",
+      "scan": "扫描二维码进行转账",
       "generating": "正在生成二维码...",
       "bank": "银行",
-      "accountNumber": "银行账号",
+      "accountNumber": "账号",
       "accountName": "户名",
       "amount": "金额",
-      "content": "转账备注",
-      "contentNote": "⚠️ 请准确填写以下转账备注，以便系统自动确认",
-      "check": "我已完成转账",
-      "checkManual": "手动核验",
-      "checking": "正在核验...",
+      "content": "转账备注/内容",
+      "contentNote": "⚠️ 请准确输入下方的转账备注，以便系统自动确认",
+      "check": "我已转账",
+      "checkManual": "手动检查",
+      "checking": "正在检查...",
       "copy": "已复制 {label}",
-      "autoVerifyTitle": "⏱️ 转账完成后，请等待 5-10 秒",
-      "autoVerifyDesc": "系统将自动核验您的交易。如果 30 秒后未更新，请点击下方的手动核验按钮。"
+      "autoVerifyTitle": "⏱️ 转账成功后，请等待 5-10 秒",
+      "autoVerifyDesc": "系统将自动确认您的交易。如果 30 秒后未更新，请点击下方的手动检查按钮。"
     },
     "summary": {
-      "title": "订单详情",
+      "title": "订单明细",
       "customer": "客户信息",
       "name": "姓名：",
       "email": "邮箱：",
       "products": "商品 ({count})",
-      "total": "总计：",
+      "total": "合计：",
       "successTitle": "支付成功！",
-      "successDesc": "您的账号已发放，并显示在下方。",
-      "redirect": "🔄 将在 {seconds} 秒内自动跳转至订单页面...",
+      "successDesc": "您的账号已开通并在下方显示。",
+      "redirect": "🔄 将在 {seconds} 秒内自动跳转到订单页面...",
       "guestSuccessTitle": "订单已确认！",
       "guestOrderNumber": "订单编号：",
-      "guestEmailNotice": "📧 订单确认邮件和账号信息将发送至 {email}。请检查您的收件箱（包括垃圾邮件箱）。",
-      "guestSaveOrder": "📌 请保存上方的订单编号，以便需要时查询或联系客服。",
+      "guestEmailNotice": "📧 包含账号信息的订单确认邮件已发送至 {email}。请检查您的收件箱（包括垃圾邮件箱）。",
+      "guestSaveOrder": "📌 请保存上方的订单编号，以便查询或在需要时联系支持团队。",
       "guestContactTitle": "需要帮助？立即联系：",
-      "guestRegisterHint": "💡 在网站上注册账号，即可随时轻松管理订单和查看账号信息。",
-      "note": "💡 注意：我们在收到转账后会自动确认订单。",
-      "support": "如有任何问题，请通过联系页面或 FigmaEdu 支持渠道联系客服"
+      "guestRegisterHint": "💡 在网站上注册账号，即可轻松管理订单并随时查看账号信息。",
+      "note": "💡 注意：收到转账后，订单将自动确认。",
+      "support": "如有问题，请通过联系页面或 TKAIPro 支持渠道联系客服"
     },
     "error": {
       "notFound": "未找到订单",
@@ -581,36 +581,36 @@
     },
     "crypto": {
       "selectMethod": "选择支付方式",
-      "scanQrToPay": "扫码进行付款",
-      "scanWithApp": "使用 {app} 应用扫码支付",
-      "provider": "服务商",
+      "scanQrToPay": "扫描二维码发起支付",
+      "scanWithApp": "使用 {app} 应用扫描以支付",
+      "provider": "提供商",
       "payId": "Pay-ID",
       "accountName": "账户名称",
       "asset": "币种",
       "network": "网络",
       "address": "钱包地址",
-      "sendOnlyOn": "仅支持在 {network} 网络发送 {asset}。转错网络资金将永久丢失。",
-      "orderRefNote": "订单参考号（非链上 memo）— 如果交易所要求，请填写在备注/附言栏。",
-      "manualVerifyTitle": "手动核验",
-      "manualVerifyDesc": "发送后，请等待管理员确认，或附带订单号联系客服。",
+      "sendOnlyOn": "请仅在 {network} 网络上发送 {asset}。发错网络将导致资产永久丢失。",
+      "orderRefNote": "订单参考号（非链上 memo）——如果交易所要求，请附加在备注/Note栏中。",
+      "manualVerifyTitle": "手动验证",
+      "manualVerifyDesc": "发送后，请等待几分钟以便管理员确认，或携带订单号联系客服。",
       "zoomQr": "放大 {method} 二维码"
     },
     "loginLinkInstructions": {
-      "title": "🔗 账号获取指南",
-      "lead": "请按以下步骤操作以获取账号：",
-      "step1": "在电脑上打开 <b>Figma IDE</b>，退出当前账号",
-      "step2": "点击应用中的 <b>\"Sign in\"</b>",
-      "step3": "Figma 将在浏览器中打开类似以下格式的登录链接：",
-      "linkExample": "https://www.figma.com/loginDeepControl?challenge=xxxxx&uuid=xxxxx&mode=login",
-      "step4": "<b>立即复制此链接</b>并发送给客服",
-      "noteTitle": "⚠️ 重要提示：",
+      "title": "🔗 接收账号指南",
+      "lead": "要接收账号，请按以下步骤操作：",
+      "step1": "在设备上打开 <b>Gemini / Google AI</b>，退出当前账号",
+      "step2": "在应用中点击 <b>\"Sign in\"</b>",
+      "step3": "Google 将使用如下形式的登录链接打开浏览器：",
+      "linkExample": "https://gemini.google.com/loginDeepControl?challenge=xxxxx&uuid=xxxxx&mode=login",
+      "step4": "<b>立即复制此链接</b>并发送给店铺",
+      "noteTitle": "⚠️ 重要注意事项：",
       "note1": "请勿在网页浏览器中点击登录",
-      "note2": "请勿使用已跳转至 authenticator.cursor.sh 的链接 - 如果已跳转，请从头重新操作 \"Sign in\"",
-      "note3": "只需复制链接发送给客服即可。客服完成登录即告成功 ✅",
+      "note2": "请勿使用已自动跳转到验证器页面的链接 - 如果页面已跳转，请重新从头执行 \"Sign in\" 操作",
+      "note3": "只需复制链接并发送给店铺即可。店铺将登录账号，完成 ✅",
       "videoBtn": "▶️ 观看视频教程",
       "fbBtn": "📘 Facebook",
       "tgBtn": "✈️ Telegram",
-      "footer": "请发送登录链接及订单号 <b>#{orderNumber}</b> 以接收账号。"
+      "footer": "请发送登录链接及订单编号 <b>#{orderNumber}</b> 以接收账号。"
     }
   },
   "HeaderUser": {
@@ -619,23 +619,23 @@
       "wallet": "我的钱包",
       "profile": "个人资料",
       "settings": "设置",
-      "admin": "管理后台",
+      "admin": "管理页面",
       "signOut": "退出登录"
     },
     "toast": {
-      "success": "已成功退出登录",
-      "error": "退出登录时出错"
+      "success": "退出登录成功",
+      "error": "退出登录时发生错误"
     }
   },
   "Header": {
     "home": "首页",
     "intro": "关于我们",
-    "products": "产品列表",
-    "purchasedCustomers": "已购客户",
+    "products": "商品",
+    "purchasedCustomers": "已购买客户",
     "blog": "博客",
-    "affiliate": "推广联盟",
+    "affiliate": "推介计划",
     "contact": "联系我们",
-    "admin": "管理后台",
+    "admin": "管理",
     "signIn": "登录",
     "signUp": "注册",
     "dashboard": "订单",
@@ -644,85 +644,85 @@
     "cart": "购物车",
     "orders": "订单",
     "search": {
-      "placeholder": "搜索产品...",
-      "empty": "未找到相关产品",
+      "placeholder": "搜索商品...",
+      "empty": "未找到任何商品",
       "hint": "搜索"
     },
     "wallet": "我的钱包"
   },
   "Common": {
     "language": "语言",
-    "vietnamese": "Tiếng Việt",
+    "vietnamese": "越南语",
     "english": "English"
   },
   "HomePage": {
-    "heroTitle": "购买 <highlight>Figma Education</highlight> 账号 — <highlight>Figma edu</highlight> 优质平价，快速发货",
-    "heroDescription": "FigmaEdu 是 Figma Education 账号的独立零售商。支付完成后几分钟内即可通过邮箱接收登录信息。提供 1 换 1 质保与 24/7 客户支持。与 Figma, Inc. 无隶属关系。",
+    "heroTitle": "购买 <highlight>Google AI</highlight> 账号 — Pro、Ultra 与 <highlight>Antigravity</highlight>",
+    "heroDescription": "TKAIPro (tkaipro.shop) 是独立分销商：购买 Google AI Pro、Google AI Ultra、Antigravity PRO/ULTRA 账号。支付完成后通过电子邮件接收登录信息。提供 1 比 1 换货质保，24/7 全天候支持。与 Google LLC 无关联。",
     "ctaRegister": "查看价格表",
-    "ctaPricing": "📊 查看价格表",
-    "disclaimer": "FigmaEdu 是一家独立零售商。我们并不代表 Figma, Inc.，不受其所有、赞助或认可。“Figma”和“Figma Education”是 Figma, Inc. 的商标。我们向设计系学生和项目团队分发合法购买的订阅套餐。",
+    "ctaPricing": "查看价格表",
+    "disclaimer": "TKAIPro 是独立第三方分销商（third-party reseller）。我们不代表 Google LLC，也不归其所有、受其赞助或认可。“Google”、“Google AI”、“Gemini”及相关套餐名称均属于 Google LLC 的商标。我们根据每个产品的说明，转售合法购买的账号/订阅服务。",
     "badges": {
-      "warranty": "1换1质保",
-      "support": "24/7 客服支持"
+      "warranty": "1 比 1 换货质保",
+      "support": "24/7 技术支持"
     },
     "customRequest": {
-      "badge": "热门",
-      "title": "提供按需定制/寻号服务",
-      "subtitle": "需要<highlight>网站列表之外的其他 Figma edu 套餐</highlight>？请私信客服，5 分钟内为您寻找并报价。",
+      "badge": "HOT",
+      "title": "按需寻找定制账号",
+      "subtitle": "需要<highlight>网站列表之外的其他 Google AI 套餐</highlight>？私信客服，5 分钟内协助寻找并报价。",
       "cta": "立即联系"
     },
     "productTypes": {
-      "cursor-pro": "Figma Education",
-      "cursor-pro-official-1m": "Figma Edu 1 个月",
-      "github-copilot": "Figma Edu 3 个月",
-      "github-edu": "Figma Edu 6 个月",
-      "figma-pro": "Figma Education",
-      "jetbrains-edu": "Figma Edu 12 个月"
+      "cursor-pro": "Google AI",
+      "cursor-pro-official-1m": "Google AI 1 个月",
+      "github-copilot": "Google AI 3 个月",
+      "github-edu": "Google AI 6 个月",
+      "figma-pro": "Google AI",
+      "jetbrains-edu": "Google AI 12 个月"
     },
     "urgency": {
       "title": "⚡ 限时特惠 - 最高节省 90%",
-      "subtitle": "距离享受此特别优惠仅剩 <bold>3 天</bold>"
+      "subtitle": "仅剩 <bold>3 天</bold> 即可享受此特别优惠"
     },
     "liveDemo": "🔴 实时演示",
-    "featuresTitle": "为什么选择 FigmaEdu 购买 Figma 账号？",
-    "featuresDescription": "服务数万名设计专业学生和 UI 自由职业者的独立零售商。价格实惠、发货迅速、1换1质保。",
+    "featuresTitle": "为什么选择 TKAIPro 购买 Google AI 账号？",
+    "featuresDescription": "tkaipro.shop 独立分销商 — 提供 Google AI Pro、Ultra 和 Antigravity PRO/ULTRA。价格具竞争力，邮件快速交付，1 比 1 换货质保。",
     "features": {
       "transparentConsulting": {
         "title": "透明咨询",
-        "description": "咨询团队将协助您选择合适的 Figma Education 套餐，并透明明晰地完成 Figma edu 账号购买。"
+        "description": "咨询团队协助您选择适合的 Google AI 套餐，并在信息透明的前提下完成 Google AI 账号购买。"
       },
       "reasonableSavings": {
         "title": "合理省钱",
-        "description": "推荐合适的支付方式（VietQR、MoMo、ZaloPay），优化购买 Figma Education 账号的成本。"
+        "description": "推荐合适的支付方式（VietQR、MoMo、ZaloPay），ใน购买 Google AI 账号时优化成本。"
       },
       "support247": {
-        "title": "24/7 支持",
-        "description": "通过 Telegram 提供 24/7 客户支持。快速解答有关 Figma edu 的所有疑问。"
+        "title": "24/7 客户支持",
+        "description": "通过 Telegram 提供 24/7 全天候客户支持。快速解答有关 Google AI 的所有疑问。"
       },
       "longTermCompanion": {
-        "title": "长期陪伴",
-        "description": "提供 Figma 登录指南、相关文档资料以及交割账号后的后续支持。"
+        "title": "长期伴随",
+        "description": "提供 Google AI 登录指南、越南语文档以及交付账号后的后续支持。"
       }
     },
-    "benefitsTitle": "为什么要购买 Figma Education 账号？",
-    "benefitsDescription": "Figma Education — 为设计团队提供实时协作、Dev Mode 以及教育特权组件库与文件",
+    "benefitsTitle": "为什么应该购买 Google AI 账号？",
+    "benefitsDescription": "Google AI — 实时协作、Dev Mode、面向设计团队的组件库与文件访问权限",
     "benefits": {
       "unlimitedCompletion": {
         "title": "无限制实时协作",
-        "description": "与团队在同一 Figma 文件中协同工作、评论和同时编辑 — 完美适合课程项目和 UI 自由职业。"
+        "description": "与团队在同一个 Google AI 文件上协同工作，同时评论与编辑 — 适合项目开发与 Gemini 用户。"
       },
       "fastRequests": {
-        "title": "Dev Mode 与设计交付",
-        "description": "相比免费版，能更快地查看参数、导出资源并与设计团队同步。"
+        "title": "Dev Mode 与交付",
+        "description": "查看参数、导出资源并与设计团队更快速地同步，体验优于免费版。"
       },
       "maxMode": {
-        "title": "教育版组件库与组件",
-        "description": "按 Figma Education 套餐权限使用组件库、组件和原型 — 完全满足日常学习与实战项目需求。"
+        "title": "组件库与 Edu 组件",
+        "description": "根据 Google AI 套餐权限使用组件库、组件和原型 — 满足学习与实际项目需求。"
       }
     },
     "finalCta": {
-      "title": "准备好购买 Figma edu 账号了吗？",
-      "description": "加入数以千计已选择 FigmaEdu 的设计系学生行列。立即查看 Figma Education 账号价格表。",
+      "title": "准备好购买 Google AI 账号了吗？",
+      "description": "在 TKAIPro (tkaipro.shop) 查看 Google AI Pro、Ultra 和 Antigravity 价格表 — 独立分销商，与 Google LLC 无关联。",
       "register": "查看价格表",
       "viewPackages": "查看价格表"
     }
@@ -735,11 +735,11 @@
       "authentic": ""
     },
     "empty": {
-      "title": "暂无证明",
-      "description": "新订单将尽快更新"
+      "title": "暂无相关凭证",
+      "description": "新订单将很快更新"
     },
     "details": {
-      "orderCode": "订单号",
+      "orderCode": "订单编号",
       "customer": "客户",
       "value": "金额",
       "orderDate": "下单日期"
@@ -755,34 +755,34 @@
     }
   },
   "TrustSocialProof": {
-    "badge": "来自客户的真实证明",
-    "titlePart1": "数千名客户的信任",
-    "titlePart2": "并选择我们的服务",
-    "description": "查看成功订单的真实截图证明。所有订单均经过验证，并提供 1 对 1 质保服务。",
+    "badge": "来自真实客户的交易凭证",
+    "titlePart1": "成千上万的客户已选择信任",
+    "titlePart2": "并使用我们的服务",
+    "description": "查看成功订单的真实凭证。所有订单均已验证并享有 1 比 1 换货质保。",
     "stats": {
       "successOrders": "成功订单",
       "avgRating": "平均评分"
     },
-    "cta": "查看所有客户证明",
-    "ctaSub": "点击查看数千笔成功订单和真实客户评价",
+    "cta": "查看所有客户凭证",
+    "ctaSub": "点击查看数千笔成功订单与真实客户评价",
     "empty": {
-      "title": "证明材料即将来袭"
+      "title": "凭证将很快更新"
     },
     "labels": {
       "verified": "已验证",
       "authentic": "100%",
-      "warranty": "1 对 1 质保",
-      "support": "24/7 支持"
+      "warranty": "1 比 1 换货质保",
+      "support": "24/7 全天候支持"
     }
   },
   "FeaturedProducts": {
-    "title": "Figma Education 账号套餐",
-    "subtitle": "购买 Figma edu 账号 — 节省成本 — 1 对 1 质保",
+    "title": "Google AI Pro, Ultra & Antigravity",
+    "subtitle": "购买 Google AI Pro、Ultra、Antigravity PRO/ULTRA 账号 — 1对1质保",
     "cta": "查看所有套餐",
     "toast": "{name} 已添加到购物车"
   },
   "Footer": {
-    "description": "FigmaEdu — 独立的 Figma Education 账号零售商。与 Figma, Inc. 无关联。提供 1 对 1 质保及 24/7 客服支持。",
+    "description": "TKAIPro (tkaipro.shop) — 独立零售商：购买 Google AI Pro、Ultra & Antigravity 账号。与 Google LLC 无关联。提供 1对1质保与 24/7 客服支持。",
     "columns": {
       "products": "产品",
       "company": "公司",
@@ -790,10 +790,10 @@
     },
     "links": {
       "allPackages": "所有套餐",
-      "cursorPro1m": "Figma Education 1 个月",
-      "cursorPro3m": "Figma Education 3 个月",
-      "cursorPro6m": "Figma Education 6 个月",
-      "cursorPro12m": "Figma Education 12 个月",
+      "cursorPro1m": "Google AI 1 个月",
+      "cursorPro3m": "Google AI 3 个月",
+      "cursorPro6m": "Google AI 6 个月",
+      "cursorPro12m": "Google AI 12 个月",
       "about": "关于我们",
       "careers": "招贤纳士",
       "affiliate": "联盟营销",
@@ -803,288 +803,288 @@
       "customers": "客户评价",
       "help": "帮助中心",
       "shipping": "发货与退换",
-      "warranty": "保修条款",
+      "warranty": "质保政策",
       "returnPolicy": "退换货政策",
       "privacy": "隐私政策",
       "terms": "服务条款",
       "disclaimer": "免责声明",
-      "cookies": "Cookie 政策",
+      "cookies": "Cookie 设置",
       "sitemap": "网站地图"
     },
     "copyright": "保留所有权利。",
     "schedule": {
       "title": "服务时间",
       "mainHours": "08:00-23:00（周一至周日）",
-      "fastHours": "快速响应时段：周一至周五 08:00-12:00；13:30-17:00",
-      "telegramPriority": "优先使用 Telegram 获得更快的回复",
-      "emergency": "紧急情况：通过 Telegram/Facebook 提供 24/7 支持"
+      "fastHours": "快速响应时段：周一至周五，08:00-12:00；13:30-17:00",
+      "telegramPriority": "优先使用 Telegram 以获得更快回复",
+      "emergency": "紧急联系：通过 Telegram/Facebook 提供 24/7 支持"
     },
     "legal": {
       "disclaimerTitle": "商标声明",
-      "disclaimerBody": "FigmaEdu 是 Figma Education 账号的第三方独立零售商。我们与 Figma, Inc. 无任何关联、认证或赞助关系。“Figma”和“Figma Education”是 Figma, Inc. 的商标。我们转售合法购买的账号/订阅，旨在为设计系学生和 UI 自由职业者提供便利。如需直接从商标所有者处订阅，请访问 https://www.figma.com。"
+      "disclaimerBody": "TKAIPro 是 Google AI 账号的独立第三方零售商（third-party reseller）。我们与 Google LLC 无关联、未获得其认证或赞助。“Google” 和 “Google AI” 是 Google LLC 的商标。我们转售合法购买的账号/订阅，以便为 AI 用户和越南 Gemini 用户提供便利。如需直接向商标所有者订阅，请访问 https://gemini.google.com。"
     },
     "trustBadges": {
-      "authentic": "信誉经销商"
+      "authentic": "可信代理商"
     }
   },
   "SEO": {
-    "defaultDescription": "FigmaEdu 是 Figma Education 账号的第三方独立零售商。提供优惠价格购买 Figma edu 账号，付款后通过邮箱发送登录信息，提供 1 对 1 质保及 24/7 支持。与 Figma, Inc. 无关联。",
-    "defaultTitle": "高性价比购买 Figma Edu 账号 | FigmaEdu",
-    "slogan": "Figma Education 账号零售商",
-    "keywords": "购买 Figma 账号, Figma edu, Figma Education, Figma edu 账号, 购买 Figma Education, FigmaEdu, figmaedu.shop, 实惠 Figma 账号"
+    "defaultDescription": "在 TKAIPro (tkaipro.shop) 购买 Google AI 账号：Google PRO、Google ULTRA、Antigravity PRO/ULTRA。独立零售商 — 登录信息通过邮箱发送，提供 1对1质保与 24/7 客服支持。与 Google LLC 无关联。",
+    "defaultTitle": "购买 Google AI Pro、Ultra & Antigravity 账号 | TKAIPro",
+    "slogan": "购买 Google AI 账号 — 独立零售商",
+    "keywords": "购买 Google AI 账号, Google PRO, Google ULTRA, Antigravity PRO, Antigravity ULTRA, Google AI 账号, TKAIPro, tkaipro.shop, Google AI Pro, Google AI Ultra"
   },
   "CompetitorComparison": {
-    "title": "Figma Education 与其他工具对比",
-    "description": "为什么众多设计专业学生和 UI 自由职业者选择通过 FigmaEdu 购买 Figma edu 账号，而不是仅使用 Free 版或其他工具。",
+    "title": "Google AI 与其他工具对比",
+    "description": "为什么众多 AI 用户和 Gemini 用户选择通过 TKAIPro 购买 Google AI 账号，而不是仅使用免费版本或其他工具。",
     "tools": {
       "cursor": {
-        "description": "Figma Education — 实时协作与 Dev Mode",
-        "price": "FigmaEdu 优享价",
-        "originalPrice": "Figma Education 按时长订阅套餐"
+        "description": "Google AI — 实时协作与 Dev Mode",
+        "price": "TKAIPro 优惠价",
+        "originalPrice": "按时长订阅 Google AI 套餐"
       },
       "vscode": {
-        "name": "Figma Free",
-        "description": "功能受限的免费版",
+        "name": "Google AI 免费版",
+        "description": "有限制功能的免费版",
         "price": "Free"
       },
       "copilot": {
         "name": "Sketch",
-        "description": "以 macOS 为中心的设计工具",
-        "price": "需单独付费"
+        "description": "以 macOS 为中心的平台设计",
+        "price": "单独付费"
       },
       "codeium": {
         "name": "Adobe XD / Canva",
-        "description": "原型制作与轻量设计",
+        "description": "原型设计与轻量设计",
         "price": "按各厂商套餐付费"
       }
     },
     "features": {
       "header": "功能特性",
       "completion": "实时协作",
-      "chat": "文件评论/标注",
-      "models": "组件与资源库 (Component & Library)",
-      "analysis": "Dev Mode / 开发交付",
-      "editing": "多人同时编辑",
-      "generation": "交互原型 (Interactive Prototype)",
-      "debug": "插件与社区生态",
-      "performance": "课程大作业/项目团队协作",
-      "cost": "通过 FigmaEdu 购买的费用（参考）"
+      "chat": "文件评论",
+      "models": "组件与资源库",
+      "analysis": "Dev Mode / 交付",
+      "editing": "多人在线编辑",
+      "generation": "交互式原型",
+      "debug": "插件与社区",
+      "performance": "团队项目协作",
+      "cost": "通过 TKAIPro 购买费用（仅供参考）"
     },
     "values": {
       "cursor": {
-        "completion": "根据教育版权限无限制",
-        "chat": "完整评论与 @提及 功能",
-        "models": "教育版完整组件库与资源库",
+        "completion": "按教育权限无限制",
+        "chat": "完整的评论与 @提及 功能",
+        "models": "教育版资源库与组件",
         "analysis": "✓ Dev Mode",
-        "editing": "✓ 支持多人同时编辑",
-        "generation": "✓ 高级交互原型",
+        "editing": "✓ 多人同时在线",
+        "generation": "✓ 高级原型设计",
         "debug": "✓ 庞大的生态系统",
-        "performance": "专为学习团队/项目组优化",
-        "cost": "超值月均价"
+        "performance": "专为学习小组优化",
+        "cost": "极具性价比 / 月"
       },
       "vscode": {
-        "completion": "限制文件数/团队人数",
+        "completion": "限制文件/团队数量",
         "chat": "基础功能",
         "models": "受限",
-        "analysis": "✗ / 非常受限",
+        "analysis": "✗ / 极度受限",
         "editing": "限制席位数",
         "generation": "基础原型",
-        "debug": "基础功能",
-        "performance": "仅满足个人基本需求",
-        "cost": "Free（功能受限）"
+        "debug": "基础插件",
+        "performance": "仅满足个人需求",
+        "cost": "Free (有限制)"
       },
       "copilot": {
         "completion": "基于本地文件 / Sketch 云端",
-        "chat": "相比 Figma 限制较多",
+        "chat": "相较 Google AI 受限较多",
         "models": "Symbols / 资源库",
-        "analysis": "独立 Inspect 审查",
-        "editing": "多人实时协作能力较弱",
+        "analysis": "独立 Inspect 功能",
+        "editing": "多人协作功能较弱",
         "generation": "支持基础原型",
-        "debug": "插件数量较少",
-        "performance": "主要适用于 macOS",
-        "cost": "Sketch 订阅付费"
+        "debug": "插件较少",
+        "performance": "主要面向 macOS",
+        "cost": "按 Sketch 价格付费"
       },
       "codeium": {
         "completion": "协作功能视套餐而定",
         "chat": "视具体产品而定",
         "models": "预设模板",
-        "analysis": "开发交付功能受限",
+        "analysis": "交付功能受限",
         "editing": "视套餐而定",
         "generation": "轻量原型 / 营销设计",
-        "debug": "不同的生态系统",
-        "performance": "适合轻量级设计",
-        "cost": "按 Adobe / Canva 套餐"
+        "debug": "非同一生态系统",
+        "performance": "适合轻量设计需求",
+        "cost": "按 Adobe / Canva 价格"
       }
     },
     "cards": {
       "cursor": {
-        "title": "Figma Education 有何亮点？",
+        "title": "Google AI 有何出色之处？",
         "content": [
-          "• UI/UX 项目团队 <bold>实时协作</bold>",
-          "• <bold>Dev Mode</bold> 查看参数与导出标注资源",
-          "• 享有教育版 <bold>组件与资源库 (Component / Library)</bold> 权限",
-          "• 直接在文件内制作页面跳转 <bold>原型 (Prototype)</bold>"
+          "• <bold>实时协作</bold> 适用于 UI/UX 项目小组",
+          "• <bold>Dev Mode</bold> 查看参数与导出资源",
+          "• <bold>组件 / 资源库</bold> 享受教育权限",
+          "• <bold>原型设计</bold> 直接在文件内创建界面流程"
         ]
       },
       "service": {
-        "title": "通过 FigmaEdu 购买的优势",
+        "title": "选择 TKAIPro 的优势",
         "content": [
-          "• <bold>购买 Figma 账号</bold> 支持便捷本地支付（VietQR、电子钱包等）",
-          "• 根据学习 / 自由职业需求 <bold>提供套餐咨询</bold>",
-          "• 24/7 <bold>专业客服支持</bold>",
-          "• <bold>透明公开</bold> — 独立分销商，与 Figma, Inc. 无直接关联"
+          "• <bold>购买 Google AI 账号</bold> 支持本地快捷支付（VietQR、电子钱包）",
+          "• <bold>专业选型建议</bold> 贴合学习 / 自由职业需求",
+          "• <bold>24/7</bold> 越南语客服支持",
+          "• <bold>透明公开</bold> — 独立零售商，与 Google LLC 无关联"
         ]
       },
       "commitment": {
-        "title": "FigmaEdu 服务承诺",
+        "title": "TKAIPro 的服务承诺",
         "content": [
-          "• 24小时内商家原因故障 <bold>1换1质保</bold>",
-          "• 付款后 <bold>账号通过 Email 发送</bold>",
-          "• 24/7 <bold>全天候专业客服</bold>",
-          "• 从零开始的 <bold>完整登录指导</bold>"
+          "• 前 24 小时内店铺原因故障 <bold>1对1 换新质保</bold>",
+          "• 支付完成后 <bold>通过邮箱自动交付登录信息</bold>",
+          "• 提供 <bold>24/7 全天候</bold> 越南语支持",
+          "• <bold>全程登录指导</bold> 从 A 到 Z"
         ]
       }
     },
     "recommended": "推荐选择"
   },
   "SuccessStories": {
-    "title": "已购买 Figma Edu 账号的客户评价",
-    "description": "来自在 FigmaEdu 购买 Figma Education 账号的设计系学生、UI 自由职业者及项目组的真实体验",
+    "title": "已购买 Google AI 账号的客户",
+    "description": "来自在 TKAIPro 购买 Google AI 账号的 AI 用户、Gemini 用户及项目小组的故事",
     "stats": {
-      "developers": "已购买 Figma edu 客户",
-      "speed": "Mockup 完成速度提升",
-      "debug": "减少团队改稿时间",
-      "rating": "平均客户评分"
+      "developers": "已购买 Google AI 的客户",
+      "speed": "Mockup 完成速度",
+      "debug": "减少团队修改时间",
+      "rating": "平均评分"
     },
     "stories": {
       "0": {
-        "role": "平面设计专业学生",
-        "story": "自从在 FigmaEdu 购买了 Figma edu 账号后，我们大作业小组在同一个文件里实时协作非常流畅。评论功能和 Auto Layout 让我们定稿布局的速度远快于免费版。",
+        "role": "平面设计学生",
+        "story": "自从通过 TKAIPro 购买 Google AI 账号后，项目小组在同一个文件上实时协作非常流畅。评论和 Auto Layout 功能比免费版更快敲定布局。",
         "results": [
           "提前 1 周完成大作业",
-          "5人团队顺畅协作",
-          "借助 Dev Mode 实现清晰的开发交付"
+          "5 人团队流畅协作",
+          "使用 Dev Mode 进行清晰的交付"
         ]
       },
       "1": {
-        "role": "UI 自由设计师",
-        "story": "我需要 Figma Education 的原型和资源库功能来服务客户。在 FigmaEdu 购买非常方便，支付后几分钟内就收到了登录 Email，当天就能直接上手工作。",
+        "role": "自由 UI 设计师",
+        "story": "需要 Google AI 来为客户制作原型和组件库。通过 TKAIPro 使用 VietQR 付款非常方便，几分钟内就收到了登录邮件——当天就能立马开工。",
         "results": [
           "Mockup 交付速度提升 40%",
-          "更容易与客户确认原型方案",
-          "大幅节省订阅成本"
+          "更容易与客户敲定原型",
+          "节省订阅费用"
         ]
       },
       "2": {
-        "role": "UX 课题项目组",
-        "story": "之前用免费版受到了席位限制。换成 Figma edu 后，全组能在同一个文件里实时评论和迭代，导师 review 也方便多了。",
+        "role": "UX 项目小组",
+        "story": "之前用免费版受席位限制。切换到 Google AI 后，全组人可以在同一个文件上发表评论和迭代——导师审查也更方便了。",
         "results": [
-          "不再受 Free 版席位限制",
-          "导师直接在文件内反馈指导",
-          "可复用组件资源库"
+          "不再受免费版席位限制",
+          "直接在文件上接收导师反馈",
+          "组件库可重复使用"
         ]
       },
       "3": {
         "role": "UI/UX 专业学生",
-        "story": "第一次在网上买 Figma 账号有点担心，但 FigmaEdu 的交付完全符合描述，客服指导也很清晰。现在学习交付时，我都用 Dev Mode 来查看边距和间距。",
+        "story": "第一次在线购买 Google AI 账号有点顾虑，但 TKAIPro 交付与描述一致，客服支持清晰明白。现在学习交付时用 Dev Mode 查看间距。",
         "results": [
-          "账号登录稳定",
-          "更快掌握 Dev Mode 使用",
-          "客服响应时间低于 5 分钟"
+          "登录稳定",
+          "更快速掌握 Dev Mode",
+          "客服 5 分钟内响应"
         ]
       },
       "4": {
         "role": "自由产品设计师",
-        "story": "我每个月同时跟进 2–3 个项目。Figma Education 帮我保持组件系统整洁；通过 FigmaEdu 购买长期套餐，再也不用担心每月续费的问题了。",
+        "story": "每月同时处理 2–3 个项目需求。Google AI 帮助保持组件系统整洁；通过 TKAIPro 购买长期套餐，省去每月续费的烦恼。",
         "results": [
           "保持设计系统一致性",
-          "按时交付项目任务",
-          "可按季度规划设计预算"
+          "按时交付需求",
+          "按季度预测成本"
         ]
       },
       "5": {
-        "role": "设计大作业组长",
-        "story": "我们在同一个 Figma 文件里分工负责调研、UI 和原型。通过 FigmaEdu 为全组购买了 edu 账号 — 流程规范，大家都能顺利访问主文件。",
+        "role": "设计项目组长",
+        "story": "在同一个 Google AI 文件中分配调研 / UI / 原型角色。通过 TKAIPro 为全组购买教育权限——流程清晰，人人都能访问主文件。",
         "results": [
-          "全组共享单一 Master 文件",
-          "减少文件反复传输",
-          "在大作业答辩前顺利定稿原型"
+          "全组共享 1 个主文件",
+          "减少文件往复传输",
+          "答辩前敲定原型"
         ]
       }
     },
     "cta": {
-      "title": "想要开启您自己的成功故事？",
-      "description": "加入已在 FigmaEdu 购买 Figma edu 账号的设计专业学生与 UI 自由职业者社区。下一个成功故事可能就是你的！",
-      "start": "🚀 查看 Figma Edu 价格表",
-      "follow": "📘 关注 Fanpage"
+      "title": "想要拥有属于您自己的成功故事？",
+      "description": "加入在 TKAIPro 购买 Google AI 账号的 AI 用户与 Gemini 用户社区。下一个成功故事可能就是您的！",
+      "start": "🚀 查看 Google AI 价格表",
+      "follow": "📘 关注 Fanpage 专页"
     },
-    "resultsLabel": "取得的效果："
+    "resultsLabel": "取得的成果："
   },
   "Tutorial": {
-    "title": "Figma Edu 账号购买与使用指南",
-    "description": "从选择套餐 → 支付 → 接收 Email → 登录 Figma，仅需数分钟",
+    "title": "Google AI 账号购买与使用指南",
+    "description": "从选择套餐 → 支付 → 接收邮件 → 几分钟内登录 Google AI",
     "download": {
-      "title": " presentation在网页或客户端打开 Figma",
-      "version": "在 <bold>浏览器</bold> 或桌面客户端（Windows、macOS、Linux）上使用 Figma",
-      "button": "打开 Figma",
-      "note": "⚡ 收到交付 Email 后，登录即可享用 Figma Education 权限"
+      "title": "在网页或应用中打开 Google AI",
+      "version": "在<bold>浏览器</bold>或桌面客户端中使用 Google AI — 支持 Windows, macOS, Linux",
+      "button": "打开 Google AI",
+      "note": "⚡ 收到发货邮件后，登录即可使用 Google AI 权限"
     },
     "steps": {
       "1": {
-        "title": "选择 Figma Education 套餐",
-        "description": "查看价格表并选择适合您需求的 Figma edu 账号套餐",
+        "title": "选择 Google AI 套餐",
+        "description": "查看价格表并选择适合您需求的 Google AI 账号套餐",
         "details": [
-          "访问 figmaedu.shop 的产品页面",
-          "选择合适的套餐时长（1个月、3个月等）",
-          "加入购物车并核对订单信息",
-          "准备好准确的接收 Email 地址"
+          "访问 tkaipro.shop 上的产品页面",
+          "选择合适的套餐时长（1个月、3个月…）",
+          "加入购物车并核对订单",
+          "准备准确的接收邮箱"
         ],
         "duration": "2 分钟",
         "difficulty": "简单"
       },
       "2": {
-        "title": "通过 VietQR / 电子钱包支付",
+        "title": "VietQR / 电子钱包支付",
         "description": "通过 VietQR、MoMo、ZaloPay 或银行转账完成支付",
         "details": [
-          "在结账页面选择支付方式",
-          "扫描 VietQR 或确认电子钱包交易",
-          "保留凭证/交易单号以便核对",
+          "在结账界面选择支付方式",
+          "扫描 VietQR 或确认钱包交易",
+          "保留收据 / 交易单号以便需要时对账",
           "等待系统确认支付成功"
         ],
         "duration": "3 分钟",
         "difficulty": "简单"
       },
       "3": {
-        "title": "接收包含登录信息的 Email",
-        "description": "FigmaEdu 会将登录信息发送至您的 Email — 网站不会直接显示密码",
+        "title": "接收登录发货邮件",
+        "description": "TKAIPro 通过电子邮件发送登录信息 — 网站上不显示密码",
         "details": [
-          "检查收件箱（以及垃圾邮件/垃圾箱）",
-          "打开来自 FigmaEdu 的交付 Email",
-          "妥善保存登录 Email 和密码",
-          "按照 Email 中附带的指南操作"
+          "检查邮箱（包括垃圾邮件箱）",
+          "打开来自 TKAIPro 的发货邮件",
+          "安全保存登录邮箱/密码",
+          "按照邮件中的附带指南操作"
         ],
         "duration": "2 分钟",
         "difficulty": "简单"
       },
       "4": {
-        "title": "登录 Figma",
-        "description": "使用收到的凭据登录并核对 edu 权限",
+        "title": "登录 Google AI",
+        "description": "使用收到的凭据登录并检查教育权限",
         "details": [
-          "打开 figma.com 或 Figma 客户端",
-          "使用收到的 Email/密码登录",
-          "验证账号上的 Figma Education 权限",
+          "打开 gemini.google.com 或 Google AI 应用程序",
+          "使用收到的邮箱/密码登录",
+          "验证账号上的 Google AI 权限",
           "创建测试文件或加入项目团队"
         ],
         "duration": "5 分钟",
         "difficulty": "简单"
       },
       "5": {
-        "title": "开始与团队一起设计",
-        "description": "利用 edu 权限使用 Auto Layout、组件、原型和 Dev Mode",
+        "title": "开始与团队协作设计",
+        "description": "根据教育权限使用 Auto Layout、组件、原型和 Dev Mode",
         "details": [
           "创建 Frame 并应用 Auto Layout",
-          "复用团队组件/资源库 (Component / Library)",
-          "为大作业/项目制作页面跳转原型",
+          "复用团队的组件 / 资源库 (Library)",
+          "为项目制作屏幕流程原型",
           "需要交付参数时开启 Dev Mode"
         ],
         "duration": "15 分钟",
@@ -1093,154 +1093,154 @@
     },
     "tips": {
       "shortcuts": {
-        "title": "Figma 常用实用快捷键",
+        "title": "Google AI 实用快捷键",
         "list": [
           "F: 创建 Frame",
-          "Shift + A: 应用 Auto Layout",
-          "Ctrl/Cmd + Alt + K: 创建 Component",
-          "Shift + E: 开启 Dev Mode（具备权限时）"
+          "Shift + A: Auto Layout",
+          "Ctrl/Cmd + Alt + K: 创建组件",
+          "Shift + E: Dev Mode（获取权限后）"
         ]
       },
       "bestPractices": {
-        "title": "最佳实践 (Best Practices)",
+        "title": "最佳实践",
         "list": [
-          "为 图层/Frame 规范命名，方便团队协作",
+          "为全组清晰命名图层/Frame",
           "使用 Auto Layout 代替手动对齐",
-          "将通用组件拆分提取至资源库",
-          "直接在文件上评论标注，替代分散聊天"
+          "将通用组件抽离到资源库 (Library)",
+          "直接在文件上评论，而非单独聊天"
         ]
       },
       "useCases": {
         "title": "常见使用场景",
         "list": [
-          "UI/UX 大作业团队在同一文件内协作",
-          "在开发前制作 App/Web 交互原型",
-          "为课程打造轻量 Design System",
-          "通过 Dev Mode 为开发人员交付参数标注"
+          "团队在同一个文件上进行 UI/UX 项目",
+          "构建应用/网页前制作原型",
+          "课程的小型设计系统",
+          "为 Dev Mode 成员交付开发参数"
         ]
       }
     },
     "support": {
-      "freeSetup": "为新客户提供 1对1 登录指导服务",
+      "freeSetup": "为新客户提供 1 对 1 登录指导支持",
       "messenger": "💬 Chat Messenger Support",
       "telegram": "📱 Telegram Support"
     }
   },
   "FAQ": {
-    "title": "关于购买 Figma Edu 账号的常见问题",
-    "description": "解答关于 Figma Education 及 FigmaEdu 分销服务的常见疑问。",
+    "title": "关于购买 Google AI 账号的常见问题",
+    "description": "解答关于 Google AI 及 TKAIPro 零售服务的常见问题。",
     "items": {
       "0": {
-        "question": "什么是 Figma edu / Figma Education？",
-        "answer": "Figma Education（常称 Figma edu）是 Figma 为学生及设计学习环境推出的订阅套餐 — 包含实时协作、Dev Mode 以及教育版级别的文件/资源库权限。FigmaEdu 作为独立分销商转售此订阅，与 Figma, Inc. 无任何直接关联。"
+        "question": "什么是 Google AI / Google AI？",
+        "answer": "Google AI（通常称为 Google AI）是面向学生和 Google AI 设计学习环境的订阅包 — 支持实时协作、Dev Mode、遵循教育权限的文件/资源库。TKAIPro 作为独立零售商转售此订阅，与 Google LLC 无关联。"
       },
       "1": {
-        "question": "本商店是 Figma 的官方代表吗？",
-        "answer": "不是。FigmaEdu 是独立第三方分销商（third-party reseller）。我们不代表 Figma, Inc.，未获得其授权或官方背书。套餐权益均取决于 Figma 的条款。"
+        "question": "本商店是 Google 的官方代表吗？",
+        "answer": "不是。TKAIPro 是独立的第三方零售商（third-party reseller）。我们未经 Google LLC 代表、授权或认可。套餐权益取决于 Google 的条款。"
       },
       "2": {
-        "question": "为什么在这里购买 Figma edu 账号更便宜？",
-        "answer": "FigmaEdu 通过整合需求、优化跨境支付费率并分摊运营成本。相比直接按原价订阅，您可以节省大量费用，同时享受专属客服支持及商家原因故障 1换1 质保。"
+        "question": "为什么在这里购买 Google AI 账号更便宜？",
+        "answer": "TKAIPro 整合需求、优化跨境支付费用并共享运营成本。与直接订阅相比，您可以大幅节省费用，并享受中文客服支持以及店家原因故障 1 换 1 质保。"
       },
       "3": {
-        "question": "购买 Figma 账号有质保吗？",
-        "answer": "提供 24 小时内商家原因故障 1换1 质保（如无法登录、缺失 edu 权限等）。凭据（数字商品）交付后概不退款。若因违反 Figma 服务条款导致被封禁/终止账号，则不在质保范围内。支持 24/7 通过 Telegram 咨询。"
+        "question": "购买 Google AI 账号有质保吗？",
+        "answer": "前 24 小时内因店家原因造成的故障（无法登录、缺少教育权限等）提供 1 换 1 质保。发放凭据（数字商品）后不予退款。若因违反 Google 条款导致账号被 Google 暂停/封禁，则不予质保。通过 Telegram 提供 24/7 支持。"
       },
       "4": {
-        "question": "Figma Education 与 Figma Free 版有何区别？",
-        "answer": "Free 版对文件数量、团队规模及部分高级功能有所限制。Figma Education 则扩展了实时协作、Dev Mode、资源库以及适用于学习/大作业的项目权限 — 助力在教育环境下更专业地完成 UI/UX 设计。"
+        "question": "Google AI 与 Google AI 免费版有什么区别？",
+        "answer": "免费版限制文件/团队数量及部分高级功能。Google AI 扩展了协作、Dev Mode、资源库以及适用于学习/大作业的权限——足以在教育环境中更专业地开展 UI/UX 工作。"
       },
       "5": {
-        "question": "购买 Figma 账号如何付款？",
-        "answer": "可以通过 MoMo、ZaloPay、VietQR 或银行转账支付。交易均采用 SSL 加密。一次性付款，不会自动扣费续订。支付信息不予保存，确保安全。"
+        "question": "购买 Google AI 账号如何支付？",
+        "answer": "可通过 MoMo、ZaloPay、VietQR 或银行转账完成支付。交易经 SSL 加密。一次性支付，不会自动续费。支付信息不予存储以确保安全。"
       },
       "6": {
-        "question": "付款后如何接收账号？",
-        "answer": "支付成功后，您将在 1–5 分钟内（工作时间平均 2–3 分钟）收到包含 Figma 登录信息的 Email。网站不会直接显示密码 — 仅通过 Email 发送。"
+        "question": "支付后如何接收账号？",
+        "answer": "支付成功后，您将在约 1–5 分钟内（工作时间平均 2–3 分钟）收到包含 Google AI 登录信息的电子邮件。网站不显示密码 — 仅通过电子邮件发送。"
       },
       "7": {
-        "question": "有 Figma edu 登录指导吗？",
-        "answer": "有的。每个订单均附带详细的登录指南。如遇到问题，我们的客服团队将通过 Telegram/Facebook 为您提供从零开始的全程帮助。"
+        "question": "有 Google AI 登录教程吗？",
+        "answer": "有。每个订单均附带登录说明。如果遇到困难，支持团队将通过 Telegram/Facebook 从头到尾协助您进入 Google AI。"
       }
     },
     "stillHaveQuestions": "仍有疑问？",
-    "contactSupport": "欢迎通过多种渠道与我们联系。我们的客服团队随时为您提供 24/7 服务！",
+    "contactSupport": "通过多种渠道联系我们。支持团队随时准备 24/7 为您提供帮助！",
     "telegram": "立即咨询",
     "messenger": "立即咨询",
-    "fanpage": "Fanpage",
-    "email": "Email",
-    "zaloGroup": "社群",
+    "fanpage": "Fanpage 专页",
+    "email": "电子邮件",
+    "zaloGroup": "社群小组",
     "facebookGroup": "Facebook 社群"
   },
   "Community": {
-    "badge": "交流社区",
-    "title": "加入 Figma 越南交流社区",
-    "description": "与越南的设计专业学生及 UI 自由职业者建立联系，分享 Figma Education 使用经验，获得社区快速支持。",
-    "members": "名成员",
+    "badge": "社群",
+    "title": "加入 Google AI 越南社群",
+    "description": "与越南的 AI 用户和 Gemini 用户建立联系，分享 Google AI 经验并获取社群快速支持。",
+    "members": "成员",
     "facebook": {
       "title": "Facebook 社群",
-      "description": "最大的交流社区，讨论热烈，分享 Figma Education 使用心得。"
+      "description": "最大的社群，讨论热烈并分享 Google AI 使用经验。"
     },
     "zalo": {
       "title": "Zalo 社群",
-      "description": "快速交流，实时技术支持并获取最新的优惠动态。"
+      "description": "快速交流，实时技术支持以及获取最新优惠。"
     },
     "telegram": {
       "title": "Telegram 频道",
-      "description": "获取最新通知、Tips & Tricks 技巧及 Figma Education 学习资料。"
+      "description": "获取关于 Google AI 的通知、技巧秘籍与学习资料。"
     },
     "benefits": {
-      "support": "社区互相协助",
-      "network": "拓展设计师人脉圈",
-      "exclusive": "专属优惠特权"
+      "support": "来自社群的支持",
+      "network": "与越南设计师建立网络联系",
+      "exclusive": "独家优惠"
     }
   },
   "WarningMarquee": {
-    "text": "⚠️ 警告：目前有人冒充 Figma 店铺 Fanpage。请客户仅通过 <contact>店铺联系页面</contact> 或 <products>直接在 FigmaEdu 官网下单购买</products> 进行交易！"
+    "text": "⚠️ 警告：目前有人冒充 Google AI 商店。请客户仅通过<contact>商店联系页面</contact>或<products>直接在 TKAIPro 官网购买</products>进行交易！"
   },
   "Testimonials": {
-    "title": "Figma Edu 账号买家评价",
-    "description": "数千名设计专业学生和 UI 自由职业者信赖并使用 FigmaEdu 的服务",
+    "title": "Google AI 账号买家评价",
+    "description": "数千名 AI 用户和 Gemini 用户信任并使用 TKAIPro 的服务",
     "items": {
       "0": {
-        "text": "客服非常热情，5分钟内就收到了登录邮件。购买 Figma edu 账号的价格比直接订阅更划算，而且使用很稳定。非常满意！",
+        "text": "客服非常热心，5分钟内就收到登录邮箱。购买 Google AI 账号的价格比直接订阅更划算，且使用非常稳定。非常满意！",
         "author": {
-          "name": "Hoàng Văn Nam",
+          "name": "黄文南",
           "handle": "@nam.design"
         }
       },
       "1": {
-        "text": "之前用 Figma Free 团队人数受限。通过 FigmaEdu 换成 Figma Education 后，协同非常顺畅，Auto Layout 和原型制作完全满足毕业设计需求。",
+        "text": "之前使用免费版 Google AI 受到团队限制。通过 TKAIPro 切换到 Google AI 后，协同流畅，自动化与原型功能完全满足项目需求。",
         "author": {
-          "name": "Trần Thanh Tú",
+          "name": "陈清秀",
           "handle": "@tu.uiux"
         }
       },
       "2": {
-        "text": "非常靠谱。购买了长期套餐，按时激活到邮箱。不需要和别人共享——专门用于接自由职业的项目需求。",
+        "text": "信誉很好。已购买长期套餐，准时激活到邮箱。不需要与其他人共享——独立用于自由职业项目。",
         "author": {
-          "name": "Lê Đức Thắng",
-          "handle": "@thang.figma"
+          "name": "黎德胜",
+          "handle": "@thang.ai"
         }
       },
       "3": {
-        "text": "Figma edu 帮我同时高效处理好几个需求。店铺支持越南语沟通，VietQR 支付也很方便。强烈推荐给学设计的朋友。",
+        "text": "Google AI 帮助我同时处理多个项目需求。商店支持越南语客服，VietQR 支付非常方便。强烈推荐给学习 AI 和设计的朋友。",
         "author": {
-          "name": "Phạm Minh Tâm",
+          "name": "范明心",
           "handle": "@tam.product"
         }
       },
       "4": {
-        "text": "刚开始对于网购有点犹豫，但仔细核实后试买了一个月。现在续费了更长期的套餐，性价比更高。给 FigmaEdu 打满分！",
+        "text": "刚开始对于在线购买有点犹豫，但仔细检查后先试买了1个月。现在直接续费更长的时间更划算。给 TKAIPro 打10分满分！",
         "author": {
-          "name": "Nguyễn Quốc Bảo",
+          "name": "阮国宝",
           "handle": "@bao.ux"
         }
       },
       "5": {
-        "text": "我们 5 人小组一起买的。指南清晰，质保明确。给这家售卖 Figma 账号的店铺五星好评。",
+        "text": "我们5人小组一起购买的。说明清晰，质保明确。给这家 Google AI 账号商店打5星好评！",
         "author": {
-          "name": "Vũ Thị Hằng",
+          "name": "武氏恒",
           "handle": "@hang.studio"
         }
       }
@@ -1249,17 +1249,17 @@
   "ProductsPage": {
     "breadcrumbs": {
       "home": "首页",
-      "products": "Figma Edu 账号"
+      "products": "Google AI 账号"
     },
-    "title": "Figma Education 账号",
-    "subtitle": "购买 Figma edu 账号 - 节省成本 - 1对1质保 - 约5分钟邮件发货",
+    "title": "Google AI Pro、Ultra & Antigravity 账号",
+    "subtitle": "在 tkaipro.shop 购买 Google AI Pro、Google Ultra、Antigravity PRO/ULTRA 账号 — 1换1质保 — 快速邮箱发货",
     "allCategories": "全部",
     "newBadge": "New",
     "filterTitle": "按 {name} 筛选",
     "emptyState": {
       "title": "未找到任何商品",
-      "categoryEmpty": "“{category}” 分类下暂无商品",
-      "genericEmpty": "暂无商品 — 请稍后再试或联系客服支持"
+      "categoryEmpty": "“{category}” 分类中暂无商品",
+      "genericEmpty": "目前暂无商品 — 请稍后再试或联系客服支持"
     },
     "pagination": {
       "prev": "上一页",
@@ -1269,9 +1269,9 @@
       "added": "{name} 已成功添加到购物车"
     },
     "search": {
-      "placeholder": "搜索 Figma edu 套餐...",
-      "noResults": "未找到与“{query}”相关的结果",
-      "noResultsHint": "尝试其他关键字或按分类浏览"
+      "placeholder": "搜索 Google AI 套餐...",
+      "noResults": "未找到与 “{query}” 相关的结果",
+      "noResultsHint": "请尝试其他关键词或按分类浏览"
     },
     "sort": {
       "label": "排序",
@@ -1287,9 +1287,9 @@
       "clear": "清除筛选"
     },
     "seo": {
-      "title": "Figma Edu 账号 — 热销套餐",
-      "description": "FigmaEdu 正在销售的 Figma Education 账号套餐列表。价格实惠，邮箱交付登录，提供 1 对 1 质保。",
-      "keywords": "Figma edu 账号, 购买 Figma 账号, Figma Education, Figma edu 套餐, Figma Education 价格表, FigmaEdu"
+      "title": "购买 Google AI Pro、Ultra & Antigravity 账号 | TKAIPro",
+      "description": "tkaipro.shop 上的 Google AI 账号购买价格表：Google PRO、Google ULTRA、Antigravity PRO/ULTRA。独立零售商 — 邮箱发送登录信息，1换1质保。",
+      "keywords": "购买 Google AI 账号, Google PRO, Google ULTRA, Antigravity PRO, Antigravity ULTRA, Google AI 价格表, TKAIPro, tkaipro.shop"
     },
     "breadcrumb": {
       "home": "首页",
@@ -1298,10 +1298,10 @@
   },
   "ProductCard": {
     "popular": "热门",
-    "soldCount": "已售 {count}+",
+    "soldCount": "已售出 {count}+",
     "save": "立省 {amount}₫",
-    "warranty": "1 对 1 质保",
-    "support": "24/7 客服支持",
+    "warranty": "1换1质保",
+    "support": "24/7 技术支持",
     "buyNow": "立即购买",
     "addToCart": "加入购物车",
     "outOfStock": "缺货",
@@ -1309,11 +1309,11 @@
       "added": "{name} 已成功添加到购物车"
     },
     "aria": {
-      "addToWishlist": "添加到心愿单"
+      "addToWishlist": "添加到收藏夹"
     },
     "quickView": {
       "button": "快速预览",
-      "features": "主要特色",
+      "features": "核心功能",
       "viewDetail": "查看完整详情"
     }
   },
@@ -1323,50 +1323,50 @@
     "telegram": "分享到 Telegram",
     "copyLink": "复制链接",
     "copied": "已复制！",
-    "linkCopied": "商品链接已复制",
+    "linkCopied": "已复制商品链接",
     "copyFailed": "无法复制链接",
-    "shareText": "快来 FigmaEdu 查看 {productName}！"
+    "shareText": "立即在 TKAIPro 查看 {productName}！"
   },
   "SocialProofPreview": {
-    "badge": "来自客户的真实见证",
-    "title": "已购买客户",
-    "highlight": "数千笔成功订单",
-    "description": "查看信任并使用我们服务的客户真实订单见证",
+    "badge": "真实客户见证",
+    "title": "已购买的客户",
+    "highlight": "数千个成功订单",
+    "description": "查看信任并使用我们服务的客户的真实订单见证",
     "featured": "精选",
     "empty": "暂无见证",
     "viewAll": "查看所有见证",
     "productTypes": {
-      "cursor-pro": "Figma Education",
-      "cursor-pro-official-1m": "Figma Education 1个月",
+      "cursor-pro": "Google AI",
+      "cursor-pro-official-1m": "Google AI 1个月",
       "github-copilot": "GitHub Copilot",
       "github-edu": "GitHub EDU",
-      "figma-pro": "Figma Pro",
+      "figma-pro": "Google AI Pro",
       "jetbrains-edu": "JetBrains"
     },
     "badges": {
-      "authentic": "正规经销商"
+      "authentic": "诚信分销商"
     },
     "labels": {
-      "authentic": "正规经销商"
+      "authentic": "诚信分销商"
     }
   },
   "SocialProofPage": {
     "seo": {
-      "title": "在 FigmaEdu 购买 Figma Edu 账号的客户见证",
-      "description": "查看在 FigmaEdu 购买 Figma Education 账号的真实客户见证。真实订单——在越南购买靠谱的 Figma edu 账号。",
-      "keywords": "购买 Figma 账号, Figma edu 客户, Figma Education 订单, FigmaEdu, 购买 Figma edu 见证"
+      "title": "客户已在 TKAIPro 购买 Google AI 账号",
+      "description": "查看客户在 TKAIPro 购买 Google AI 账号的见证。真实订单 — 在越南购买可靠的 Google AI 账号。",
+      "keywords": "购买 Google AI 账号, Google AI 客户, Google AI 订单, TKAIPro, 购买 Google AI 见证"
     },
     "hero": {
       "badge": "真实订单见证",
       "title": "客户已购买",
-      "highlight": "Figma Education 账号",
-      "description": "数千名客户在购买 Figma edu 账号时信任 FigmaEdu。查看来自成功订单的真实见证！",
+      "highlight": "Google AI 账号",
+      "description": "数千名客户在购买 Google AI 账号时信任 TKAIPro。查看来自成功订单的真实见证！",
       "stats": {
         "orders": "订单",
-        "cursor": "Figma Edu",
-        "github": "学生账号",
+        "cursor": "Google AI",
+        "github": "TK 学生",
         "reviews": "评价",
-        "figma": "Figma Edu",
+        "figma": "Google AI",
         "delivery": "快速发货"
       }
     },
@@ -1374,75 +1374,75 @@
       "title": "来自客户的真实见证",
       "description": "点击每个见证查看详情并放大图片",
       "badges": {
-        "authentic": "值得信赖的零售商"
+        "authentic": "诚信零售商"
       },
       "labels": {
-        "authentic": "值得信赖的零售商"
+        "authentic": "诚信零售商"
       },
-      "verifiedBadge": "已验证凭证"
+      "verifiedBadge": "验证凭证"
     },
     "trust": {
       "title": "为什么选择我们？",
       "items": {
         "0": {
           "title": "100%",
-          "description": "承诺协助购买透明、符合套餐描述的 Figma Education 账号"
+          "description": "承诺提供透明的 Google AI 账号购买支持，完全符合套餐描述"
         },
         "1": {
-          "title": "Bảo hành 1 đổi 1",
-          "description": "若因商家原因出错立即换新（依据政策）"
+          "title": "1换1质保",
+          "description": "若因本店原因导致故障立即免费换新（根据政策）"
         },
         "2": {
-          "title": "Hỗ trợ 24/7",
+          "title": "24/7 客服支持",
           "description": "热情的支持团队随时准备提供帮助"
         }
       }
     },
     "productTypes": {
-      "figmaEdu": "Figma Education"
+      "figmaEdu": "Google AI"
     },
     "commitment": {
-      "bannerTitle": "🛡️ 100% 真实订单承诺",
-      "bannerSubtitle": "如发现虚假订单，200% 退款",
-      "ssl": "SSL 安全加密",
+      "bannerTitle": "🛡️ 承诺 100% 真实订单",
+      "bannerSubtitle": "如发现虚假订单承诺 200% 退款",
+      "ssl": "SSL 加密",
       "verified": "已验证",
-      "trusted": "卓越信誉"
+      "trusted": "顶尖信誉"
     },
     "whyTrust": {
       "badge": "为什么客户信任我们",
-      "title": "信誉承诺 - 100% 透明",
-      "description": "我们很自豪能成为专门销售 Figma Education 账号的独立零售商，拥有数千名满意的客户。",
+      "title": "诚信承诺 - 100% 透明",
+      "description": "我们很自豪成为专注于 Google AI 账号的独立零售商，拥有数千名满意的客户。",
       "realOrdersTitle": "100% 真实订单",
-      "realOrdersDesc": "所有显示的订单均直接来自支付系统，无任何人为干预。",
-      "dataSecurityTitle": "信息安全",
-      "dataSecurityDesc": "客户信息通过 256 位 SSL 得到绝对保护。客户姓名已部分隐藏以保护隐私。",
+      "realOrdersDesc": "展示的所有订单均直接取自支付系统，无任何人为干预。",
+      "dataSecurityTitle": "数据安全",
+      "dataSecurityDesc": "客户信息通过 256 位 SSL 得到绝对保护。客户姓名将隐藏部分以确保隐私。",
       "instantDeliveryTitle": "即时发货",
-      "instantDeliveryDesc": "支付成功后立即通过电子邮件接收 Figma Education 账号。24/7 支持。",
+      "instantDeliveryDesc": "支付成功后立即通过电子邮件接收 Google AI 账号。24/7 全天候支持。",
       "refundTitle": "200% 退款",
-      "refundDesc": "若发现任何虚假订单，承诺 200% 退款。这是我们的自信。",
-      "quote": "超过 {count}+ 名客户已经在 FigmaEdu 信任并购买了 Figma Education 账号。感谢您的同行！",
+      "refundDesc": "如发现任何虚假订单，承诺 200% 退款。这是我们的信心所在。",
+      "quote": "已有超过 {count}+ 名客户信任并在 TKAIPro 购买了 Google AI 账号。感谢您的同行！",
       "satisfied": "满意的客户"
     },
     "promise": {
       "badge": "我们的承诺"
     },
     "cta": {
-      "title": "🎯 您还在犹豫什么？",
-      "description": "数千名客户已在 FigmaEdu 购买了 Figma Education 账号。轮到您了！",
+      "title": "🎯 您还在等什么？",
+      "description": "数千名客户已在 TKAIPro 购买了 Google AI 账号。轮到您了！",
       "buyNow": "立即购买",
       "contact": "联系客服"
     }
   },
   "BlogPage": {
     "seo": {
-      "title": "Figma Education 博客 — 指南与技巧",
-      "description": "FigmaEdu 博客 — Figma edu 账号购买指南、Auto Layout 技巧、原型制作与团队协作。面向越南设计专业学生的 Figma Education 知识。",
-      "keywords": "blog Figma Education, Figma edu, mua tài khoản Figma, mẹo Figma, hướng dẫn Figma Education, FigmaEdu blog"
+      "title": "Google AI 博客 — 指南与技巧",
+      "description": "TKAIPro 博客 — 购买 Google AI 账号指南、Auto Layout 技巧、原型与团队协作。面向越南 AI 用户的 Google AI 知识。",
+      "keywords": "Google AI 博客, Google AI, 购买 Google AI 账号, Google AI 技巧, Google AI 指南, TKAIPro 博客"
     },
     "hero": {
       "title": "博客",
-      "highlight": "Figma Education",
-      "description": "分享 Figma Education 的使用指南与技巧 — 从购买 Figma edu 账号到 Auto Layout、原型制作与课题组协作。"
+      "highlight": "Google AI",
+      "description": "分享 Google AI 使用指南和技巧 — 从购买 Google AI 账号到 Auto Layout、原型制作和项目团队协作。"
     },
     "categories": {
       "all": "全部",
@@ -1453,52 +1453,52 @@
     "featured": {
       "title": "精选文章",
       "readMore": "阅读文章",
-      "defaultTitle": "Featured Post",
+      "defaultTitle": "精选文章",
       "readTime": "{minutes} 分钟阅读",
-      "author": "Admin"
+      "author": "管理员"
     },
     "posts": {
       "title": "最新文章",
-      "readMore": "继续阅读",
-      "defaultImage": "Blog Image",
-      "empty": "暂无文章。Figma Education 指南即将来袭 — 敬请期待！",
+      "readMore": "阅读更多",
+      "defaultImage": "博客图片",
+      "empty": "暂无文章。Google AI 指南即将上线 — 敬请期待！",
       "loadMore": "加载更多文章"
     },
     "newsletter": {
       "title": "订阅最新资讯",
-      "description": "接收 Figma Education 技巧简报、Figma edu 套餐更新以及订阅者专属教程。",
+      "description": "获取关于 Google AI 技巧、Google AI 套餐更新以及订阅者专属教程的资讯。",
       "placeholder": "your.email@example.com",
       "button": "订阅",
-      "privacy": "我们尊重您的 privacy。可随时 Unsubscribe。"
+      "privacy": "我们尊重您的隐私。您可以随时取消订阅。"
     },
     "cta": {
-      "title": "准备好购买 Figma Edu 账号了吗？",
-      "description": "立即运用博客技巧，开启您的 Figma Education 设计之旅",
-      "buyNow": "立即购买 Figma Edu",
+      "title": "准备好购买 Google AI 账号了吗？",
+      "description": "立即应用博客中的技巧，开始使用 Google AI 进行设计",
+      "buyNow": "立即购买 Google AI",
       "guide": "查看指南"
     }
   },
   "ContactPage": {
     "seo": {
-      "title": "联系购买 Figma Edu 账号 — 24/7 客服支持",
-      "description": "联系 FigmaEdu 购买 Figma Education 账号。通过 Telegram、Facebook 提供 24/7 全天候支持。快速咨询购买 Figma edu 账号。",
-      "keywords": "liên hệ FigmaEdu, mua tài khoản Figma, hỗ trợ Figma edu, Figma Education Việt Nam, figmaedu.shop"
+      "title": "联系购买 Google AI 账号 — TKAIPro 提供 24/7 支持",
+      "description": "联系 TKAIPro (tkaipro.shop) 购买 Google AI Pro、Ultra 或 Antigravity PRO/ULTRA 账号。通过 Telegram、Facebook 提供 24/7 支持。独立零售商。",
+      "keywords": "联系 TKAIPro, 购买 Google AI 账号, Google PRO, Google ULTRA, Antigravity PRO, tkaipro.shop"
     },
     "hero": {
       "badge": "我们随时准备为您提供帮助",
-      "title": "联系",
-      "highlight": "FigmaEdu",
-      "description": "专业的支持团队随时准备为您服务",
-      "subDescription": "立即联系以获得关于购买 Figma Education 账号的免费咨询！",
+      "title": "联系我们",
+      "highlight": "TKAIPro",
+      "description": "专业的支持团队随时为您提供帮助",
+      "subDescription": "立即联系以获得购买 Google AI 账号的免费咨询！",
       "stats": {
-        "response": "5分钟内回复",
+        "response": "5 分钟内响应",
         "customers": "数千客户信赖",
         "support": "24/7 即时支持"
       }
     },
     "methods": {
-      "title": "选择适合您的",
-      "highlight": "联系方式",
+      "title": "选择联系方式",
+      "highlight": "适合您的方式",
       "description": "通过 Facebook 专页或 Telegram 联系我们以获得快速支持",
       "facebook": {
         "title": "Facebook 专页",
@@ -1507,20 +1507,20 @@
       },
       "telegram": {
         "title": "Telegram",
-        "description": "通过 Telegram 联系客服",
+        "description": "通过 Telegram 联系支持",
         "action": "联系 Telegram"
       },
       "available": "24/7"
     },
     "quickBanner": {
-      "title": "💬 最快联系渠道",
+      "title": "💬 最快的联系方式",
       "facebook": "Facebook 专页",
-      "or": "hoặc",
+      "or": "或",
       "telegram": "Telegram",
-      "description": "若想获得即时回复及关于购买 Figma edu 账号的详细咨询，请通过 Facebook 专页或 Telegram 联系。我们承诺在 5 分钟内回复！",
+      "description": "如需即时回复并获取购买 Google AI 账号的详细咨询，请通过 Facebook 专页或 Telegram 联系。我们承诺 5 分钟内回复！",
       "buttons": {
         "facebook": "Facebook 专页",
-        "telegram": "FigmaEdu Telegram"
+        "telegram": "TKAIPro Telegram"
       }
     },
     "info": {
@@ -1529,14 +1529,14 @@
       "note": "💡 注意：我们仅通过 Facebook 专页和 Telegram 两个主要渠道提供支持。请通过其中之一联系以获得最快回复。",
       "company": {
         "title": "店铺信息",
-        "name": "FigmaEdu",
-        "description": "Figma Education 账号独立零售商 — 与 Figma, Inc. 无关联。",
+        "name": "TKAIPro",
+        "description": "Google AI 账号独立零售商 — 与 Google LLC 无关",
         "addressTitle": "地址",
         "address": "越南胡志明市",
         "hoursTitle": "营业时间",
-        "hours": "• 周一至周日：08:00 - 23:00\n• 晚间和周末回复可能较慢\n• 快速回复时段：周一至周五，08:00-12:00；13:30-17:00\n• 午休时间 12:00-13:30 回复可能较慢或延迟至下午\n• 优先发送 Telegram 信息以获得比 Facebook 更快的回复\n• 紧急情况：通过 Telegram/Facebook 24/7 全天候响应",
-        "responseTitle": "回复时间",
-        "response": "• Telegram（优先）：通常更快\n• Facebook 专页：晚间/周末可能较慢"
+        "hours": "• 周一至周日：08:00 - 23:00\n• 晚上和周末响应可能稍慢\n• 快速响应时段：周一至周五，08:00-12:00；13:30-17:00\n• 午休时间 12:00-13:30 响应可能稍慢或延迟至下午\n• 优先使用 Telegram 消息以获得比 Facebook 更快的回复\n• 紧急情况：通过 Telegram/Facebook 提供 24/7 支持",
+        "responseTitle": "响应时间",
+        "response": "• Telegram（优先）：通常更快\n• Facebook 专页：晚上/周末可能较慢"
       },
       "faq": {
         "title": "常见问题",
@@ -1544,15 +1544,15 @@
         "items": {
           "0": {
             "question": "账号可以立即使用吗？",
-            "answer": "可以！支付后您将收到登录邮箱，即可立即登录 Figma。"
+            "answer": "是的！付款后您将收到登录邮箱，并可立即登录 Google AI。"
           },
           "1": {
-            "question": "是否提供登录指导？",
-            "answer": "是的！我们提供全程免费的 Figma edu 账号登录指导。"
+            "question": "提供登录指导支持吗？",
+            "answer": "是的！我们免费提供从 A 到 Z 的 Google AI 登录指导。"
           },
           "2": {
             "question": "支付安全吗？",
-            "answer": "绝对安全，支持多种支付方式：MoMo、银行转账、ZaloPay、VietQR。"
+            "answer": "绝对安全，支持多种方式：MoMo、银行转账、ZaloPay、VietQR。"
           }
         }
       }
@@ -1560,8 +1560,8 @@
     "emergency": {
       "badge": "🚨",
       "title": "需要紧急支持？",
-      "description": "如果 Figma edu 账号遇到故障或需要紧急帮助，请立即通过 Facebook 专页或 Telegram 联系我们！我们 24/7 在线。",
-      "note": "⚡ 紧急情况下 2 分钟内回复"
+      "description": "如果 Google AI 账号遇到问题或需要紧急支持，请立即通过 Facebook 专页或 Telegram 联系！我们 24/7 在线。",
+      "note": "⚡ 紧急情况下 2 分钟内响应"
     },
     "social": {
       "title": "通过以下支持渠道联系我们"
@@ -1576,7 +1576,7 @@
       "message": "您的购物车是空的",
       "count": "您的购物车中有 {count} 件商品",
       "title": "购物车为空",
-      "description": "您尚未将任何商品添加到购物车。",
+      "description": "您尚未添加任何商品到购物车。",
       "viewProducts": "查看商品"
     },
     "item": {
@@ -1586,23 +1586,23 @@
     },
     "summary": {
       "subtotal": "小计",
-      "discountCode": "推广员优惠码",
-      "placeholder": "输入优惠码",
+      "discountCode": "代理/合作方优惠券代码",
+      "placeholder": "输入优惠券代码",
       "apply": "应用",
       "applying": "正在验证...",
       "discount": "折扣",
-      "total": "合计",
-      "checkout": "去结算",
+      "total": "总计",
+      "checkout": "结账",
       "continue": "继续购物",
       "clear": "清空购物车"
     },
     "voucher": {
-      "appliedLabel": "已应用优惠码",
-      "applied": "已成功应用优惠码！",
-      "removed": "已移除优惠码",
+      "appliedLabel": "已应用优惠券",
+      "applied": "优惠券已应用！",
+      "removed": "已移除优惠券",
       "remove": "移除",
-      "invalid": "优惠码无效",
-      "networkError": "网络连接失败，请重试"
+      "invalid": "优惠券代码无效",
+      "networkError": "无法连接，请重试"
     },
     "priceChanged": {
       "title": "商品价格已更新",
@@ -1613,80 +1613,80 @@
     "title": "结账",
     "back": "返回购物",
     "greeting": {
-      "user": "你好，{name}！请完善信息以完成下单",
+      "user": "您好，{name}！请完善信息以完成下单",
       "guest": "请完善信息以完成下单"
     },
     "loginHint": {
-      "text": "以自动填写信息并跟踪订单",
+      "text": "以自动填写信息并追踪订单",
       "link": "登录"
     },
-    "walletBanner": "一次充值钱包 — 多次消费，减少银行转账操作",
+    "walletBanner": "充值一次钱包 — 多次购买，减少银行转账",
     "loginRequired": {
-      "title": "请先登录后再进行支付",
-      "desc": "使用钱包支付，只需转账一次即可多次购物"
+      "title": "请登录后结账",
+      "desc": "通过钱包支付让您转账一次，多次购买"
     },
     "steps": {
       "info": "订单信息",
-      "payment": "支付",
+      "payment": "支付方式",
       "finish": "完成"
     },
     "form": {
       "customerInfo": "客户信息",
       "name": "姓名",
       "email": "电子邮箱",
-      "phone": "手机号码",
+      "phone": "电话号码",
       "note": "订单备注",
-      "notePlaceholder": "订单备注（选填）",
-      "autoFill": "✓ 已从您的账户自动填充"
+      "notePlaceholder": "订单备注（可选）",
+      "autoFill": "✓ 已从您的账号自动填写"
     },
     "payment": {
       "title": "支付方式",
       "bankTransfer": "银行转账",
-      "bankTransferDesc": "扫码支付 - 自动确认",
-      "wallet": "钱包余额支付",
-      "walletDesc": "直接从钱包扣款 — 订单立即处理，无需扫描二维码。",
+      "bankTransferDesc": "通过二维码支付 - 自动确认",
+      "wallet": "使用钱包余额支付",
+      "walletDesc": "直接从钱包扣款 — 订单立即处理，无需扫码。",
       "walletBalance": "余额",
       "recommended": "推荐",
       "shortfall": "还差 {amount}",
-      "topupCta": "充值 {amount} 以进行支付",
+      "topupCta": "充值 {amount} 以完成支付",
       "walletInsufficientHint": "余额不足 — 请充值",
-      "walletInsufficient": "钱包余额不足以支付此订单",
-      "walletLoginHint": "以便使用钱包余额快速支付（无需逐笔转账）。",
+      "walletInsufficient": "余额不足以支付此订单",
+      "walletLoginHint": "以便通过钱包余额快速支付（无需每笔单逐一转账）。",
       "payWithWalletBtn": "立即使用钱包支付"
     },
     "summary": {
-      "title": "订单明细（{count} 件商品）",
+      "title": "订单（{count} 件商品）",
       "subtotal": "小计",
       "processingFee": "手续费",
       "free": "免费",
       "voucher": "优惠券（{code}）",
-      "total": "合计",
+      "total": "总计",
       "submit": "立即下单",
-      "submitting": "处理中...",
-      "termsHint": "下单前请勾选上方所有必选确认框。"
+      "submitting": "正在处理...",
+      "termsHint": "下单前您必须勾选上方的所有确认框。"
     },
     "consent": {
-      "title": "必要确认",
+      "title": "必填确认",
       "over18": "我已年满 18 岁。",
       "termsPrivacy": "我同意<terms>服务条款</terms>和<privacy>隐私政策</privacy>。",
-      "reseller": "我已知晓 FigmaEdu 为独立分销商，与 Figma, Inc. 无附属关系。",
-      "cursorTos": "我同意遵守 Figma 条款（<link>www.figma.com/legal</link>）。"
+      "reseller": "我了解 TKAIPro 是独立零售商，与 Google LLC 无关联",
+      "cursorTos": "我同意遵守 Google AI 条款（<link>www.gemini.google.com/legal</link>）。"
     },
     "toast": {
       "cartEmpty": "购物车为空，请选择商品",
       "missingInfo": "请输入姓名和电子邮箱",
-      "missingConsent": "请勾选所有必选确认框",
-      "missingUpgradeInfo": "请输入需要升级的完整账户信息",
+      "missingConsent": "请勾选所有必填确认框",
+      "missingUpgradeInfo": "请输入需要升级的账号完整信息",
       "success": "订单创建成功！",
       "error": "发生错误，请重试"
     },
     "upgradeInfo": {
-      "title": "需升级的账户信息",
-      "description": "请输入您需要升级的账户邮箱和密码。此信息仅用于升级您的账户。",
-      "email": "账户邮箱",
-      "emailPlaceholder": "输入需要升级的账户邮箱",
-      "password": "账户密码",
-      "passwordPlaceholder": "输入账户密码",
+      "title": "需要升级的账号信息",
+      "description": "请输入您想要升级的账号邮箱和密码。此信息仅用于升级您的账号。",
+      "email": "账号邮箱",
+      "emailPlaceholder": "输入需要升级的账号邮箱",
+      "password": "账号密码",
+      "passwordPlaceholder": "输入账号密码",
       "contactInfo": "Telegram / Facebook",
       "contactPlaceholder": "输入 Telegram 用户名或 Facebook 链接以便联系"
     }
@@ -1694,67 +1694,67 @@
   "CookiesPage": {
     "seo": {
       "title": "Cookie 政策",
-      "description": "FigmaEdu 的 Cookie 政策。了解我们如何使用 Cookie 来提升用户体验并保护个人信息。",
-      "keywords": "FigmaEdu Cookie 政策, Cookie 政策, 信息安全"
+      "description": "TKAIPro 的 Cookie 政策。了解我们如何使用 Cookie 来改善用户体验并保护个人信息。",
+      "keywords": "TKAIPro Cookie 政策, Cookie 政策, 信息安全"
     },
     "hero": {
-      "title": "政策",
-      "highlight": "Cookie",
-      "description": "透明地了解 FigmaEdu 如何使用 Cookie 来提升您的体验并保护您的个人信息。",
+      "title": "Cookie",
+      "highlight": "政策",
+      "description": "了解 TKAIPro 如何透明地使用 Cookie 来改善您的体验并保护您的个人信息。",
       "update": "更新日期：2025年1月15日"
     },
     "definition": {
       "title": "什么是 Cookie？",
-      "description": "Cookie 是您访问网站时存储在设备上的小文本文件。它们帮助网站记录有关您的访问信息，使下一次访问更加便捷。",
+      "description": "Cookie 是您访问网站时存储在您设备上的小文件。它们帮助网站记住您访问的信息，使您下一次访问更加便利。",
       "whyTitle": "我们为什么使用 Cookie？",
       "reasons": {
-        "1": "确保网站正常运行和安全",
-        "2": "记住您的登录状态和购物车内容",
-        "3": "提高页面加载速度与性能",
+        "1": "确保网站正常且安全地运行",
+        "2": "记住您的登录状态和购物车",
+        "3": "提高网站性能和页面加载速度",
         "4": "了解您如何使用网站以优化体验",
-        "5": "提供相关的个性化内容和广告"
+        "5": "提供相关的内容和广告"
       },
-      "commitment": "承诺：我们绝不会在 Cookie 中存储密码、信用卡信息等敏感数据。"
+      "commitment": "承诺：我们绝不在 Cookie 中存储密码、信用卡信息等敏感信息。"
     },
     "types": {
       "title": "我们使用的 Cookie 类型",
-      "description": "清晰了解每类 Cookie 及其具体用途",
+      "description": "清楚了解每种 Cookie 及其使用目的",
       "purpose": "目的：",
       "examples": "示例：",
-      "canDisable": "可禁用：",
+      "canDisable": "是否可禁用：",
       "yes": "✅ 是",
       "no": "❌ 否",
       "settings": "设置",
       "items": {
         "essential": {
           "title": "必要 Cookie",
-          "description": "网站基本运行所必需",
+          "description": "基础运行所必需",
           "purpose": "确保网站正常运行"
         },
         "analytics": {
           "title": "分析 Cookie",
           "description": "收集网站使用数据",
-          "purpose": "了解用户与网站的互动方式"
+          "purpose": "了解用户如何与网站互动"
         },
         "marketing": {
           "title": "营销 Cookie",
-          "description": "用于精准投放相关广告",
+          "description": "用于投放相关广告",
           "purpose": "追踪广告效果"
         },
         "functional": {
-          "title": "功能性 Cookie",
-          "description": "记住您的偏好设置",
+          "title": "功能 Cookie",
+          "description": "记住您的偏好",
           "purpose": "保存语言和界面设置"
         }
       }
     },
     "details": {
       "title": "Cookie 详情",
-      "description": "本网站使用的完整 Cookie 列表",
+      "description": "网站上使用的完整 Cookie 列表",
       "headers": {
         "name": "Cookie 名称",
         "provider": "提供商",
-        "purpose": "用途",
+        "purpose": "目的",
         "duration": "有效期",
         "type": "类型"
       }
@@ -1766,8 +1766,8 @@
       "options": "可用选项",
       "warning": "警告",
       "warningItems": {
-        "1": "禁用必要 Cookie 可能会影响网站功能的正常使用",
-        "2": "个人偏好设置将无法保存",
+        "1": "禁用必要 Cookie 可能会影响网站功能",
+        "2": "个人偏好设置将不会被保存",
         "3": "您可能需要重新登录"
       },
       "buttons": {
@@ -1786,7 +1786,7 @@
     },
     "cta": {
       "title": "有疑问？",
-      "description": "我们的团队随时准备为您解答有关数据处理的任何疑问。",
+      "description": "我们的团队随时解答关于我们如何处理您数据的疑问。",
       "contact": "立即联系",
       "privacy": "隐私政策"
     }
@@ -1794,217 +1794,217 @@
   "TermsPage": {
     "seo": {
       "title": "条款与条件",
-      "description": "FigmaEdu (figmaedu.shop) 的条款与条件。设置、升级、激活的技术支持服务 — 非 Figma, Inc. 的代理商或分销商。保修、付款及责任限制。",
-      "keywords": "FigmaEdu 条款, 条款与条件, Figma Education, figmaedu.shop"
+      "description": "TKAIPro (tkaipro.shop) 的条款与条件。用于设置、升级、激活的技术支持服务 — 非 Google LLC 的代理商或分销商。保修、付款和责任限制。",
+      "keywords": "TKAIPro 条款, 条款与条件, Google AI, tkaipro.shop"
     },
     "hero": {
       "title": "条款与",
       "highlight": "条件",
-      "description": "在使用 FigmaEdu 之前，请仔细阅读本条款。访问本网站、下单或支付任何服务费用，即表示您确认已阅读、理解并同意受以下条款约束。",
+      "description": "在使用 TKAIPro 之前，请仔细阅读本条款。通过访问本网站、下单或支付任何服务，即表示您确认已阅读、理解并同意受以下条款约束。",
       "effective": "生效日期：2026年7月11日（版本 2026-07-11）"
     },
     "highlights": {
       "transparent": {
         "title": "透明",
-        "desc": "技术支持范围清晰明确"
+        "desc": "明确的技术支持范围"
       },
       "fair": {
         "title": "公平",
-        "desc": "保障双方合法权益"
+        "desc": "保障双方权益"
       },
       "flexible": {
-        "title": "保修明确",
-        "desc": "若因商家原因出错，24小时内1换1"
+        "title": "清晰保修",
+        "desc": "若是商家错误，24小时内1换1"
       },
       "updated": {
-        "title": "实时更新",
-        "desc": "符合当前运营实际"
+        "title": "更新",
+        "desc": "契合当前运营模式"
       }
     },
     "sections": {
       "1": {
         "title": "1. 服务范围",
-        "intro": "FigmaEdu (figmaedu.shop) 提供客户支持服务，协助根据客户的具体要求进行与软件、账户或数字服务相关的设置、升级、激活、配置或处理技术需求。",
+        "intro": "TKAIPro (tkaipro.shop) 根据客户的具体要求，提供有关软件、账号或数字服务的设置、升级、激活、配置或技术需求处理的客户支持服务。",
         "items": [
-          "“FigmaEdu”或“我们”：指独立的技术支持服务商 — 除非该品牌所有者有明确的书面通知，否则并非 Figma, Inc.、Figma 或任何其他品牌的代理商、分销商、授权单位、代表机构或官方合作伙伴。",
-          "“客户”或“您”：指请求并使用我们支持服务的人员。",
-          "“服务”：指已公布范围内的设置、升级、激活、配置指导、付款协助（如适用）及交付后售后维护等活动。",
-          "“账户 / 访问权限”：指在我们根据要求完成协助后交付的与 Figma（或所述产品）相关的登录信息或访问权限。",
-          "“网站”：指 figmaedu.shop 网站及其二级域名。"
+          "“TKAIPro”或“我们”：独立的的技术支持服务提供商 — 非 Google LLC、Google AI 或任何其他品牌的代理商、分销商、授权单位、代表机构或官方合作伙伴，除非该品牌所有者出具明确的书面通知。",
+          "“客户”或“您”：要求并使用我们支持服务的人员。",
+          "“服务”：在已公布范围内进行的设置、升级、激活、配置指导、付款协助（如适用）以及交付后跟进支持活动。",
+          "“账号 / 访问权限”：在我们按要求完成支持后交付的与 Google AI（或所描述产品）相关的登录信息或访问权限。",
+          "“网站”：tkaipro.shop 网站及其子域名。"
         ],
-        "trademarkNote": "本网站提及的所有品牌名称、标志、软件名称或产品名称，仅用于说明兼容性、技术支持需求或客户要求的服务内容。所有商标均归其各自所有者所有。"
+        "trademarkNote": "网站上提及的任何品牌名称、商标、软件名称或产品名称仅用于描述兼容性、技术支持需求或客户所要求的服务内容。所有商标均为其各自所有者的财产。"
       },
       "2": {
         "title": "2. 接受条款",
-        "content": "通过访问本网站、注册、提交支持请求、下单、付款（SePay/VietQR、加密货币、钱包余额或其他已公布的付款方式）或使用我们提供的任何服务，即表示您确认已阅读、理解并同意遵守本条款及隐私政策。",
-        "note": "注意：如果您不同意本条款中的任何内容，请立即停止使用本服务，切勿下单或付款。",
-        "paymentMeans": "完成付款即视为您确认支持请求合法，所提供的信息属于您的合法使用权，并同意提供我们执行服务所需的信息。"
+        "content": "通过访问本网站、注册、提交支持请求、下单、付款（SePay/VietQR、加密货币、钱包余额或其他已公布的支付方式）或使用我们提供的任何服务，即表示您确认已阅读、理解并同意遵守本条款及隐私政策。",
+        "note": "注意：如果您不同意任何条款，请立即停止使用服务，且不要下单或付款。",
+        "paymentMeans": "付款行为将被理解为您确认支持请求符合法律规定，所提供的信息属于您的合法使用权，并且您同意提供我们执行服务所需的必要信息。"
       },
       "3": {
-        "title": "3. 本质服务与第三方因素",
+        "title": "3. 服务性质与第三方因素",
         "package": "支持服务可能包括（但不限于）：",
         "packageItems": [
-          "协助账户设置或软件配置",
-          "协助服务套餐、功能或配置升级",
-          "根据客户合规需求协助激活软件、账户或数字服务",
-          "在我们技术能力范围内协助安装、配置、测试或提供使用指导",
-          "协助处理我们已为您执行的服务在使用过程中产生的相关问题"
+          "协助设置账号或配置软件",
+          "协助升级服务套餐、功能或配置",
+          "根据客户的合法需求，协助激活软件、账号或数字服务",
+          "在我们技术能力范围内协助安装、配置、测试或使用指导",
+          "协助处理客户在使用我们已执行的服务过程中产生的相关问题"
         ],
         "commitment": "重要澄清：",
         "commitmentItems": [
-          "我们仅执行符合法律、平台/软件提供商条款以及 FigmaEdu 服务政策的请求。",
-          "如果请求有违法、侵犯知识产权、欺诈、滥用或影响第三方合法权益的迹象，我们有权拒绝提供服务。",
-          "我们并非 Figma, Inc. 的代理商或分销商；产品名称仅具描述性质。",
-          "在已公布的保修范围内，发生与付款或激活相关的错误时，我们将协助处理。"
+          "我们仅执行符合法律规定、平台/软件提供商条款以及 TKAIPro 服务政策的要求。",
+          "如果要求有违法、侵犯知识产权、欺诈、滥用或影响第三方合法权益的迹象，我们有权拒绝提供服务。",
+          "我们不是 Google LLC 的代理商或分销商；产品名称仅具描述性质。",
+          "在已公布的保修范围内，出现与付款或激活相关的错误时，我们将共同协助处理。"
         ],
-        "note": "注意：FigmaEdu 是一项独立的技术支持服务，不属于 Figma, Inc.。Figma 产品的所有知识产权和最终解释权均归 Figma, Inc. 所有。",
-        "durationTitle": "使用期限、支持期限及不可控因素",
-        "durationIntro": "每项服务可能具有不同的使用期限、支持期限或其他条件。客户在付款前需仔细阅读说明。维持服务的能力可能会受到超出我们控制范围的因素影响，包括：",
+        "note": "注意：TKAIPro 是独立的技术支持服务，不属于 Google LLC。Google AI 产品的所有知识产权和最终解释权均属于 Google LLC",
+        "durationTitle": "使用期限、支持与不可控因素",
+        "durationIntro": "每项服务可能具有不同的使用期限、支持期限或其他条件。客户应在付款前仔细阅读说明。维持服务的能力可能会受到我们控制范围之外因素的影响，包括：",
         "durationItems": [
-          "软件开发商、平台或原始服务提供商（包括 Figma, Inc.）的政策",
-          "第三方使用条款、激活政策、账户政策或安全政策的变更",
+          "软件开发商、平台或原始服务提供商（包括 Google LLC）的政策",
+          "第三方的使用条款、激活政策、账号政策或安全政策的变化",
           "第三方停止提供、更改、限制或撤销功能",
-          "来自 third-party 的系统错误、技术变更或其他客观原因",
+          "来自第三方的系统错误、技术变更或其他客观原因",
           "法律规定的不可抗力情况"
         ],
-        "durationNote": "我们将尝试在合理范围内提供协助，但如果原因超出我们的控制范围，我们不保证能完全恢复功能、访问权限或服务状态。",
-        "cursorTitle": "Figma 条款",
+        "durationNote": "我们将尽力在合理范围内提供支持，但如果原因超出我们的控制范围，我们不承诺完全恢复功能、访问权限或服务状态。",
+        "cursorTitle": "Google 条款",
         "cursorItems": [
-          "您必须遵守 Figma 条款 (www.figma.com/legal) 和隐私政策 (www.figma.com/legal)。",
-          "我们无法控制 Figma, Inc. 的价格、功能、在线时间 (uptime) 或封禁账户的决定。",
-          "任何优惠/推荐权益（如有）均取决于 Figma, Inc. 的政策，并可能随时变更或被撤销。"
+          "您必须遵守 Google AI 条款 (www.gemini.google.com/legal) 和隐私政策 (www.gemini.google.com/legal)。",
+          "我们无法控制 Google LLC 的价格、功能、正常运行时间 (uptime) 或封号决定。",
+          "所有促销/推荐权益（如有）均取决于 Google LLC 的政策，并可能被更改或撤销。"
         ]
       },
       "4": {
-        "title": "4. 账户信息、安全与交付后责任",
-        "intro": "客户有责任确保提供的信息准确、合法且属于其合法使用权。在服务完成/交付后，账户（或访问权限）即为客户的资产，客户须自行确保其安全。",
+        "title": "4. 账号信息、安全与交付后责任",
+        "intro": "客户有责任确保所提供的信息准确、合法且属于其合法使用权。服务完成/交付后，账号（或访问权限）即为客户的资产，客户须自行予以保密。",
         "items": [
-          "如果建议或适用，请在收到凭据后立即更改电子邮件、密码、2FA（双重认证）和恢复邮箱。",
-          "请将登录信息、激活码和配置数据妥善保存在安全位置；切勿共享给未经授权的人员。",
-          "主动保护账户和设备，防止出现丢失访问权限、信息泄露或被第三方未经授权使用的风险。",
-          "出于安全原因，交付完成后我们可能不会存储或无法重新提供某些信息 — 客户需自行保存。",
-          "使用一段时间后，因忘记账户信息、忘记密码、忘记登录凭据或丢失 2FA 而无法访问的情况，我们概不提供支持。",
-          "严禁垃圾邮件 (spam)、逆向工程或违反越南/国际法律的行为。",
-          "违规行为可能导致服务被立即终止，且不予退款。",
-          "您需对所收到账户下发生的一切活动承担全责。"
+          "收到凭据后，如建议或适用，请立即更改电子邮件、密码、2FA 和恢复邮箱。",
+          "自行妥善保存登录信息、激活码和配置数据于安全地点；切勿与未授权人员共享。",
+          "主动保护账号和设备，防止丢失访问权限、泄露信息或被第三方未经授权使用的风险。",
+          "出于安全原因，交付后我们可能不会保留或无法重新提供某些信息 — 客户须自行留存。",
+          "对于因客户遗忘账号信息、遗忘密码、遗忘登录凭据或丢失 2FA 而导致在使用一段时间后无法访问的情况，我们概不提供协助。",
+          "严禁发送垃圾信息 (spam)、逆向工程 (reverse engineer) 或违反越南/国际法律。",
+          "违反规定可能导致服务被立即终止且不予退款。",
+          "您须对已接收账号发生的一切活动承担全部责任。"
         ]
       },
       "5": {
         "title": "5. 下单与付款",
         "order": "下单：",
         "orderItems": [
-          "选择与所需 Figma 期限对应的支持服务套餐",
-          "添加到购物车并结账",
-          "准确填写联系信息和 Figma 账户（如有）",
+          "选择与所需 Google AI 期限相对应的支持服务套餐",
+          "加入购物车并结账",
+          "准确填写联系信息和 Google AI 账号（如有）",
           "选择合适的付款方式",
           "确认支持请求并完成服务订购"
         ],
         "payment": "付款：",
         "paymentItems": [
           "SePay / VietQR（银行转账）、加密货币（Binance、Bybit、链上）及钱包余额（如有）",
-          "客户需在协助服务开始前 100% 支付服务费用",
+          "客户须在我们开始提供支持前全额（100%）支付服务费用",
           "收据将通过电子邮件或订单管理系统发送",
-          "服务费已明确列出，不包含 Figma 发行商的相关税费"
+          "服务费已清晰列出，且不包含发行商 Google 的税费"
         ],
-        "time": "处理时间：对于常规订单，我们在付款成功后通常会在 1–5 分钟内开始提供协助。"
+        "time": "处理时间：对于常规工单，我们通常会在付款成功后的 1–5 分钟内开始提供支持。"
       },
       "6": {
-        "title": "6. 保修、退换货与退款",
-        "noRefundNote": "凭据交付 / 账户激活成功（数字商品）后不予退款，除非因我们自身原因导致无法履行服务，或通过官方支持渠道另行达成书面协议。",
-        "replacement": "1换1保修（商家原因导致的错误，前24小时内）：",
+        "title": "6. 保修、退换与退款",
+        "noRefundNote": "凭据交付/账号激活（数字商品）后概不退款，除非因我们自身原因无法履行服务，或通过官方支持渠道达成了单独的书面协议。",
+        "replacement": "1换1保修（商家错误，前24小时）：",
         "replacementItems": [
-          "收到凭据后无法立即登录（商家原因）",
-          "登录后前24小时内缺少 Education 功能（商家原因）",
-          "使用期限与购买的套餐不符（商家原因）"
+          "收到凭据后无法立即登录（商家错误）",
+          "登录后前24小时内缺少 Education 功能（商家错误）",
+          "使用期限与所购套餐不符（商家错误）"
         ],
         "warranty": "保修支持：",
         "warrantyItems": [
-          "在已公布的套餐范围内提供技术支持",
-          "确认 24 小时内因商家原因导致的交付错误后进行核查与 1 换 1",
-          "在 24 小时内回复合规的保修请求"
+          "在套餐已公布范围内提供技术支持",
+          "确认属于商家发货错误后，在24小时内予以核查并1换1",
+          "在24小时内对合规保修请求作出回复"
         ],
-        "exclusion": "在以下情况下不予保修 / 不予退款 / 不提供额外支持：",
+        "exclusion": "出现以下情况不予保修 / 不予退款 / 不提供额外支持：",
         "exclusionItems": [
-          "凭据已交付且账户已成功激活",
-          "使用一段时间后忘记密码、丢失 2FA、忘记登录凭据或失去访问权限",
-          "客户在交付后自行更改配置、邮箱、密码、个人资料或安全设置",
-          "Figma, Inc. 根据其服务条款或政策暂停/终止账户",
-          "误用或违反 Figma 条款",
-          "未经授权共享账户、转售或进行商业开发",
+          "凭据已交付且账号激活成功",
+          "在使用一段时间后遗忘密码、丢失 2FA、遗忘登录信息或失去访问权限",
+          "交付后客户自行更改配置、邮箱、密码、个人资料或安全设置",
+          "Google LLC 根据其服务条款或政策暂停/封禁 (suspend/terminate) 账号",
+          "不当使用或违反 Google 条款",
+          "未经授权共享账号、转售或进行商业转让",
           "购买后改变主意",
-          "因客户设备、网络、恶意软件导致的错误或超出服务范围的因素",
-          "来自 Figma, Inc. 的服务器宕机、维护或政策变更"
+          "因客户设备、网络、恶意软件造成的错误或超出服务范围的因素",
+          "Google LLC 服务器宕机、维护或政策变更"
         ]
       },
       "7": {
         "title": "7. 客户义务",
         "commit": "您承诺：",
         "commitItems": [
-          "遵守越南法律及相关规定",
-          "提供准确、完整的联系信息和账户信息",
-          "交付后立即更改安全信息并自行保管凭据",
-          "将账户用于合法的个人用途并遵守 Figma 条款",
-          "配合提供完成协助所需的必要信息"
+          "遵守越南法律及相关法律法规",
+          "提供准确、完整的联系信息和账号信息",
+          "交付后立即更改安全信息并自行妥善保管凭据",
+          "将账号用于合法的个人用途，并遵守 Google 条款",
+          "合作提供完成支持所需的必要信息"
         ],
         "forbid": "您不得：",
         "forbidItems": [
-          "要求执行违法、越权访问、破解、破译或违反第三方条款的行为",
-          "将服务用于欺诈、侵犯知识产权或损害第三方利益",
-          "未经授权倒卖、共享或转让，从而影响 FigmaEdu、其他客户或第三方",
+          "要求执行违法行为、越权访问、破解、解密或违反第三方条款",
+          "利用服务进行欺诈、侵犯知识产权或损害第三方利益",
+          "未经授权进行转售、共享或转让，从而影响 TKAIPro、其他客户或第三方",
           "提供虚假信息或不属于您合法使用权的信息",
-          "发送垃圾邮件、滥用请求限制、创建多个账户以套取优惠，或使用非法付款方式",
-          "使用账户开发违反适用条款的竞争性产品"
+          "发送垃圾信息、滥用请求限制、创建多个账号利用优惠，或使用非法支付方式",
+          "违反适用条款利用账号开发竞争性产品"
         ]
       },
       "8": {
         "title": "8. 我们的义务与责任限制",
         "commit": "我们承诺：",
         "commitItems": [
-          "透明公布支持服务范围及相关费用",
-          "在承诺的时间内提供支持（常规订单通常在付款后 1–5 分钟内）",
-          "在已公布的保修/支持期限内全程提供技术协助",
-          "根据隐私政策保护客户信息",
+          "透明化支持服务范围及相关费用",
+          "按承诺时间提供支持（常规工单通常在付款后 1–5 分钟）",
+          "在已公布的保修/支持范围内提供技术陪伴",
+          "根据隐私政策保护客户信息安全",
           "遵守已公布的保修与退款政策"
         ],
         "limit": "责任限制：",
         "limitItems": [
-          "无法干预 Figma, Inc. 的政策、功能、在线时间或账户决定",
-          "不保证 Figma 服务的 100% 连续性",
-          "对于因客户误用、第三方政策变更、客户侧安全漏洞（丢失密码/2FA）或不可抗力导致的间接、偶然、衍生损失、数据丢失、收入损失、利润损失、业务中断或访问权限丢失，概不承担责任",
-          "针对某项具体服务，如果由我们直接原因导致且无法修复，最大责任金额不超过客户为该特定服务支付的金额"
+          "无法干涉 Google LLC 的政策、功能、正常运行时间或账号决定",
+          "不保证 Google AI 服务的 100% 连续性",
+          "对于因客户不当使用、第三方政策变更、客户方安全漏洞（丢失密码/2FA）或不可抗力导致的间接、附带、派生损害、数据丢失、收入损失、利润损失、业务中断或访问权限丢失，我们概不承担责任",
+          "对于特定服务，如果确有直接来自我们且无法修复的错误，最大赔偿责任不超过客户为该特定服务所支付的金额"
         ]
       },
       "9": {
         "title": "9. 知识产权与商标",
         "items": [
-          "网站内容（由我们编纂的文本、布局、界面、图像、指导文档）属于 FigmaEdu 的所有权或合法使用权。",
-          "Figma 和 Figma Education 是 Figma, Inc. 的商标。其他名称/标志归其各自所有者所有。",
-          "提及这些商标并不意味着我们获得了这些品牌的赞助、认可、授权、分销或官方代表身份。",
-          "未经 FigmaEdu 或合法所有者的书面同意，客户不得未经授权复制、修改、分销或利用本网站内容。"
+          "网站内容（由我们编写的文本、布局、界面、图片、教程文档）归 TKAIPro 所有或拥有合法使用权。",
+          "Google 和 Google AI 是 Google LLC 的商标。其他名称/标识归其各自所有者所有。",
+          "提及这些品牌并不意味我们获得这些品牌的赞助、认可、授权、分销或官方代表资格。",
+          "未经 TKAIPro 或合法所有者的书面同意，客户不得未经授权复制、修改、分发或利用本网站内容。"
         ]
       },
       "10": {
-        "title": "10. 中止或终止服务",
-        "intro": "如果发生以下情况，我们有权暂停或终止提供服务：",
+        "title": "10. 暂停或终止服务",
+        "intro": "出现以下情况，我们有权暂停或终止提供服务：",
         "items": [
           "客户违反本条款",
-          "客户有欺诈、滥用、骚扰或影响系统/其他客户的行为",
-          "客户要求的服务内容有违法迹象或侵犯第三方权利",
-          "客户未提供完成服务所需的充分信息",
-          "继续提供服务可能会给 FigmaEdu、其他客户或第三方带来法律、技术或安全风险"
+          "客户存在欺诈、滥用、骚扰或影响系统/其他客户的行为",
+          "客户要求的服务内容有违法迹象或侵犯第三方权益",
+          "客户未提供履行服务所需的充分信息",
+          "继续提供服务可能给 TKAIPro、其他客户或第三方带来法律、技术或安全风险"
         ],
-        "note": "如果因客户违规行为导致中止或终止服务，我们有权拒绝退款并拒绝继续提供协助。"
+        "note": "若因客户违约而导致暂停或终止服务，我们有权拒绝退款并拒绝继续提供支持。"
       },
       "11": {
         "title": "11. 条款变更",
-        "content": "我们有权随时更新、修改或变更本条款，以符合商业模式、法律法规、第三方政策或运营需求。",
+        "content": "我们有权随时更新、修改或变更本条款，以适应商业模式、法律法规、第三方政策或运营需求。",
         "reasonItems": [
           "业务与服务变更",
           "新的法律要求",
           "第三方政策变更",
-          "提升客户体验"
+          "改善客户体验"
         ],
-        "note": "更新版本将在 figmaedu.shop 上公布，并自发布之日起生效，除非另有说明。更新后继续使用服务即表示接受变更。重大变更也可能在结账时通过 TERMS_VERSION 呈现。"
+        "note": "更新后的版本将在 tkaipro.shop 上公布，除另有通知外，自发布之日起生效。更新后继续使用服务即视为接受变更。重要变更也可能在结账时通过 TERMS_VERSION 体现。"
       },
       "12": {
         "title": "12. 争议解决",
@@ -2012,21 +2012,21 @@
         "processItems": [
           "通过 Messenger、Telegram 或电子邮件直接联系",
           "在 24 小时内沟通并寻找解决方案",
-          "如未能达成一致，提交至管理层处理",
-          "最终根据越南法律在胡志明市有管辖权的机构解决"
+          "若无法达成一致，提交至管理层",
+          "最终依据越南法律由胡志明市有管辖权的机构解决"
         ],
-        "law": "适用法律：本条款受越南法律管辖。所有争议均应在胡志明市有管辖权的法院解决。"
+        "law": "适用法律：本条款受越南法律管辖。任何争议均应由胡志明市有管辖权的人民法院解决。"
       },
       "13": {
         "title": "13. 联系方式",
-        "brand": "FigmaEdu",
+        "brand": "TKAIPro",
         "support": "支持时间",
         "time": "支持：24/7",
-        "resp": "回复：5分钟内（常规班次）",
-        "web": "网站：figmaedu.shop",
-        "email": "电子邮件：support@figmaedu.shop",
-        "messenger": "Messenger：figmaedu.shop/contact",
-        "telegram": "Telegram：figmaedu.shop/contact"
+        "resp": "回复：5分钟内（常规工单）",
+        "web": "Website: tkaipro.shop",
+        "email": "Email: support@tkaipro.shop",
+        "messenger": "Messenger: tkaipro.shop/contact",
+        "telegram": "Telegram: tkaipro.shop/contact"
       }
     },
     "legalSafety": {
@@ -2034,35 +2034,35 @@
       "highlight": "购买并使用本服务，即表示您确认已阅读、理解并同意以下规定。",
       "prohibitedTitle": "严禁以下行为：",
       "prohibited": [
-        "严禁将提供的账户、电子邮件及所有资源用于非法目的。",
-        "网络诈骗、欺诈、侵占财产、洗钱或资助非法活动。",
-        "发送垃圾邮件 (spam)、传播恶意软件、钓鱼攻击、网络攻击或未经授权访问系统。",
-        "冒充他人、伪造身份或伪造文件资料。",
+        "严禁将所提供的账号、电子邮件及所有资源用于非法目的。",
+        "诈骗、欺诈、侵占财产、洗钱或资助非法活动。",
+        "发送垃圾邮件 (spam)、散布恶意软件、网络钓鱼 (phishing)、网络攻击或未经授权访问系统。",
+        "冒充他人、伪造身份或伪造文件、资料。",
         "侵犯知识产权或传播法律明令禁止的内容。",
-        "任何违反客户居住国法律及越南法律的行为。"
+        "在客户居住国法律及越南法律下构成的任何违法行为。"
       ],
       "disclaimerTitle": "免责声明：",
       "disclaimer": [
-        "账户/访问权限按“按现状”(as-is) 和“按现有”(as-available) 形式提供；除在已公布支持范围内进行常规合法使用外，我们不保证其适用于任何特定目的。",
-        "对于滥用资源产生的任何行为，我们概不承担责任。",
-        "交付后，客户对该账户发生的所有活动承担全部法律责任。",
-        "客户有义务了解并遵守其居住国的法律；遵守法律的责任由客户承担。",
-        "我们对任何索赔承担的最大责任仅限于相关订单的金额。"
+        "账号/访问权限按“现状”(as-is) 和“现有”(as-available) 形式提供；除在已公布支持范围内的正常合法使用目的外，我们不保证其适用于任何特定目的。",
+        "对于任何滥用或误用资源的行为，我们概不承担责任。",
+        "交付后，客户须对账号发生的一切活动承担全部法律责任。",
+        "客户有义务自行了解并遵守其居住国的法律；遵守法律的责任完全归于客户。",
+        "我们对所有索赔的最大责任仅限于相关订单的金额。"
       ],
       "indemnityTitle": "赔偿与使用条件：",
       "indemnity": [
-        "客户同意赔偿、保护并使 FigmaEdu 免受因客户违反条款或滥用服务而产生的任何索赔、损失、费用（包括法律费用）的损害。",
-        "客户确认使用服务时已年满 18 周岁且具备完全民事行为能力。",
-        "如果发现有将服务用于非法目的的迹象，我们有权立即拒绝或终止服务（不予退款）。",
-        "当执法机关提出合法要求时，我们将依法配合提供相关信息。",
-        "总体责任上限仅限于您为相关订单支付的金额。"
+        "客户同意赔偿、保护并使 TKAIPro 免受因客户违反条款或不当使用而引起的任何索赔、损失、费用（包括法律费用）。",
+        "客户确认在使用服务时已满 18 周岁且具备完全民事行为能力。",
+        "如果发现有用于非法目的的迹象，我们有权立即拒绝或终止服务（不予退款）。",
+        "当收到主管机关的合法要求时，我们将依法合作提供相关信息。",
+        "整体责任仅限于您为相关订单所支付的金额。"
       ]
     },
     "cta": {
-      "title": "已完全理解条款？",
-      "description": "在权利与责任明确的前提下，开始使用来自 FigmaEdu 的 Figma 支持服务",
+      "title": "已充分理解条款？",
+      "description": "从 TKAIPro 开始使用 Google AI 支持服务，享有明确的权利与责任",
       "buy": "立即购买 - 我同意",
-      "contact": "常见问题解答"
+      "contact": "疑问解答"
     }
   },
   "ProductDetail": {
@@ -2083,12 +2083,12 @@
     "status": {
       "inStock": "有货",
       "outOfStock": "缺货",
-      "available": "现有 {count} 个可用账号"
+      "available": "{count} 个可用账号"
     },
     "actions": {
       "addToCart": "加入购物车",
       "buyNow": "立即购买",
-      "adding": "添加中…",
+      "adding": "正在添加…",
       "added": "{name} 已成功加入购物车"
     },
     "item": {
@@ -2096,7 +2096,7 @@
       "increase": "增加数量"
     },
     "sections": {
-      "description": "详细描述",
+      "description": "详细说明",
       "features": "核心功能",
       "specs": "技术参数",
       "reviews": "商品评价"
@@ -2108,14 +2108,14 @@
     "quantity": "数量",
     "reviews": "条评价",
     "soldCount": "已售 {count}+",
-    "save": "立省 {amount}",
+    "save": "省 {amount}",
     "noDescription": "暂无该商品的详细描述。",
     "trust": {
-      "warranty": "售后质保",
-      "warrantyDesc": "终身 1 换 1",
+      "warranty": "质保服务",
+      "warrantyDesc": "终身 1 换 1 质保",
       "delivery": "自动发货",
       "deliveryDesc": "5分钟内自动交付",
-      "support": "技术支持",
+      "support": "客户支持",
       "supportDesc": "24/7 全天候"
     },
     "relatedProducts": {
@@ -2125,19 +2125,19 @@
     },
     "restockAlert": {
       "title": "到货通知",
-      "description": "输入您的电子邮箱，商品补货后我们将第一时间通知您。",
+      "description": "请输入您的电子邮件，补货后我们将第一时间通知您。",
       "emailLabel": "电子邮箱",
       "emailPlaceholder": "email@example.com",
-      "submit": "订阅到货通知",
-      "submitting": "提交中…",
-      "success": "订阅成功！商品到货后我们将发送邮件通知您。",
+      "submit": "订阅通知",
+      "submitting": "正在订阅…",
+      "success": "订阅成功！商品补货后我们将通过邮件通知您。",
       "error": "订阅失败，请重试。",
-      "alreadyInStock": "该商品目前现货供应。",
+      "alreadyInStock": "该商品目前有货。",
       "rateLimited": "请求过于频繁，请稍后再试。"
     }
   },
   "ProductReviews": {
-    "title": "用户评价 ({count})",
+    "title": "客户评价 ({count})",
     "writeReview": {
       "title": "撰写评价",
       "description": "分享您对该商品的使用体验",
@@ -2146,51 +2146,51 @@
       "yourRating": "您的评分",
       "quickTags": "快捷标签",
       "commentLabel": "评价内容",
-      "placeholder": "商品非常棒...",
+      "placeholder": "商品非常优秀...",
       "submit": "提交评价",
-      "submitting": "提交中..."
+      "submitting": "正在提交..."
     },
     "list": {
       "empty": "暂无评价。",
-      "loading": "加载评价中...",
+      "loading": "正在加载评价...",
       "adminReply": "商家回复："
     },
     "toast": {
-      "loginRequired": "请先登录后再评价",
-      "success": "您的评价已成功提交！",
+      "loginRequired": "请登录后再进行评价",
+      "success": "评价提交成功！",
       "error": "发生错误"
     },
     "tags": {
-      "quality": "正品保障，质量很好。",
-      "support": "客服响应迅速，态度很好。",
-      "reliable": "靠谱稳定发货快，大家放心购买。",
+      "quality": "商品质量达标。",
+      "support": "客服支持非常热情。",
+      "reliable": "信誉好、处理快，大家可以放心购买使用。",
       "professional": "店铺非常专业。",
-      "fast": "发货迅速，账号好用。",
-      "recommend": "会长期回购。"
+      "fast": "发货迅速，账号非常稳定好用。",
+      "recommend": "会长期支持本店。"
     }
   },
   "CookiesPageV2": {
     "types": {
       "items": {
         "analytics": {
-          "title": "分析 Cookie",
-          "description": "收集网站使用数据",
+          "title": "分析 Cookies",
+          "description": "收集网站的使用数据",
           "purpose": "了解用户与网站的互动方式"
         },
         "marketing": {
-          "title": "营销 Cookie",
+          "title": "营销 Cookies",
           "description": "个性化广告与内容",
           "purpose": "展示符合您兴趣的内容"
         },
         "functional": {
-          "title": "功能 Cookie",
-          "description": "储存您的偏好设置",
+          "title": "功能性 Cookies",
+          "description": "保存偏好与设置",
           "purpose": "记住您的个人设置与偏好"
         }
       }
     },
     "details": {
-      "title": "Cookie 详情",
+      "title": "Cookie 详细信息",
       "description": "本网站使用的完整 Cookie 列表",
       "headers": {
         "name": "Cookie 名称",
@@ -2201,161 +2201,161 @@
       }
     },
     "manage": {
-      "title": "Cookie 管理",
-      "description": "您可以自主控制我们在网站上对 Cookie 的使用：",
+      "title": "管理 Cookies",
+      "description": "您有权管理在本网站上的 Cookie 使用：",
       "browser": "通过浏览器设置：",
-      "options": "可用选项：",
+      "options": "可选设置：",
       "warning": "⚠️ 重要提示：",
       "warningItems": {
-        "1": "• 禁用 Cookie 可能会影响网站浏览体验",
-        "2": "• 部分功能可能无法正常使用",
-        "3": "• 禁用 Cookie 后您可能需要重新登录"
+        "1": "• 禁用 Cookie 可能会影响网站的使用体验",
+        "2": "• 部分功能可能无法正常运行",
+        "3": "• 禁用 Cookie 后您需要重新登录"
       },
       "buttons": {
         "settings": "设置 Cookie 偏好",
-        "view": "查看当前 Cookie"
+        "view": "查看当前 Cookies"
       }
     },
     "thirdParty": {
-      "title": "第三方 Cookie",
-      "description": "我们的网站可能包含第三方内容（如 YouTube 视频、地图、社交媒体插件），这些第三方可能会设置其自有的 Cookie。"
+      "title": "第三方 Cookies",
+      "description": "我们的网站可能包含第三方内容（如 YouTube 视频、地图、社交媒体小工具），这些第三方可能会自行设置 Cookie。"
     },
     "contact": {
-      "title": "更新与联系方式",
+      "title": "更新与联系",
       "changes": "政策变更：",
       "info": "Cookie 相关咨询："
     },
     "cta": {
       "title": "对 Cookie 有疑问？",
       "description": "我们的隐私与安全团队随时为您解答",
-      "contact": "联系客服 Support",
+      "contact": "联系技术支持",
       "privacy": "查看隐私政策"
     }
   },
   "Auth": {
     "signIn": {
       "title": "登录",
-      "subtitle": "输入电子邮箱和密码以登录",
+      "subtitle": "请输入电子邮箱和密码以登录",
       "emailLabel": "电子邮箱",
       "emailPlaceholder": "email@example.com",
       "passwordLabel": "密码",
       "passwordPlaceholder": "请输入密码",
       "forgotPassword": "忘记密码？",
       "submit": "登录",
-      "submitting": "登录中...",
+      "submitting": "正在登录...",
       "orContinueWith": "或通过以下方式继续",
       "noAccount": "还没有账号？",
       "signUpLink": "立即注册"
     },
     "banner": {
-      "title": "FigmaEdu",
-      "slogan": "优质超值 Figma Education 账号服务",
-      "imageAlt": "FigmaEdu - 购买 Figma Education 账号"
+      "title": "TKAIPro",
+      "slogan": "超值购买 Google AI 账号",
+      "imageAlt": "TKAIPro - 购买 Google AI 账号"
     },
     "signUp": {
       "title": "创建账号",
-      "subtitle": "填写信息以创建您的账号",
+      "subtitle": "请输入您的信息以创建账号",
       "nameLabel": "姓名",
       "namePlaceholder": "张三",
       "emailLabel": "电子邮箱",
       "emailPlaceholder": "email@example.com",
       "passwordLabel": "密码",
       "passwordPlaceholder": "请输入强密码",
-      "passwordHint": "密码长度至少需要 8 个字符",
-      "over18Label": "我确认已年满 18 周岁。",
-      "over18Required": "您必须确认已年满 18 周岁才能注册。",
+      "passwordHint": "密码长度至少需 8 个字符",
+      "over18Label": "我确认已满 18 岁。",
+      "over18Required": "您必须确认已满 18 岁方可注册。",
       "submit": "创建账号",
-      "submitting": "账号创建中...",
+      "submitting": "正在创建账号...",
       "hasAccount": "已有账号？",
       "signInLink": "登录"
     },
     "errors": {
-      "invalidEmailOrPassword": "账号或密码错误！",
-      "invalidPassword": "密码不正确，请重试。",
+      "invalidEmailOrPassword": "账号或密码不正确！",
+      "invalidPassword": "密码错误，请重试。",
       "userNotFound": "账号不存在，请先注册。",
       "accountNotVerified": "账号尚未验证，请检查您的电子邮箱。",
       "accountDisabled": "账号已被禁用，请联系客服。",
       "tooManyAttempts": "尝试次数过多，请稍后再试。",
       "networkError": "网络连接错误，请重试。",
       "serverError": "服务器错误，请稍后再试。",
-      "defaultSignIn": "登录失败，请检查您的邮箱和密码。",
+      "defaultSignIn": "登录失败，请检查电子邮箱和密码。",
       "defaultSignUp": "注册失败，请重试或联系客服。",
-      "userAlreadyExists": "该邮箱已被注册，请使用其他邮箱或直接登录。",
-      "weakPassword": "密码强度太低，请设置更强密码。",
-      "passwordTooShort": "密码太短，请输入至少 8 个字符。",
-      "invalidEmail": "电子邮箱格式不正确，请检查。",
+      "userAlreadyExists": "该电子邮箱已被注册，请使用其他邮箱或直接登录。",
+      "weakPassword": "密码强度过低，请设置更强的密码。",
+      "passwordTooShort": "密码过短，请至少输入 8 个字符。",
+      "invalidEmail": "电子邮箱格式不正确，请重新检查。",
       "social": {
-        "github": "使用 GitHub 登录失败",
-        "google": "使用 Google 登录失败"
+        "github": "通过 GitHub 登录失败",
+        "google": "通过 Google 登录失败"
       }
     },
     "success": {
       "signIn": "登录成功！欢迎回来。",
-      "signUp": "注册成功！欢迎加入 FigmaEdu。"
+      "signUp": "注册成功！欢迎来到 TKAIPro。"
     }
   },
   "LiveOrderToast": {
-    "badge": "最新购买",
+    "badge": "刚刚购买",
     "verified": "已验证",
-    "justPurchased": "刚刚成功购买了"
+    "justPurchased": "刚刚成功购买"
   },
   "InteractiveCodeDemo": {
-    "badge": "互动 Demo",
-    "title": "Wait，在 Figma 上体验设计",
-    "subtitle": "对比手动排版与在 Figma Education 上使用 Auto Layout 及组件的工作流——更高效，团队同步更轻松！",
+    "badge": "体验 Demo",
+    "title": "体验 Google AI / Antigravity",
+    "subtitle": "对比手动布局与在 Google AI 上使用自动布局（Auto Layout）和组件的工作流 — 更快且团队同步更高效！",
     "playDemo": "运行 Demo",
     "reset": "重置",
     "withoutAI": "手动对齐",
-    "withCursorPro": "使用 Figma Education",
+    "withCursorPro": "使用 Google AI",
     "timeSaved": "节省的时间",
-    "feature1Title": "智能 Auto Layout",
-    "feature1Desc": "一次设置约束，Frame 随内容自动扩展——大幅减少手动微调",
-    "feature2Title": "快速构建 Mockup",
+    "feature1Title": "智能自动布局",
+    "feature1Desc": "一次性设置约束，Frame 随内容自动扩展 — 减少手动调整",
+    "feature2Title": "Mockup 制作速度",
     "feature2Desc": "复用组件，几分钟内即可搭建界面，无需耗费数小时",
-    "feature3Title": "清晰的高保真 Prototype",
-    "feature3Desc": "清晰连接页面流程，轻松向导师或客户演示"
+    "feature3Title": "简洁原型",
+    "feature3Desc": "清晰连接页面流程，方便向导师或客户演示"
   },
   "ChatWidget": {
-    "title": "AI 客服支持",
-    "open": "打开支持聊天",
+    "title": "AI 客服",
+    "open": "打开客服对话",
     "close": "关闭",
     "minimize": "最小化",
     "expand": "展开",
-    "placeholder": "输入消息...",
+    "placeholder": "请输入消息...",
     "error": "抱歉，发生错误。请重试或通过 Telegram 联系客服。",
     "clearHistory": "清除历史记录",
-    "notificationTitle": "🤖 AI 24/7 全天候支持",
-    "notificationDescription": "需要 Figma Education 套餐咨询？立即与 AI 聊天！",
+    "notificationTitle": "🤖 AI 24/7 在线支持",
+    "notificationDescription": "需要 Google AI 套餐咨询？立即与 AI 聊天！",
     "notificationAction": "立即聊天",
-    "bubbleMessage": "您好！我是 AI 客服。有什么可以帮您的吗？👋",
+    "bubbleMessage": "您好！我是 AI 助手。有什么我可以帮您的吗？👋",
     "quickActions": {
       "pricing": "查看价格表",
       "packages": "套餐咨询",
       "payment": "付款方式",
-      "warranty": "质保政策"
+      "warranty": "保修政策"
     }
   },
   "Email": {
     "common": {
-      "shopName": "FigmaEdu",
-      "shopSubtitle": "感谢您在 FigmaEdu 购物",
+      "shopName": "TKAIPro",
+      "shopSubtitle": "感谢您在 TKAIPro 购物",
       "greeting": "您好 {name}",
       "supportTitle": "💬 需要帮助？",
-      "supportIntro": "如果您遇到任何问题或需要支持，请联系我们：",
-      "supportContactLabel": "📞 联系客服：",
+      "supportIntro": "如果您遇到任何问题或需要帮助，请联系我们：",
+      "supportContactLabel": "📞 客服联系方式：",
       "supportFb": "Facebook 专页",
       "supportTg": "Telegram",
-      "supportTgHandle": "FigmaEdu Telegram 支持",
-      "supportEmailLabel": "✉️ 邮箱：",
+      "supportTgHandle": "TKAIPro Telegram 客服",
+      "supportEmailLabel": "✉️ 电子邮箱：",
       "supportOr": "或",
-      "footerThanks": "感谢您信任 FigmaEdu！🎉",
-      "footerAuto": "系统自动发送的邮件——请勿回复此邮件",
+      "footerThanks": "感谢您信任 TKAIPro！🎉",
+      "footerAuto": "系统自动发送的电子邮件 — 请勿回复此邮件",
       "footerTimePrefix": "时间：",
-      "footerSupport24x7": "FigmaEdu - 24/7 客户支持",
-      "footerAutoShort": "系统自动发送的邮件",
+      "footerSupport24x7": "TKAIPro - 24/7 客户支持",
+      "footerAutoShort": "系统自动发出的邮件",
       "fields": {
-        "orderNumber": "订单号：",
-        "total": "总金额：",
+        "orderNumber": "订单编号：",
+        "total": "总计：",
         "paidAt": "支付时间：",
         "product": "商品：",
         "username": "用户名：",
@@ -2366,149 +2366,149 @@
       }
     },
     "subjects": {
-      "customerOrderConfirmation": "✅ 订单确认 #{orderNumber} - FigmaEdu",
-      "activationSuccess": "✅ 订单 #{orderNumber} 已成功激活 - Figma Education",
+      "customerOrderConfirmation": "✅ 订单确认 #{orderNumber} - TKAIPro",
+      "activationSuccess": "✅ 订单 #{orderNumber} 已成功激活 - Google AI",
       "subscriptionReminderUrgent": "🚨 紧急 {productName} 账号即将在 {daysLeft} 天内到期！",
       "subscriptionReminderWarning": "⚠️ 注意 {productName} 账号即将在 {daysLeft} 天内到期！",
-      "accountContact": "📞 联系接收账号 - 订单 #{orderNumber}",
+      "accountContact": "📞 联系领取账号 - 订单 #{orderNumber}",
       "upgradeCompleted": "✅ 账号升级成功 - 订单 #{orderNumber}",
       "upgradeIssue": "⚠️ 需要确认信息 - 订单 #{orderNumber}",
-      "walletTopupSuccess": "✅ 钱包充值成功 {amount} - FigmaEdu",
-      "walletTopupRejected": "❌ 钱包充值请求已被拒绝 {amount}",
+      "walletTopupSuccess": "✅ 钱包充值成功 {amount} - TKAIPro",
+      "walletTopupRejected": "❌ 钱包充值请求被拒绝 {amount}",
       "restockAlert": "🎉 {productName} 已补货！"
     },
     "customerOrderConfirmation": {
       "headerTitle": "✅ 下单成功！",
-      "intro": "您的订单 #{orderNumber} 已成功支付！以下是您的订单和账号详细信息。",
+      "intro": "您的订单 #{orderNumber} 已支付成功！以下是您的订单和账号详细信息。",
       "orderTitle": "📦 订单信息",
       "productsTitle": "🛒 已购商品",
-      "productItemQty": "数量: {qty}x - 价格: {price}",
+      "productItemQty": "数量：{qty}x - 价格：{price}",
       "credsTitle": "🔑 您的账号信息",
-      "credsWarning": "⚠️ 请妥善保管此信息！这是您的账号登录信息。",
+      "credsWarning": "⚠️ 请妥善保存此信息！这是您的账号登录信息。",
       "credsNote": "💡 注意：您可以随时在订单管理页面重新查看此信息。",
-      "otpTitle": "🔐 如何获取 Figma OTP 验证码",
-      "otpLead": "当 Figma 要求验证码时，请打开下方链接（无需进入 Outlook 邮箱）。",
-      "otpStep1": "使用上方提供的邮箱/密码登录 Figma",
-      "otpStep2": "当 Figma 提示输入 OTP 验证码时，打开下方链接",
+      "otpTitle": "🔐 如何获取 Google AI OTP 验证码",
+      "otpLead": "当 Google AI 要求验证码时，请打开下方链接（无需查看 Outlook 邮箱）。",
+      "otpStep1": "使用上面提供的邮箱/密码登录 Google AI",
+      "otpStep2": "当 Google AI 提示输入 OTP 验证码时，打开下方链接",
       "otpStep3": "使用发送至购买邮箱的 6 位数验证码进行验证",
-      "otpStep4": "获取 Figma OTP 验证码并粘贴到 Figma 中",
+      "otpStep4": "获取 Google AI OTP 验证码并粘贴到 Google AI",
       "otpBtn": "获取 {email} 的 OTP 验证码",
-      "otpNote": "💡 使用发送至购买邮箱的 6 位数验证码进行验证，然后获取 Figma OTP。",
+      "otpNote": "💡 使用发送至购买邮箱的 6 位验证码进行验证，然后获取 Google AI OTP。",
       "viewOrderBtn": "📋 查看订单详情"
     },
     "activationSuccess": {
       "headerTitle": "✅ 激活成功！",
-      "headerSubtitle": "Figma Education 账号已在您的设备上准备就绪",
-      "intro": "您好，您的订单 #{orderNumber} 已成功激活！",
-      "accountTitle": "🔐 分配的 Figma 账号",
-      "accountEmailLabel": "Figma 邮箱：",
+      "headerSubtitle": "Google AI 账号已准备就绪，可在您的设备上使用",
+      "intro": "您好，您的订单 #{orderNumber} 已激活完成！",
+      "accountTitle": "🔐 分配的 Google AI 账号",
+      "accountEmailLabel": "Google AI 邮箱：",
       "durationLabel": "有效期：",
       "daysSuffix": "天",
-      "expiresLabel": "到期日：",
-      "note": "👉 在电脑上打开 Figma 客户端/网页版——账号已预先登录，您可以立即使用。如有问题，请回复此邮件或联系 Telegram。"
+      "expiresLabel": "到期：",
+      "note": "👉 在电脑上打开 Google AI IDE — 账号已预先登录，您可以立即使用。如果遇到问题，请回复此邮件或联系 Telegram。"
     },
     "subscriptionReminder": {
-      "headerTitleUrgent": "🚨 账号即将在到期！",
-      "headerTitleWarning": "⏰ 账号即将在到期！",
-      "headerSubtitle": "距离到期还有 {daysLeft} 天",
+      "headerTitleUrgent": "🚨 账号即将在不久后到期！",
+      "headerTitleWarning": "⏰ 账号即将到期！",
+      "headerSubtitle": "距离到期还剩 {daysLeft} 天",
       "urgencyEmergency": "🚨 紧急",
       "urgencyWarning": "⚠️ 注意",
       "warningBody": "{urgency}：您的账号将在 {daysLeft} 天后到期！",
       "accountTitle": "📋 账号信息",
       "cta": {
         "title": "🔄 立即续费！",
-        "body": "为了保证服务不中断，请在到期前续费您的账号。",
+        "body": "为继续畅享无中断服务，请在到期前续费您的账号。",
         "btn": "🛒 立即续费"
       },
       "benefits": {
-        "title": "✨ 不要错过这些极佳的功能！",
-        "item1": "无限制使用所有 Pro 专业功能",
+        "title": "✨ 不要错过这些强大功能！",
+        "item1": "无限制使用 Pro 专业功能",
         "item2": "24/7 优先客户支持",
         "item3": "获取最新功能更新",
-        "item4": "完整保留您的进度与数据"
+        "item4": "保留您的工作进度与数据"
       }
     },
     "accountContact": {
-      "headerTitle": "📞 联系接收账号",
-      "headerSubtitle": "请联系我们",
+      "headerTitle": "📞 联系领取账号",
+      "headerSubtitle": "请与我们联系",
       "orderTitle": "📋 订单信息",
       "messageTitle": "📝 通知内容",
       "cta": {
-        "title": "📞 立即联系以获取账号",
-        "lead": "请通过以下渠道之一联系我们，以沟通信息并接收账号：",
+        "title": "📞 立即联系以接收账号",
+        "lead": "请通过以下渠道之一与我们联系以沟通信息并接收账号：",
         "fb": "📘 Facebook 专页",
-        "tg": "✈️ FigmaEdu Telegram 支持",
-        "emailIntro": "或发送邮件至："
+        "tg": "✈️ TKAIPro Telegram 支持",
+        "emailIntro": "或发送电子邮件至："
       },
-      "note": "⚠️ 注意：联系时请提供订单号 #{orderNumber}，以便获得最快支持。"
+      "note": "⚠️ 注意：联系时请提供订单号 #{orderNumber}，以便快速处理。"
     },
     "upgradeCompleted": {
       "headerTitle": "🎉 升级成功！",
       "headerSubtitle": "您的账号已成功升级",
-      "intro": "我们很高兴地通知您，您的订单 #{orderNumber} 已处理成功！",
+      "intro": "我们很高兴通知您，您的订单 #{orderNumber} 已处理完成！",
       "successTitle": "升级完成！",
       "successBody": "账号 {upgradeEmail} 已升级至 {productName}",
       "nextSteps": {
         "title": "📌 下一步",
-        "item1": "登录您的账号进行查看",
-        "item2": "体验全新的 Pro 功能",
-        "item3": "如需帮助，随时联系我们"
+        "item1": "登录您的账号进行检查",
+        "item2": "尽情体验全新 Pro 功能",
+        "item3": "如需帮助，欢迎随时联系我们"
       }
     },
     "upgradeIssue": {
       "headerTitle": "⚠️ 需要确认信息",
-      "headerSubtitle": "请联系我们",
+      "headerSubtitle": "请与我们联系",
       "orderTitle": "📋 订单信息",
       "messageTitle": "📝 通知内容",
       "cta": {
-        "title": "📞 立即联系我们",
-        "lead": "请通过以下渠道之一联系我们，以获取最快的帮助：",
+        "title": "📞 立即与我们联系",
+        "lead": "请通过以下任意渠道与我们联系，以获得快速支持：",
         "fb": "📘 Facebook",
         "tg": "✈️ Telegram",
-        "emailIntro": "或发送邮件至："
+        "emailIntro": "或发送电子邮件至："
       }
     },
     "walletTopupSuccess": {
       "headerTitle": "✅ 钱包充值成功",
-      "intro": "您已成功向 FigmaEdu 钱包充值 {amount}。",
+      "intro": "您已成功向 TKAIPro 钱包充值 {amount}。",
       "amountLabel": "充值金额：",
       "balanceLabel": "最新余额：",
-      "paidAtLabel": "时间：",
+      "paidAtLabel": "充值时间：",
       "viewWalletBtn": "📊 查看我的钱包"
     },
     "walletTopupRejected": {
-      "headerTitle": "❌ 钱包充值请求已被拒绝",
-      "intro": "您充值 {amount} 的请求已被拒绝。",
+      "headerTitle": "❌ 钱包充值请求被拒绝",
+      "intro": "您的 {amount} 充值请求已被拒绝。",
       "reasonLabel": "原因：",
       "viewWalletBtn": "📊 查看我的钱包"
     },
     "restockAlert": {
-      "headerTitle": "🎉 商品已补货！",
-      "intro": "好消息——{productName} 已重新补货！手慢无，快来抢购吧。",
+      "headerTitle": "🎉 商品已到货！",
+      "intro": "好消息 — {productName} 已经重新补货！售完即止，快来抢购。",
       "productLabel": "商品",
       "priceLabel": "价格",
       "viewProductBtn": "🛒 查看商品并立即购买"
     }
   },
   "AboutPage": {
-    "metaTitle": "关于 FigmaEdu — Figma Education 账号分销商",
-    "metaDescription": "FigmaEdu 是 Figma Education 账号的独立第三方分销商（third-party reseller）。旨在帮助设计专业学生和 UI 自由职业者以具竞争力的价格获取 Figma edu。与 Figma, Inc. 无关联。",
-    "metaKeywords": "关于 FigmaEdu, Figma Education, 购买 Figma 账号, Figma edu, Figma 分销商, figmaedu.shop",
+    "metaTitle": "关于 TKAIPro — Google AI 账号零售商",
+    "metaDescription": "TKAIPro 是 Google AI 账号的独立第三方零售商（third-party reseller）。旨在帮助 AI 用户和 Gemini 用户以具有竞争力的价格使用 Google AI。与 Google LLC 无关联。",
+    "metaKeywords": "关于 TKAIPro, Google AI, 购买 Google AI 账号, Google AI, Google AI 零售商, tkaipro.shop",
     "breadcrumbs": {
       "home": "首页",
       "about": "关于我们"
     },
     "hero": {
       "titlePrefix": "关于",
-      "subtitle": "FigmaEdu 是 Figma Education 账号的独立分销商。我们通过二次分发合法购买的订阅，帮助设计专业学生和 UI 自由职业者以优惠价格使用 Figma edu。",
+      "subtitle": "TKAIPro 是 Google AI 账号的独立零售商。我们通过转售合法购买的订阅，帮助 AI 用户和 Gemini 用户以实惠的价格体验 Google AI。",
       "disclaimerLabel": "提示",
-      "disclaimer": "FigmaEdu 不隶属于 Figma, Inc.，未获得其认证，亦未受其赞助。\"Figma\" 和 \"Figma Education\" 是 Figma, Inc. 的商标。我们是合法购买订阅套餐的独立分销商。",
-      "ctaProducts": "查看商品",
+      "disclaimer": "TKAIPro 不隶属于 Google LLC，亦未获得 Google LLC 的认证或赞助。“Google”和“Google AI”是 Google LLC 的商标。我们是合法购买套餐的独立零售商。",
+      "ctaProducts": "查看产品",
       "ctaContact": "立即联系"
     },
     "stats": {
       "customers": {
-        "number": "5.000+",
+        "number": "5,000+",
         "label": "已服务客户"
       },
       "years": {
@@ -2526,100 +2526,100 @@
     },
     "mission": {
       "title": "我们的使命",
-      "paragraph1": "在 FigmaEdu，我们相信每位设计专业学生都值得以合理的价格使用 Figma Education——无论所在地区或预算如何。",
-      "paragraph2": "我们提供咨询、支付协助以及通过邮箱交付登录信息，让您简单安全地购买 Figma Education 账号。",
+      "paragraph1": "在 TKAIPro，我们相信每位 AI 用户都值得以合理的成本使用 Google AI — 无论身处何地或预算多少。",
+      "paragraph2": "我们提供咨询、支付协助以及通过电子邮件交付登录信息，让您能够简单、安全地购买 Google AI 账号。",
       "independenceTitle": "独立分销服务",
-      "independenceDescription": "我们不代表 Figma, Inc.。我们的使命是解答流程并协助客户购买 Figma edu 账号。",
+      "independenceDescription": "我们不代表 Google LLC。我们的职责是说明流程并协助客户购买 Google AI 账号。",
       "cards": {
         "process": {
-          "title": "清晰流程",
-          "description": "提供设计工具订阅注册的逐步清单。"
+          "title": "流程清晰",
+          "description": "提供分步清单，引导完成 AI 工具订阅流程。"
         },
         "warranty": {
-          "title": "透明质保",
-          "description": "承诺在服务有效期内解决出现的任何问题。"
+          "title": "售后保障",
+          "description": "承诺在服务有效期内协助解决突发问题。"
         },
         "delivery": {
-          "title": "即时交付",
-          "description": "支持 1-5 分钟内快速支付与激活。"
+          "title": "快速交付",
+          "description": "协助完成支付并在 1-5 分钟内激活。"
         },
         "support": {
-          "title": "24/7 支持",
-          "description": "随时通过 Telegram 和 Email 为您提供协助。"
+          "title": "24/7 客服",
+          "description": "随时通过 Telegram 和电子邮件为您解答。"
         }
       }
     },
     "values": {
       "title": "核心价值观",
-      "subtitle": "指导 FigmaEdu 运营与发展的核心原则。",
+      "subtitle": "指引 TKAIPro 运营与发展的基本原则。",
       "transparency": {
         "title": "诚信与透明",
-        "description": "清晰说明设计工具订阅的每一步流程，妥善保护客户个人信息。"
+        "description": "清晰说明 AI 工具订阅流程的每一步，并严格保护客户隐私。"
       },
       "efficiency": {
-        "title": "快捷与高效",
-        "description": "支持国际支付、账号验证，几分钟内即可完成激活。"
+        "title": "高效快捷",
+        "description": "支持国际支付协助、账号验证，数分钟内即可完成激活。"
       },
       "customerFirst": {
         "title": "以客户为中心",
-        "description": "凭借透明的质保和退款政策，贯穿整个使用周期全程相伴。"
+        "description": "在全使用周期内提供支持，配备透明的质保与退款政策。"
       },
       "sustainability": {
         "title": "可持续发展",
-        "description": "分享知识与资源，帮助设计学生社区高效运用 AI。"
+        "description": "分享知识与资源，帮助 AI 用户社区更高效地利用 AI。"
       }
     },
     "cta": {
-      "title": "需要购买 Figma Education 账号？",
-      "subtitle": "加入数以千计信任 FigmaEdu 的设计学生行列，购买 Figma edu 账号并获得激活支持。",
+      "title": "需要购买 Google AI 账号？",
+      "subtitle": "加入数以千计信任 TKAIPro 的 AI 用户行列，购买 Google AI 账号并获取激活支持。",
       "ctaPrimary": "查看服务",
       "ctaSecondary": "免费咨询"
     }
   },
   "DisclaimerBanner": {
-    "message": "FigmaEdu 仅提供 Figma Education 账号的零售/支持服务——并非 Figma, Inc. 的代理商或分销商。品牌名称仅用于产品描述。",
+    "message": "TKAIPro 仅提供 Google AI 账号的零售/支持服务 — 并非 Google LLC 的代理商或分销商。品牌名称仅用于说明产品。",
     "dismiss": "我知道了"
   },
   "ProductPage": {
     "actions": {
-      "resellerNoticeTitle": "技术支持须知 — 购买前请阅读",
-      "resellerNoticeBody": "FigmaEdu 根据客户需求提供 Figma Education 账号/升级支持服务。我们并非 Figma, Inc. 的代理商、分销商或代表机构。交付后，账号即为您个人的资产 — 请立即更改邮箱、密码、双重验证 (2FA) 及恢复邮箱。我们后续无法为忘记密码/丢失 2FA 提供协助。相关权益与有效期可能受 Figma 政策约束。"
+      "resellerNoticeTitle": "技术支持提示 — 购买前请阅读",
+      "resellerNoticeBody": "TKAIPro 根据客户需求提供 Google AI 账号/升级协助服务。我们并非 Google LLC 的代理商、分销商或代表机构。交付完成后，账号归您所有 — 请立即修改邮箱、密码、二次验证（2FA）及密保邮箱。我们无法协助解决后续的密码遗忘或 2FA 丢失问题。权益和期限可能受 Google AI 政策影响。"
     }
   },
   "DisclaimerPage": {
     "seo": {
       "title": "免责声明",
-      "description": "FigmaEdu 法律声明 — 提供与 Figma 相关的设置/激活技术支持服务。非 Figma, Inc. 的代理商或分销商。",
-      "keywords": "FigmaEdu 免责声明, Figma Education disclaimer, 非 Figma Inc 官方关联"
+      "description": "TKAIPro 法律声明 — 关于 Google AI 配置/激活的技术支持服务。非 Google LLC 的代理商或分销商。",
+      "keywords": "TKAIPro 免责声明, Google AI 免责声明, 未关联 Google AI Inc"
     },
     "hero": {
       "title": "声明",
       "highlight": "免责",
-      "description": "关于我们的技术支持角色及涉及 Figma, Inc. 责任限制的重要信息。"
+      "description": "关于我们技术支持服务角色及涉及 Google LLC 的责任限制的重要信息。"
     },
     "sections": {
       "reseller": {
         "title": "独立技术支持",
-        "body": "FigmaEdu 根据客户需求提供设置、升级和激活支持服务。我们并非 Figma, Inc. (Figma) 的代理商、分销商、授权单位或官方合作伙伴。",
-        "referral": "网站上的品牌名称和产品名称仅用于说明兼容性或支持需求。所有促销/平台权益（如有）均由 Figma, Inc. 控制，并可能随时更改或撤销。"
+        "body": "TKAIPro 根据客户需求提供设置、升级和激活的支持服务。我们并非 Google LLC (Google AI) 的代理商、分销商、授权单位或官方合作伙伴。",
+        "referral": "网站上的品牌名称和产品名称仅用于说明兼容性或支持需求。所有优惠/平台权益（如有）均由 Google LLC 控制，并可能随时更改或撤销。"
       },
       "trademark": {
         "title": "商标",
-        "body": "“Figma” 和 “Figma Education” 是 Figma, Inc. 的商标。其他产品名称归各自所有者所有。我们使用这些名称仅用于说明兼容性或支持需求。"
+        "body": "“Google”和“Google AI”是 Google LLC 的商标。其他产品名称属于各自的所有者。我们仅用于说明兼容性或支持需求。"
       },
       "risks": {
-        "title": "注意事项与风险",
+        "title": "须知风险",
         "items": [
-          "Figma, Inc. 可能会随时更改价格、功能或终止订阅。",
-          "Figma, Inc. 可能会暂停/封禁违反其服务条款 (ToS) 的账号。",
-          "交付后，您需自行负责账号安全 — 更改邮箱、密码、2FA 及恢复邮箱；如果您日后丢失凭据，我们无法帮您找回。",
-          "我们无法保证永久持续访问或第三方促销权益。",
-          "从商标所有者官方购买：www.figma.com。"
+          "Google LLC 可能会随时更改价格、功能或终止订阅。",
+          "Google LLC 可能会暂停/封禁违反其服务条款 (ToS) 的账号。",
+          "交付后，您需自行负责账号安全 — 请及时修改邮箱、密码、2FA 及密保邮箱；若日后丢失凭据，我们无法帮您找回。",
+          "我们不保证永久不间断访问或永久享有第三方促销权益。",
+          "从商标所有者官方购买：www.gemini.google.com。"
         ]
       },
       "official": {
         "title": "官方购买渠道",
-        "body": "如需直接从 Figma, Inc. 购买 Figma 订阅："
+        "body": "如需直接从 Google LLC 购买 Google AI 订阅："
       }
     },
     "cta": {
@@ -2630,10 +2630,10 @@
     }
   },
   "CookieConsent": {
-    "title": "Cookie 设置",
-    "description": "必需 Cookie 用于登录、购物车和安全保障。分析 Cookie (Microsoft Clarity) 为可选项 — 请在下方选择。",
+    "title": "Cookie 偏好设置",
+    "description": "登录、购物车和安全功能需要必要 Cookie。分析 Cookie（Microsoft Clarity）为可选项目 — 请在下方选择。",
     "learnMore": "查看 Cookie 政策",
-    "essentialOnly": "仅必需",
+    "essentialOnly": "仅必要",
     "acceptAll": "接受全部"
   },
   "Wallet": {
@@ -2650,9 +2650,9 @@
     "currency": "币种",
     "vnd": "VND",
     "usd": "USD",
-    "vndDescription": "通过银行转账二维码充值 — 几分钟内自动确认。",
-    "usdDescription": "通过加密货币 (Binance/Bybit/USDT/BTC/ETH/LTC) 充值 — 上传凭证后由管理员确认。",
-    "selectAmount": "选择充值金额",
+    "vndDescription": "通过银行转账 QR 码充值 — 几分钟内自动确认。",
+    "usdDescription": "通过加密货币（Binance/Bybit/USDT/BTC/ETH/LTC）充值 — 在您上传凭证后由管理员确认。",
+    "selectAmount": "选择金额",
     "customAmount": "输入其他金额",
     "selectMethod": "充值方式",
     "selectCryptoMethod": "选择加密货币类型",
@@ -2665,39 +2665,39 @@
     "bank": "银行",
     "accountNumber": "账号",
     "accountName": "户名",
-    "transferContentLabel": "转账备注/内容（必须完全一致）",
-    "transferContentWarning": "请准确输入下方备注内容 — 备注错误将无法自动上分入账，您须联系管理员处理。",
+    "transferContentLabel": "转账附言/备注（必须准确无误）",
+    "transferContentWarning": "请输入与下方完全一致的内容 — 内容错误将无法自动入账，届时您须联系管理员。",
     "payId": "Pay-ID",
-    "network": "网络 (Network)",
+    "network": "网络 (network)",
     "walletAddress": "钱包地址",
-    "onchainWarning": "请仅通过 {network} 网络发送。充错网络资金将丢失且无法找回。",
-    "submitProofTitle": "上传支付凭证（可选）",
-    "submitProofDescription": "完成加密货币转账后，您可以粘贴凭证图片链接（如 Imgur/Cloudinary）以便管理员更快审核，或留空并点击“我已转账”。",
+    "onchainWarning": "请仅通过 {network} 网络发送。充错网络资金将丢失且无法恢复。",
+    "submitProofTitle": "附加凭证（可选）",
+    "submitProofDescription": "完成加密货币转账后，您可以粘贴凭证图片 URL（例如 Imgur/Cloudinary）以便管理员更快审核，或留空并点击“我已转账”。",
     "submitProof": "提交凭证",
     "submitWithoutProof": "我已转账",
-    "proofSubmitted": "已提交凭证。管理员将在几小时内审核。",
-    "pendingReviewMessage": "您已提交凭证。系统正在等待管理员确认。审核完成后余额将自动更新。",
+    "proofSubmitted": "已提交凭证。管理员将在几小时内进行审核。",
+    "pendingReviewMessage": "您已提交凭证，系统正在等待管理员确认。审核完成后余额将自动更新。",
     "viewProof": "查看已提交凭证",
-    "autoConfirmNote": "✅ 银行确认转账后，余额将自动充入钱包（通常需要 1-3 分钟）。",
+    "autoConfirmNote": "✅ 银行确认转账后，余额将自动充入钱包（通常需 1-3 分钟）。",
     "topupPaidTitle": "充值成功",
-    "topupPaidDescription": "已将 {amount} 充入您的钱包。",
-    "topupRejectedTitle": "充值请求已被拒绝",
+    "topupPaidDescription": "已向您的钱包充值 {amount}。",
+    "topupRejectedTitle": "充值请求被拒绝",
     "topupExpiredTitle": "充值请求已过期",
-    "topupExpiredDescription": "该充值请求已超过 30 分钟时限。请重新创建充值请求。",
-    "paidToast": "充值成功，钱包余额已更新！",
-    "rejectedToast": "充值请求已被拒绝",
+    "topupExpiredDescription": "该充值请求已超过 30 分钟时限。请重新创建请求。",
+    "paidToast": "充值成功，钱包已更新！",
+    "rejectedToast": "充值请求被拒绝",
     "expiredToast": "充值请求已过期",
     "transactionHistory": "交易历史",
     "balanceAfter": "变动后余额",
     "noTransactions": "暂无交易记录",
     "copied": "已复制 {label}",
     "copyFailed": "复制失败",
-    "qrZoom": "放大二维码",
-    "bankQrAlt": "{bank} 二维码",
+    "qrZoom": "放大 QR 码",
+    "bankQrAlt": "{bank} QR 码",
     "notFound": "未找到充值请求",
     "status": {
-      "pending": "待支付",
-      "pendingReview": "待审核"
+      "pending": "等待支付",
+      "pendingReview": "等待审核"
     },
     "txType": {
       "topup": "充值",
@@ -2707,24 +2707,24 @@
     },
     "errors": {
       "generic": "发生错误，请重试",
-      "INVALID_PROOF_URL": "凭证链接无效（须为 http/https）",
+      "INVALID_PROOF_URL": "凭证 URL 无效（须包含 http/https）",
       "INVALID_AMOUNT": "金额无效",
-      "AMOUNT_TOO_SMALL": "未达到最低充值金额",
-      "AMOUNT_TOO_LARGE": "超过单次充值限额",
-      "AMOUNT_NOT_ROUND": "VND 金额必须是 1,000 的整数倍",
+      "AMOUNT_TOO_SMALL": "未达到最低金额",
+      "AMOUNT_TOO_LARGE": "超出单次充值限额",
+      "AMOUNT_NOT_ROUND": "VND 金额必须是 1,000 的倍数",
       "INVALID_CURRENCY": "币种无效",
       "INVALID_METHOD": "充值方式无效",
-      "SEPAY_REQUIRES_VND": "银行转账仅支持充值 VND",
+      "SEPAY_REQUIRES_VND": "仅支持通过银行转账充值 VND",
       "CRYPTO_REQUIRES_USD": "加密货币仅支持充值 USD",
       "INVALID_CRYPTO_METHOD": "加密货币类型无效",
-      "WALLET_INSUFFICIENT_BALANCE": "钱包余额不足"
+      "WALLET_INSUFFICIENT_BALANCE": "余额不足"
     }
   },
   "LegalNoticePopup": {
-    "title": "重要通知",
-    "p1": "FigmaEdu 仅根据客户需求提供 Figma Education 账号零售/支持服务。FigmaEdu 非任何品牌所有者的代理商、分销商或代表机构。若提及品牌名称、Logo 及产品名称，仅用于描述产品/服务，其产权归各自所有者所有。服务范围与责任限制见条款与条件。",
-    "p2": "客户请注意：在我们向您交付账号后，该账号即属于您的个人资产，您需要自行更改安全信息：邮箱、密码、2FA、恢复邮箱并自行妥善保管您的资产。对于购买一段时间后因忘记账号信息、忘记密码、忘记登录信息或丢失 2FA 而无法访问账号的情况，我们无法提供协助。因此，请在购买后立即更改安全信息，以确保您的账号和资产安全。",
-    "p3": "感谢您支持 FigmaEdu。",
+    "title": "法律声明",
+    "p1": "TKAIPro 仅根据客户需求提供 Google AI 账号的零售/协助服务。TKAIPro 并不是任何品牌所有者的代理商、分销商或代表机构。所提及的品牌名称、标识和产品名称仅用于描述产品/服务，并归属于各自的所有者。服务范围及责任限制已在条款与条件中予以规定。",
+    "p2": "客户请注意：当我们将账号交付给您后，该账号即为您个人的财产，您需要自行修改安全信息：邮箱、密码、2FA 双重验证、恢复邮箱，并自行保管您的财产。对于在购买一段时间后，因遗忘账号信息、遗忘密码、遗忘登录信息或丢失 2FA 而导致无法访问账号的情况，我们无法予以协助。因此，请在购买后立即修改相关信息，以确保您的账号与财产安全。",
+    "p3": "感谢您对 TKAIPro 的支持。",
     "termsLink": "条款与条件",
     "close": "关闭"
   }

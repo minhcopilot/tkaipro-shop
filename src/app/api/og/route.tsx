@@ -11,7 +11,7 @@ export async function GET(request: NextRequest) {
   const title = searchParams.get("title") || SEO_CONFIG.name;
   const description =
     searchParams.get("description") ||
-    "Independent reseller of Figma subscriptions";
+    "Independent reseller of Google AI / Antigravity subscriptions";
   const locale = searchParams.get("locale") || "vi";
 
   const isVietnamese = locale === "vi";

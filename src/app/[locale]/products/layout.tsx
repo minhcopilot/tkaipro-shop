@@ -16,7 +16,7 @@ export async function generateMetadata({
   return {
     title: t("title"),
     description: t("subtitle"),
-    keywords: `${SEO_CONFIG.keywords}, tài khoản Figma edu, mua tài khoản Figma, Google AI`,
+    keywords: `${SEO_CONFIG.keywords}, tài khoản Google AI, mua Google AI Pro, Antigravity, Gemini`,
     openGraph: {
       title: `${t("title")} | ${SEO_CONFIG.name}`,
       description: t("subtitle"),

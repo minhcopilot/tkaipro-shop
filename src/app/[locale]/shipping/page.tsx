@@ -242,7 +242,7 @@ export default async function ShippingPage({ params }: Props) {
                 <div className="bg-orange-50 p-4 rounded-lg border border-orange-200 mt-4">
                   <p className="text-orange-800 text-sm font-medium">
                     Sau khi credential đã giao / kích hoạt: không hoàn tiền (hàng số).
-                    Không bảo hành nếu Figma suspend/terminate do vi phạm ToS.
+                    Không bảo hành nếu Google suspend/terminate do vi phạm ToS.
                   </p>
                 </div>
 
@@ -250,7 +250,7 @@ export default async function ShippingPage({ params }: Props) {
                   <h4 className="font-semibold text-red-800 mb-2">Không áp dụng đổi trả khi:</h4>
                   <ul className="text-red-700 text-sm space-y-1">
                     <li>• Khách hàng tự thay đổi thông tin tài khoản</li>
-                    <li>• Sử dụng sai mục đích hoặc vi phạm ToS Figma</li>
+                    <li>• Sử dụng sai mục đích hoặc vi phạm ToS Google</li>
                     <li>• Chia sẻ tài khoản hoặc sử dụng thương mại</li>
                     <li>• Quá thời hạn đổi trả quy định</li>
                   </ul>

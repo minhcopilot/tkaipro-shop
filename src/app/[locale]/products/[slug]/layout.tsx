@@ -45,7 +45,7 @@ export async function generateMetadata({
     return {
       title,
       description,
-      keywords: `${product.name}, ${product.category}, Figma edu, Google AI, mua tài khoản Figma, ${SEO_CONFIG.keywords}`,
+      keywords: `${product.name}, ${product.category}, Google AI, Antigravity, Gemini, mua tài khoản Google AI, ${SEO_CONFIG.keywords}`,
       openGraph: {
         title,
         description,

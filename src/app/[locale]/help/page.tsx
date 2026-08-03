@@ -36,7 +36,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: titles[locale] || titles.en,
     description: descriptions[locale] || descriptions.en,
-    keywords: "hỗ trợ Google AI, FAQ Figma, hướng dẫn Figma edu, help center",
+    keywords: "hỗ trợ Google AI, FAQ Google AI, hướng dẫn Gemini, Antigravity, help center",
     openGraph: {
       title: `${titles[locale] || titles.en} - ${SEO_CONFIG.name}`,
       description: descriptions[locale] || descriptions.en,
@@ -129,15 +129,15 @@ const faqs = [
     questions: [
       {
         q: "Làm sao để đăng nhập Google AI?",
-        a: "Mở figma.com hoặc app Figma → Log in bằng email và password được cung cấp trong email giao hàng. Sau đó mở file/workspace để kiểm tra quyền Education."
+        a: "Mở gemini.google.com hoặc ứng dụng Google AI → đăng nhập bằng email và password được cung cấp trong email giao hàng. Sau đó kiểm tra quyền Pro/Ultra trên tài khoản."
       },
       {
         q: "Tài khoản có thể dùng trên nhiều máy không?",
         a: "Có, nhưng chỉ nên dùng trên 1-2 thiết bị cùng lúc. Đăng nhập quá nhiều nơi có thể khiến tài khoản bị tạm khóa."
       },
       {
-        q: "Gói Education khác Free như thế nào?",
-        a: "Education mở thêm collab, Dev Mode và thư viện theo quyền edu — phù hợp đồ án nhóm và freelance UI. Chi tiết quyền lợi có thể thay đổi theo chính sách Figma."
+        q: "Gói Google AI Pro khác Free như thế nào?",
+        a: "Google AI Pro/Ultra mở thêm hạn mức Gemini nâng cao và tính năng Antigravity theo gói — phù hợp học tập và làm việc với AI. Chi tiết quyền lợi có thể thay đổi theo chính sách Google."
       }
     ]
   },
@@ -159,13 +159,13 @@ const faqs = [
 const guides = [
   {
     title: "Đăng nhập Google AI lần đầu",
-    description: "Hướng dẫn mở Figma, đăng nhập email/password và kiểm tra quyền edu",
+    description: "Hướng dẫn mở Gemini/Google AI, đăng nhập email/password và kiểm tra quyền Pro/Ultra",
     duration: "5 phút",
     difficulty: "Dễ"
   },
   {
-    title: "Làm việc nhóm trên Figma",
-    description: "Mời thành viên, dùng library và prototype cho đồ án",
+    title: "Bắt đầu với Google AI & Antigravity",
+    description: "Kiểm tra hạn mức Gemini, dùng Pro/Ultra và Antigravity theo gói đã mua",
     duration: "3 phút", 
     difficulty: "Dễ"
   },

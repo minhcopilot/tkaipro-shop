@@ -9,7 +9,7 @@ const SOCIAL_PROFILES = [
 ].filter(Boolean);
 
 // localBusiness schema. Branding intentionally neutral — we are an
-// independent third-party reseller, not a Figma channel.
+// independent third-party reseller, not a Google channel.
 export function LocalBusinessSchema() {
   const schema = {
     "@context": "https://schema.org",
@@ -17,7 +17,7 @@ export function LocalBusinessSchema() {
     "@id": `${SEO_CONFIG.url}/#localbusiness`,
     "name": SEO_CONFIG.name,
     "description":
-      "Independent third-party reseller of Figma subscriptions. Not affiliated with Google LLC Save up to 90%, 1-to-1 warranty, 24/7 support.",
+      "Independent third-party reseller of Google AI / Antigravity subscriptions. Not affiliated with Google LLC. Save up to 90%, 1-to-1 warranty, 24/7 support.",
     "alternateName": [SEO_CONFIG.fullName],
     "url": SEO_CONFIG.url,
     ...(SEO_CONFIG.supportContacts.email ? { "email": SEO_CONFIG.supportContacts.email } : {}),
@@ -54,7 +54,7 @@ export function LocalBusinessSchema() {
         "name": "Worldwide"
       }
     ],
-    "serviceType": "Figma subscription reseller"
+    "serviceType": "Google AI subscription reseller"
   };
 
   return (
@@ -92,7 +92,7 @@ export function ServiceSchema({ name, description, price, duration, slug, locale
     },
     "hasOfferCatalog": {
       "@type": "OfferCatalog",
-      "name": "Figma Subscription Resale Plans",
+      "name": "Google AI Subscription Resale Plans",
       "itemListElement": [{
         "@type": "Offer",
         "itemOffered": {
@@ -111,7 +111,7 @@ export function ServiceSchema({ name, description, price, duration, slug, locale
     "termsOfService": `${SEO_CONFIG.url}/${locale}/terms`,
     "serviceOutput": {
       "@type": "Thing",
-      "name": "Figma subscription activation"
+      "name": "Google AI subscription activation"
     }
   };
 
@@ -308,12 +308,12 @@ export function AggregateRatingSchema({
 // It used to publish a SoftwareApplication schema typed as the vendor's
 // own product with our shop's pricing + aggregateRating, which is
 // trademark impersonation when emitted from our domain. We do not author
-// the Figma product; only Google LLC does. Our offers are catalogued as
+// the Google product; only Google LLC does. Our offers are catalogued as
 // neutral reseller services below.
 
 // Offer catalog: reseller services for Google AI accounts.
 // Intentionally neutral — no "Chính Hãng"/"Genuine"/"Authentic"/"official" claims,
-// no Figma brand spoofing. Product mentions ("Google AI")
+// no Google brand spoofing. Product mentions ("Google AI")
 // are factual nominative fair use.
 export function OfferCatalogSchema({ locale = "vi" }: { locale?: string } = {}) {
   const schema = {

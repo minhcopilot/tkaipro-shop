@@ -83,8 +83,8 @@ const warrantyFeatures = [
     icon: <AlertTriangle className="h-8 w-8 text-red-500" />,
     title: "Không Bảo Hành",
     titleEn: "No Warranty",
-    description: "Figma suspend/terminate",
-    descriptionEn: "Figma suspend/terminate"
+    description: "Google suspend/terminate",
+    descriptionEn: "Google suspend/terminate"
   }
 ];
 
@@ -179,12 +179,12 @@ export default async function WarrantyPage({ params }: Props) {
                 <div className="bg-red-50 p-4 rounded-lg border border-red-200">
                   <ul className="text-red-700 text-sm space-y-2">
                     <li>• <strong>Đã giao credential / kích hoạt thành công</strong> — hàng số không hoàn tiền</li>
-                    <li>• <strong>Figma suspend/terminate</strong> do vi phạm ToS của họ</li>
+                    <li>• <strong>Google suspend/terminate</strong> do vi phạm ToS của họ</li>
                     <li>• <strong>Khách hàng tự thay đổi thông tin tài khoản</strong> (email, password, profile)</li>
-                    <li>• <strong>Sử dụng không đúng mục đích</strong> hoặc vi phạm Terms of Service của Figma</li>
+                    <li>• <strong>Sử dụng không đúng mục đích</strong> hoặc vi phạm Terms of Service của Google</li>
                     <li>• <strong>Chia sẻ tài khoản</strong> cho người khác hoặc sử dụng commercial</li>
                     <li>• <strong>Tài khoản hết hạn</strong> theo đúng gói đã mua</li>
-                    <li>• <strong>Sự cố từ phía Figma</strong> (server down, maintenance...)</li>
+                    <li>• <strong>Sự cố từ phía Google</strong> (server down, maintenance...)</li>
                   </ul>
                 </div>
                 <p className="text-sm text-muted-foreground">

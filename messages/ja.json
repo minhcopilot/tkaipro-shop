@@ -1,54 +1,54 @@
 {
   "IntroPage": {
     "seo": {
-      "title": "FigmaEduについて — Figma Educationアカウントの正規リセラー",
-      "description": "FigmaEduはFigma Educationアカウントの独立系リセラーです。ミッション、メールでのログイン情報発送プロセス、Figma eduアカウント購入時のサポート保証についてご紹介します。",
-      "keywords": "FigmaEdu, Figma Education, Figmaアカウント購入, Figma edu, Figmaリセラー, figmaedu.shop, FigmaEduについて"
+      "title": "TKAIProについて — Google AI Pro、Ultra & Antigravity アカウントの購入",
+      "description": "TKAIPro (tkaipro.shop) は独立したリセラーです：Google AI Pro、Google Ultra、Antigravity PRO/ULTRA アカウントを購入できます。メールでログイン情報を配送し、明確な保証を提供します。Google LLC との提携はありません。",
+      "keywords": "TKAIPro, tkaipro.shop, Google AI アカウント購入, Google PRO, Google ULTRA, Antigravity PRO, Antigravity ULTRA, Google AI リセラー"
     },
     "hero": {
-      "title": "FigmaEduとは",
-      "subtitle": "Figma Educationアカウントの独立系リセラー — デザイン学生やUIフリーランスに手頃な価格で提供。Figma eduアカウントを購入し、国内決済、メールでログイン情報を受け取れます。",
+      "title": "TKAIProとは",
+      "subtitle": "tkaipro.shop の独立系リセラー — Google AI Pro、Ultra、Antigravity PRO/ULTRA アカウントを購入可能。国内決済対応、メールでログイン情報を受信。",
       "ctaConfig": "料金プランを見る",
-      "ctaBuy": "Figma Eduを購入",
-      "badge": "手頃な価格",
+      "ctaBuy": "Google AI を購入",
+      "badge": "お手頃価格",
       "trustBadges": {
         "authentic": "信頼できるリセラー",
-        "fast": "メール納品 約5分",
+        "fast": "約5分でメール配送",
         "warranty": "1対1の交換保証"
       }
     },
     "about": {
-      "title": "figmaedu.shopについて",
-      "description": "FigmaEduはFigma Educationアカウントのサードパーティリセラー（独立系販売店）です。当社はFigma, Inc.とは提携していません。私たちのミッションは、国内決済と現地サポートを通じて、学生やプロジェクトチームがFigma eduに手軽にアクセスできるようにすることです。",
+      "title": "tkaipro.shop について",
+      "description": "TKAIPro は tkaipro.shop の独立系サードパーティリセラーです — Google AI Pro、Google Ultra、Antigravity PRO/ULTRA アカウントの購入に特化しています。Google LLC との提携はありません。私たちのミッション：国内決済とサポートを通じて、AIユーザーが Pro/Ultra プランへより簡単にアクセスできるようにすることです。",
       "features": {
-        "price": "市場最安級の価格",
-        "support": "24/7テクニカルサポート",
-        "warranty": "ショップ起因の不具合は1対1交換"
+        "price": "市場トップクラスの価格",
+        "support": "24時間365日テクニカルサポート",
+        "warranty": "ショップ側の不具合に対する1対1保証"
       },
-      "sectionLabel": "私たちについて"
+      "sectionLabel": " meたちについて"
     },
     "whyChoose": {
       "title": "選ばれる理由",
       "items": {
         "authentic": {
-          "title": "透明性の高いリセラー",
-          "description": "サブスクリプションは正当なルートから購入され、検証済みの決済方法で処理されます。クラック品や不正行為は一切ありません。"
+          "title": "透明性のあるリセラー",
+          "description": "サブスクリプションは正規ルートで購入され、検証済みの決済方法で処理されます。クラックや不正は一切ありません。"
         },
         "fast": {
-          "title": "迅速な納品",
-          "description": "お支払い後、約5〜10分でメールにてログイン情報をお届けします。高度に自動化されたプロセスです。"
+          "title": "迅速な配送",
+          "description": "お支払い後約5〜10分でメールにてログイン情報をお届けします。高度に自動化されたプロセスです。"
         },
         "cheap": {
           "title": "コストの最適化",
-          "description": "公式サイトでの直接購入と比べて大幅に節約可能。学生やUIフリーランス向けの柔軟なプランをご用意しています。"
+          "description": "直接登録と比較して大幅に節約できます。学生や Gemini ユーザー向けの柔軟なプランをご用意。"
         },
         "privacy": {
-          "title": "万全のセキュリティ",
-          "description": "すべてのお客様情報は暗号化され安全に保護されます。第三者と共有されることはありません。"
+          "title": "完全なプライバシー保護",
+          "description": "すべてのお客様情報は暗号化され安全に保護されます。第三者に共有されることはありません。"
         },
         "support": {
-          "title": "手厚いサポート",
-          "description": "経験豊富なチームが、Figmaへのログイン手順やトラブルシューティングを24/7体制でサポートします。"
+          "title": "手厚いカスタマーサポート",
+          "description": "経験豊富なチームが Google AI へのログインガイドやトラブルシューティングを 24 時間体制でサポートします。"
         }
       },
       "sectionLabel": "選ばれる理由"
@@ -56,61 +56,61 @@
     "products": {
       "title": "販売中のプラン",
       "trial": {
-        "name": "Figma Edu 短期お試しプラン",
-        "description": "Figma Educationを短期間お試しいただけます。初心者におすすめです。",
+        "name": "Google AI お試しプラン",
+        "description": "短期間で Google AI を体験。初心者に最適です。",
         "label": "お試し"
       },
       "shared": {
         "name": "人気学習プラン",
-        "description": "最大限にコストを節約。学生や基本的な課題・プロジェクトに最適です。",
-        "label": "お得",
+        "description": "最大の節約効果。学生や基本的なプロジェクト利用に適しています。",
+        "label": "節約",
         "badge": "🔥 一番人気"
       },
       "private": {
-        "name": "長期 / 個人向けプラン",
-        "description": "長期的で安定した利用が可能。UIフリーランスや本格的な学習に十分なedu権限が付与されます。",
+        "name": "長期 / 個人専用プラン",
+        "description": "長期的に安定。Gemini ユーザーや高度な学習に十分なアクセス権限を確保。",
         "label": "プレミアム"
       },
       "sectionLabel": "サービス"
     },
     "payment": {
       "title": "お支払い方法",
-      "subtitle": "多様で柔軟、安全な決済",
+      "subtitle": "多様で柔軟、かつ安全",
       "methods": {
         "bank": "銀行振込 (VietQR)",
-        "crypto": "Binance Pay（暗号資産）",
-        "momo": "MoMoウォレット"
+        "crypto": "Binance Pay (暗号資産)",
+        "momo": "MoMo 電子マネー"
       },
-      "support": "ホットライン/Zaloにて24/7体制で取引をサポート",
+      "support": "ホットライン/Zalo 経由で 24 時間 365 日決済処理をサポート",
       "sectionLabel": "お支払い"
     },
     "contact": {
-      "title": "サポート・お問い合わせ",
-      "website": "ウェブサイト: https://figmaedu.shop",
-      "telegram": "Telegram: FigmaEduサポート",
-      "fanpage": "ファンページ: FigmaEdu",
-      "cta": "お急ぎですか？今すぐチャットでお問い合わせください！"
+      "title": "カスタマーサポート",
+      "website": "ウェブサイト: https://tkaipro.shop",
+      "telegram": "Telegram: TKAIPro サポート",
+      "fanpage": "Facebook ページ: TKAIPro",
+      "cta": "至急のサポートが必要ですか？今すぐチャットでお問い合わせください！"
     },
     "commitment": {
       "title": "私たちの約束",
       "items": {
-        "1": "100%説明通りのアカウントを提供",
-        "2": "ショップ起因の不具合は新品交換（利用規約に基づく）",
-        "3": "クラック品や不正スキャン品は一切不使用",
-        "4": "すべての取引における透明性を確保"
+        "1": "説明通りの100%正真正銘アカウント",
+        "2": "ショップ側の問題が発生した場合は新品と交換（規約に基づく）",
+        "3": "クラックやスキャンされたアカウントの不使用",
+        "4": "すべての取引における透明性の確保"
       },
-      "sectionLabel": "約束"
+      "sectionLabel": "コミットメント"
     },
     "ctaSection": {
-      "title": "今すぐFigma Educationアカウントを購入",
-      "subtitle": "コストを理由にデザインプロジェクトを諦める必要はありません。FigmaEduで手頃な価格のFigma eduを手に入れ、メールでログイン情報を受信しましょう。",
+      "title": "今すぐ Google AI アカウントを購入",
+      "subtitle": "コストを理由にプロジェクトを諦める必要はありません。TKAIPro を通じて競合力のある価格で Google AI を手に入れ、メールでログイン情報を受け取りましょう。",
       "buyNow": "料金プランを見る",
-      "contact": "相談・問い合わせ"
+      "contact": "お問い合わせ・ご相談"
     }
   },
   "DashboardProfile": {
     "title": "プロフィール",
-    "description": "アカウント情報を管理します",
+    "description": "アカウント情報を管理",
     "avatar": {
       "title": "プロフィール画像",
       "change": "変更",
@@ -124,13 +124,13 @@
       "email": "メールアドレス",
       "save": "変更を保存",
       "saving": "保存中...",
-      "success": "情報を更新しました",
-      "error": "情報の更新に失敗しました"
+      "success": "アカウント情報を更新しました",
+      "error": "アカウント情報の更新に失敗しました"
     }
   },
   "DashboardSettings": {
     "title": "設定",
-    "description": "アカウント設定とオプションの管理",
+    "description": "アカウント設定と設定オプションの管理",
     "tabs": {
       "profile": "プロフィール",
       "security": "セキュリティ"
@@ -143,8 +143,8 @@
       "emailPlaceholder": "メールアドレスを入力してください",
       "save": "変更を保存",
       "saving": "保存中...",
-      "success": "情報を更新しました",
-      "error": "情報の更新に失敗しました"
+      "success": "プロフィール情報を更新しました",
+      "error": "プロフィール情報の更新に失敗しました"
     },
     "security": {
       "title": "セキュリティ設定",
@@ -156,10 +156,10 @@
       "confirmPasswordPlaceholder": "新しいパスワードを再入力",
       "update": "パスワードを変更",
       "updating": "更新中...",
-      "success": "パスワードを変更しました",
+      "success": "パスワードの変更が完了しました",
       "error": "パスワードの変更に失敗しました",
       "errorMatch": "確認用パスワードが一致しません",
-      "errorLength": "新しいパスワードは8文字以上で入力してください"
+      "errorLength": "新しいパスワードは8文字以上である必要があります"
     }
   },
   "RecentPurchases": {
@@ -176,18 +176,18 @@
     "seconds": "秒"
   },
   "DashboardOrders": {
-    "title": "注文履歴",
+    "title": "ご注文履歴",
     "subtitle": "注文状況の確認と追跡",
     "refresh": "更新",
     "loginRequired": "ログインしてください",
-    "loginDescription": "注文履歴を確認するにはログインが必要です。",
-    "errorTitle": "データ読込エラー",
-    "errorDescription": "注文リストを読み込めませんでした。後でもう一度お試しください。",
+    "loginDescription": "ご注文を確認するにはログインが必要です。",
+    "errorTitle": "データの読み込みエラー",
+    "errorDescription": "注文一覧を読み込めませんでした。後ほど再試行してください。",
     "stats": {
       "totalOrders": "総注文数",
       "paidOrders": "支払い済み",
       "pendingPayment": "未払い",
-      "totalSpent": "総支出額"
+      "totalSpent": "利用総額"
     },
     "filters": {
       "statusPlaceholder": "注文ステータス",
@@ -196,32 +196,32 @@
       "allPayment": "すべての支払い"
     },
     "status": {
-      "pending": "処理待ち",
+      "pending": "保留中",
       "processing": "処理中",
       "completed": "完了",
       "cancelled": "キャンセル済み"
     },
     "paymentStatus": {
-      "pending": "支払い待ち",
+      "pending": "未払い",
       "paid": "支払い済み",
-      "failed": "支払い失敗"
+      "failed": "決済失敗"
     },
     "table": {
       "orderNumber": "注文番号",
       "products": "商品",
-      "otherProducts": "他 {count} 点の商品",
-      "total": "合計金額",
+      "otherProducts": "+他{count}件の商品",
+      "total": "合計",
       "status": "ステータス",
-      "payment": "支払い",
+      "payment": "お支払い",
       "date": "注文日",
       "actions": "操作",
       "viewDetails": "詳細",
-      "payNow": "今すぐ支払う"
+      "payNow": "支払う"
     },
     "pagination": "ページ {current}/{total}",
     "empty": {
       "title": "注文履歴がありません",
-      "description": "まだ注文がありません。さっそくお買い物を始めましょう！",
+      "description": "まだ注文はありません。今すぐショッピングを始めましょう！",
       "cta": "商品を見る"
     },
     "toast": {
@@ -231,64 +231,64 @@
   },
   "Pricing": {
     "title": "あなたに最適なプランを選択",
-    "description": "すべてのプランにFigma Educationの登録サポート、有効化の追跡、および透明性のあるアフターケアが含まれています。",
+    "description": "すべてのプランに Google AI 登録サポート、アクティベーション追跡、明確なアフターサポートが含まれています。",
     "popular": "一番人気",
     "perMonth": "₫/月",
     "guarantees": {
       "oneTime": "一括払い",
       "noRenew": "自動更新なし",
-      "refund": "ショップ起因のエラーに対する1対1交換保証"
+      "refund": "ショップ起因の不具合は1対1保証"
     },
     "plans": {
       "1-month": {
         "name": "1ヶ月",
-        "description": "初心者向けのクイック相談",
-        "button": "1ヶ月プランをリクエスト",
+        "description": "初心者向けの迅速なサポート",
+        "button": "1ヶ月プランを申請",
         "features": {
-          "0": "Figma Educationのオンライン購入ガイド",
-          "1": "設定と有効化のステップバイステップ動画",
-          "2": "支払い方法の選択に関するアドバイス",
-          "3": "有効化後の確認チェックリスト",
-          "4": "24時間365日サポート",
-          "5": "1対1交換保証"
+          "0": "Google AI オンライン購入ガイド",
+          "1": "詳細な設定・アクティベーション動画",
+          "2": "お支払い方法選択のアドバイス",
+          "3": "アクティベーション後チェックリスト",
+          "4": "24時間年中無休サポート",
+          "5": "1対1の交換保証"
         }
       },
       "3-months": {
         "name": "3ヶ月",
-        "description": "フリーランサーに人気プラン",
+        "description": "フリーランサーに人気",
         "button": "3ヶ月プランを選択",
         "features": {
           "0": "1ヶ月プランの全サービス",
-          "1": "長期利用のニーズに合わせたFigma Educationプランの選定アドバイス",
-          "2": "認証が必要な場合の優先サポート",
-          "3": "ガイド付きの更新リマインダー",
-          "4": "Figmaでのワークフロー最適化リソース",
-          "5": "専用カスタマーサポートグループ"
+          "1": "長期的ニーズに合わせた Google AI プラン選定相談",
+          "2": "本人確認時の優先サポート",
+          "3": "ガイダンス付き更新リマインダー",
+          "4": "Google AI を活用したワークフロー最適化リソース",
+          "5": "専用カスタマーケアグループ"
         }
       },
       "6-months": {
         "name": "6ヶ月",
-        "description": "デザイン専攻の学生に最適",
+        "description": "プロフェッショナルAIユーザーに最適",
         "button": "6ヶ月プランを注文",
         "features": {
           "0": "3ヶ月プランの全サービス",
-          "1": "有効化時のマンツーマンビデオ通話サポート",
-          "2": "アカウント状態の定期モニタリング",
-          "3": "Figmaの最新ポリシーのアップデート案内",
+          "1": "アクティベーション時の1対1ビデオ通話サポート",
+          "2": "定期的なアカウントステータス確認",
+          "3": "最新の Google AI ポリシー更新情報",
           "4": "高度なワークフロー資料",
           "5": "おすすめ拡張機能ライブラリ"
         }
       },
       "12-months": {
         "name": "12ヶ月",
-        "description": "チームや企業に最適",
+        "description": "チームおよび法人向け",
         "button": "12ヶ月プランのお問い合わせ",
         "features": {
           "0": "6ヶ月プランの全サービス",
-          "1": "複数メンバーのアカウント設定に関するアドバイス",
+          "1": "複数メンバー向けアカウント設定コンサルティング",
           "2": "セキュリティと権限設定のチェックリスト",
-          "3": "Figmaに関する問題発生時の対応サポート",
-          "4": "一括更新の調整サポート",
+          "3": "Google AI に関するトラブルシューティングサポート",
+          "4": "一括更新の調整・管理",
           "5": "新メンバー向けオンボーディング資料"
         }
       }
@@ -297,29 +297,29 @@
   "MockData": {
     "fallbackProducts": {
       "mock-1": {
-        "name": "Figma Education アカウント - 1ヶ月",
-        "description": "Figma edu 1ヶ月プラン — お試し利用に最適。お支払い後、ログイン情報とログインガイドをメールでお送りします。",
-        "shortDescription": "お試し利用に最適"
+        "name": "Google AI アカウント - 1ヶ月",
+        "description": "Google AI 1ヶ月プラン — 手軽なお試しに最適。お支払い後、ログイン手順とともにメールで認証情報を送信します。",
+        "shortDescription": "手軽なお試しに最適"
       },
       "mock-2": {
-        "name": "Figma Education アカウント - 3ヶ月",
-        "description": "Figma Education 3ヶ月プラン — 学期のプロジェクトに人気。プラン選びのアドバイスとローカル決済に対応。",
-        "shortDescription": "学期プロジェクトに一番人気のプラン"
+        "name": "Google AI アカウント - 3ヶ月",
+        "description": "Google AI 3ヶ月プラン — 学期のプロジェクトに人気。プラン選びの相談と国内決済のサポート付き。",
+        "shortDescription": "プロジェクト用に人気のプラン"
       },
       "mock-3": {
-        "name": "Figma Education アカウント - 6ヶ月",
-        "description": "Figma edu 6ヶ月プラン — 継続して利用するデザイン専攻の学生やUIフリーランサー向けの長期割引プラン。",
-        "shortDescription": "日常的に使う方に最適な長期節約プラン"
+        "name": "Google AI アカウント - 6ヶ月",
+        "description": "Google AI 6ヶ月プラン — AIや Gemini を日常的に使うユーザー向けのお得な長期プラン。",
+        "shortDescription": "日常的に使用する方に最適な長期節約プラン"
       },
       "mock-4": {
-        "name": "Figma Education アカウント - 12ヶ月",
-        "description": "Figma Education 12ヶ月プラン — グループ課題や継続的な学習に最適な年間コスト削減プラン。",
-        "shortDescription": "学年を通した利用に最適な1年プラン"
+        "name": "Google AI アカウント - 12ヶ月",
+        "description": "Google AI 12ヶ月プラン — 共同プロジェクトや継続的な学習に最適な年間ベストコストパフォーマンス。",
+        "shortDescription": "年間学習・プロジェクトに最適な1年プラン"
       }
     }
   },
   "UserOrderDetails": {
-    "title": "注文詳細 {orderNumber}",
+    "title": "注文詳細 #{orderNumber}",
     "payNow": "今すぐ支払う",
     "status": {
       "completed": "完了",
@@ -329,68 +329,68 @@
     },
     "paymentStatus": {
       "paid": "支払い済み",
-      "failed": "決済エラー",
-      "pending": "支払い待ち"
+      "failed": "決済失敗",
+      "pending": "未払い"
     },
     "info": {
       "title": "注文情報",
       "orderNumber": "注文番号",
-      "orderDate": "注文日",
-      "customer": "お客様",
+      "orderDate": "注文日時",
+      "customer": "お客様名",
       "email": "メールアドレス"
     },
     "items": {
-      "title": "購入済み商品 ({count})",
+      "title": "購入商品 ({count})",
       "quantity": "数量: {quantity}",
-      "empty": "商品はありません"
+      "empty": "商品がありません"
     },
     "payment": {
       "title": "お支払い詳細",
       "subtotal": "小計",
       "discount": "割引",
-      "total": "合計",
-      "paidAt": "決済完了日時"
+      "total": "合計金額",
+      "paidAt": "決済日時"
     },
     "notes": {
-      "title": "注文メモ"
+      "title": "注文備考"
     },
     "support": {
       "title": "サポートが必要ですか？",
-      "description": "ご注文についてご質問がある場合は、お気軽にお問い合わせください。",
-      "contact": "サポートにお問い合わせ"
+      "description": "ご注文に関してご不明な点がございましたらお気軽にお問い合わせください",
+      "contact": "サポートに連絡"
     },
     "statusLabels": {
-      "order": "注文:",
+      "order": "注文状況:",
       "payment": "お支払い:"
     },
     "loginLinkInstructions": {
-      "title": "🔗 アカウント受け取り手順（手動）",
+      "title": "🔗 アカウント受取ガイド（手動）",
       "lead": "アカウントを受け取るには、以下の手順に従ってください：",
-      "step1": "お使いの機器で<b>Figma IDE</b>（アプリ）を開き、現在のアカウントからログアウトします",
-      "step2": "アプリ内の<b>「Sign in」</b>をクリックします",
-      "step3": "Figmaがブラウザを開き、次のようなログインリンクが表示されます：",
-      "linkExample": "https://www.figma.com/loginDeepControl?challenge=xxxxx&uuid=xxxxx&mode=login",
-      "step4": "<b>このリンクを今すぐコピーして</b>ショップに送信してください",
-      "noteTitle": "⚠️ 重要な注意事項：",
+      "step1": "端末で <b>Gemini / Google AI</b> を開き、現在のアカウントからログアウトします",
+      "step2": "アプリ内で <b>\"Sign in\"</b> をクリックします",
+      "step3": "Googleがブラウザを開き、次のようなログインリンクが表示されます：",
+      "linkExample": "https://gemini.google.com/loginDeepControl?challenge=xxxxx&uuid=xxxxx&mode=login",
+      "step4": "<b>このリンクをすぐにコピー</b>してショップに送信してください",
+      "noteTitle": "⚠️ 重要な注意点:",
       "note1": "ウェブブラウザ上でログインボタンを押さないでください",
-      "note2": "authenticator.cursor.shにリダイレクトされた後のリンクは取得しないでください",
+      "note2": "リダイレクト後の認証ページのリンクは取得しないでください",
       "note3": "リンクをコピーしてショップに送信するだけで完了です ✅",
-      "videoBtn": "▶️ 動画ガイド",
+      "videoBtn": "▶️ 解説動画",
       "fbBtn": "📘 Facebook",
       "tgBtn": "✈️ Telegram",
-      "footer": "アカウントを受け取るには、ログインリンクと注文番号 <b>#{orderNumber}</b> を送信してください。"
+      "footer": "注文番号 <b>#{orderNumber}</b> と一緒にログインリンクを送信してアカウントをお受け取りください。"
     }
   },
   "PrivacyPage": {
     "seo": {
       "title": "プライバシーポリシー",
-      "description": "FigmaEduの顧客情報プライバシーポリシー。個人データと支払い情報の100%安全な保護をお約束します。"
+      "description": "TKAIProの顧客情報保護方針。個人データと決済情報の100%安全な保護をお約束します。"
     },
     "hero": {
       "title": "プライバシー",
       "highlight": "ポリシー",
-      "description": "FigmaEduは、最新のセキュリティ対策と完全な透明性をもって、お客様の個人情報を保護することをお約束します。",
-      "update": "最終更新日: 2026年7月7日"
+      "description": "TKAIProは最先端のセキュリティ対策と完全なデータ透明性をもって、お客様の個人情報を保護することをお約束します。",
+      "update": "最終更新日: 2026年07月07日"
     },
     "highlights": {
       "ssl": {
@@ -399,256 +399,256 @@
       },
       "noCard": {
         "title": "カード情報の非保持",
-        "desc": "お客様の支払い情報を保存することはありません"
+        "desc": "お客様の決済情報は一切保存いたしません"
       },
       "transparent": {
         "title": "完全な透明性",
-        "desc": "データの収集と使用方法を明確に開示しています"
+        "desc": "データの収集および利用方法を明確に開示しています"
       },
       "rights": {
         "title": "お客様の権利",
-        "desc": "個人情報の閲覧、修正、削除を請求する権利があります"
+        "desc": "個人情報の閲覧・修正・削除を請求する権利があります"
       }
     },
     "sections": {
       "collection": {
         "title": "1. 収集する情報",
-        "basic": "基本個人情報：",
+        "basic": "基本個人情報:",
         "basicItems": {
           "1": "氏名、メールアドレス、電話番号",
           "2": "IPアドレス、ブラウザ情報、デバイスフィンガープリント（不正防止用）",
-          "3": "取引履歴、ウォレット残高、暗号資産の参照コード"
+          "3": "取引履歴、ウォレット残高、暗号資産トランザクションID"
         },
-        "payment": "お支払い情報：",
+        "payment": "決済情報:",
         "paymentItems": {
-          "1": "お支払い方法（SePay/VietQR、暗号資産、電子ウォレット）",
-          "2": "取引ID（カード番号は保存されません）",
-          "3": "支払いステータスおよび金額"
+          "1": "決済手段（SePay/VietQR、暗号資産、ウォレット）",
+          "2": "取引コード（カード番号は保持しません）",
+          "3": "決済ステータスおよび金額"
         }
       },
       "usage": {
         "title": "2. データの利用目的",
-        "purpose": "利用目的：",
+        "purpose": "利用目的:",
         "purposeItems": {
-          "1": "注文の処理およびFigma Educationアカウントの提供",
+          "1": "注文の処理およびGoogle AIアカウントの発行・提供",
           "2": "カスタマーサポートおよび問題解決",
           "3": "注文に関する重要な通知の送信",
           "4": "サービス品質の向上",
           "5": "法的義務の遵守"
         },
-        "commitment": "当社はデータを販売せず、ターゲティング広告に使用せず、18歳未満の者から意図的にデータを収集することはありません。"
+        "commitment": "当ショップはデータを売却せず、ターゲティング広告に使用せず、18歳未満の方から意図的に収集することもありません。"
       },
       "security": {
         "title": "3. 情報セキュリティ",
-        "measures": "セキュリティ対策：",
+        "measures": "セキュリティ対策:",
         "measuresItems": {
-          "1": "転送されるすべてのデータに対する256ビットSSL暗号化",
+          "1": "全通信データに対する256ビットSSL暗号化",
           "2": "ファイアウォールおよび侵入検知システム",
           "3": "定期的なセキュリティ監査",
           "4": "内部アクセス権限の制限",
           "5": "安全なデータバックアップ"
         },
-        "paymentSec": "決済の安全性：",
+        "paymentSec": "決済の安全対策:",
         "paymentSecItems": {
-          "1": "決済処理: SePay/VietQR、暗号資産（Binance、Bybit、オンチェーン）、電子ウォレット",
+          "1": "決済処理: SePay/VietQR、暗号資産（Binance、Bybit、オンチェーン）、ウォレット",
           "2": "クレジットカード情報の非保存",
-          "3": "bot対策用のCloudflare Turnstile"
+          "3": "Cloudflare TurnstileによるBot対策"
         }
       },
       "rights": {
         "title": "4. お客様の権利",
-        "desc": "お客様はご自身の個人情報に関して以下の権利を有します：",
+        "desc": "お客様はご自身の個人情報に対して完全な管理権を有しています:",
         "items": {
           "access": "アクセス権: 保存されている個人情報の開示請求",
           "edit": "訂正権: 情報の更新または修正",
-          "delete": "消去権: 個人情報の削除請求",
+          "delete": "削除権: 個人情報の削除請求",
           "object": "異議申し立て権: データ処理の拒否",
           "complain": "苦情申し立て権: セキュリティ違反の報告"
         },
-        "contact": "上記の権利を行使する場合は、以下までご連絡ください："
+        "contact": "上記権利の行使については、以下までご連絡ください:"
       },
       "cookies": {
         "title": "5. クッキーおよびトラッキング",
-        "desc": "当社はユーザー体験向上のためにクッキーを使用しています：",
+        "desc": "ユーザー体験向上のためにクッキーを使用しています:",
         "items": {
-          "1": "必須クッキー: ログイン、ショッピングカート、セキュリティ、同意状態の保存",
-          "2": "分析クッキー（オプトイン）: Microsoft Clarity、Vercel Analytics",
-          "3": "ターゲティング広告用クッキーは不使用"
+          "1": "必須クッキー: ログイン、ショッピングカート、セキュリティ、同意状態の保持",
+          "2": "分析用クッキー（オプトイン）: Microsoft Clarity、Vercel Analytics",
+          "3": "ターゲティング広告用クッキーは使用していません"
         },
-        "note": "ブラウザの設定でクッキーを無効にすることができますが、一部の機能が正常に動作しない場合があります。"
+        "note": "ブラウザの設定でクッキーを無効化できますが、一部機能が正常に動作しない場合があります。"
       },
       "sharing": {
         "title": "6. 情報の共有",
-        "desc": "当社は以下の場合にのみ情報を共有します：",
+        "desc": "以下の特定の場合にのみ情報を共有します:",
         "items": {
-          "1": "決済処理: SePay/VietQR、暗号資産（Binance、Bybit、オンチェーン）、電子ウォレット",
-          "2": "インフラストラクチャ: Vercel（ホスティング）、Cloudflare Turnstile、Brevo（メール）",
-          "3": "法的要請がある場合の公的機関",
+          "1": "決済処理: SePay/VietQR、暗号資産（Binance、Bybit、オンチェーン）、ウォレット",
+          "2": "インフラストラクチャ: Vercel（ホスティング）、Cloudflare Turnstile、Brevo（メール配信）",
+          "3": "法的要請がある場合の行政・司法機関",
           "4": "お客様の明示的な同意がある場合"
         }
       },
       "storage": {
-        "title": "7. データの保持期間",
+        "title": "7. データの保存期間",
         "items": {
-          "1": "アカウント情報: ショップアカウントが有効な期間中保存",
-          "2": "注文/取引履歴: ベトナムの税法/会計法に従い5年間保存",
-          "3": "システムログおよびフィンガープリント: 最長12ヶ月",
-          "4": "マーケティングデータ: 配信解除時に削除"
+          "1": "アカウント情報: ショップアカウントの利用継続期間中",
+          "2": "注文・取引履歴: ベトナムの税務・会計法に基づき5年間",
+          "3": "システムログおよびフィンガープリント: 最大12ヶ月",
+          "4": "マーケティングデータ: 購読解除時に削除"
         }
       },
       "minors": {
-        "title": "8. 未成年者の利用について",
-        "desc": "当サービスは18歳未満の方を対象としていません。当社が意図的に未成年者からデータを収集することはありません。18歳未満の方のデータが収集されたと思われる場合は、削除を要求するためにお問い合わせください。"
+        "title": "8. 未成年者の利用",
+        "desc": "本サービスは18歳未満を対象としておりません。18歳未満のお子様から意図的にデータを収集することはありません。該当するデータが収集されたと思われる場合は、削除請求のためご連絡ください。"
       },
       "international": {
-        "title": "9. 国際的なデータ転送",
-        "desc": "データは米国およびその他の国のサーバー（Vercel、Brevo、Cloudflare）で処理される場合があります。サービスを利用することで、この転送に同意したことになります。EUのユーザーは、保護レベルがお住まいの国と異なる可能性があることにご注意ください。"
+        "title": "9. 国際データ転送",
+        "desc": "データは米国およびその他の国（Vercel、Brevo、Cloudflareなど）にあるサーバーで処理される場合があります。サービスを利用することで、この転送に同意したものとみなされます。EU居住者の場合、保護水準が居住国と異なる場合がある点にご注意ください。"
       },
       "contact": {
         "title": "10. お問い合わせおよび苦情",
-        "desc": "本プライバシーポリシーに関するご質問やご不明点がございましたら、以下までお問い合わせください：",
-        "direct": "直接のお問い合わせ：",
-        "company": "会社情報：",
+        "desc": "本プライバシーポリシーに関するご質問やご不明点は以下までご連絡ください:",
+        "direct": "直接のお問い合わせ:",
+        "company": "会社情報:",
         "supportTime": "サポート時間: 24時間365日"
       }
     },
     "cta": {
       "title": "セキュリティに関するご質問はありますか？",
-      "description": "当社のセキュリティチームがお客様のあらゆるご質問にお答えします",
-      "contact": "今すぐお問い合わせ",
+      "description": "当ショップのセキュリティチームがご質問にお答えいたします",
+      "contact": "今すぐ問い合わせる",
       "terms": "利用規約を見る"
     }
   },
   "PaymentResult": {
-    "title": "注文の支払い",
-    "orderNumber": "注文番号{number}",
+    "title": "ご注文の決済",
+    "orderNumber": "注文番号 #{number}",
     "status": {
-      "paid": "有料",
-      "pending": "支払いを待ちます"
+      "paid": "支払い済み",
+      "pending": "支払い待ち"
     },
     "progress": {
       "info": "注文情報",
-      "payment": "支払う",
+      "payment": "お支払い",
       "finish": "完了"
     },
     "transfer": {
-      "title": "乗り換え情報",
-      "scan": "QRコードをスキャンして送金します",
-      "generating": "QRコードを作成しています...",
+      "title": "振込情報",
+      "scan": "QRコードをスキャンして送金",
+      "generating": "QRコードを作成中...",
       "bank": "銀行",
       "accountNumber": "口座番号",
-      "accountName": "アカウント所有者",
-      "amount": "額",
-      "content": "コンテンツの転送",
-      "contentNote": "⚠️ システムが自動的に確認するため、以下に正しい転送内容を入力してください",
-      "check": "お金を送金しました",
-      "checkManual": "手動チェック",
-      "checking": "チェック中...",
+      "accountName": "口座名義",
+      "amount": "金額",
+      "content": "振込内容・名義",
+      "contentNote": "⚠️ システムによる自動確認を行うため、以下の振込内容を正しく入力してください",
+      "check": "送金完了",
+      "checkManual": "手動で確認",
+      "checking": "確認中...",
       "copy": "{label} をコピーしました",
-      "autoVerifyTitle": "⏱️ 転送後、5〜10秒お待ちください。",
-      "autoVerifyDesc": "システムはあなたの取引を自動的に検証します。 30秒経っても更新されない場合は、下の手動チェックボタンを押してください。"
+      "autoVerifyTitle": "⏱️ 送金後、5〜10秒ほどお待ちください",
+      "autoVerifyDesc": "システムがトランザクションを自動検証します。30秒経過しても更新されない場合は、下の「手動で確認」ボタンを押してください。"
     },
     "summary": {
-      "title": "注文の詳細",
-      "customer": "顧客情報",
-      "name": "名前：",
-      "email": "電子メール:",
-      "products": "製品 ({count})",
-      "total": "合計：",
-      "successTitle": "支払いが成功しました！",
-      "successDesc": "アカウントが発行され、以下に表示されます。",
-      "redirect": "🔄 {seconds} 秒以内に注文ページに自動的にリダイレクトされます...",
-      "guestSuccessTitle": "注文が確定しました！",
+      "title": "注文明細",
+      "customer": "お客様情報",
+      "name": "お名前:",
+      "email": "メールアドレス:",
+      "products": "商品 ({count})",
+      "total": "合計:",
+      "successTitle": "お支払いが完了しました！",
+      "successDesc": "アカウントが発行されました。以下をご確認ください。",
+      "redirect": "🔄 {seconds} 秒後に注文ページへ自動移動します...",
+      "guestSuccessTitle": "ご注文が確認されました！",
       "guestOrderNumber": "注文コード:",
-      "guestEmailNotice": "📧 注文確認メールとアカウント情報は {email} に送信されます。メールボックス（迷惑メールを含む）をご確認ください。",
-      "guestSaveOrder": "📌 上記の注文コードを保存して、必要に応じて検索したり、サポートに連絡したりしてください。",
-      "guestContactTitle": "サポートが必要ですか?今すぐ連絡してください:",
-      "guestRegisterHint": "💡 ウェブサイトでアカウントを作成すると、注文を簡単に管理し、いつでもアカウント情報を確認できます。",
-      "note": "💡 注: 送金を受け取った後、注文は自動的に確認されます。",
-      "support": "問題がある場合は、お問い合わせページまたはサポート チャネル FigmaEdu からサポートにご連絡ください。"
+      "guestEmailNotice": "📧 注文確認およびアカウント情報が {email} に送信されます。受信トレイ（迷惑メールフォルダを含む）をご確認ください。",
+      "guestSaveOrder": "📌 必要に応じて照会やサポート問い合わせができるよう、上記の注文コードを控えておいてください。",
+      "guestContactTitle": "サポートが必要ですか？今すぐお問い合わせ:",
+      "guestRegisterHint": "💡 ウェブサイトでアカウント登録すると、いつでも注文管理やアカウント情報の確認ができます。",
+      "note": "💡 ご注意: 送金確認が取れ次第、ご注文は自動的に確定されます。",
+      "support": "問題が発生した場合は、お問い合わせページまたはTKAIProサポートチャネルよりご連絡ください"
     },
     "error": {
       "notFound": "注文が見つかりません",
-      "fetchError": "注文情報をダウンロードできません",
-      "connection": "接続エラー。もう一度お試しください。",
-      "back": "購入に戻る"
+      "fetchError": "注文情報を読み込めませんでした",
+      "connection": "接続エラーが発生しました。もう一度お試しください",
+      "back": "商品一覧に戻る"
     },
-    "backButton": "購入に戻る",
-    "qrAlt": "QRコード決済",
+    "backButton": "商品一覧に戻る",
+    "qrAlt": "決済用QRコード",
     "binance": {
-      "title": "バイナンスペイ",
-      "desc": "Binance アプリを使用して以下の ID に移動してください"
+      "title": "Binance Pay",
+      "desc": "Binanceアプリを使用して以下のID宛に送金してください"
     },
     "crypto": {
-      "selectMethod": "支払い方法を選択してください",
-      "scanQrToPay": "QR をスキャンして支払いを送信します",
-      "scanWithApp": "アプリ {app} でスキャンして支払います",
-      "provider": "サプライヤー",
-      "payId": "ペイID",
+      "selectMethod": "お支払い方法を選択",
+      "scanQrToPay": "QRコードをスキャンして送金",
+      "scanWithApp": "{app} アプリでスキャンしてお支払い",
+      "provider": "プロバイダー",
+      "payId": "Pay-ID",
       "accountName": "アカウント名",
-      "asset": "コイン",
+      "asset": "通貨",
       "network": "ネットワーク",
       "address": "ウォレットアドレス",
-      "sendOnlyOn": "{network} ネットワーク上でのみ {asset} を送信してください。間違ったネットワークに送信すると、永久にお金が失われます。",
-      "orderRefNote": "注文参照 (オンチェーンメモではない) — 必要に応じてコメント/メモボックスに添付されます。",
+      "sendOnlyOn": "{network} ネットワーク上の {asset} のみを送金してください。誤ったネットワーク宛てに送金した場合、資金は永久に失われます。",
+      "orderRefNote": "注文リファレンス（オンチェーンのメモではありません）— 取引所で求められた場合は備考/メモ欄に入力してください。",
       "manualVerifyTitle": "手動検証",
-      "manualVerifyDesc": "送信後、管理者が確認するまで数分待つか、アプリケーション コードを添えてサポートに連絡してください。",
-      "zoomQr": "QR コード {method} を拡大してください"
+      "manualVerifyDesc": "送金後、管理者による確認完了まで数分お待ちいただくか、注文コードを添えてサポートまでご連絡ください。",
+      "zoomQr": "{method} のQRコードを拡大"
     },
     "loginLinkInstructions": {
-      "title": "🔗 アカウントを受け取る手順",
-      "lead": "アカウントを取得するには、次の手順に従ってください。",
-      "step1": "コンピューターで <b>Figma IDE</b> を開き、現在のアカウントからログアウトします",
-      "step2": "アプリ内で <b>「サインイン」</b> をクリックします",
-      "step3": "Figma は次のようなログイン リンクでブラウザを開きます。",
-      "linkExample": "https://www.figma.com/loginDeepControl?challenge=xxxxx&uuid=xxxxx&mode=login",
-      "step4": "<b>このリンクを今すぐコピーしてください</b> ショップに送信してください",
-      "noteTitle": "⚠️重要な注意事項:",
-      "note1": "Webブラウザで「ログイン」をクリックしないでください",
-      "note2": "リンクを使用せず、ページをauthenticator.cursor.shに自動的にリダイレクトしないでください。ページを切り替えた場合は、「サインイン」操作を最初からやり直してください。",
-      "note3": "リンクをコピーしてショップに送信するだけで完了です。ショップアカウントログインOK✅",
-      "videoBtn": "▶️ 説明ビデオを見る",
-      "fbBtn": "📘フェイスブック",
-      "tgBtn": "✈️電報",
-      "footer": "アカウントを受け取るには、注文コード <b>#{orderNumber}</b> を含むログイン リンクを送信してください。"
+      "title": "🔗 アカウント受取手順",
+      "lead": "アカウントを受け取るには、以下の手順に従ってください:",
+      "step1": "端末で <b>Gemini / Google AI</b> を開き、現在のアカウントからログアウトします",
+      "step2": "アプリ内の <b>\"Sign in\"</b>（サインイン）をタップします",
+      "step3": "Googleがブラウザを開き、次のようなログインリンクが表示されます:",
+      "linkExample": "https://gemini.google.com/loginDeepControl?challenge=xxxxx&uuid=xxxxx&mode=login",
+      "step4": "<b>このリンクをすぐにコピーして</b> ショップに送信してください",
+      "noteTitle": "⚠️ 重要な注意事項:",
+      "note1": "ウェブブラウザ上で直接ログインボタンを押さないでください",
+      "note2": "外部認証ページへ自動転送された後のリンクは取得しないでください。転送された場合は、最初から「Sign in」の操作をやり直してください",
+      "note3": "リンクをコピーしてショップに送信するだけで完了です。ショップ側でログイン処理を行います ✅",
+      "videoBtn": "▶️ 解説動画を見る",
+      "fbBtn": "📘 Facebook",
+      "tgBtn": "✈️ Telegram",
+      "footer": "アカウントを受け取るには、注文番号 <b>#{orderNumber}</b> と一緒にログインリンクをお送りください。"
     }
   },
   "HeaderUser": {
     "menu": {
-      "orders": "私の注文",
-      "wallet": "私の財布",
-      "profile": "個人プロフィール",
+      "orders": "マイ注文",
+      "wallet": "マイウォレット",
+      "profile": "プロフィール",
       "settings": "設定",
-      "admin": "管理ページ",
-      "signOut": "サインアウト"
+      "admin": "管理画面",
+      "signOut": "ログアウト"
     },
     "toast": {
-      "success": "正常にサインアウトしました",
+      "success": "ログアウトしました",
       "error": "ログアウト中にエラーが発生しました"
     }
   },
   "Header": {
-    "home": "ホームページ",
-    "intro": "導入",
-    "products": "製品",
-    "purchasedCustomers": "お客様が購入したもの",
+    "home": "ホーム",
+    "intro": "概要",
+    "products": "商品一覧",
+    "purchasedCustomers": "購入者の声",
     "blog": "ブログ",
-    "affiliate": "協力者",
-    "contact": "接触",
+    "affiliate": "アフィリエイト",
+    "contact": "お問い合わせ",
     "admin": "管理者",
     "signIn": "ログイン",
-    "signUp": "登録する",
-    "dashboard": "注文",
-    "profile": "ファイル",
+    "signUp": "新規登録",
+    "dashboard": "ダッシュボード",
+    "profile": "プロフィール",
     "settings": "設定",
-    "cart": "ショッピングカート",
-    "orders": "注文",
+    "cart": "カート",
+    "orders": "注文履歴",
     "search": {
-      "placeholder": "製品を検索...",
-      "empty": "製品が見つかりませんでした",
+      "placeholder": "商品を検索...",
+      "empty": "商品が見つかりませんでした",
       "hint": "検索"
     },
-    "wallet": "私の財布"
+    "wallet": "マイウォレット"
   },
   "Common": {
     "language": "言語",
@@ -656,591 +656,591 @@
     "english": "英語"
   },
   "HomePage": {
-    "heroTitle": "アカウントを購入 <highlight>Figma Education</highlight> — <highlight>Figma edu</highlight> 良い価格、速い配達",
-    "heroDescription": "FigmaEdu は、アカウント Figma Education の独立した小売業者です。支払い→数分でメールでログインを受け取ります。 1対1の保証、年中無休のサポート。 Figma, Inc. とは無関係です",
-    "ctaRegister": "価格表を見る",
-    "ctaPricing": "📊 価格表を参照",
-    "disclaimer": "FigmaEdu は独立した小売店です。当社は、Figma, Inc. を代表するものではなく、Figma, Inc. によって所有され、スポンサーまたは承認されていません。「Figma」および「Figma Education」は Figma, Inc. の商標です。当社は、合法的に購入したサブスクリプションをデザイン学生やプロジェクト チームに再配布します。",
+    "heroTitle": "<highlight>Google AI</highlight> アカウント購入 — Pro、Ultra & <highlight>Antigravity</highlight>",
+    "heroDescription": "TKAIPro (tkaipro.shop) は独立したリセラーです：Google AI Pro、Google Ultra、Antigravity PRO/ULTRA アカウントを購入。お支払い → メールでログイン情報をお受取り。1対1の保証付き、24時間365日サポート。Google LLC との提携はありません。",
+    "ctaRegister": "料金プランを見る",
+    "ctaPricing": "料金プランを見る",
+    "disclaimer": "TKAIPro は独立したサードパーティリセラーです。当ショップは Google LLC を代表・所有・協賛・承認するものではありません。「Google」、「Google AI」、「Gemini」および関連するパッケージ名は Google LLC の商標です。各製品に記載された説明に従い、合法的に購入されたアカウント/サブスクリプションを転売しています。",
     "badges": {
-      "warranty": "保証 1 対 1 の交換",
-      "support": "年中無休のサポート"
+      "warranty": "1対1交換保証",
+      "support": "24時間365日サポート"
     },
     "customRequest": {
-      "badge": "熱い",
-      "title": "リクエストに応じてアカウントを受信および検索します",
-      "subtitle": "ウェブサイト</highlight> にリストされているもの以外の別の <highlight>Figma edu パッケージが必要ですか?受信トレイ ショップでは、5 分で検索と見積もりが可能です。",
-      "cta": "今すぐ連絡する"
+      "badge": "HOT",
+      "title": "ご希望のアカウントを個別に検索・手配",
+      "subtitle": "ウェブサイトのリスト以外の<highlight>Google AI パッケージ</highlight>が必要ですか？ショップまでお問い合わせいただければ、5分以内にお探しして見積もりをお出しします。",
+      "cta": "今すぐお問い合わせ"
     },
     "productTypes": {
-      "cursor-pro": "Figma Education",
-      "cursor-pro-official-1m": "Figma エドゥ 1 か月",
-      "github-copilot": "Figma 教育 3 か月",
-      "github-edu": "Figma 教育 6 か月",
-      "figma-pro": "Figma Education",
-      "jetbrains-edu": "Figma 教育 12 か月"
+      "cursor-pro": "Google AI",
+      "cursor-pro-official-1m": "Google AI 1ヶ月",
+      "github-copilot": "Google AI 3ヶ月",
+      "github-edu": "Google AI 6ヶ月",
+      "figma-pro": "Google AI",
+      "jetbrains-edu": "Google AI 12ヶ月"
     },
     "urgency": {
-      "title": "⚡ 限定オファー - 最大 90% 割引",
-      "subtitle": "この特別オファーを受け取るまであと <bold>3 日</bold> のみです"
+      "title": "⚡ 期間限定特典 - 最大90%オフ",
+      "subtitle": "この特別オファーの終了まで残り<bold>3日</bold>"
     },
     "liveDemo": "🔴 ライブデモ",
-    "featuresTitle": "Figma アカウントの購入に FigmaEdu を選択する理由は何ですか?",
-    "featuresDescription": "数千人の UI デザインとフリーランスの学生にサービスを提供する独立系小売業者。競争力のある価格、短納期、1対1の保証。",
+    "featuresTitle": "Google AI アカウントの購入に TKAIPro が選ばれる理由",
+    "featuresDescription": "tkaipro.shop の独立したリセラー — Google AI Pro、Ultra および Antigravity PRO/ULTRA。競争力のある価格、迅速なメール納品、1対1の保証。",
     "features": {
       "transparentConsulting": {
         "title": "透明性のあるコンサルティング",
-        "description": "コンサルティング チームは、適切な Figma Education パッケージを選択し、明確な情報を提供して Figma edu アカウントの購入を完了できるようお手伝いします。"
+        "description": "専門スタッフが最適な Google AI パッケージの選択をサポートし、明確な情報とともに Google AI アカウントの購入を完了できます。"
       },
       "reasonableSavings": {
-        "title": "合理的な節約",
-        "description": "適切な支払い方法 (VietQR、MoMo、ZaloPay) を提案し、Figma Education アカウントを購入する際のコストを最適化します。"
+        "title": "合理的なコスト削減",
+        "description": "適切な決済方法（VietQR、MoMo、ZaloPay）をご提案し、Google AI アカウント購入時のコストを最適化します。"
       },
       "support247": {
-        "title": "年中無休のサポート",
-        "description": "Telegram による 24 時間年中無休のカスタマー サポート。 Figma edu に関するすべての質問にすぐに答えます。"
+        "title": "24時間365日サポート",
+        "description": "Telegram 経由で24時間365日カスタマーサポートを提供。Google AI に関するご質問に迅速にお答えします。"
       },
       "longTermCompanion": {
-        "title": "長年の相棒",
-        "description": "Figma のログイン手順、ベトナム語のドキュメント、アカウント配信後のサポートを提供します。"
+        "title": "長期的なサポート",
+        "description": "Google AI のログイン手順ガイドやベトナム語ドキュメントの提供、アカウント納品後のサポートも充実しています。"
       }
     },
-    "benefitsTitle": "Figma Education アカウントを購入する必要がある理由",
-    "benefitsDescription": "Figma Education — リアルタイム コラボ、開発モード、デザイン チームの教育権限に基づくライブラリとファイル",
+    "benefitsTitle": "なぜ Google AI アカウントを購入すべきなのか？",
+    "benefitsDescription": "Google AI — リアルタイムでのコラボレーション、Dev Mode、デザインチーム向けライブラリ＆ファイル権限",
     "benefits": {
       "unlimitedCompletion": {
         "title": "無制限のリアルタイムコラボレーション",
-        "description": "同じ Figma ファイルでチームとして作業し、コメントと編集を同時に行うことができます。プロジェクトやフリーランスの UI に適しています。"
+        "description": "チームと同じ Google AI ファイルで共同作業し、同時にコメントや編集が可能 — プロジェクトや Gemini ユーザーに最適です。"
       },
       "fastRequests": {
-        "title": "開発モードとハンドオフ",
-        "description": "無料版よりも速くパラメータを表示し、アセットをエクスポートし、設計チームと同期します。"
+        "title": "Dev Mode ＆ ハンドオフ",
+        "description": "無料版よりも迅速に仕様の確認、アセットのエクスポート、デザインチームとの同期が行えます。"
       },
       "maxMode": {
-        "title": "ライブラリとコンポーネントの教育",
-        "description": "Figma Education パッケージ権限に基づいてライブラリ、コンポーネント、プロトタイプを使用します。学習や実際のプロジェクトには十分です。"
+        "title": "Edu ライブラリ ＆ コンポーネント",
+        "description": "Google AI パッケージ権限によるライブラリ、コンポーネント、プロトタイプの利用 — 学習や実際のプロジェクトに充分な機能。"
       }
     },
     "finalCta": {
-      "title": "Figma edu アカウントを購入する準備はできましたか?",
-      "description": "FigmaEdu を選択した何千人ものデザイン学生に加わりましょう。 Figma Education アカウントの価格リストを今すぐご覧ください。",
-      "register": "価格表を見る",
-      "viewPackages": "価格表を見る"
+      "title": "Google AI アカウントを購入する準備はできましたか？",
+      "description": "TKAIPro (tkaipro.shop) で Google AI Pro、Ultra、Antigravity の料金プランをご確認ください — Google LLC と提携していない独立したリセラーです。",
+      "register": "料金プランを見る",
+      "viewPackages": "料金プランを見る"
     }
   },
   "ProofGallery": {
     "cta": "詳細を見る",
     "badges": {
-      "featured": "並外れた",
+      "featured": "注目",
       "verified": "確認済み",
       "authentic": ""
     },
     "empty": {
-      "title": "まだ証拠はありません",
-      "description": "新しい注文はすぐに更新されます"
+      "title": "実績証明はまだありません",
+      "description": "新しい注文が追加され次第更新されます"
     },
     "details": {
       "orderCode": "注文コード",
-      "customer": "クライアント",
-      "value": "価値",
+      "customer": "お客様",
+      "value": "金額",
       "orderDate": "注文日"
     },
     "zoom": {
-      "zoomOut": "ズームアウト",
-      "zoomIn": "拡大する",
+      "zoomOut": "縮小",
+      "zoomIn": "拡大",
       "reset": "リセット",
       "hint": {
-        "zoom": "クリックして拡大 • スクロールして拡大",
-        "pan": "ドラッグして移動 • スクロールしてズーム"
+        "zoom": "クリックで拡大 • スクロールでズーム",
+        "pan": "ドラッグで移動 • スクロールでズーム"
       }
     }
   },
   "TrustSocialProof": {
-    "badge": "お客様からの本物の証拠",
-    "titlePart1": "何千もの顧客が信頼しています",
-    "titlePart2": "そして私たちのサービスを利用してください",
-    "description": "成功した注文の実際の証拠をご覧ください。すべての注文は検証され、1対1の保証が付いています。",
+    "badge": "お客様からのリアルな実績",
+    "titlePart1": "数千のお客様に信頼され",
+    "titlePart2": "当社のサービスをご利用いただいています",
+    "description": "成功した注文の実際の証明をご覧ください。すべての注文は検証済みで、1対1の保証が付いています。",
     "stats": {
       "successOrders": "成功した注文",
       "avgRating": "平均評価"
     },
-    "cta": "すべてのお客様の声を見る",
-    "ctaSub": "クリックすると、何千もの成功した注文と実際の顧客からのレビューが表示されます",
+    "cta": "すべてのお客様の証明を見る",
+    "ctaSub": "クリックして数千件の成功注文とリアルなお客様の評価を見る",
     "empty": {
-      "title": "証拠はすぐに更新されます"
+      "title": "実績証明はまもなく更新されます"
     },
     "labels": {
-      "verified": "検証済み",
+      "verified": "確認済み",
       "authentic": "100%",
-      "warranty": "1対1の交換保証",
-      "support": "年中無休のサポート"
+      "warranty": "1対1交換保証",
+      "support": "24時間365日サポート"
     }
   },
   "FeaturedProducts": {
-    "title": "Figma Education アカウント パッケージ",
-    "subtitle": "Figma edu アカウントを購入 — お金を節約 — 1 対 1 の保証",
+    "title": "Google AI Pro, Ultra & Antigravity",
+    "subtitle": "Google AI Pro、Ultra、Antigravity PRO/ULTRA アカウントのご購入 — 1対1の品質保証付き",
     "cta": "すべてのプランを見る",
     "toast": "{name} がカートに追加されました"
   },
   "Footer": {
-    "description": "FigmaEdu — 独立系小売業者 Figma Education アカウント。 Figma, Inc. 1 対 1 の保証、24 時間 365 日のサポートとは提携していません。",
+    "description": "TKAIPro (tkaipro.shop) — 独立系リセラー：Google AI Pro、Ultra & Antigravity アカウントの販売。Google LLC との提携はありません。1対1保証、24時間365日サポート。",
     "columns": {
       "products": "製品",
-      "company": "会社",
+      "company": "会社情報",
       "support": "サポート"
     },
     "links": {
-      "allPackages": "すべてのパッケージ",
-      "cursorPro1m": "Figma Education 1 か月",
-      "cursorPro3m": "Figma Education 3 か月",
-      "cursorPro6m": "Figma Education 6 か月",
-      "cursorPro12m": "Figma Education 12 か月",
+      "allPackages": "すべてのプラン",
+      "cursorPro1m": "Google AI 1ヶ月",
+      "cursorPro3m": "Google AI 3ヶ月",
+      "cursorPro6m": "Google AI 6ヶ月",
+      "cursorPro12m": "Google AI 12ヶ月",
       "about": "私たちについて",
-      "careers": "募集",
-      "affiliate": "協力者",
+      "careers": "採用情報",
+      "affiliate": "アフィリエイト",
       "blog": "ブログ",
-      "press": "プレス",
-      "contact": "接触",
-      "customers": "お客様が購入したもの",
-      "help": "サポートセンター",
-      "shipping": "配送と返品",
-      "warranty": "保証",
-      "returnPolicy": "返品規則",
+      "press": "プレスリリース",
+      "contact": "お問い合わせ",
+      "customers": "購入実績・お客様の声",
+      "help": "ヘルプセンター",
+      "shipping": "配送・返品ポリシー",
+      "warranty": "保証制度",
+      "returnPolicy": "返金・交換ポリシー",
       "privacy": "プライバシーポリシー",
       "terms": "利用規約",
       "disclaimer": "免責事項",
-      "cookies": "クッキー",
+      "cookies": "クッキーポリシー",
       "sitemap": "サイトマップ"
     },
-    "copyright": "無断転載を禁じます。",
+    "copyright": "All rights reserved.",
     "schedule": {
-      "title": "サポート時間",
-      "mainHours": "08:00～23:00（月曜日～日曜日）",
-      "fastHours": "迅速な対応時間: 月曜～金曜、08:00～12:00。 13:30～17:00",
-      "telegramPriority": "Telegramを優先して応答を速くする",
-      "emergency": "緊急: Telegram/Facebook 経由で年中無休 24 時間対応"
+      "title": "サポート対応時間",
+      "mainHours": "08:00-23:00（月曜日〜日曜日）",
+      "fastHours": "高速返信時間帯：月〜金 08:00-12:00 / 13:30-17:00",
+      "telegramPriority": "迅速な対応をご希望の場合は Telegram を優先的にご利用ください",
+      "emergency": "緊急時：Telegram / Facebook で24時間365日対応"
     },
     "legal": {
-      "disclaimerTitle": "商標に関する声明",
-      "disclaimerBody": "FigmaEdu は、アカウント Figma Education の独立系小売業者 (サードパーティ再販業者) です。当社は、Figma, Inc. と提携、承認、スポンサーされていません。「Figma」および「Figma Education」は、Figma, Inc. の商標です。当社は、UI ベトナムのフリーランスおよびデザイン学生の便宜を図るために、合法的に購入したアカウント/サブスクリプションを再販しています。商標所有者から直接申請するには、https://www.figma.com. にアクセスしてください。"
+      "disclaimerTitle": "商標に関する免責事項",
+      "disclaimerBody": "TKAIPro は Google AI アカウントの独立系サードパーティリセラーです。当社は Google LLC との提携、認証、スポンサー関係にありません。「Google」および「Google AI」は Google LLC の商標です。当社は AI ユーザーおよびベトナムの Gemini ユーザーの利便性のために合法的に購入されたアカウント/サブスクリプションを転売しています。商標権者から直接登録するには、https://gemini.google.com にアクセスしてください。"
     },
     "trustBadges": {
-      "authentic": "評判の良いエージェント"
+      "authentic": "信頼できる正規リセラー"
     }
   },
   "SEO": {
-    "defaultDescription": "FigmaEdu は、アカウント Figma Education の独立系小売業者 (サードパーティ再販業者) です。 Figma edu アカウントを手頃な価格で購入し、支払い後の電子メールによるログイン、1 対 1 の保証、24 時間年中無休のサポートをご利用ください。 Figma, Inc. とは無関係です",
-    "defaultTitle": "Figma Edu アカウントをお得な価格で購入 | FigmaEdu",
-    "slogan": "アカウント小売業者 Figma Education",
-    "keywords": "Figma アカウント、Figma edu、Figma Education、Figma edu アカウントを購入、Figma Education、FigmaEdu、figmaedu.shop、Figma アカウントを手頃な価格で購入"
+    "defaultDescription": "TKAIPro (tkaipro.shop) で Google AI アカウントを購入：Google PRO、Google ULTRA、Antigravity PRO/ULTRA。独立系リセラー — メールでログイン情報を配信、1対1保証、24/7サポート。Google LLC との提携はありません。",
+    "defaultTitle": "Google AI Pro、Ultra & Antigravity アカウントの購入 | TKAIPro",
+    "slogan": "Google AI アカウント購入 — 独立系リセラー",
+    "keywords": "Google AI アカウント購入, Google PRO, Google ULTRA, Antigravity PRO, Antigravity ULTRA, Google AI アカウント, TKAIPro, tkaipro.shop, Google AI Pro, Google AI Ultra"
   },
   "CompetitorComparison": {
-    "title": "Figma Education を他のツールと比較する",
-    "description": "多くの UI デザインやフリーランスの学生が、無料版や他のツールを使用するのではなく、FigmaEdu 経由で Figma edu アカウントを購入することを選択するのはなぜでしょうか。",
+    "title": "Google AI と他のツールとの比較",
+    "description": "多くの AI ユーザーや Gemini ユーザーが無料版や他のツールではなく、TKAIPro で Google AI アカウントを購入する理由。",
     "tools": {
       "cursor": {
-        "description": "Figma Education — コラボ&開発モード",
-        "price": "FigmaEdu 経由でお手頃価格",
-        "originalPrice": "期限までに Figma Education を梱包します"
+        "description": "Google AI — コラボレーション & Dev Mode",
+        "price": "TKAIPro での特別価格",
+        "originalPrice": "期間別の Google AI プラン"
       },
       "vscode": {
-        "name": "Figma 無料",
-        "description": "限定無料版",
-        "price": "無料"
+        "name": "Google AI Free",
+        "description": "機能制限付き無料版",
+        "price": "Free"
       },
       "copilot": {
-        "name": "スケッチ",
-        "description": "macOS中心の設計",
-        "price": "別途お支払い"
+        "name": "Sketch",
+        "description": "macOS 中心設計",
+        "price": "個別の有料プラン"
       },
       "codeium": {
-        "name": "Adobe XD/Canva",
-        "description": "試作＆軽量設計",
-        "price": "各ブランドのパッケージによると"
+        "name": "Adobe XD / Canva",
+        "description": "プロトタイプ & 簡易デザイン",
+        "price": "各社の料金プランによる"
       }
     },
     "features": {
-      "header": "特徴",
-      "completion": "リアルタイムコラボ",
-      "chat": "ファイルにコメントする",
-      "models": "コンポーネントとライブラリ",
-      "analysis": "開発モード/ハンドオフ",
+      "header": "機能",
+      "completion": "リアルタイムコラボレーション",
+      "chat": "ファイル上でのコメント",
+      "models": "コンポーネント & ライブラリ",
+      "analysis": "Dev Mode / ハンドオフ",
       "editing": "マルチプレイヤー編集",
-      "generation": "インタラクティブなプロトタイプ",
-      "debug": "プラグインとコミュニティ",
-      "performance": "プロジェクトのグループワーク",
-      "cost": "FigmaEdu 経由の費用 (参考)"
+      "generation": "インタラクティブプロトタイプ",
+      "debug": "プラグイン & コミュニティ",
+      "performance": "プロジェクトでのチーム作業",
+      "cost": "TKAIPro 経由の費用（参考）"
     },
     "values": {
       "cursor": {
-        "completion": "教育機関の権利に基づいて無制限",
-        "chat": "コメントとメンション全文",
-        "models": "ライブラリとコンポーネントの教育",
-        "analysis": "✓ 開発モード",
-        "editing": "✓ 同時に多くの人が",
+        "completion": "無制限（edu 権限に準拠）",
+        "chat": "フル機能のコメント & メンション",
+        "models": "ライブラリ & コンポーネント edu",
+        "analysis": "✓ Dev Mode",
+        "editing": "✓ 複数人の同時編集",
         "generation": "✓ 高度なプロトタイプ",
-        "debug": "✓ 大規模なエコシステム",
-        "performance": "勉強会などに最適",
-        "cost": "お得な月額料金"
+        "debug": "✓ 充実したエコシステム",
+        "performance": "学習グループ向けに最適化",
+        "cost": "お得な月額価格"
       },
       "vscode": {
-        "completion": "ファイル/チーム制限",
-        "chat": "基本",
-        "models": "限界",
-        "analysis": "✗ / 非常に限定的",
-        "editing": "席数が限られている",
-        "generation": "基本",
-        "debug": "基本",
-        "performance": "個人使用には十分です",
-        "cost": "無料（制限あり）"
+        "completion": "ファイル数/チーム数の制限あり",
+        "chat": "基本機能のみ",
+        "models": "制限あり",
+        "analysis": "✗ / 非常に制限あり",
+        "editing": "シート数制限あり",
+        "generation": "基本機能のみ",
+        "debug": "基本機能のみ",
+        "performance": "個人利用に十分",
+        "cost": "Free（制限あり）"
       },
       "copilot": {
-        "completion": "ローカル/クラウドのスケッチファイルによる",
-        "chat": "Figmaよりも制限が多い",
-        "models": "シンボル/ライブラリ",
-        "analysis": "プライベート検査",
-        "editing": "弱いマルチプレイヤー",
-        "generation": "プロトタイプはい",
-        "debug": "プラグインの削減",
-        "performance": "主にmacOS",
-        "cost": "スケッチ料金を支払う"
+        "completion": "ローカルファイル / Sketch クラウドに準拠",
+        "chat": "Google AI より限定的",
+        "models": "シンボル / ライブラリ",
+        "analysis": "独自のインスペクト機能",
+        "editing": "マルチプレイヤー編集が限定的",
+        "generation": "プロトタイプ機能あり",
+        "debug": "プラグインが少ない",
+        "performance": "主に macOS 向け",
+        "cost": "Sketch 有料プラン"
       },
       "codeium": {
-        "completion": "コラボはパッケージに依存",
-        "chat": "商品によっては",
-        "models": "利用可能なテンプレート",
+        "completion": "プランに応じたコラボレーション",
+        "chat": "製品による",
+        "models": "既存テンプレート",
         "analysis": "限定的なハンドオフ",
-        "editing": "パッケージによると",
-        "generation": "ライトプロトタイプ/マーケティング",
-        "debug": "異なる生態系",
-        "performance": "軽量設計に最適",
-        "cost": "Adobe/Canvaによると"
+        "editing": "プランによる",
+        "generation": "簡易プロトタイプ / マーケティング",
+        "debug": "異なるエコシステム",
+        "performance": "ライトデザインに適合",
+        "cost": "Adobe / Canva に準拠"
       }
     },
     "cards": {
       "cursor": {
-        "title": "Figma Education 優れている点は何ですか?",
+        "title": "Google AI の主な特長",
         "content": [
-          "• <bold>Collab realtime</bold> UI/UX プロジェクト チーム用",
-          "• <bold>開発モード</bold> パラメータの表示とアセットのエクスポート",
-          "• <bold>コンポーネント / ライブラリ</bold> は教育機関の権利に基づく",
-          "• <bold>Prototype</bold> ファイル上の画面ストリーム"
+          "• <bold>リアルタイムコラボレーション</bold>（UI/UXプロジェクトグループ向け）",
+          "• <bold>Dev Mode</bold>（仕様の確認 & アセットの書き出し）",
+          "• <bold>コンポーネント / ライブラリ</bold>（edu 権限に準拠）",
+          "• <bold>プロトタイプ</bold>（ファイル上での直接画面フロー作成）"
         ]
       },
       "service": {
-        "title": "FigmaEdu を通じて購入する場合の価値",
+        "title": "TKAIPro で購入するメリット",
         "content": [
-          "• <bold>Figma アカウントを購入</bold> 国内決済 (VietQR、ウォレット)",
-          "• <bold>学習/フリーランスのニーズに応じてパッケージの選択について相談</bold>",
-          "• <bold>ベトナム語サポート</bold> 年中無休",
-          "• <bold>Transparency</bold> — Figma, Inc. と提携していない独立した小売業者"
+          "• <bold>Google AI アカウントのご購入</bold>（国内決済 VietQR、Eウォレット対応）",
+          "• <bold>プラン選びの相談</bold>（学習・フリーランスのニーズに対応）",
+          "• <bold>24時間365日のサポート</bold>",
+          "• <bold>透明性</bold> — Google LLC と提携していない独立系リセラー"
         ]
       },
       "commitment": {
-        "title": "FigmaEdu からのコミットメント",
+        "title": "TKAIPro からのお約束",
         "content": [
-          "• <bold>保証 最初の 24 時間以内の </bold> ショップ エラーに対して 1 交換につき 1 件",
-          "• 支払い後、メール</bold>経由で<bold>Giaoログイン",
-          "• <bold>24 時間年中無休サポート </bold> ベトナム語",
-          "• <bold>ログイン手順</bold> (A ～ Z)"
+          "• <bold>1対1保証</bold>（最初の24時間のショップ起因エラーに対応）",
+          "• <bold>メールによるログイン情報のお届け</bold>（決済完了後）",
+          "• <bold>24/7サポート</bold>",
+          "• <bold>ログイン手順の完全ガイド</bold>（A〜Zまで丁寧に対応）"
         ]
       }
     },
-    "recommended": "推奨"
+    "recommended": "おすすめ"
   },
   "SuccessStories": {
-    "title": "Figma Edu アカウントを購入されたお客様",
-    "description": "FigmaEdu で Figma Education アカウントを購入したデザイン学生、UI フリーランサー、プロジェクト チームからのストーリー",
+    "title": "Google AI アカウントをご購入いただいたお客様",
+    "description": "TKAIProでGoogle AIアカウントを購入されたAIユーザー、Geminiユーザー、プロジェクトチームの体験談",
     "stats": {
-      "developers": "お客様は Figma edu を購入しました",
-      "speed": "モックアップの完成速度",
-      "debug": "グループ編集時間を短縮する",
+      "developers": "Google AI購入実績",
+      "speed": "モックアップ作成速度",
+      "debug": "チーム修正時間の削減",
       "rating": "平均評価"
     },
     "stories": {
       "0": {
-        "role": "グラフィックデザインの学生",
-        "story": "FigmaEdu を通じて Figma edu アカウントを購入して以来、プロジェクト チームは同じリアルタイム ファイルで非常にスムーズに作業を行っています。コメントと自動レイアウトにより、無料版よりもはるかに速くレイアウトを完成させることができます。",
+        "role": "グラフィックデザイン専攻の学生",
+        "story": "TKAIProでGoogle AIアカウントを購入してから、プロジェクトチームでのリアルタイム連携がとてもスムーズになりました。コメントやAuto Layoutのおかげで、無料版より圧倒的に早くレイアウトを確定できます。",
         "results": [
-          "プロジェクトを1週間早く完了しました",
-          "5人でのスムーズなグループコラボレーション",
-          "開発モードによる明示的なハンドオフ"
+          "プロジェクトを1週間早く完了",
+          "5人チームでのスムーズなコラボレーション",
+          "Dev Modeによる明確なハンドオフ"
         ]
       },
       "1": {
-        "role": "フリーランスのUIデザイナー",
-        "story": "顧客向けにプロトタイプとライブラリを作成するには Figma Education が必要です。 FigmaEdu 経由で購入し、VietQR で簡単に支払い、数分でログインメールを受け取り、その日から仕事を始められます。",
+        "role": "フリーランスUIデザイナー",
+        "story": "クライアント向けのプロトタイプやライブラリにGoogle AIが必要でした。TKAIPro経由で購入したところ、VietQR決済が便利で、数分でログインメールが届き、その日のうちに作業を開始できました。",
         "results": [
-          "モックアップの提供が 40% 高速化",
-          "プロトタイプの顧客との契約がより簡単に完了",
-          "登録費用を節約する"
+          "モックアップの納品速度が40%向上",
+          "クライアントとのプロトタイプ決定が容易に",
+          "サブスクリプション費用を節約"
         ]
       },
       "2": {
         "role": "UXプロジェクトチーム",
-        "story": "Free を使用する前は、座席数が限られていました。 Figma edu に切り替えると、グループは同じファイルに対してコメントし、反復処理を行います。メンターによるレビューもさらに便利になります。",
+        "story": "以前は無料版のシート数制限に困っていました。Google AIに移行してからは、チーム全体で同じファイル上でコメントやイテレーションができるようになり、メンターのレビューも非常にスムーズになりました。",
         "results": [
-          "席を塞がれることはもうありません 無料",
-          "ファイル上でメンターによるフィードバックを行う",
-          "ライブラリコンポーネントは再利用可能です"
+          "無料版のシート数制限を解消",
+          "ファイル上でメンターから即座にフィードバック",
+          "再利用可能なコンポーネントライブラリ"
         ]
       },
       "3": {
-        "role": "UI/UXの学生",
-        "story": "初めてオンラインで Figma アカウントを購入するのは少し不安でしたが、FigmaEdu は正しい説明を提供し、明確なベトナム語サポートを提供してくれました。開発モードを使用して、ハンドオフを学習する際の間隔を確認します。",
+        "role": "UI/UX学生",
+        "story": "オンラインでGoogle AIアカウントを購入するのは少し不安でしたが、TKAIProは説明通りの商品を提供してくれ、サポートも丁寧でした。現在はDev Modeを活用して、ハンドオフ時のスペーシングなどを学習しています。",
         "results": [
-          "安定したログイン",
-          "開発モードをより早く学習する",
-          "サポートは 5 分以内に応答します"
+          "安定したログイン体験",
+          "Dev Modeの習得速度が向上",
+          "5分以内の迅速なサポート対応"
         ]
       },
       "4": {
-        "role": "フリーランスのプロダクトデザイナー",
-        "story": "毎月 2 ～ 3 つのブリーフを並行して実行します。 Figma Education は、コンポーネント システムをコンパクトに保つ​​のに役立ちます。 FigmaEdu 経由で長期購入すると、毎月の更新について心配する必要がなくなります。",
+        "role": "フリーランス プロダクトデザイナー",
+        "story": "毎月2〜3件の案件を並行して進めています。Google AIのおかげでコンポーネントシステムをきれいに維持できています。TKAIProで長期プランを購入したため、毎月の更新の手間もありません。",
         "results": [
-          "デザインシステムの一貫性を保つ",
-          "期限内に概要を提出する",
-          "コストは四半期ごとに予測されます"
+          "一貫したデザインシステムを維持",
+          "納期通りに案件を納品",
+          "四半期ごとのコスト予測が可能に"
         ]
       },
       "5": {
-        "role": "デザインプロジェクトチームの責任者",
-        "story": "同じ Figma ファイルにリサーチ/UI/プロトタイプの役割を割り当てます。 FigmaEdu 経由でグループ全体の教材を購入します。プロセスは明確で、誰もがマスター ファイルにアクセスできます。",
+        "role": "デザインプロジェクトリーダー",
+        "story": "リサーチ、UI、プロトタイプの役割分担を同じGoogle AIファイル上で行っています。TKAIProでチーム全体用に購入したことで、ワークフローが明確になり、全員がマスターファイルにアクセスできるようになりました。",
         "results": [
-          "グループ全体で 1 つのマスター ファイル",
-          "送受信されるファイルを減らす",
-          "プロジェクトを保護する前にプロトタイプを完成させる"
+          "チーム全体で1つのマスターファイルを使用",
+          "ファイルの受け渡しの手間を削減",
+          "発表前にプロトタイプを確定"
         ]
       }
     },
     "cta": {
-      "title": "あなた自身の成功事例が欲しいですか?",
-      "description": "FigmaEdu で Figma edu アカウントを購入した UI デザインとフリーランスの学生のコミュニティに参加してください。次の物語はあなたのものになるかもしれません!",
-      "start": "🚀 Figma Edu の価格表を参照",
-      "follow": "📘 ファンページをフォローする"
+      "title": "あなたも成功体験を作りませんか？",
+      "description": "TKAIProでGoogle AIアカウントを購入したAIユーザー＆Geminiユーザーのコミュニティに参加しましょう。次の成功談はあなたかもしれません！",
+      "start": "🚀 Google AI の料金プランを見る",
+      "follow": "📘 公式ファンページをフォロー"
     },
-    "resultsLabel": "達成された結果:"
+    "resultsLabel": "達成された成果:"
   },
   "Tutorial": {
-    "title": "Figma Edu アカウントの購入と使用の手順",
-    "description": "プラン選択→支払い→メール受信→Figmaログインまで数分で完了",
+    "title": "Google AI アカウントの購入＆使用ガイド",
+    "description": "プラン選択 → お支払い → メール受信 → 数分でGoogle AIにログイン",
     "download": {
-      "title": "Web またはアプリで Figma を開きます",
-      "version": "<bold>browser</bold> またはデスクトップ アプリで Figma を使用する — Windows、macOS、Linux",
-      "button": "Figma を開く",
-      "note": "⚡ 配信メール受信後、Figma Education 権限を使用してログインしてください"
+      "title": "WebまたはアプリでGoogle AIを開く",
+      "version": "<bold>ブラウザ</bold>またはデスクトップアプリ（Windows、macOS、Linux）でGoogle AIを使用",
+      "button": "Google AI を開く",
+      "note": "⚡ 納品メールの受信後、ログインしてGoogle AIの機能をご利用ください"
     },
     "steps": {
       "1": {
-        "title": "パッケージ Figma Education を選択してください",
-        "description": "価格表を確認し、ニーズに合った Figma edu アカウント パッケージを選択してください",
+        "title": "Google AI プランを選択",
+        "description": "料金表を確認し、ニーズに合ったGoogle AIアカウントプランを選択します",
         "details": [
-          "figmaedu.shop の製品ページに移動します。",
-          "適切なパッケージ期間を選択してください (1 か月、3 か月など)。",
-          "カートに追加して注文をもう一度確認してください",
-          "正確な配信メールを準備する"
+          "tkaipro.shop の製品ページにアクセス",
+          "適切な利用期間（1ヶ月、3ヶ月など）を選択",
+          "カートに追加して注文内容を確認",
+          "受け取り用メールアドレスを正確入力"
         ],
         "duration": "2分",
         "difficulty": "簡単"
       },
       "2": {
-        "title": "VietQR支払い/電子ウォレット",
-        "description": "VietQR、MoMo、ZaloPay、または銀行振込によるお支払い",
+        "title": "VietQR / 電子マネーでお支払い",
+        "description": "VietQR、MoMo、ZaloPay、または銀行振込でお支払い",
         "details": [
-          "チェックアウト時に支払い方法を選択してください",
-          "VietQRをスキャンするかウォレットトランザクションを確認する",
-          "確認のために必要な場合は、領収書/トランザクション コードを保管してください。",
-          "システムが支払いの成功を確認するまで待ちます"
+          "チェックアウト画面でお支払い方法を選択",
+          "VietQRコードをスキャンまたはアプリで決済を完了",
+          "照合が必要な場合に備えて控え・決済IDを保管",
+          "システムの決済完了確認を待つ"
         ],
         "duration": "3分",
         "difficulty": "簡単"
       },
       "3": {
-        "title": "ログインメールを受信する",
-        "description": "FigmaEdu は電子メールでログイン情報を送信します - パスワードは Web には表示されません",
+        "title": "ログイン情報のメール受信",
+        "description": "TKAIProがログイン情報をメールで送信します（Web上にはパスワードを表示しません）",
         "details": [
-          "メールボックス (およびスパム/迷惑メール) を確認してください",
-          "FigmaEdu からの配信メールを開く",
-          "メールアドレス/ログインパスワードを安全に保存する",
-          "メールに記載されている指示に従ってください"
+          "受信トレイ（および迷惑メールフォルダ）を確認",
+          "TKAIProからの納品メールを開く",
+          "ログイン用のメール/パスワードを安全に保存",
+          "メール内の指示に従って操作"
         ],
         "duration": "2分",
         "difficulty": "簡単"
       },
       "4": {
-        "title": "Figma にサインインする",
-        "description": "受け取った認証情報を使用してログインし、教育権限を確認します。",
+        "title": "Google AI にログイン",
+        "description": "受け取ったアカウント情報を使用してログインし、権限を確認します",
         "details": [
-          "figma.com または Figma アプリを開く",
-          "受け取ったメールアドレス/パスワードでログインします",
-          "アカウントの Figma Education 権限を確認してください",
-          "テスト ファイルを作成するか、プロジェクト チームに参加します"
+          "gemini.google.com または Google AI アプリを開く",
+          "受領したメールアドレスとパスワードでログイン",
+          "アカウント上でGoogle AIの権限を確認",
+          "テスト用ファイルを作成するか、プロジェクトチームに参加"
         ],
         "duration": "5分",
         "difficulty": "簡単"
       },
       "5": {
-        "title": "チームでデザインを始める",
-        "description": "教育権限に基づいて自動レイアウト、コンポーネント、プロトタイプ、開発モードを使用する",
+        "title": "チームでのデザイン作成を開始",
+        "description": "権限に応じてAuto Layout、コンポーネント、プロトタイプ、Dev Modeを活用",
         "details": [
-          "フレームを作成して自動レイアウトを適用する",
-          "チームコンポーネント/ライブラリを再利用する",
-          "プロジェクトの画面フロープロトタイプ",
-          "パラメータを引き継ぐ必要がある場合は開発モードをオンにしてください"
+          "フレームを作成し、Auto Layoutを適用",
+          "チームの共有コンポーネント / ライブラリを再利用",
+          "プロジェクト用の画面フロープロトタイプを作成",
+          "仕様のハンドオフ時にDev Modeをオンにする"
         ],
         "duration": "15分",
-        "difficulty": "中くらい"
+        "difficulty": "中級"
       }
     },
     "tips": {
       "shortcuts": {
-        "title": "Figma の便利なキーボード ショートカット",
+        "title": "Google AI の便利なショートカット",
         "list": [
           "F: フレームの作成",
-          "Shift + A: 自動レイアウト",
+          "Shift + A: Auto Layout",
           "Ctrl/Cmd + Alt + K: コンポーネントの作成",
-          "Shift + E: 開発モード (許可されている場合)"
+          "Shift + E: Dev Mode (権限がある場合)"
         ]
       },
       "bestPractices": {
         "title": "ベストプラクティス",
         "list": [
-          "グループ全体でレイヤー/フレームに明確な名前を付けます",
-          "手動位置合わせの代わりに自動レイアウトを使用する",
-          "共有コンポーネントをライブラリに分離する",
-          "個別にチャットするのではなく、ファイルに直接コメントします"
+          "チーム全体がわかりやすいレイヤー/フレーム名を命名する",
+          "手動調整の代わりにAuto Layoutを使用する",
+          "共通コンポーネントをライブラリに分離する",
+          "別個のチャットではなくファイル上に直接コメントする"
         ]
       },
       "useCases": {
-        "title": "一般的な使用例",
+        "title": "一般的な活用事例",
         "list": [
-          "同じファイルにグループ化された UI/UX プロジェクト",
-          "構築する前にアプリ/ウェブのプロトタイプを作成する",
-          "コース向けの小さなデザインシステム",
-          "開発モードメンバーのハンドオフパラメータ"
+          "同一ファイルでのチームUI/UXプロジェクト",
+          "構築前のアプリ/Webプロトタイピング",
+          "コース・学習用の小型デザインシステム",
+          "Dev Modeメンバーへの仕様値ハンドオフ"
         ]
       }
     },
     "support": {
-      "freeSetup": "新規顧客向けに 1 対 1 のログイン手順をサポート",
-      "messenger": "💬 チャットメッセンジャーのサポート",
-      "telegram": "📱 電報サポート"
+      "freeSetup": "新規のお客様向けに1対1のログインサポートを提供",
+      "messenger": "💬 Messengerでチャットサポート",
+      "telegram": "📱 Telegramサポート"
     }
   },
   "FAQ": {
-    "title": "Figma Edu アカウントの購入に関するよくある質問",
-    "description": "Figma Education および FigmaEdu の小売サービスに関するよくある質問への回答。",
+    "title": "Google AI アカウント購入に関するよくある質問",
+    "description": "Google AIおよびTKAIProのリテールサービスに関するよくある質問にお答えします。",
     "items": {
       "0": {
-        "question": "Figma edu / Figma Education とは何ですか?",
-        "answer": "Figma Education (Figma edu と呼ばれることが多い) は、Figma で設計された学生および学習環境用のパッケージです。リアルタイム コラボ、開発モード、教育権限に基づくファイル/ライブラリです。 FigmaEdu は、Figma, Inc. と提携せずに、独立した小売業者としてこのサブスクリプションを再販します。"
+        "question": "Google AI / Google AIとは何ですか？",
+        "answer": "Google AI（通常Google AIと呼ばれます）は、Google AIプラットフォーム上での学生および学習環境向けプランです。リアルタイム連携、Dev Mode、専用のファイル/ライブラリ権限が含まれます。TKAIProは独立したリセラーとして本サブスクリプションを再販売しており、Google LLCとは提携していません。"
       },
       "1": {
-        "question": "このショップはFigmaの正規代理店ですか？",
-        "answer": "そうではありません。 FigmaEdu は独立系小売業者 (サードパーティ再販業者) です。当社は Figma, Inc. を代表するものではなく、Figma, Inc. によって承認または承認されていません。パッケージの特典には Figma の規約が適用されます。"
+        "question": "当ショップはGoogleの公式代理店ですか？",
+        "answer": "いいえ。TKAIProは独立した第三者リセラー（third-party reseller）です。当社はGoogle LLCを代表するものではなく、同社からの委任や承認を受けていません。プランの権利はGoogleの利用規約に準拠します。"
       },
       "2": {
-        "question": "ここで Figma edu アカウントを購入する方が安いのはなぜですか?",
-        "answer": "FigmaEdu はニーズを収集し、国際決済手数料を最適化し、運営コストを共有します。ベトナム語サポートとショップによる 1 対 1 のエラー保証により、直接登録するよりも大幅に節約できます。"
+        "question": "なぜここでGoogle AIアカウントを購入すると安いのですか？",
+        "answer": "TKAIProは需要を集約し、国際決済手数料や運営コストを最適化しています。直接契約するよりも大幅に節約でき、日本語/ベトナム語サポートおよびショップ側の不具合に対する1対1の交換保証が付属します。"
       },
       "3": {
-        "question": "Figma アカウントを購入する場合、保証はありますか?",
-        "answer": "ショップからのエラー (ログインできない、教育権限がないなど) については、最初の 24 時間以内は 1 対 1 の保証があります。証明書（商品番号）の納品後の返金はできません。 Figma が規約違反により一時停止/終了した場合、保証は無効になります。 Telegram を通じて 24 時間年中無休でサポートします。"
+        "question": "Google AIアカウントの購入には保証が付いていますか？",
+        "answer": "はい。ショップ側の不具合（ログイン不能、権限不足など）について、最初の24時間は1対1の交換保証が付いています。アカウント情報（デジタルコンテンツ）の納品後の返金はできません。また、Googleの利用規約違反によりGoogle側からアカウントが停止/削除された場合は保証対象外となります。Telegramにて24時間365日サポートを提供しています。"
       },
       "4": {
-        "question": "Figma Education Figma Free 版との違いは何ですか?",
-        "answer": "無料版では、ファイル/チームといくつかの高度な機能が制限されます。 Figma Education は、コラボ、開発モード、ライブラリ、学習/プロジェクトの権限を拡張します。教育環境で UI/UX をよりプロフェッショナルなものにするのに十分です。"
+        "question": "Google AIはGoogle AI無料版とどう違いますか？",
+        "answer": "無料版にはファイル数やチーム機能、一部の高度な機能に制限があります。Google AIはコラボレーション機能、Dev Mode、ライブラリ、学習/プロジェクトに最適な権限を拡張し、よりプロフェッショナルなUI/UX制作を可能にします。"
       },
       "5": {
-        "question": "Figma アカウントの購入の支払い方法は?",
-        "answer": "MoMo、ZaloPay、VietQR、または銀行振込によるお支払い。 SSL暗号化トランザクション。 1 回限りの支払いで、自己更新はありません。支払い情報はセキュリティのために保存されません。"
+        "question": "Google AIアカウントの支払いはどのように行いますか？",
+        "answer": "MoMo、ZaloPay、VietQR、または銀行振込でお支払いいただけます。取引はSSLで暗号化されています。一括払いであり、自動更新はありません。セキュリティのため、お支払い情報は保存されません。"
       },
       "6": {
-        "question": "支払い後にアカウントを受け取るにはどうすればよいですか?",
-        "answer": "支払いが完了すると、約 1 ～ 5 分以内 (営業時間内の平均 2 ～ 3 分) に、Figma のログイン情報が記載された電子メールが届きます。ウェブサイトにはパスワードは表示されず、電子メールでのみ送信されます。"
+        "question": "支払い完了後、アカウントはどのように受け取りますか？",
+        "answer": "お支払い成功後、通常1〜5分（営業時間内は平均2〜3分）以内にGoogle AIのログイン情報が記載されたメールが届きます。セキュリティのためWeb上にはパスワードを表示せず、メールのみでお届けします。"
       },
       "7": {
-        "question": "Figma edu にログインするためのガイドはありますか?",
-        "answer": "持っている。各注文にはベトナム語のログイン手順が付属します。 Telegram/Facebook 経由で問題が発生した場合、サポート チームが最初から最後まで Figma にアクセスできるようサポートします。"
+        "question": "Google AIのログインガイドはありますか？",
+        "answer": "はい。各注文にはわかりやすいログインガイドが付属しています。問題が発生した場合でも、サポートチームがTelegram/Facebookを通じて最初から最後までログインをサポートします。"
       }
     },
-    "stillHaveQuestions": "まだ質問がありますか?",
-    "contactSupport": "さまざまなチャネルを通じてお問い合わせください。サポートチームは年中無休でサポートいたします。",
+    "stillHaveQuestions": "まだご質問がありますか？",
+    "contactSupport": "多様なチャンネルでお問い合わせいただけます。サポートチームが24時間365日対応いたします！",
     "telegram": "今すぐチャット",
     "messenger": "今すぐチャット",
     "fanpage": "ファンページ",
-    "email": "電子メール",
+    "email": "メール",
     "zaloGroup": "コミュニティグループ",
-    "facebookGroup": "フェイスブックグループ"
+    "facebookGroup": "Facebookグループ"
   },
   "Community": {
     "badge": "コミュニティ",
-    "title": "Figma ベトナム コミュニティに参加する",
-    "description": "ベトナムの UI デザインやフリーランスの学生とつながり、Figma Education で経験を共有し、コミュニティから迅速なサポートを受けましょう。",
+    "title": "Google AI ベトナムコミュニティに参加",
+    "description": "ベトナムのAIユーザーやGeminiユーザーとつながり、Google AIのノウハウを共有し、コミュニティから迅速なサポートを受けましょう。",
     "members": "メンバー",
     "facebook": {
-      "title": "フェイスブックグループ",
-      "description": "Figma Education を使用して熱心にディスカッションし、経験を共有する最大のコミュニティ。"
+      "title": "Facebookグループ",
+      "description": "最大のコミュニティで、活発な議論やGoogle AIの使用経験が共有されています。"
     },
     "zalo": {
-      "title": "ザログループ",
-      "description": "迅速なコミュニケーション、リアルタイムの技術サポート、最新オファーの更新。"
+      "title": "Zaloグループ",
+      "description": "迅速な意見交換、リアルタイムのテクニカルサポート、最新の特典情報を提供。"
     },
     "telegram": {
-      "title": "電報チャンネル",
-      "description": "Figma Education に関する通知、ヒントとテクニック、学習資料を受け取ります。"
+      "title": "Telegramチャンネル",
+      "description": "Google AIに関するお知らせ、ヒント＆テクニック、学習資料を受け取れます。"
     },
     "benefits": {
-      "support": "コミュニティサポート",
-      "network": "ベトナム人デザイナーとのネットワーキング",
-      "exclusive": "特別オファー"
+      "support": "コミュニティからのサポート",
+      "network": "ベトナムのデザイナーとのネットワーク",
+      "exclusive": "会員限定の特典"
     }
   },
   "WarningMarquee": {
-    "text": "⚠️ 警告: 現在、Figma Fanpage ショップを装った人物が存在します。お客様は、<contact>Shop</contact> の問い合わせページを通じて取引するか、<products>@FigmaEdu@PH4@@ のウェブサイトで直接購入することのみを行ってください。"
+    "text": "⚠️ 警告：現在、Google AIの公式ショップを騙るなりすましが発生しております。お取引は必ず<contact>ショップのお問い合わせページ</contact>または<products>TKAIPro公式ウェブサイトからの直接購入</products>をご利用ください！"
   },
   "Testimonials": {
-    "title": "Figma Edu アカウントを購入したお客様からのレビュー",
-    "description": "何千人もの UI デザインやフリーランスの学生が FigmaEdu のサービスを信頼しています。",
+    "title": "Google AI アカウント購入者様からの評価",
+    "description": "何千人ものAIユーザーおよびGeminiユーザーがTKAIProのサービスを信頼しています",
     "items": {
       "0": {
-        "text": "熱心なサポート。5 分以内にログインメールが届きます。 Figma edu アカウントを購入すると、直接登録するよりも価格が安くなり、問題なく動作します。とても満足です！",
+        "text": "サポートが親切で、ログイン用メールが5分で届きました。Google AIアカウントを直接登録するよりお得に購入できて動作も安定しています。大満足です！",
         "author": {
-          "name": "ホアン・ヴァン・ナム",
+          "name": "Hoàng Văn Nam",
           "handle": "@nam.design"
         }
       },
       "1": {
-        "text": "Figma Free を使用する前は、グループ席は狭かったです。 Figma Education を FigmaEdu に切り替え、スムーズなコラボレーション、プロジェクトに十分な自動レイアウト + プロトタイプ。",
+        "text": "以前はGoogle AI Freeを使用していましたが、グループ制限がありました。TKAIPro経由でGoogle AIに切り替えてからは、スムーズにコラボレーションでき、プロジェクト制作に十分活用できています。",
         "author": {
-          "name": "チャン タン トゥ",
+          "name": "Trần Thanh Tú",
           "handle": "@tu.uiux"
         }
       },
       "2": {
-        "text": "評判。長期パッケージを購入し、時間通りに電子メールでアクティベートしました。フリーランスで短期間使用する場合にのみ、無計画に共有しないでください。",
+        "text": "信頼できます。長期プランを購入しましたが、時間通りにメールへ有効化されました。アカウントを共有する必要もなく、フリーランスの案件に専用で使用できています。",
         "author": {
-          "name": "ル・ドゥック・タン",
-          "handle": "@thang.figma"
+          "name": "Lê Đức Thắng",
+          "handle": "@thang.ai"
         }
       },
       "3": {
-        "text": "Figma edu を使用すると、一度に複数のブリーフの重量を量ることができます。当店はベトナム語、便利なVietQR決済に対応しております。デザインを学ぶ方にオススメです。",
+        "text": "Google AIのおかげで複数の案件を一度にこなせています。ショップの対応も親切で、決済も便利でした。デザインを学ぶ方にもおすすめです。",
         "author": {
-          "name": "ファム・ミン・タム",
-          "handle": "@tam.製品"
+          "name": "Phạm Minh Tâm",
+          "handle": "@tam.product"
         }
       },
       "4": {
-        "text": "最初はネットで買うことに少し抵抗がありましたが、よく調べて1ヶ月試してみました。延長時間が長くなると料金が安くなります。 FigmaEdu は 10 ポイントです。",
+        "text": "最初はオンラインでの購入に少し不安がありましたが、よく調べて1ヶ月お試し購入しました。今は安くなるので長期更新しています。TKAIProは10点満点です。",
         "author": {
-          "name": "グエン・コック・バオ",
+          "name": "Nguyễn Quốc Bảo",
           "handle": "@bao.ux"
         }
       },
       "5": {
-        "text": "5人グループで一緒に購入します。明確な説明書、明確な保証。 Figma アカウントを販売するショップに 5 つ星を投票してください。",
+        "text": "5人のチームで購入しました。案内が分かりやすく、保証内容も明確です。Google AIアカウントを販売しているこのショップに星5つを評価します。",
         "author": {
-          "name": "ブー・ティ・ハン",
+          "name": "Vũ Thị Hằng",
           "handle": "@hang.studio"
         }
       }
@@ -1248,204 +1248,204 @@
   },
   "ProductsPage": {
     "breadcrumbs": {
-      "home": "ホームページ",
-      "products": "Figma Edu アカウント"
+      "home": "ホーム",
+      "products": "Google AI アカウント"
     },
-    "title": "アカウント Figma Education",
-    "subtitle": "Figma edu アカウントを購入 - コストを節約 - 1 対 1 の保証 - メール配信 5 分以内",
-    "allCategories": "全て",
-    "newBadge": "新しい",
-    "filterTitle": "{name}でフィルタリング",
+    "title": "Google AI Pro, Ultra & Antigravity アカウント",
+    "subtitle": "tkaipro.shopでGoogle AI Pro、Google Ultra、Antigravity PRO/ULTRAアカウントを購入 — 1対1の交換保証 — メールで迅速納品",
+    "allCategories": "すべて",
+    "newBadge": "新着",
+    "filterTitle": "{name}で絞り込み",
     "emptyState": {
-      "title": "製品が見つかりませんでした",
+      "title": "商品が見つかりませんでした",
       "categoryEmpty": "カテゴリ「{category}」には商品がありません",
-      "genericEmpty": "現在製品はありません - 後で戻ってくるか、サポートにお問い合わせください"
+      "genericEmpty": "現在商品はありません — 後ほど再度アクセスいただくか、サポートまでお問い合わせください"
     },
     "pagination": {
-      "prev": "前に",
-      "next": "後"
+      "prev": "前へ",
+      "next": "次へ"
     },
     "toast": {
-      "added": "{name} がカートに追加されました"
+      "added": "{name} をカートに追加しました"
     },
     "search": {
-      "placeholder": "Figma edu パッケージを検索...",
-      "noResults": "「{query}」の結果は見つかりませんでした",
-      "noResultsHint": "別のキーワードを試すか、カテゴリ別に参照してください"
+      "placeholder": "Google AI プランを検索...",
+      "noResults": "「{query}」の検索結果は見つかりませんでした",
+      "noResultsHint": "別のキーワードを試すか、カテゴリから探してください"
     },
     "sort": {
-      "label": "整える",
-      "default": "デフォルト",
-      "priceLowToHigh": "価格：安い→高い",
-      "priceHighToLow": "価格：高→低",
-      "newest": "最新",
+      "label": "並び替え",
+      "default": "標準",
+      "priceLowToHigh": "価格: 安い順",
+      "priceHighToLow": "価格: 高い順",
+      "newest": "新着順",
       "topRated": "最高評価"
     },
     "priceFilter": {
       "label": "価格帯",
-      "apply": "適用する",
-      "clear": "クリアフィルター"
+      "apply": "適用",
+      "clear": "フィルターをクリア"
     },
     "seo": {
-      "title": "Figma Edu アカウント — パッケージが販売中",
-      "description": "FigmaEdu で販売されている Figma Education アカウント パッケージのリスト。 Figma edu アカウントをお得な価格で購入し、メールでログインし、1 対 1 の交換保証をご利用ください。",
-      "keywords": "Figma edu アカウント、Figma アカウントの購入、Figma Education、Figma edu パッケージ、価格表 Figma Education、FigmaEdu"
+      "title": "Google AI Pro, Ultra & Antigravity アカウントの購入 | TKAIPro",
+      "description": "tkaipro.shopでのGoogle AIアカウント販売価格一覧: Google PRO, Google ULTRA, Antigravity PRO/ULTRA。独立販売店 — メールでログイン提供、1対1交換保証。",
+      "keywords": "Google AI アカウント購入, Google PRO, Google ULTRA, Antigravity PRO, Antigravity ULTRA, Google AI 価格表, TKAIPro, tkaipro.shop"
     },
     "breadcrumb": {
-      "home": "ホームページ",
-      "products": "製品"
+      "home": "ホーム",
+      "products": "商品一覧"
     }
   },
   "ProductCard": {
-    "popular": "人気のある",
-    "soldCount": "{count}+ を購入しました",
-    "save": "{amount}VND を保存",
-    "warranty": "保証 1 対 1 の交換",
-    "support": "年中無休のサポート",
+    "popular": "人気",
+    "soldCount": "{count}+ 点購入済み",
+    "save": "{amount} ₫ お得",
+    "warranty": "1対1交換保証",
+    "support": "24/7 サポート",
     "buyNow": "今すぐ購入",
     "addToCart": "カートに追加",
     "outOfStock": "在庫切れ",
     "toast": {
-      "added": "{name} がカートに追加されました"
+      "added": "{name} をカートに追加しました"
     },
     "aria": {
       "addToWishlist": "お気に入りに追加"
     },
     "quickView": {
       "button": "クイックビュー",
-      "features": "優れた機能",
+      "features": "主な機能",
       "viewDetail": "詳細を見る"
     }
   },
   "SocialShare": {
     "share": "共有",
-    "facebook": "Facebook でシェアする",
-    "telegram": "テレグラムで共有する",
+    "facebook": "Facebookで共有",
+    "telegram": "Telegramで共有",
     "copyLink": "リンクをコピー",
     "copied": "コピーしました！",
-    "linkCopied": "製品リンクがコピーされました",
-    "copyFailed": "リンクをコピーできません",
-    "shareText": "{productName} を今すぐ FigmaEdu で見てください!"
+    "linkCopied": "商品リンクをコピーしました",
+    "copyFailed": "リンクをコピーできませんでした",
+    "shareText": "TKAIProで{productName}を今すぐチェック！"
   },
   "SocialProofPreview": {
-    "badge": "お客様からの本物の証拠",
-    "title": "お客様が購入されました",
-    "highlight": "何千もの成功した注文",
-    "description": "当社のサービスを信頼してご利用いただいたお客様からの注文による実際の証拠をご覧ください",
-    "featured": "並外れた",
-    "empty": "まだ証拠はありません",
-    "viewAll": "すべてのデモンストレーションを見る",
+    "badge": "お客様からのリアルな実績",
+    "title": "購入実績",
+    "highlight": "数千件の取引成功実績",
+    "description": "当社のサービスを信頼しご利用いただいているお客様の実際の購入実績をご覧ください",
+    "featured": "注目",
+    "empty": "まだ実績はありません",
+    "viewAll": "すべての実績を見る",
     "productTypes": {
-      "cursor-pro": "Figma Education",
-      "cursor-pro-official-1m": "Figma Education 1 か月",
-      "github-copilot": "GitHub コパイロット",
+      "cursor-pro": "Google AI",
+      "cursor-pro-official-1m": "Google AI 1ヶ月",
+      "github-copilot": "GitHub Copilot",
       "github-edu": "GitHub EDU",
-      "figma-pro": "figma プロ",
-      "jetbrains-edu": "ジェットブレインズ"
+      "figma-pro": "Google AI Pro",
+      "jetbrains-edu": "JetBrains"
     },
     "badges": {
-      "authentic": "評判の良いエージェント"
+      "authentic": "信頼の正規販売代理店"
     },
     "labels": {
-      "authentic": "評判の良いエージェント"
+      "authentic": "信頼の正規販売代理店"
     }
   },
   "SocialProofPage": {
     "seo": {
-      "title": "お客様は FigmaEdu で Figma Edu アカウントを購入しました",
-      "description": "お客様が FigmaEdu で Figma Education アカウントを購入したという証拠を確認してください。実際の注文 – ベトナムで信頼できる Figma edu アカウントを購入します。",
-      "keywords": "Figma アカウントの購入、Figma edu の顧客、注文 Figma Education、FigmaEdu、購入証明書 Figma edu"
+      "title": "TKAIProでのGoogle AIアカウント購入実績",
+      "description": "TKAIProでのGoogle AIアカウント購入実績をご覧ください。本物の注文 — 信頼できるGoogle AIアカウント購入。",
+      "keywords": "Google AI アカウント購入, Google AI 顧客, Google AI 注文, TKAIPro, Google AI 購入実績"
     },
     "hero": {
-      "badge": "本物の注文の証明",
-      "title": "お客様が購入されました",
-      "highlight": "アカウント Figma Education",
-      "description": "何千もの顧客が Figma edu アカウントを購入する際に FigmaEdu を信頼してきました。成功した注文からの本当の証拠をご覧ください!",
+      "badge": "本物の注文実績",
+      "title": "購入実績：",
+      "highlight": "Google AI アカウント",
+      "description": "数千人のお客様がGoogle AIアカウント購入でTKAIProを信頼しています。成功した注文の実際の証拠をご覧ください！",
       "stats": {
-        "orders": "注文",
-        "cursor": "Figma エデュ",
+        "orders": "注文数",
+        "cursor": "Google AI",
         "github": "TK学生",
-        "reviews": "評価する",
-        "figma": "Figma エデュ",
-        "delivery": "短納期"
+        "reviews": "評価",
+        "figma": "Google AI",
+        "delivery": "迅速お届け"
       }
     },
     "proofs": {
-      "title": "お客様からの実際の証拠",
-      "description": "各デモをクリックすると詳細が表示され、画像が拡大されます",
+      "title": "お客様からの実際の購入実績",
+      "description": "各実績をクリックして詳細を表示し、画像を拡大できます",
       "badges": {
-        "authentic": "評判の良い小売店"
+        "authentic": "信頼の販売店"
       },
       "labels": {
-        "authentic": "評判の良い小売店"
+        "authentic": "信頼の販売店"
       },
-      "verifiedBadge": "信頼性の証明"
+      "verifiedBadge": "認証済み実績"
     },
     "trust": {
-      "title": "なぜ私たちを選ぶのですか?",
+      "title": "選ばれる理由",
       "items": {
         "0": {
           "title": "100%",
-          "description": "正しいパッケージ説明を使用して、Figma Education アカウントの透明性のある購入をサポートすることに尽力します。"
+          "description": "透明性のあるGoogle AIアカウント購入サポートとプラン通りの提供をお約束します"
         },
         "1": {
-          "title": "保証 1 対 1 の交換",
-          "description": "ショップ側のエラーの場合は直ちに交換（ポリシーに従って）"
+          "title": "1対1保証",
+          "description": "ショップ側の不具合が発生した場合は即時交換（規約に基づく）"
         },
         "2": {
-          "title": "年中無休のサポート",
-          "description": "熱心なサポートチームがいつでもお手伝いします"
+          "title": "24/7サポート",
+          "description": "親身なサポートチームがいつでも丁寧に対応します"
         }
       }
     },
     "productTypes": {
-      "figmaEdu": "Figma Education"
+      "figmaEdu": "Google AI"
     },
     "commitment": {
-      "bannerTitle": "🛡️ 本物のご注文を100%お約束します",
-      "bannerSubtitle": "偽注文が判明した場合は200％返金",
-      "ssl": "SSLセキュリティ",
-      "verified": "確認済み",
-      "trusted": "最高の評判"
+      "bannerTitle": "🛡️ 100%本物の注文をお約束",
+      "bannerSubtitle": "架空の注文が判明した場合は200%返金",
+      "ssl": "SSL暗号化保護",
+      "verified": "検証済み",
+      "trusted": "最高水準の信頼性"
     },
     "whyTrust": {
-      "badge": "顧客が当社を信頼する理由",
-      "title": "評判への取り組み - 100% の透明性",
-      "description": "私たちは、何千もの満足した顧客を持つ Figma Education アカウントを専門とする独立系小売業者であることを誇りに思っています。",
-      "realOrdersTitle": "100% 本物の注文",
-      "realOrdersDesc": "表示される注文はすべて、介入なしで支払いシステムから直接取得されます。",
-      "dataSecurityTitle": "情報セキュリティ",
-      "dataSecurityDesc": "お客様の情報は256ビットSSLにより完全に保護されます。プライバシー保護のため、お客様のお名前は一部伏せさせていただいております。",
-      "instantDeliveryTitle": "即時配達",
-      "instantDeliveryDesc": "支払いが完了したらすぐにメールでアカウント Figma Education を受け取ります。 24時間年中無休のサポート。",
-      "refundTitle": "200%返金",
-      "refundDesc": "偽の注文が検出された場合は 200% 返金保証。これが私たちの自信です。",
-      "quote": "より多くの {count}+ の顧客が FigmaEdu の Figma Education アカウントを信頼して購入しています。ご協力ありがとうございます！",
-      "satisfied": "顧客は満足しています"
+      "badge": "お客様に選ばれる理由",
+      "title": "信頼のお約束 - 100%透明性",
+      "description": "当社はGoogle AIアカウントを専門とする独立系販売店であり、数千名の満足されているお客様を抱えています。",
+      "realOrdersTitle": "100%実在する注文",
+      "realOrdersDesc": "表示されているすべての注文は決済システムから直接取得されており、不正な操作は一切ありません。",
+      "dataSecurityTitle": "個人情報保護",
+      "dataSecurityDesc": "お客様の情報は256ビットSSLで厳重に保護されます。プライバシー保護のため、お名前の一部は非表示にしています。",
+      "instantDeliveryTitle": "即時納品",
+      "instantDeliveryDesc": "お支払い完了後、すぐにメールでGoogle AIアカウントを受け取れます。24/7サポート。",
+      "refundTitle": "200%返金保証",
+      "refundDesc": "架空の注文が判明した場合は200%返金することを約束します。これが当社の自信です。",
+      "quote": "{count}+ 名以上のお客様がTKAIProでGoogle AIアカウントを購入されています。ご愛顧いただき誠にありがとうございます！",
+      "satisfied": "満足しているお客様"
     },
     "promise": {
       "badge": "私たちの約束"
     },
     "cta": {
-      "title": "🎯 何を待っていますか?",
-      "description": "何千もの顧客が FigmaEdu で Figma Education アカウントを購入しています。あなたの番です！",
+      "title": "🎯 今すぐ始めましょう",
+      "description": "数千名のお客様がTKAIProでGoogle AIアカウントを購入しています。次はあなたの番です！",
       "buyNow": "今すぐ購入",
-      "contact": "サポートに連絡する"
+      "contact": "サポートにお問い合わせ"
     }
   },
   "BlogPage": {
     "seo": {
-      "title": "ブログ Figma Education — チュートリアルとヒント",
-      "description": "ブログ FigmaEdu — Figma edu アカウントの購入手順、自動レイアウトのヒント、プロトタイプ、グループ コラボレーション。 Figma Education ベトナムのデザイン学生向けの知識。",
-      "keywords": "Figma Education ブログ、Figma 教育、Figma アカウントの購入、Figma のヒント、Figma Education チュートリアル、FigmaEdu ブログ"
+      "title": "Google AI ブログ — ガイド＆ヒント",
+      "description": "TKAIProブログ — Google AIアカウントの購入ガイド、活用ヒント、プロトタイプ、チームコラボレーション。AIユーザー向けGoogle AIナレッジ。",
+      "keywords": "Google AI ブログ, Google AI, Google AI アカウント購入, Google AI ヒント, Google AI ガイド, TKAIPro ブログ"
     },
     "hero": {
       "title": "ブログ",
-      "highlight": "Figma Education",
-      "description": "Figma edu アカウントの購入から自動レイアウト、プロトタイピング、プロジェクト チームのコラボレーションまで、Figma Education を使用するための手順とヒントを共有します。"
+      "highlight": "Google AI",
+      "description": "Google AIのアカウント購入から活用方法、チームコラボレーションまで、Google AIのガイドとヒントを共有します。"
     },
     "categories": {
-      "all": "全て",
+      "all": "すべて",
       "tutorial": "チュートリアル",
       "news": "ニュース",
       "tips": "ヒント"
@@ -1453,118 +1453,118 @@
     "featured": {
       "title": "注目の記事",
       "readMore": "記事を読む",
-      "defaultTitle": "注目の投稿",
-      "readTime": "{minutes} 分の読書時間",
+      "defaultTitle": "注目記事",
+      "readTime": "読了時間：約{minutes}分",
       "author": "管理者"
     },
     "posts": {
-      "title": "最新の記事",
-      "readMore": "次を読む",
+      "title": "最新記事",
+      "readMore": "続きを読む",
       "defaultImage": "ブログ画像",
-      "empty": "まだ投稿はありません。チュートリアルは近日公開予定です Figma Education — すぐに戻ってきてください!",
-      "loadMore": "もっと記事を見る"
+      "empty": "記事はまだありません。Google AIガイドを近日公開予定です！",
+      "loadMore": "記事をさらに読み込む"
     },
     "newsletter": {
-      "title": "サインアップして新しいニュースを受け取る",
-      "description": "Figma Education のヒント、Figma 教育パッケージのアップデート、購読者限定のチュートリアルを含むニュースレターを受け取ります。",
+      "title": "ニュースレター登録",
+      "description": "Google AIのヒント、Google AIプランの最新情報、購読者限定のガイドを受け取りましょう。",
       "placeholder": "your.email@example.com",
       "button": "登録する",
-      "privacy": "私たちはあなたのプライバシーを尊重します。いつでも購読を解除してください。"
+      "privacy": "プライバシーを尊重します。いつでも配信解除可能です。"
     },
     "cta": {
-      "title": "Figma Edu アカウントを購入する準備はできましたか?",
-      "description": "今すぐブログのヒントを適用して、Figma Education と一緒にデザインを始めましょう",
-      "buyNow": "Figma Edu を今すぐ購入",
-      "guide": "手順を参照してください"
+      "title": "Google AI アカウントを購入する準備はできましたか？",
+      "description": "ブログのヒントを活用して、Google AI で作成を始めましょう",
+      "buyNow": "今すぐ Google AI を購入",
+      "guide": "ガイドを見る"
     }
   },
   "ContactPage": {
     "seo": {
-      "title": "Figma Edu アカウントを購入するにはお問い合わせください — 24 時間年中無休のサポート",
-      "description": "Figma Education アカウントを購入するには、FigmaEdu にお問い合わせください。 Telegram、Facebook による年中無休のサポート。 Figma edu アカウントをすぐに購入するためのアドバイス。",
-      "keywords": "FigmaEdu への連絡、Figma アカウントの購入、Figma edu のサポート、Figma Education Vietnam、figmaedu.shop"
+      "title": "Google AI アカウント購入のお問い合わせ — TKAIPro 24/7サポート",
+      "description": "Google AI Pro、Ultra、 hoặc Antigravity PRO/ULTRA アカウントのご購入は TKAIPro (tkaipro.shop) までお問い合わせください。Telegram、Facebookにて24/7サポート。独立系リセラー。",
+      "keywords": "TKAIPro お問い合わせ, Google AI アカウント購入, Google PRO, Google ULTRA, Antigravity PRO, tkaipro.shop"
     },
     "hero": {
-      "badge": "いつでもお手伝いいたします",
-      "title": "接触",
-      "highlight": "FigmaEdu",
-      "description": "専門のサポートチームがいつでもお手伝いいたします",
-      "subDescription": "Figma Education アカウントの購入に関する無料のアドバイスが必要な場合は、今すぐお問い合わせください。",
+      "badge": "いつでもサポートいたします",
+      "title": "お問い合わせ",
+      "highlight": "TKAIPro",
+      "description": "プロフェッショナルなサポートチームがいつでもお手伝いします",
+      "subDescription": "Google AI アカウント購入に関する無料相談はこちらから！",
       "stats": {
-        "response": "5分以内に返答",
-        "customers": "何千人もの顧客からの信頼",
-        "support": "24時間365日の即時サポート"
+        "response": "5分以内に返信",
+        "customers": "数千人のユーザーから高い信頼",
+        "support": "24/7 即時サポート"
       }
     },
     "methods": {
-      "title": "連絡方法の選択",
-      "highlight": "あなたにぴったり",
-      "description": "素早いサポートを受けるには、Facebook ファンページまたはテレグラム経由でお問い合わせください。",
+      "title": "お問い合わせ方法を選択",
+      "highlight": "あなたに最適な phương thức",
+      "description": "迅速なサポートを受けるには、Facebook ファンページまたは Telegram からお問い合わせください",
       "facebook": {
-        "title": "Facebookのファンページ",
-        "description": "フォローしてファンページ経由で連絡する",
-        "action": "ファンページにアクセス"
+        "title": "Facebook ファンページ",
+        "description": "ファンページをフォローしてお問い合わせ",
+        "action": "ファンページへアクセス"
       },
       "telegram": {
-        "title": "電報",
-        "description": "Telegram 経由でサポートに問い合わせる",
-        "action": "連絡先電報"
+        "title": "Telegram",
+        "description": "Telegram でサポートに連絡",
+        "action": "Telegram で連絡"
       },
-      "available": "24時間365日"
+      "available": "24/7"
     },
     "quickBanner": {
-      "title": "💬できるだけ早くご連絡ください",
-      "facebook": "Facebookのファンページ",
+      "title": "💬 最も迅速なお問い合わせ方法",
+      "facebook": "Facebook ファンページ",
       "or": "または",
-      "telegram": "電報",
-      "description": "Figma edu アカウントの購入に関する即時のフィードバックと詳細なアドバイスについては、Facebook ファンページまたはテレグラム経由でお問い合わせください。 5 分以内に返信することをお約束します。",
+      "telegram": "Telegram",
+      "description": "即座の返信や Google AI アカウント購入に関する詳しい相談を受けるには、Facebook ファンページまたは Telegram でお問い合わせください。5分以内の返信をお約束します！",
       "buttons": {
-        "facebook": "Facebookのファンページ",
-        "telegram": "電報 FigmaEdu"
+        "facebook": "Facebook ファンページ",
+        "telegram": "Telegram TKAIPro"
       }
     },
     "info": {
       "title": "お問い合わせ",
-      "description": "素早いサポートが必要な場合は、Facebook ファンページまたはテレグラム経由でご連絡ください。",
-      "note": "💡 注: Facebook ファンページとテレグラムの 2 つの主要チャネルを通じてのみサポートします。最速の応答を得るには、これら 2 つのチャネルのいずれかを介してご連絡ください。",
+      "description": "迅速なサポートを受けるため、Facebook ファンページ hoặc Telegram からご連絡ください",
+      "note": "💡 ご注意: 当店は Facebook ファンページと Telegram の2つの主要チャンネルでのみサポートを提供しています。迅速な対応のため、いずれかのチャンネルよりお問い合わせください。",
       "company": {
         "title": "店舗情報",
-        "name": "FigmaEdu",
-        "description": "独立系小売業者の Figma Education アカウント — Figma, Inc. とは提携していません。",
+        "name": "TKAIPro",
+        "description": "Google AI アカウントの独立系リセラー — Google LLC との提携はありません",
         "addressTitle": "住所",
-        "address": "ホーチミン市、ベトナム",
+        "address": "ベトナム、ホーチミン市",
         "hoursTitle": "営業時間",
-        "hours": "• 月曜～日曜：08:00～23:00\n• 夜間や週末は返信が遅くなる場合があります\n• 迅速な対応時間: 月曜～金曜、08:00～12:00。 13:30～17:00\n• 昼休みは 12:00 から 13:30 までです。応答が遅れるか午後遅くになる場合があります。\n• Telegram メッセージに優先順位を付けて Facebook よりも早く応答を得る\n• 緊急時: Telegram/Facebook 経由で 24 時間 365 日対応",
-        "responseTitle": "応答時間",
-        "response": "• テレグラム (推奨): 通常は高速です。\n• Facebook ファンページ: 夜や週末は遅くなる場合があります"
+        "hours": "• 月曜日〜日曜日: 08:00 - 23:00\n• 夜間や週末は返信が遅くなる場合があります\n• 迅速対応時間帯: 月曜日〜金曜日 08:00-12:00、13:30-17:00\n• 昼休み 12:00-13:30 は対応が遅れるか午後になる場合があります\n• Facebook よりも Telegram のメッセージを優先すると迅速に対応できます\n• 緊急時: Telegram / Facebook にて 24/7 対応",
+        "responseTitle": "返信時間",
+        "response": "• Telegram（推奨）: 通常よりスピーディです\n• Facebook ファンページ: 夜間や週末は対応が遅れる場合があります"
       },
       "faq": {
         "title": "よくある質問",
-        "viewAll": "すべての FAQ を表示",
+        "viewAll": "FAQをすべて見る",
         "items": {
           "0": {
-            "question": "アカウントはすぐに使用できますか?",
-            "answer": "持っている！支払い後、ログインメールが届きますので、すぐに Figma にログインできます。"
+            "question": "アカウントはすぐに利用できますか？",
+            "answer": "はい！お支払い後、ログイン用メールが届き、すぐに Google AI にログインして利用できます。"
           },
           "1": {
-            "question": "ログイン手順のサポートはありますか?",
-            "answer": "持っている！ Figma edu のログイン手順を A ～ Z まで完全に無料でサポートします。"
+            "question": "ログイン手順のサポートはありますか？",
+            "answer": "はい！Google AI のログイン手順を最初から最後まで完全無料でサポートいたします。"
           },
           "2": {
-            "question": "支払いは安全ですか?",
-            "answer": "MoMo、バンキング、ZaloPay、VietQR など、多くの方法で完全に安全です。"
+            "question": "お支払いは安全ですか？",
+            "answer": "MoMo、銀行振込、ZaloPay、VietQR などの多様な決済方法に対応しており、完全かつ安全です。"
           }
         }
       }
     },
     "emergency": {
       "badge": "🚨",
-      "title": "緊急のサポートが必要ですか?",
-      "description": "Figma edu アカウントに問題がある場合、または緊急のサポートが必要な場合は、Facebook ファンページまたはテレグラム経由ですぐにご連絡ください。私たちは24時間365日常にオンラインです。",
-      "note": "⚡ 緊急の場合は 2 分以内に応答します"
+      "title": "緊急サポートが必要ですか？",
+      "description": "Google AI アカウントに問題が発生した場合や緊急のお問い合わせは、Facebook ファンページまたは Telegram から今すぐご連絡ください！24/7 オンラインで対応しております。",
+      "note": "⚡ 緊急時は2分以内に返信"
     },
     "social": {
-      "title": "サポートチャネルを通じてお問い合わせください"
+      "title": "サポートチャンネルでお問い合わせ"
     }
   },
   "Cart": {
@@ -1573,1159 +1573,1159 @@
     },
     "title": "ショッピングカート",
     "empty": {
-      "message": "ショッピングカートは空です",
-      "count": "カートには {count} 個の商品があります",
+      "message": "カートは空です",
+      "count": "カートに {count} 点の商品があります",
       "title": "カートは空です",
-      "description": "カートに商品がまだ追加されていません。",
-      "viewProducts": "製品を見る"
+      "description": "カートに商品が追加されていません。",
+      "viewProducts": "商品を見る"
     },
     "item": {
-      "remove": "製品の削除",
-      "decrease": "量を減らす",
+      "remove": "商品を削除",
+      "decrease": "数量を減らす",
       "increase": "数量を増やす"
     },
     "summary": {
-      "subtotal": "仮計算",
-      "discountCode": "CTV クーポンコード",
-      "placeholder": "バウチャーコードを入力してください",
-      "apply": "適用する",
-      "applying": "チェック中...",
+      "subtotal": "小計",
+      "discountCode": "パートナー用クーポンコード",
+      "placeholder": "クーポンコードを入力",
+      "apply": "適用",
+      "applying": "確認中...",
       "discount": "割引",
       "total": "合計",
-      "checkout": "支払う",
+      "checkout": "レジに進む",
       "continue": "買い物を続ける",
-      "clear": "カートを削除"
+      "clear": "カートを空にする"
     },
     "voucher": {
-      "appliedLabel": "クーポンが適用されました",
-      "applied": "クーポン適用されました！",
-      "removed": "クーポンが削除されました",
-      "remove": "取り除く",
-      "invalid": "クーポンコードが無効です",
-      "networkError": "接続できません。もう一度お試しください"
+      "appliedLabel": "クーポン適用済み",
+      "applied": "クーポンを適用しました！",
+      "removed": "クーポンを解除しました",
+      "remove": "削除",
+      "invalid": "無効なクーポンコードです",
+      "networkError": "接続できませんでした。もう一度お試しください"
     },
     "priceChanged": {
-      "title": "商品価格を更新しました",
-      "dismiss": "理解した"
+      "title": "商品の価格が更新されました",
+      "dismiss": "了解"
     }
   },
   "Checkout": {
-    "title": "支払う",
-    "back": "購入に戻る",
+    "title": "お支払い",
+    "back": "買い物を続ける",
     "greeting": {
-      "user": "こんにちは、{名前}!注文するための完全な情報",
-      "guest": "注文するための完全な情報"
+      "user": "こんにちは、{name}様！情報を完了してご注文を確定してください",
+      "guest": "情報を完了してご注文を確定してください"
     },
     "loginHint": {
-      "text": "情報を自動的に入力し、注文を追跡するため",
+      "text": "と、自動入力および注文追跡が利用できます",
       "link": "ログイン"
     },
-    "walletBanner": "ウォレットに一度チャージするだけで、何度も購入できるため、銀行取引が少なくなります",
+    "walletBanner": "1回のウォレットチャージで何度も購入 — 銀行決済の手間を削減",
     "loginRequired": {
-      "title": "お支払いするにはログインしてください",
-      "desc": "ウォレット経由で支払うと、一度入金すれば何度でも購入できます"
+      "title": "お支払いの前にログインしてください",
+      "desc": "ウォレット決済なら、一度のチャージで何度も購入できます"
     },
     "steps": {
       "info": "注文情報",
-      "payment": "支払う",
+      "payment": "お支払い",
       "finish": "完了"
     },
     "form": {
-      "customerInfo": "顧客情報",
-      "name": "フルネーム",
-      "email": "電子メール",
+      "customerInfo": "お客様情報",
+      "name": "氏名",
+      "email": "メールアドレス",
       "phone": "電話番号",
-      "note": "注文メモ",
-      "notePlaceholder": "ご注文時の注意事項（任意）",
-      "autoFill": "✓ アカウントから入力"
+      "note": "注文時の備考",
+      "notePlaceholder": "ご注文に関する備考（任意）",
+      "autoFill": "✓ アカウント情報から自動入力済み"
     },
     "payment": {
-      "title": "支払い方法",
+      "title": "お支払い方法",
       "bankTransfer": "銀行振込",
-      "bankTransferDesc": "QR コードによる支払い - 自動確認",
-      "wallet": "ウォレット残高で支払う",
-      "walletDesc": "ウォレットから直接引き落とされます — 注文はすぐに処理され、QR は必要ありません。",
-      "walletBalance": "バランス",
+      "bankTransferDesc": "QRコード決済 - 自動確認",
+      "wallet": "ウォレット残高でお支払い",
+      "walletDesc": "ウォレットから直接引き落とし — QR決済不要で即座に処理されます。",
+      "walletBalance": "残高",
       "recommended": "推奨",
-      "shortfall": "{金額}がありません",
-      "topupCta": "デポジット {amount} を支払う",
-      "walletInsufficientHint": "残高が不足しています - 補充してください",
-      "walletInsufficient": "残高がこのアプリケーションの支払いに十分ではありません",
-      "walletLoginHint": "そのため、ウォレットの残高を使ってすぐに支払うことができます（注文ごとに転送する必要はありません）。",
-      "payWithWalletBtn": "今すぐウォレットでお支払いください"
+      "shortfall": "不足額: {amount}",
+      "topupCta": "お支払いのために {amount} をチャージ",
+      "walletInsufficientHint": "残高不足 — チャージしてください",
+      "walletInsufficient": "このご注文のお支払いには残高が不足しています",
+      "walletLoginHint": "で、ウォレット残高からスムーズにお支払い（毎回振込不要）。",
+      "payWithWalletBtn": "今すぐウォレットで支払う"
     },
     "summary": {
-      "title": "注文 ({count} 製品)",
-      "subtotal": "仮計算",
+      "title": "ご注文内容（{count}点）",
+      "subtotal": "小計",
       "processingFee": "手数料",
       "free": "無料",
-      "voucher": "クーポン ({コード})",
+      "voucher": "クーポン（{code}）",
       "total": "合計",
-      "submit": "今すぐ注文",
-      "submitting": "処理...",
-      "termsHint": "注文する前に、上記の確認ボックスをすべてチェックする必要があります。"
+      "submit": "今すぐ注文する",
+      "submitting": "処理中...",
+      "termsHint": "ご注文前に上記の確認チェックボックスをすべてチェックしてください。"
     },
     "consent": {
-      "title": "要確認",
-      "over18": "私は18歳です。",
-      "termsPrivacy": "<terms>利用規約</terms>と<プライバシー>プライバシー ポリシー</プライバシー>に同意します。",
-      "reseller": "FigmaEdu は独立した小売業者であり、Figma, Inc. とは提携していないことを理解しています。",
-      "cursorTos": "Figma 利用規約 (<link>www.figma.com/legal</link>) に従うことに同意します。"
+      "title": "必須の同意事項",
+      "over18": "私は18歳以上です。",
+      "termsPrivacy": "私は<terms>利用規約</terms>および<privacy>プライバシーポリシー</privacy>に同意します。",
+      "reseller": "TKAIPro が Google LLC と提携していない独立系リセラーであることを理解しています",
+      "cursorTos": "Google AI 利用規約（<link>www.gemini.google.com/legal</link>）を順守することに同意します。"
     },
     "toast": {
-      "cartEmpty": "ショッピングカートは空です。製品を選択してください",
-      "missingInfo": "フルネームとメールアドレスを入力してください",
-      "missingConsent": "必須の確認ボックスをすべてチェックしてください",
-      "missingUpgradeInfo": "アップグレードするには完全なアカウント情報を入力してください",
-      "success": "注文が正常に作成されました。",
+      "cartEmpty": "カートが空です。商品を選択してください",
+      "missingInfo": "氏名とメールアドレスを入力してください",
+      "missingConsent": "必須の同意項目を complete にチェックしてください",
+      "missingUpgradeInfo": "アップグレードするアカウントの情報をすべて入力してください",
+      "success": "ご注文が正常に完了しました！",
       "error": "エラーが発生しました。もう一度お試しください"
     },
     "upgradeInfo": {
-      "title": "アカウント情報をアップグレードする必要があります",
-      "description": "アップグレードするアカウントのメールアドレスとパスワードを入力してください。この情報はアカウントをアップグレードするためにのみ使用されます。",
+      "title": "アップグレード対象アカウント情報",
+      "description": "アップグレードを希望するアカウントのメールアドレスとパスワードを入力してください。この情報はアカウントのアップグレードのみに使用されます。",
       "email": "アカウントのメールアドレス",
-      "emailPlaceholder": "アップグレードする電子メール アカウントを入力してください",
+      "emailPlaceholder": "アップグレードするアカウントのメールアドレスを入力",
       "password": "アカウントのパスワード",
-      "passwordPlaceholder": "アカウントのパスワードを入力してください",
-      "contactInfo": "電報/フェイスブック",
-      "contactPlaceholder": "Telegram のユーザー名または Facebook リンクを入力して連絡します"
+      "passwordPlaceholder": "アカウントのパスワードを入力",
+      "contactInfo": "Telegram / Facebook",
+      "contactPlaceholder": "連絡用の Telegram ユーザー名または Facebook リンクを入力"
     }
   },
   "CookiesPage": {
     "seo": {
       "title": "クッキーポリシー",
-      "description": "FigmaEdu の Cookie ポリシー。ユーザー エクスペリエンスを向上させ、個人情報を保護するために Cookie がどのように使用されるかをご覧ください。",
-      "keywords": "figmaedu Cookie ポリシー、ベトナム Cookie ポリシー、情報セキュリティ"
+      "description": "TKAIPro のクッキーポリシー。ユーザー体験の向上と個人情報保護のためにクッキーをどのように使用しているかをご確認いただけます。",
+      "keywords": "TKAIPro クッキーポリシー, クッキーポリシー ベトナム, 情報セキュリティ"
     },
     "hero": {
       "title": "ポリシー",
       "highlight": "クッキー",
-      "description": "FigmaEdu がエクスペリエンスを向上させ、透明性のある方法で個人情報を保護するために Cookie を使用する方法を学びましょう。",
-      "update": "更新日: 2025 年 1 月 15 日"
+      "description": "TKAIPro がお客様の体験を向上させ、個人情報を透明性をもって保護するためにクッキーをどのように使用しているかをご確認ください。",
+      "update": "更新日: 2025年1月15日"
     },
     "definition": {
-      "title": "クッキーとは何ですか?",
-      "description": "Cookie は、Web サイトにアクセスしたときにデバイスに保存される小さなファイルです。これらは、ウェブサイトがあなたの訪問に関する情報を記憶するのに役立ち、次回のエクスペリエンスをより便利にします。",
-      "whyTitle": "なぜクッキーを使用するのでしょうか?",
+      "title": "クッキーとは？",
+      "description": "クッキー（Cookies）とは、ウェブサイトを訪問した際にお使いのデバイスに保存される小さなファイルです。ウェブサイトがお客様の訪問情報を記憶し、次回のアクセスをより便利にするのに役立ちます。",
+      "whyTitle": "なぜクッキーを使用するのですか？",
       "reasons": {
-        "1": "ウェブサイトが正常かつ安全に動作することを確認する",
-        "2": "ログインとショッピングカートを記憶してください",
-        "3": "パフォーマンスとページの読み込み速度の向上",
-        "4": "エクスペリエンスを最適化するためにウェブサイトをどのように使用するかを理解する",
-        "5": "関連するコンテンツと広告を提供する"
+        "1": "ウェブサイトの正常かつ安全な動作を保証するため",
+        "2": "ログイン状態やショッピングカートを記憶するため",
+        "3": "パフォーマンスやページ読み込み速度を向上させるため",
+        "4": "体験を最適化するためにお客様のウェブサイト利用状況を理解するため",
+        "5": "適切なコンテンツや広告を提供するため"
       },
-      "commitment": "コミットメント: パスワードやクレジット カード情報などの機密情報を Cookie に保存することはありません。"
+      "commitment": "お約束: パスワードやクレジットカード情報などの機密情報をクッキーに保存することは一切ありません。"
     },
     "types": {
-      "title": "当社が使用する Cookie の種類",
-      "description": "Cookieの種類とその使用目的を理解する",
-      "purpose": "目的：",
-      "examples": "例えば：",
-      "canDisable": "オフにすることができます:",
-      "yes": "✅ はい",
-      "no": "❌ いいえ",
+      "title": "使用しているクッキーの種類",
+      "description": "各クッキーの種類と使用目的を理解する",
+      "purpose": "目的:",
+      "examples": "例:",
+      "canDisable": "無効化の可否:",
+      "yes": "✅ 可能",
+      "no": "❌ 不可",
       "settings": "設定",
       "items": {
         "essential": {
-          "title": "必須のクッキー",
-          "description": "基本的な操作に必須",
-          "purpose": "ウェブサイトが正常に動作することを確認してください"
+          "title": "必須クッキー",
+          "description": "基本機能の動作に必要なクッキー",
+          "purpose": "ウェブサイトの正常な動作を保証するため"
         },
         "analytics": {
           "title": "分析クッキー",
-          "description": "Webサイトの使用状況データを収集する",
-          "purpose": "ユーザーがウェブサイトとどのようにやり取りするかを理解する"
+          "description": "ウェブサイトの利用状況データを収集",
+          "purpose": "ユーザーがウェブサイトとどのように相互作用しているかを把握するため"
         },
         "marketing": {
           "title": "マーケティングクッキー",
-          "description": "関連性のある広告を配信するために使用されます",
-          "purpose": "広告の効果を追跡する"
+          "description": "適切な広告を配信するために使用",
+          "purpose": "広告の効果を測定・追跡するため"
         },
         "functional": {
-          "title": "ファンクショナルクッキー",
-          "description": "自分の好みを覚えておいてください",
-          "purpose": "言語とインターフェースの設定を保存する"
+          "title": "機能性クッキー",
+          "description": "お客様の設定や選択を記憶",
+          "purpose": "言語やインターフェースの設定を保存するため"
         }
       }
     },
     "details": {
       "title": "クッキーの詳細",
-      "description": "Web サイトで使用される Cookie の完全なリスト",
+      "description": "ウェブサイトで使用されているクッキーの完全な一覧",
       "headers": {
         "name": "クッキー名",
-        "provider": "サプライヤー",
+        "provider": "提供元",
         "purpose": "目的",
-        "duration": "間隔",
-        "type": "タイプ"
+        "duration": "有効期限",
+        "type": "種類"
       }
     },
     "manage": {
-      "title": "Cookieの管理",
-      "description": "必要に応じて Cookie を制御したり削除したりできます。",
-      "browser": "ブラウザの設定",
+      "title": "クッキーの管理",
+      "description": "必要に応じてクッキーを管理・削除できます。",
+      "browser": "ブラウザ設定",
       "options": "利用可能なオプション",
       "warning": "警告",
       "warningItems": {
-        "1": "必須 Cookie を無効にすると、Web サイトの機能が損傷する可能性があります",
-        "2": "個人設定は保存されません",
-        "3": "再度サインインする必要がある場合があります"
+        "1": "必須クッキーを無効にすると、ウェブサイトの機能が正常に動作しない場合があります",
+        "2": "個人設定が保存されなくなります",
+        "3": "再ログインが必要になる場合があります"
       },
       "buttons": {
-        "settings": "設定を変更する",
+        "settings": "設定の変更",
         "view": "詳細を見る"
       }
     },
     "thirdParty": {
-      "title": "サードパーティCookie",
-      "description": "当社は信頼できるサードパーティのサービスを使用しており、お客様のデバイスに Cookie を配置する場合があります。"
+      "title": "サードパーティクッキー",
+      "description": "当社はお客様のデバイスにクッキーを設定する可能性のある、信頼できるサードパーティサービスを利用しています。"
     },
     "contact": {
-      "title": "連絡先と最新情報",
+      "title": "お問い合わせと更新",
       "changes": "ポリシーの変更",
-      "info": "連絡先"
+      "info": "連絡先情報"
     },
     "cta": {
-      "title": "ご質問がありますか?",
-      "description": "当社のチームは、お客様のデータの処理方法に関するご質問にお答えします。",
-      "contact": "今すぐ連絡する",
+      "title": "ご質問がありますか？",
+      "description": "当社のサポートチームが、データの取り扱いに関するご質問にお答えいたします。",
+      "contact": "今すぐお問い合わせ",
       "privacy": "プライバシーポリシー"
     }
   },
   "TermsPage": {
     "seo": {
       "title": "利用規約",
-      "description": "FigmaEdu 利用規約 (figmaedu.shop)。セットアップ、アップグレード、アクティベーションのテクニカル サポート サービス — Figma, Inc. の代理店または販売代理店ではありません。保証、支払い、および責任の制限。",
-      "keywords": "FigmaEdu 利用規約、利用規約、Figma Education、figmaedu.shop"
+      "description": "TKAIPro (tkaipro.shop) の利用規約。セットアップ、アップグレード、アクティベーションなどのテクニカルサポートサービスを提供します（Google LLC の代理店または販売パートナーではありません）。保証、支払い、責任制限についての説明。",
+      "keywords": "TKAIPro 利用規約, 利用規約, Google AI, tkaipro.shop"
     },
     "hero": {
-      "title": "利用規約",
-      "highlight": "状態",
-      "description": "FigmaEdu を使用する前に、これらの規約をよくお読みください。ウェブサイトにアクセスし、サービスを注文または支払うことにより、以下の条件を読み、理解し、それに拘束されることに同意したものとみなされます。",
-      "effective": "発効日: 2026 年 7 月 11 日 (バージョン 2026-07-11)"
+      "title": "利用規約 &",
+      "highlight": "利用条件",
+      "description": "TKAIPro をご利用になる前に、本規約をよくお読みください。ウェブサイトへのアクセス、注文、またはサービスの支払いを完了することにより、お客様は以下の利用規約を読み、理解し、同意したものとみなされます。",
+      "effective": "発効日: 2026年7月11日（バージョン 2026-07-11）"
     },
     "highlights": {
       "transparent": {
-        "title": "透明",
-        "desc": "技術サポートの範囲が明確である"
+        "title": "透明性",
+        "desc": "明確なテクニカルサポート範囲"
       },
       "fair": {
-        "title": "公平",
-        "desc": "双方の利益を守る"
+        "title": "公平性",
+        "desc": "双方の権利と利益を保護"
       },
       "flexible": {
         "title": "明確な保証",
-        "desc": "ショップエラーの場合は24時間以内に1対1の交換"
+        "desc": "ショップ側の不具合の場合、24時間以内の1対1交換"
       },
       "updated": {
-        "title": "アップデート",
-        "desc": "現在の運用に適した"
+        "title": "最新化",
+        "desc": "現在の運営状況に適応"
       }
     },
     "sections": {
       "1": {
-        "title": "1. サービスの範囲",
-        "intro": "FigmaEdu (figmaedu.shop) は、顧客の特定の要件に応じて、ソフトウェア、アカウント、またはデジタル サービスに関連するセットアップ、アップグレード、アクティブ化、構成、または技術的ニーズの処理に関するカスタマー サポート サービスを提供します。",
+        "title": "1. サービス範囲",
+        "intro": "TKAIPro (tkaipro.shop) は、お客様の特定の要求に基づき、ソフトウェア、アカウント、またはデジタルサービスに関連するセットアップ、アップグレード、アクティベーション、設定、およびテクニカルニーズ limitation のカスタマーサポートサービスを提供します。",
         "items": [
-          "「FigmaEdu」、「FigmaEdu」、または「当社」: 独立した技術サポート組織であり、ブランド所有者によって書面で明示的に記載されていない限り、Figma, Inc.、Figma またはその他のブランドの公式ディーラー、販売代理店、ライセンシー、代表者またはパートナーではありません。",
-          "「顧客」または「あなた」: 当社のサポート サービスを要求し、使用する人。",
-          "「サービス」: 公開された範囲内のセットアップ、アップグレード、アクティベーション、構成手順、支払いサポート (該当する場合)、および引き渡し後のケア。",
-          "「アカウント/アクセス」: 要求されたサポートの完了後に提供される Figma (または説明されている製品) に関連するログインまたはアクセス情報。",
-          "「ウェブサイト」: figmaedu.shop ウェブサイトおよびサブドメイン。"
+          "「TKAIPro」または「当社」：独立したテクニカルサポート事業者であり、商標所有者からの明示的な書面による通知がない限り、Google LLC、Google AI、またはその他のブランドの正規代理店、販売パートナー、認定事業者、代理人、公式パートナーではありません。",
+          "「お客様」または「あなた」：当社のサポートサービスを依頼・利用する個人または法人。",
+          "「サービス」：公表された範囲内でのセットアップ、アップグレード、アクティベーション、設定ガイド、支払いサポート（該当する場合）、および引き渡し後のサポート活動。",
+          "「アカウント / アクセス権」：お客様の要求に応じてサポートを完了した後に引き渡される、Google AI（または説明された製品）に関連するログイン情報またはアクセス権。",
+          "「ウェブサイト」：ウェブサイト tkaipro.shop および corporate サブドメイン。"
         ],
-        "trademarkNote": "ブランド名、ロゴ、ソフトウェア名、または製品名がウェブサイトに記載されている場合、それらは互換性、技術サポートのニーズ、またはお客様が要求するサービス内容を説明することのみを目的としています。すべての商標はそれぞれの所有者の財産です。"
+        "trademarkNote": "ウェブサイト上で言及されるブランド名、ロゴ、ソフトウェア名、または製品名は、互換性、テクニカルサポートのニーズ、またはお客様が要求するサービス内容を説明する目的 skin でのみ使用されます。すべての商標はそれぞれの所有者に帰属します。"
       },
       "2": {
         "title": "2. 規約への同意",
-        "content": "Web サイトにアクセスし、登録し、サポート リクエストを送信し、注文し、支払い (SePay/VietQR、仮想通貨、ウォレット残高、またはその他の公開された方法) を実行するか、または当社が提供するサービスを利用することにより、お客様は、本規約およびプライバシー ポリシーを読み、理解し、遵守することに同意したものとみなされます。",
-        "note": "注: 規約のいずれかに同意できない場合は、サービスの使用を直ちに中止し、注文や支払いを行わないでください。",
-        "paymentMeans": "お支払いは、サポート リクエストが正当であること、提供された情報がお客様の法的使用権の下にあること、および当社がサービスを実行するために必要な情報を提供することに同意することを確認したものとみなされます。"
+        "content": "ウェブサイトへのアクセス、登録、サポートの依頼、注文、支払い（SePay/VietQR、暗号資産、ウォレット残高、その他公開されている支払い方法）、または当社が提供するサービスの利用を行うことで、お客様は本規約およびプライバシーポリシーを読み、理解し、遵守することに同意したものとみなされます。",
+        "note": "注意：いずれかの規約に同意できない場合は、直ちにサービスの利用を中止し、注文や支払いを行わないでください。",
+        "paymentMeans": "支払いを完了することにより、サポートの依頼が合法であり、提供された情報がお客様の正当な使用権限に属することを確認し、当社がサービスを実行するために必要な情報を提供することに同意したものとみなされます。"
       },
       "3": {
-        "title": "3. サービスの性質と第三者要因",
-        "package": "サポート サービスには次のものが含まれます (ただし、これらに限定されません)。",
+        "title": "3. サービスの性質と第三者要素",
+        "package": "サポートサービスには以下が含まれる場合があります（ただし、これらに限定されません）：",
         "packageItems": [
-          "アカウントのセットアップまたはソフトウェア構成のサポート",
-          "サービス パック、機能、または構成のアップグレードをサポート",
-          "顧客の有効なニーズに応じて、ソフトウェア、アカウント、デジタル サービスのアクティベーションをサポートします",
-          "当社の技術的知識の範囲内でのインストール、構成、テスト、またはユーザー ガイダンスのサポート",
-          "当社がお客様に対して行ったサービス利用中に発生したトラブルへの対応サポート"
+          "アカウントのセットアップまたはソフトウェア設定のサポート",
+          "プラン、機能、または構成のアップグレードサポート",
+          "お客様の正当なニーズに応じたソフトウェア、アカウント、またはデジタルサービスのアクティベーションサポート",
+          "当社の技術的知見の範囲内でのインストール、設定、テスト、または利用ガイドのサポート",
+          "当社が実施したサービスのご利用中に発生した問題の対応サポート"
         ],
-        "commitment": "重要な説明:",
+        "commitment": "重要な明確化事項：",
         "commitmentItems": [
-          "当社は、法律、プラットフォーム/ソフトウェア プロバイダーの規約、FigmaEdu のサービス ポリシーに準拠したリクエストのみを行います。",
-          "リクエストが法律違反、知的財産権の侵害、詐欺、乱用、または第三者の法的権利に影響を及ぼす兆候を示した場合、当社はサービスの提供を拒否する権利を有します。",
-          "当社は Figma, Inc. の代理店または販売代理店ではありません。製品名は説明のみです。",
-          "公開されている保証範囲内で、支払いまたはアクティベーションに関連するエラーの処理をサポートします。"
+          "当社は、法律、プラットフォーム/ソフトウェア提供者の利用規約、および TKAIPro のサービスポリシーに準拠した依頼のみを実行します。",
+          "違法行為、知的財産権の侵害、詐欺、乱用、または第三者の法的権利を侵害する兆候がある場合、当社はサービスの提供を拒否する権利を留保します。",
+          "当社は Google LLC の代理店または販売パートナーではありません。製品名は説明目的でのみ使用されます。",
+          "公表された保証範囲内において、支払いまたはアクティベーションに関するエラーが発生した場合は対応をサポートします。"
         ],
-        "note": "注: FigmaEdu は独立したテクニカル サポート サービスであり、Figma, Inc. の一部ではありません。Figma 製品に関するすべての知的財産権および管轄権は Figma, Inc. に帰属します。",
-        "durationTitle": "保存期間、サポート、および制御できない要因",
-        "durationIntro": "各サービスには、有効期限、サポート期間、または条件が異なる場合があります。お客様は支払う前に説明をよく読む必要があります。サービスを維持する当社の能力は、以下のような当社の制御できない要因によって影響を受ける可能性があります。",
+        "note": "注意：TKAIPro は独立したテクニカルサポートサービスであり、Google LLC に属していません。Google AI 製品に関するすべての知的財産権および権限は Google LLC に帰属します。",
+        "durationTitle": "利用期間、サポート、および制御不能な要因",
+        "durationIntro": "各サービスには異なる利用期間、サポート期間、または条件が適用される場合があります。お客様は支払いの前に説明をよく読む必要があります。サービスの継続性は、当社の制御を超える以下のような要因によって影響を受ける可能性があります：",
         "durationItems": [
-          "ソフトウェア開発者、プラットフォーム、またはオリジネーター (Figma, Inc. を含む) のポリシー",
-          "サードパーティの利用規約、アクティベーションポリシー、アカウントまたはセキュリティポリシーを変更する",
-          "サードパーティは機能を中止、変更、制限、または廃止します。",
-          "システムエラー、技術的変更、または第三者によるその他の客観的原因",
-          "法的規制に基づく不可抗力の場合"
+          "ソフトウェア開発者、プラットフォーム、または元のサービスプロバイダー（Google LLC を含む）のポリシー",
+          "第三者の利用規約、アクティベーションポリシー、アカウントポリシー、またはセキュリティポリシーの変更",
+          "第三者によるサービスの提供停止、変更、制限、または機能の削除",
+          "第三者のシステムエラー、技術的変更、またはその他の客観的な理由",
+          "法律に基づく不可抗力の事態"
         ],
-        "durationNote": "当社は、合理的な範囲内でサポートを提供するよう努めますが、原因が当社の制御を超えている場合、完全な機能、アクセス、またはサービスの状態を復元することは約束しません。",
-        "cursorTitle": "Figma 用語",
+        "durationNote": "当社は合理的な範囲内でサポートを提供するよう努めますが、原因が当社の制御を超えている場合、すべての機能、アクセス権、またはサービス状態の完全な復旧を保証するものではありません。",
+        "cursorTitle": "Google の利用規約",
         "cursorItems": [
-          "Figma 利用規約 (www.figma.com/legal) およびプライバシー ポリシー (www.figma.com/legal) を遵守する必要があります。",
-          "当社は、Figma, Inc. の価格、機能、稼働時間、またはアカウント閉鎖の決定を管理しません。",
-          "すべてのプロモーション/紹介特典 (存在する場合) には、Figma, Inc. のポリシーが適用されます。変更または中止される場合があります。"
+          "お客様は Google AI 利用規約（www.gemini.google.com/legal）およびプライバシーポリシー（www.gemini.google.com/legal）を遵守する必要があります。",
+          "当社は Google LLC の価格、機能、稼働時間（uptime）、またはアカウント停止の決定を管理していません。",
+          "すべてのプロモーション/紹介特典（該当する場合）は Google LLC のポリシーに準拠し、変更または取り消される場合があります。"
         ]
       },
       "4": {
-        "title": "4. アカウント情報、セキュリティ、引き継ぎ後の責任",
-        "intro": "お客様は、提供された情報が正確かつ合法であり、法的使用権の範囲内であることを確認する責任を負います。サービスが完了/提供されると、アカウント (またはアクセス) は顧客の所有物となり、顧客はそれを安全に保管する必要があります。",
+        "title": "4. アカウント情報、セキュリティ、および引き渡し後の責任",
+        "intro": "お客様は、提供された情報が正確、合法、かつ正当な使用権限内であることを確認する責任を負います。サービスの完了/引き渡し後、アカウント（またはアクセス権）はお客様の資産となり、お客様自身で管理・保護する必要があります。",
         "items": [
-          "推奨または該当する場合は、資格情報を受け取ったらすぐに電子メール、パスワード、2FA、および回復用電子メールを変更します。",
-          "ログイン情報、アクティベーション コード、構成データを安全な場所に自己保存します。権限のない人と共有しないでください。",
-          "アクセス喪失、情報漏洩、第三者による不正使用のリスクからアカウントとデバイスをプロアクティブに保護します。",
-          "セキュリティ上の理由から、一部の情報は引き渡された後に保管したり、提供したりできない場合があります。お客様はご自身で保管する必要があります。",
-          "アカウント情報を忘れた場合、パスワードを忘れた場合、ログイン情報を忘れた場合、または 2FA を紛失した場合に、お客様が一定期間後にアクセスできなくなる場合はサポートされません。",
-          "スパム行為、リバースエンジニアリング、ベトナム法/国際法の違法使用は禁止されています。",
-          "違反した場合は、払い戻しなしでサービスが即時に終了される場合があります。",
-          "あなたは、受け取ったアカウントから生じるすべての活動に対して単独で責任を負います。"
+          "推奨または適用される場合、資格情報を受け取った直後にメールアドレス、パスワード、2FA、および復元用メールアドレスを変更してください。",
+          "ログイン情報、アクティベーションコード、および設定データを安全な場所にご自身で保管し、権限のない第三者と共有しないでください。",
+          "アクセス権の喪失、情報の漏洩、または第三者による不正使用のリスクから、アカウントおよびデバイスを主体的に保護してください。",
+          "セキュリティ上の理由により、引き渡し後の一部情報を当社が保管しない、または再提供できない場合があります。お客様ご自身で保存してください。",
+          "一定期間が経過した後、アカウント情報の失念、パスワード忘れ、ログイン情報の紛失、または 2FA の紛失によりアクセスできなくなった場合、当社はサポートを提供いたしかねます。",
+          "スパム行為、リバースエンジニアリング、またはベトナムおよび国際法に違反する使用を禁止します。",
+          "違反があった場合、返金なしでサービスを即座に終了する場合があります。",
+          "受け取ったアカウントから発生するすべての活動について、お客様自身が責任を負います。"
         ]
       },
       "5": {
-        "title": "5. 注文と支払い",
-        "order": "注文：",
+        "title": "5. 注文および支払い",
+        "order": "ご注文方法：",
         "orderItems": [
-          "希望するFigma期間に対応するサポートサービスパッケージを選択してください",
+          "ご希望の Google AI 期間に対応するサポートサービスプランを選択",
           "カートに追加してチェックアウト",
-          "連絡先情報と Figma アカウント (存在する場合) を正しく入力してください",
-          "適切な支払い方法を選択してください",
-          "サポートリクエストを確認し、サービスの予約を完了します"
+          "連絡先情報および Google AI アカウント（お持ちの場合）を正確に入力",
+          "適切な支払い方法を選択",
+          "サポート依頼を確認し、サービス注文を完了"
         ],
-        "payment": "支払う：",
+        "payment": "お支払い：",
         "paymentItems": [
-          "SePay / VietQR (送金)、暗号通貨 (Binance、Bybit、オンチェーン)、ウォレット残高 (ある場合)",
-          "お客様はサポートを提供する前にサービス料金の 100% を支払います。",
-          "領収書は電子メールまたは注文管理システム経由で送信されます",
-          "サービス料金は明確に表示されており、発行者の税金は含まれていません Figma"
+          "SePay / VietQR（銀行振込）、暗号資産（Binance、Bybit、オンチェーン）、およびウォレット残高（利用可能な場合）",
+          "当社がサポートを開始する前に、サービス料金の100%をお支払いいただく必要があります",
+          "領収書はメールまたは注文管理システム経由で送信されます",
+          "サービス料金は明確に表示されており、Google 発行元の税金は含まれていません"
         ],
-        "time": "処理時間: 通常の場合、支払いが完了してから 1 ～ 5 分以内にサポートを開始します。"
+        "time": "処理時間：通常の場合、お支払い完了後 1〜5 分以内にサポートを開始します。"
       },
       "6": {
-        "title": "6. 保証、交換、返金",
-        "noRefundNote": "弊社側の理由によりサービスを実行できない場合、または公式サポート チャネルを通じて別途書面による契約がある場合を除き、認証情報の配信/アカウントのアクティベーション (注文番号) 後は返金されません。",
-        "replacement": "1対1保証（ショップエラー、最初の24時間）：",
+        "title": "6. 保証、交換および返金",
+        "noRefundNote": "資格情報が引き渡された後、またはアカウントがアクティベートされた後（デジタル商品）は、当社の都合によりサービスを提供できない場合、または公式サポートチャネルを通じて書面による個別合意がある場合を除き、返金はいたしません。",
+        "replacement": "1対1の交換保証（ショップ側の不具合、最初の24時間）：",
         "replacementItems": [
-          "認証情報を受け取った後すぐにログインできない（ショップエラー）",
-          "ログイン後最初の 24 時間以内に教育機能が表示されない (ショップエラー)",
-          "有効期限が購入したパッケージと一致しません（ショップエラー）"
+          "資格情報受け取り直後にログインできない場合（ショップ側の不具合）",
+          "ログイン後最初の24時間以内に Education 機能が不足している場合（ショップ側の不具合）",
+          "利用期間が購入したプランと一致しない場合（ショップ側の不具合）"
         ],
-        "warranty": "保証サポート:",
+        "warranty": "保証サポート：",
         "warrantyItems": [
-          "パッケージの公開範囲内でのテクニカル サポート",
-          "24時間以内にショップから配送ミスを確認後、確認と1対1交換",
-          "有効な保証請求については 24 時間以内に対応します"
+          "プランの公表範囲内でのテクニカルサポート",
+          "24時間以内にショップ側の配送エラーが確認された場合の確認および1対1の交換",
+          "有効な保証申請に対して24時間以内に回答"
         ],
-        "exclusion": "以下の場合、保証なし、払い戻しなし、またはさらなるサポートはありません。",
+        "exclusion": "以下の場合、保証・返金・追加サポートの対象外となります：",
         "exclusionItems": [
-          "認証情報が配信され、アカウントが正常にアクティブ化されました",
-          "パスワードを忘れた場合、2FA を紛失した場合、ログイン情報を忘れた場合、または使用期間後にアクセスできなくなった場合",
-          "お客様は引き渡し後に構成、電子メール、パスワード、プロファイル、またはセキュリティ設定を自分で変更します。",
-          "Figma, Inc.は利用規約またはそのポリシーに従ってアカウントを一時停止/終了します",
-          "Figma 規約の誤用または違反",
-          "アカウントの共有、転売、または違法な商業的悪用",
-          "購入後に考えを変える",
-          "お客様のデバイス、ネットワーク、マルウェア、またはサービス範囲外の要因によってエラーが発生した場合",
-          "サーバーダウン、メンテナンス、Figma, Inc. からのポリシー変更。"
+          "資格情報が引き渡され、アカウントが正常にアクティベートされた場合",
+          "利用開始後、パスワード忘れ、2FA 紛失、ログイン情報忘れ、またはアクセス権を失った場合",
+          "引き渡し後に、お客様自身で設定、メール、パスワード、プロフィール、またはセキュリティ設定を変更した場合",
+          "Google LLC が利用規約またはポリシーに従ってアカウントを停止/終了した場合",
+          "誤用または Google 利用規約への違反があった場合",
+          "不正なアカウント共有、転売、または商業利用を行った場合",
+          "購入後のお客様都合によるキャンセル（気が変わった場合）",
+          "お客様のデバイス、ネットワーク、マルウェア、またはサービス範囲外の要因に起因するエラーの場合",
+          "Google LLC によるサーバーダウン、メンテナンス、またはポリシー変更の場合"
         ]
       },
       "7": {
-        "title": "7. 顧客の義務",
-        "commit": "あなたは次のことを約束します:",
+        "title": "7. お客様の義務",
+        "commit": "お客様は以下を約定するものとします：",
         "commitItems": [
-          "ベトナムの法律および関連規制を遵守します",
-          "正確かつ完全な連絡先およびアカウント情報を提供する",
-          "引き継ぎ後すぐにセキュリティ情報を変更し、資格情報を自分で保存します",
-          "アカウントは法的な個人目的で、Figma の規約に従って使用してください。",
-          "サポートを完了するために必要な情報の提供にご協力ください"
+          "ベトナムの法律および関連規定を遵守すること",
+          "正確かつ完全な連絡先情報およびアカウント情報を提供すること",
+          "引き渡し後直ちにセキュリティ情報を変更し、資格情報を自ら管理すること",
+          "正当な個人目的でアカウントを使用し、Google の利用規約を遵守すること",
+          "サポートを完了するために必要な情報の提供に協力すること"
         ],
-        "forbid": "次のことを行ってはなりません:",
+        "forbid": "以下の行為を禁止します：",
         "forbidItems": [
-          "違法行為の実行、アクセス権の回避、パスワードのクラック、ジェイルブレイク、または第三者の規約への違反のリクエスト",
-          "詐欺、知的財産権の侵害、第三者への損害を目的としたサービスの利用",
-          "FigmaEdu、他の顧客、または第三者に影響を与える違法な購入、転売、共有または譲渡",
-          "虚偽の情報や違法に使用されている情報を提供する行為",
-          "スパム、リクエスト制限の悪用、オファーを利用するための複数のアカウントの作成、または違法な支払い方法の使用",
-          "アカウントを使用して競合製品を開発することは、適用される規約に違反します"
+          "違法行為、アクセス権の超過、クラッキング、アクティベーションの回避、または第三者の利用規約違反を依頼すること",
+          "詐欺、知的財産の侵害、または第三者に損害を与える目的でサービスを利用すること",
+          "TKAIPro、他のお客様、または第三者に影響を与えるような不正な転売、共有、譲渡を行うこと",
+          "偽造情報または正当な使用権限のない情報を提供すること",
+          "スパム行為、リクエスト制限の悪用、特典目的の複数アカウント作成、または不法な支払い手段を使用すること",
+          "適用される規約に違反して、競合製品を開発するためにアカウントを使用すること"
         ]
       },
       "8": {
-        "title": "8. 当社の義務と責任の制限",
-        "commit": "私たちは次のことを約束します:",
+        "title": "8. 当社の義務および責任制限",
+        "commit": "当社は以下を約定します：",
         "commitItems": [
-          "サポート サービスの範囲と関連料金について透明性を保つ",
-          "約束どおりにサポートを提供します (通常、通常のシフトの場合は支払い後 1 ～ 5 分)",
-          "公開された保証/サポート フレームワーク内での技術的な提携",
-          "プライバシーポリシーに基づいてお客様の情報を保護します",
-          "公開されている保証および返金ポリシーに準拠する"
+          "サポートサービスの範囲および関連費用に関する透明性を維持すること",
+          "約束された時間内にサポートを実施すること（通常の場合、お支払い完了後 1〜5 分以内）",
+          "公表された保証/サポート期間中に技術サポートを提供すること",
+          "プライバシーポリシーに従ってお客さまの情報を保護すること",
+          "公表された保証および返金ポリシーを遵守すること"
         ],
-        "limit": "責任の制限:",
+        "limit": "責任の制限：",
         "limitItems": [
-          "Figma, Inc. のポリシー、機能、稼働時間、またはアカウントの決定を支配するものではありません。",
-          "Figma サービスの 100% の継続性は保証されません",
-          "顧客の誤用、サードパーティのポリシー変更、顧客側のセキュリティ エラー (パスワードの紛失/2FA)、または不可抗力に起因する間接的、付随的、付随的損害、データ損失、収益損失、利益の損失、作業の中断またはアクセスの損失については責任を負いません。",
-          "当社側に直接の過失があり、修復できない場合、特定のサービスに対する最高責任は、顧客がそのサービス自体に対して支払った金額を超えません。"
+          "Google LLC のポリシー、機能、稼働時間、またはアカウントの決定に影響を与えないこと",
+          "Google AI サービスの100%の継続性を保証しないこと",
+          "誤用、第三者のポリシー変更、お客様側のセキュリティエラー（パスワード/2FAの紛失）、または不可抗力に起因する間接的損害、偶発的損害、データ損失、売上損失、利益損失、業務の中断、アクセス権の喪失について責任を負わないこと",
+          "当社の直接的な過失があり修正不能な場合における特定のサービスに対する最大の責任は、お客様がそのサービスに対して支払った金額を超えないものとすること"
         ]
       },
       "9": {
-        "title": "9. 知的財産と商標",
+        "title": "9. 知的財産権および商標",
         "items": [
-          "ウェブサイトのコンテンツ (テキスト、レイアウト、インターフェース、画像、当社が編集した説明書) は、FigmaEdu が所有または合法的に使用しています。",
-          "Figma および Figma Education は Figma, Inc. の商標です。その他の名前/ロゴはそれぞれの所有者に帰属します。",
-          "これらのブランドへの言及は、そのようなブランドのスポンサーシップ、推奨、認可、配布、または公式の表明を意味するものではありません。",
-          "お客様は、FigmaEdu または法的所有者からの書面による同意なしに、Web サイトのコンテンツをコピー、編集、配布、または違法に利用することはできません。"
+          "ウェブサイトのコンテンツ（テキスト、レイアウト、インターフェース、画像、当社が作成したガイド資料）は、TKAIPro の所有権または正当な使用権に属します。",
+          "Google および Google AI は Google LLC の商標です。その他の名称/ロゴは、それぞれの所有者に帰属します。",
+          " these Thương hiệu に言及することは、当社がこれらのブランドからスポンサーを受け、承認され、委任を受け、販売を委託され、または公式に代理されていることを意味するものではありません。",
+          "お客様は、TKAIPro または正当な所有者からの書面による同意なしに、ウェブサイトのコンテンツを複製、変更、配布、または不正に利用することはできません。"
         ]
       },
       "10": {
         "title": "10. サービスの停止または終了",
-        "intro": "当社は、以下の場合にサービスの提供を一時停止または終了する権利を留保します。",
+        "intro": "当社は以下の場合、サービスの提供を一時停止または終了する権利を有します：",
         "items": [
-          "顧客が本規約に違反した場合",
-          "詐欺、悪用、混乱を引き起こしたり、他のシステムや顧客に影響を与えたりする顧客",
-          "顧客が違法または第三者の権利を侵害していると思われるコンテンツをリクエストした場合",
-          "顧客がサービスの実行に必要な十分な情報を提供していない",
-          "サービスの提供を継続すると、FigmaEdu、他の顧客、または第三者に法的、技術的、またはセキュリティ上のリスクが生じる可能性があります。"
+          "お客様が本規約に違反した場合",
+          "お客様に詐欺、乱用、妨害、または他のお客様やシステムに影響を与える行為があった場合",
+          "違法行為や第三者の権利侵害の兆候がある内容を要求した場合",
+          "サービスを実行するために必要な十分な情報が提供されない場合",
+          "サービスの継続的な提供が TKAIPro、他のお客様、または第三者に法的、技術的、またはセキュリティ上のリスクをもたらす可能性がある場合"
         ],
-        "note": "停止または終了が顧客側の違反によるものである場合、当社は返金を拒否し、サポートの継続を拒否する権利を有します。"
+        "note": "お客様の違反により停止または終了した場合、当社は返金を拒否し、継続的なサポートを拒否する権利を有します。"
       },
       "11": {
-        "title": "11. 規約の変更",
-        "content": "当社は、当社のビジネス モデル、法的規制、第三者のポリシー、または運営上のニーズに合わせて、いつでも本規約を更新、修正、または変更する権利を留保します。",
+        "title": "11. 利用規約の変更",
+        "content": "当社は、ビジネスモデル、法令、第三者のポリシー、または運営上のニーズに対応するため、いつでも本規約を更新、修正、または変更する権利を有します。",
         "reasonItems": [
-          "事業やサービスの変化",
+          "ビジネスおよびサービスの変更",
           "新しい法的要件",
-          "サードパーティポリシーの変更",
-          "顧客体験の向上"
+          "第三者のポリシー変更",
+          "カスタマーエクスペリエンスの向上"
         ],
-        "note": "更新されたバージョンは figmaedu.shop で公開され、別途通知がない限り、投稿された時点から有効になります。更新後にサービスを継続して使用すると、変更を受け入れたものとみなされます。マテリアルの変更は、チェックアウト時の TERMS_VERSION にも反映される場合があります。"
+        "note": "更新されたバージョンは tkaipro.shop 上で公開され、別段の定めがない限り投稿時から効力を生じます。更新後もサービスを継続して利用することにより、変更に同意したものとみなされます。重要な変更はチェックアウト時の TERMS_VERSION にも反映される場合があります。"
       },
       "12": {
         "title": "12. 紛争の解決",
-        "process": "解決プロセス:",
+        "process": "解決プロセス：",
         "processItems": [
-          "メッセンジャー、電報、メールで直接お問い合わせください",
-          "24 時間以内にコミュニケーションをとり、解決策を見つける",
-          "合意に達しない場合は、管理者にエスカレーションします",
-          "最終的には、ベトナムの法律に従って市の管轄当局において解決されます。ホーチミン"
+          "Messenger、Telegram、またはメールを通じて直接連絡",
+          "24時間以内に話し合いと解決策の模索を行う",
+          "合意に至らない場合、管理部門へ引き継ぐ",
+          "最終的にはホーチミン市の管轄機関にてベトナム法に基づき解決する"
         ],
-        "law": "適用法: これらの条件はベトナムの法律に準拠します。すべての紛争は市の管轄裁判所で解決されます。ホーチミン。"
+        "law": "準拠法：本規約はベトナム法に準拠します。一切の紛争はホーチミン市の管轄裁判所において解決されるものとします。"
       },
       "13": {
-        "title": "13. 連絡先",
-        "brand": "FigmaEdu",
-        "support": "サポート時間",
-        "time": "サポート: 年中無休",
-        "resp": "対応：5分以内（通常勤務）",
-        "web": "ウェブサイト：figmaedu.shop",
-        "email": "メール：support@figmaedu.shop",
-        "messenger": "メッセンジャー: figmaedu.shop/contact",
-        "telegram": "電報: figmaedu.shop/contact"
+        "title": "13. お問い合わせ",
+        "brand": "TKAIPro",
+        "support": "サポート対応時間",
+        "time": "サポート: 24/7",
+        "resp": "回答時間: 通常5分以内",
+        "web": "Website: tkaipro.shop",
+        "email": "Email: support@tkaipro.shop",
+        "messenger": "Messenger: tkaipro.shop/contact",
+        "telegram": "Telegram: tkaipro.shop/contact"
       }
     },
     "legalSafety": {
-      "title": "フェアユースポリシーと免責事項",
-      "highlight": "サービスを購入して使用すると、以下の規定を読み、理解し、同意したことになります。",
-      "prohibitedTitle": "以下の行為は固く禁止されております。",
+      "title": "合法利用に関する規約および免責事項",
+      "highlight": "サービスを購入および利用することにより、以下の規定を読み、理解し、同意したことを確認したものとみなされます。",
+      "prohibitedTitle": "以下の行為を厳重に禁止します：",
       "prohibited": [
-        "違法な目的で提供されたアカウント、電子メール、およびリソースを使用することは固く禁止されています。",
-        "詐欺、詐欺、横領、マネーロンダリング、または違法行為への資金提供。",
-        "スパムの送信、マルウェアの拡散、フィッシング、サイバー攻撃、またはシステムへの不正アクセス。",
-        "なりすまし、身分を偽造、または書類や文書を偽造すること。",
-        "知的財産権を侵害したり、法律で禁止されているコンテンツを配布したりする。",
-        "お客様の居住国の法律及びベトナムの法律に違反する行為。"
+        "提供されたアカウント、メール、およびすべてのリソースを違法目的で使用することを厳禁します。",
+        "詐欺、不正行為、財産の不正取得、マネーロンダリング、または不法活動への資金提供。",
+        "スパムメールの送信、悪意のあるソフトウェアの拡散、フィッシング、サイバー攻撃、またはシステムへの不正アクセス。",
+        "なりすまし、身元の詐称、または書類・文書の偽造。",
+        "知的財産権の侵害、または法律で禁止されているコンテンツの拡散。",
+        "お客様が居住する国の法律およびベトナムの法律に違反するあらゆる行為。"
       ],
-      "disclaimerTitle": "免責事項:",
+      "disclaimerTitle": "免責事項：",
       "disclaimer": [
-        "アカウント/アクセスは現状のまま提供され、利用可能な状態で提供されます。当社は、記載されたサポートの範囲内での通常の法的使用以外の特定の目的への適合性を保証しません。",
-        "当社はリソースの悪用については責任を負いません。",
-        "引き渡し後、顧客はアカウントから生じるすべての活動に対して完全な法的責任を負います。",
-        "お客様には自らを教育し、居住国の法律を遵守する義務があります。法律を遵守する責任はお客様にあります。",
-        "いかなる請求に対する当社の最大責任は、当該注文の金額に限定されます。"
+        "アカウント/アクセス権は「現状有姿（as-is）」および「提供可能な状態（as-available）」で提供されます。当社は、公表されたサポート範囲内の通常の合法的な使用目的を除き、特定の目的への適合性を保証しません。",
+        "当社は、リソースの誤用に関するいかなる行為に対しても責任を負いません。",
+        "引き渡し後、お客様はアカウントから発生するすべての活動に対して一切の法的責任を負うものとします。",
+        "お客様はご自身の居住国の法律を確認し遵守する義務を負い、法令遵守の責任はお客様にあります。",
+        "すべての主張に対する当社の最大責任は、関連する注文の金額に制限されます。"
       ],
-      "indemnityTitle": "補償と使用条件:",
+      "indemnityTitle": "補償および利用条件：",
       "indemnity": [
-        "顧客は、顧客による規約違反または誤用から生じるすべての請求、損失、費用 (法的費用を含む) から FigmaEdu を補償し、防御し、免責することに同意します。",
-        "顧客は、サービスを使用する際に、18 歳であり、完全な公用能力を備えていることを確認します。",
-        "違法な目的での使用の兆候が検出された場合、当社はサービスを直ちに拒否または終了する権利を有します (返金はありません)。",
-        "当局から法的要請があった場合には、法に基づき情報提供に協力します。",
-        "総責任は、関連する注文に対して支払った金額に限定されます。"
+        "お客様は、規約への違反または誤用から生じるすべての請求、損害、費用（法的手続き費用を含む）から TKAIPro を補償し、保護し、損害を与えないことに同意します。",
+        "お客様は、サービスを利用する際に18歳以上であり、完全な民事行為能力を有していることを確認するものとします。",
+        "違法目的での使用の兆候が発見された場合、当社は直ちにサービスを拒否または終了（返金なし）する権利を有します。",
+        "関係当局からの合法的な要請がある場合、当社は法令の規定に従って情報の提供に協力します。",
+        "全体の責任は、お客様が関連する注文に対して支払った金額に制限されます。"
       ]
     },
     "cta": {
-      "title": "規約を理解していますか?",
-      "description": "明確な権利と責任を持って FigmaEdu から Figma サポートの使用を開始します",
+      "title": "利用規約を理解しましたか？",
+      "description": "明確な権利と責任のもとで、TKAIPro による Google AI サポートサービスを開始しましょう",
       "buy": "今すぐ購入 - 同意します",
-      "contact": "質疑応答"
+      "contact": "ご質問・お問い合わせ"
     }
   },
   "ProductDetail": {
-    "back": "製品に戻る",
+    "back": "商品に戻る",
     "notFound": {
-      "title": "製品が見つかりませんでした",
+      "title": "商品が見つかりません",
       "description": "お探しの商品は存在しません。",
-      "button": "製品に戻る"
+      "button": "商品一覧へ戻る"
     },
     "badges": {
-      "popular": "人気のある",
-      "discount": "{パーセント}％"
+      "popular": "人気",
+      "discount": "{percent}% OFF"
     },
     "purchaseMode": {
-      "account": "新しいアカウントを購入する",
-      "upgrade": "メインアップグレード"
+      "account": "新規アカウントを購入",
+      "upgrade": "既存アカウントをアップグレード"
     },
     "status": {
       "inStock": "在庫あり",
       "outOfStock": "在庫切れ",
-      "available": "{count} 個の利用可能なアカウント"
+      "available": "残り{count}個のアカウント"
     },
     "actions": {
       "addToCart": "カートに追加",
       "buyNow": "今すぐ購入",
       "adding": "追加中…",
-      "added": "{名前} がカートに追加されました"
+      "added": "{name} をカートに追加しました"
     },
     "item": {
-      "decrease": "量を減らす",
+      "decrease": "数量を減らす",
       "increase": "数量を増やす"
     },
     "sections": {
-      "description": "詳細な説明",
-      "features": "優れた機能",
-      "specs": "仕様",
-      "reviews": "製品レビュー"
+      "description": "詳細説明",
+      "features": "主な特徴",
+      "specs": "仕様・スペック",
+      "reviews": "カスタマーレビュー"
     },
     "breadcrumbs": {
-      "home": "ホームページ",
-      "products": "製品"
+      "home": "ホーム",
+      "products": "商品一覧"
     },
-    "quantity": "量",
-    "reviews": "評価する",
-    "soldCount": "{count}以上売れました",
-    "save": "{金額} を節約",
-    "noDescription": "この商品にはまだ説明がありません。",
+    "quantity": "数量",
+    "reviews": "件のレビュー",
+    "soldCount": "販売実績 {count}+",
+    "save": "{amount} お得",
+    "noDescription": "この商品の説明はまだありません。",
     "trust": {
       "warranty": "保証",
-      "warrantyDesc": "1対1は一生",
-      "delivery": "配達",
-      "deliveryDesc": "自動的に5分",
+      "warrantyDesc": "無期限 1対1交換保証",
+      "delivery": "納品",
+      "deliveryDesc": "5分以内に自動納品",
       "support": "サポート",
-      "supportDesc": "24時間365日いつでも"
+      "supportDesc": "24時間365日対応"
     },
     "relatedProducts": {
       "title": "関連商品",
-      "viewAll": "全て見る",
-      "added": "{名前} がカートに追加されました"
+      "viewAll": "すべて見る",
+      "added": "{name} をカートに追加しました"
     },
     "restockAlert": {
-      "title": "再入荷時に通知を受け取る",
-      "description": "メールアドレスを入力してください。商品が再入荷したらすぐにお知らせします。",
-      "emailLabel": "電子メール",
+      "title": "再入荷通知を受け取る",
+      "description": "メールアドレスを入力すると、商品が再入荷された際に通知をお届けします。",
+      "emailLabel": "メールアドレス",
       "emailPlaceholder": "email@example.com",
-      "submit": "通知を受け取る",
+      "submit": "通知を登録する",
       "submitting": "登録中…",
-      "success": "登録済み！商品が再入荷しましたらメールでお知らせいたします。",
-      "error": "登録できません。もう一度試してください。",
-      "alreadyInStock": "商品は現在在庫ございます。",
-      "rateLimited": "リクエストが多すぎます。後でもう一度試してください。"
+      "success": "登録が完了しました！再入荷時にメールでお知らせします。",
+      "error": "登録できませんでした。もう一度お試しください。",
+      "alreadyInStock": "この商品は現在在庫があります。",
+      "rateLimited": "リクエストが多すぎます。時間をおいて再度お試しください。"
     }
   },
   "ProductReviews": {
-    "title": "お客様のレビュー ({count})",
+    "title": "カスタマーレビュー ({count})",
     "writeReview": {
       "title": "レビューを書く",
-      "description": "この製品についてのあなたの経験を共有してください",
-      "loginRequired": "レビューを書くにはログインしてください",
-      "loginButton": "今すぐサインイン",
-      "yourRating": "あなたのレビュー",
-      "quickTags": "レビューをすばやく選択する",
+      "description": "この商品に関する体験やご感想をお寄せください",
+      "loginRequired": "レビューを投稿するにはログインが必要です",
+      "loginButton": "ログインする",
+      "yourRating": "あなたの評価",
+      "quickTags": "クイックタグを選択",
       "commentLabel": "コメント",
-      "placeholder": "素晴らしい製品です...",
-      "submit": "レビューを送信する",
+      "placeholder": "素晴らしい商品です...",
+      "submit": "レビューを送信",
       "submitting": "送信中..."
     },
     "list": {
       "empty": "まだレビューはありません。",
       "loading": "レビューを読み込み中...",
-      "adminReply": "ストアの返答:"
+      "adminReply": "ショップからの返信:"
     },
     "toast": {
-      "loginRequired": "評価するにはログインしてください",
-      "success": "レビューが送信されました。",
+      "loginRequired": "レビューを入力するにはログインしてください",
+      "success": "レビューが送信されました！",
       "error": "エラーが発生しました"
     },
     "tags": {
-      "quality": "品質の高い標準品。",
-      "support": "熱心なサポート。",
-      "reliable": "サポートも迅速で評判が良いので、安心してご利用ください。",
-      "professional": "お店はとてもプロフェッショナルに仕事をしています。",
-      "fast": "素早い配送、良いアカウント。",
-      "recommend": "末永くこのお店を支えていきます。"
+      "quality": "高品質で満足な商品です。",
+      "support": "親切で丁寧なサポートでした。",
+      "reliable": "信頼でき、対応も迅速で安心して利用できます。",
+      "professional": "非常にプロフェッショナルなショップです。",
+      "fast": "納品が早く、アカウントも問題なく動作しています。",
+      "recommend": "これからもリピートしたいと思います。"
     }
   },
   "CookiesPageV2": {
     "types": {
       "items": {
         "analytics": {
-          "title": "分析クッキー",
-          "description": "Webサイトの使用状況データを収集する",
-          "purpose": "ユーザーがウェブサイトとどのようにやり取りするかを理解する"
+          "title": "アナリティクス Cookie",
+          "description": "ウェブサイトの利用状況データを収集します",
+          "purpose": "ユーザーがサイトとどのように接しているかを把握するため"
         },
         "marketing": {
-          "title": "マーケティングクッキー",
-          "description": "広告とコンテンツをパーソナライズする",
-          "purpose": "あなたの興味に合ったコンテンツを表示する"
+          "title": "マーケティング Cookie",
+          "description": "広告やコンテンツをパーソナライズします",
+          "purpose": "興味・関心に合わせたコンテンツを表示するため"
         },
         "functional": {
-          "title": "ファンクショナルクッキー",
-          "description": "オプションと設定を保存します",
-          "purpose": "設定と好みを記憶する"
+          "title": "機能性 Cookie",
+          "description": "設定や好みを保存します",
+          "purpose": "お客様の設定や選択肢を記憶するため"
         }
       }
     },
     "details": {
-      "title": "クッキーの詳細",
-      "description": "Web サイトで使用される Cookie の完全なリスト",
+      "title": "Cookie の詳細",
+      "description": "本ウェブサイトで使用されている全 Cookie のリスト",
       "headers": {
-        "name": "クッキー名",
-        "provider": "サプライヤー",
+        "name": "Cookie 名",
+        "provider": "提供元",
         "purpose": "目的",
-        "duration": "間隔",
+        "duration": "有効期限",
         "type": "タイプ"
       }
     },
     "manage": {
-      "title": "Cookieの管理",
-      "description": "あなたには、当社の Web サイトでの Cookie の使用を制御する権利があります。",
-      "browser": "ブラウザ経由:",
-      "options": "利用可能なオプション:",
-      "warning": "⚠️重要な注意事項:",
+      "title": "Cookie の管理",
+      "description": "当ウェブサイトでの Cookie の使用は、お客様自身で管理いただけます：",
+      "browser": "ブラウザでの設定：",
+      "options": "利用可能なオプション：",
+      "warning": "⚠️ 重要な注意事項：",
       "warningItems": {
-        "1": "• Cookie を無効にすると、Web サイトのエクスペリエンスに影響を与える可能性があります",
-        "2": "• 一部の機能が正しく動作しない可能性があります",
-        "3": "• Cookieをオフにした後、再度ログインする必要があります"
+        "1": "• Cookie を無効にすると、ウェブサイトの体験に影響が出る場合があります",
+        "2": "• 一部の機能が正常に動作しない可能性があります",
+        "3": "• Cookie 無効化後は再ログインが必要になる場合があります"
       },
       "buttons": {
-        "settings": "Cookie 設定の基本設定",
-        "view": "現在の Cookie を表示する"
+        "settings": "Cookie 設定の管理",
+        "view": "現在の Cookie を表示"
       }
     },
     "thirdParty": {
-      "title": "サードパーティCookie",
-      "description": "当社の Web サイトには、独自の Cookie を設定する可能性のある第三者からのコンテンツ (YouTube ビデオ、地図、ソーシャル メディア ウィジェットなど) が含まれる場合があります。"
+      "title": "サードパーティ Cookie",
+      "description": "当ウェブサイトには、サードパーティ（YouTube動画、マップ、ソーシャルメディアウィジェットなど）のコンテンツが含まれており、独自の Cookie が設定される場合があります。"
     },
     "contact": {
-      "title": "最新情報と連絡先",
-      "changes": "ポリシーの変更:",
-      "info": "クッキーに関するお問い合わせ先："
+      "title": "更新およびお問い合わせ",
+      "changes": "ポリシーの変更：",
+      "info": "Cookie に関するお問い合わせ："
     },
     "cta": {
-      "title": "Cookie について質問がありますか?",
-      "description": "プライバシーとセキュリティのチームがあらゆるご質問にお答えします",
-      "contact": "サポートに連絡する",
+      "title": "Cookie に関するご質問はお気軽にお問い合わせください",
+      "description": "プライバシー＆セキュリティチームがお答えいたします",
+      "contact": "サポートに問い合わせる",
       "privacy": "プライバシーポリシーを見る"
     }
   },
   "Auth": {
     "signIn": {
       "title": "ログイン",
-      "subtitle": "メールアドレスとパスワードを入力してログインします",
-      "emailLabel": "電子メール",
+      "subtitle": "メールアドレスとパスワードを入力してログインしてください",
+      "emailLabel": "メールアドレス",
       "emailPlaceholder": "email@example.com",
       "passwordLabel": "パスワード",
-      "passwordPlaceholder": "パスワードを入力してください",
+      "passwordPlaceholder": "パスワードを入力",
       "forgotPassword": "パスワードをお忘れですか？",
       "submit": "ログイン",
-      "submitting": "サインイン中...",
-      "orContinueWith": "または続行してください",
-      "noAccount": "まだアカウントをお持ちでない場合は、",
-      "signUpLink": "今すぐ登録してください"
+      "submitting": "ログイン中...",
+      "orContinueWith": "または以下で継続",
+      "noAccount": "アカウントをお持ちでないですか？",
+      "signUpLink": "今すぐ新規登録"
     },
     "banner": {
-      "title": "FigmaEdu",
-      "slogan": "Figma Education アカウントをお得な価格で購入しましょう",
-      "imageAlt": "FigmaEdu - Figma Education アカウントを購入する"
+      "title": "TKAIPro",
+      "slogan": "Google AI アカウントをお手頃価格で購入",
+      "imageAlt": "TKAIPro - Google AI アカウント購入"
     },
     "signUp": {
-      "title": "アカウントを作成する",
-      "subtitle": "情報を入力してアカウントを作成します",
-      "nameLabel": "フルネーム",
-      "namePlaceholder": "グエン・ヴァン・A",
-      "emailLabel": "電子メール",
+      "title": "アカウント作成",
+      "subtitle": "情報を入力してアカウントを作成してください",
+      "nameLabel": "氏名",
+      "namePlaceholder": "山田 太郎",
+      "emailLabel": "メールアドレス",
       "emailPlaceholder": "email@example.com",
       "passwordLabel": "パスワード",
-      "passwordPlaceholder": "強力なパスワードを入力してください",
+      "passwordPlaceholder": "強力なパスワードを入力",
       "passwordHint": "パスワードは8文字以上である必要があります",
-      "over18Label": "私は18歳であることを確認します。",
-      "over18Required": "登録するには、18 歳であることを確認する必要があります。",
-      "submit": "アカウントを作成する",
-      "submitting": "アカウントを作成しています...",
-      "hasAccount": "すでにアカウントをお持ちですか?",
+      "over18Label": "18歳以上であることを確認します。",
+      "over18Required": "登録するには18歳以上であることを確認する必要があります。",
+      "submit": "アカウントを作成",
+      "submitting": "アカウント作成中...",
+      "hasAccount": "すでにアカウントをお持ちですか？",
       "signInLink": "ログイン"
     },
     "errors": {
-      "invalidEmailOrPassword": "アカウントまたはパスワードが間違っています!",
-      "invalidPassword": "パスワードが間違っています。もう一度試してください。",
-      "userNotFound": "アカウントが存在しません。事前にご登録ください。",
+      "invalidEmailOrPassword": "メールアドレスまたはパスワードが正しくありません！",
+      "invalidPassword": "パスワードが正しくありません。もう一度お試しください。",
+      "userNotFound": "アカウントが存在しません。先に新規登録を行ってください。",
       "accountNotVerified": "アカウントが認証されていません。メールをご確認ください。",
-      "accountDisabled": "アカウントが無効になりました。サポートにお問い合わせください。",
-      "tooManyAttempts": "試行回数が多すぎます。しばらく待ってから、もう一度試してください。",
-      "networkError": "ネットワーク接続エラー。もう一度試してください。",
-      "serverError": "サーバーエラー。後でもう一度試してください。",
-      "defaultSignIn": "ログインに失敗しました。メールアドレスとパスワードをもう一度ご確認ください。",
+      "accountDisabled": "アカウントが無効化されています。サポートまでお問い合わせください。",
+      "tooManyAttempts": "試行回数が多すぎます。時間をおいて再度お試しください。",
+      "networkError": "ネットワーク接続エラー。もう一度お試しください。",
+      "serverError": "サーバーエラーが発生しました。後ほどお試しください。",
+      "defaultSignIn": "ログインに失敗しました。メールアドレスとパスワードをご確認ください。",
       "defaultSignUp": "登録に失敗しました。もう一度試すか、サポートにお問い合わせください。",
-      "userAlreadyExists": "このメールは登録されています。別のメールアドレスを使用するか、ログインしてください。",
-      "weakPassword": "パスワードが弱すぎます。より強力なパスワードを作成してください。",
-      "passwordTooShort": "パスワードが短すぎます。 8文字以上入力してください。",
-      "invalidEmail": "無効なメールです。もう一度ご確認ください。",
+      "userAlreadyExists": "このメールアドレスは既に登録されています。別のメールアドレスを使用するかログインしてください。",
+      "weakPassword": "パスワードが弱すぎます。より強力なパスワードを設定してください。",
+      "passwordTooShort": "パスワードが短すぎます。8文字以上で入力してください。",
+      "invalidEmail": "無効なメールアドレスです。内容をご確認ください。",
       "social": {
-        "github": "GitHub でのログインに失敗しました",
-        "google": "Google でのサインインに失敗しました"
+        "github": "GitHubでのログインに失敗しました",
+        "google": "Googleでのログインに失敗しました"
       }
     },
     "success": {
-      "signIn": "ログインに成功しました！おかえり。",
-      "signUp": "無事に登録されました！ FigmaEdu へようこそ。"
+      "signIn": "ログインに成功しました！お帰りなさい。",
+      "signUp": "登録が完了しました！TKAIProへようこそ。"
     }
   },
   "LiveOrderToast": {
-    "badge": "買ったばかり",
-    "verified": "確認済み",
-    "justPurchased": "無事に購入できました"
+    "badge": "購入完了",
+    "verified": "認証済み",
+    "justPurchased": "の購入が完了しました"
   },
   "InteractiveCodeDemo": {
-    "badge": "デモ体験",
-    "title": "Figma でのエクスペリエンス デザイン",
-    "subtitle": "手動レイアウトの作成と、Figma Education の自動レイアウトとコンポーネントを使用したワークフローを比較してください。より速く、よりチームと同期できます。",
-    "playDemo": "デモの実行",
+    "badge": "体験デモ",
+    "title": "Google AI / Antigravityを体験",
+    "subtitle": "Google AIのAuto Layoutとコンポーネントを使用したワークフローと手動レイアウト作成を比較 — より高速でチームの同期もスムーズに！",
+    "playDemo": "デモを実行",
     "reset": "リセット",
-    "withoutAI": "マニュアルベース",
-    "withCursorPro": "Figma 教育あり",
-    "timeSaved": "時間の節約",
-    "feature1Title": "スマート自動レイアウト",
-    "feature1Desc": "制約を一度設定すると、コンテンツに応じてフレームが自動的に拡張され、手動で調整する必要がなくなります。",
-    "feature2Title": "モックアップ作成速度",
-    "feature2Desc": "コンポーネントを再利用して、数時間ではなく数分で画面を構築します",
+    "withoutAI": "手動調整",
+    "withCursorPro": "Google AIを使用",
+    "timeSaved": "節約された時間",
+    "feature1Title": "スマートAuto Layout",
+    "feature1Desc": "制約を一度設定すればフレームがコンテンツに合わせて自動伸縮 — 手動調整の手間を削減",
+    "feature2Title": "モックアップ作成スピード",
+    "feature2Desc": "コンポーネントを再利用して、何時間もかかっていた画面作成をわずか数分で完了",
     "feature3Title": "クリーンなプロトタイプ",
-    "feature3Desc": "画面フローを明確かつ簡単にメンターや顧客とのデモに接続します"
+    "feature3Desc": "画面フローを明確に接続し、メンターやクライアントへのデモを円滑に"
   },
   "ChatWidget": {
     "title": "AIサポート",
     "open": "サポートチャットを開く",
-    "close": "近い",
-    "minimize": "ズームアウト",
-    "expand": "伸ばす",
-    "placeholder": "メッセージを入力してください...",
-    "error": "申し訳ありませんが、エラーが発生しました。もう一度試すか、Telegram 経由でサポートにお問い合わせください。",
-    "clearHistory": "履歴の削除",
-    "notificationTitle": "🤖 AI サポート 24 時間年中無休",
-    "notificationDescription": "Figma 教育パッケージに関するアドバイスが必要ですか? AIと今すぐチャットしましょう！",
+    "close": "閉じる",
+    "minimize": "最小化",
+    "expand": "拡大",
+    "placeholder": "メッセージを入力...",
+    "error": "申し訳ありません。エラーが発生しました。もう一度お試しいただくか、Telegramサポートまでご連絡ください。",
+    "clearHistory": "履歴を消去",
+    "notificationTitle": "🤖 24/7 AIサポート",
+    "notificationDescription": "Google AIプランのご相談ですか？今すぐAIとチャット！",
     "notificationAction": "今すぐチャット",
-    "bubbleMessage": "こんにちは！ AIサポートです。何か助けが必要ですか? 👋",
+    "bubbleMessage": "こんにちは！AIサポートです。何かお手伝いしましょうか？ 👋",
     "quickActions": {
-      "pricing": "価格表を見る",
-      "packages": "パッケージコンサルティング",
-      "payment": "支払方法",
+      "pricing": "料金表を見る",
+      "packages": "プランのご相談",
+      "payment": "お支払い方法",
       "warranty": "保証ポリシー"
     }
   },
   "Email": {
     "common": {
-      "shopName": "FigmaEdu",
-      "shopSubtitle": "FigmaEdu でお買い物いただきありがとうございます",
-      "greeting": "こんにちは、{名前}",
-      "supportTitle": "💬 サポートが必要ですか?",
-      "supportIntro": "問題がある場合、またはサポートが必要な場合は、弊社までご連絡ください。",
-      "supportContactLabel": "📞 サポートにお問い合わせください:",
-      "supportFb": "Facebookのファンページ",
-      "supportTg": "電報",
-      "supportTgHandle": "Telegram が FigmaEdu をサポート",
-      "supportEmailLabel": "✉️メール:",
+      "shopName": "TKAIPro",
+      "shopSubtitle": "TKAIProでのお買い上げありがとうございます",
+      "greeting": "こんにちは、{name}様",
+      "supportTitle": "💬 サポートが必要ですか？",
+      "supportIntro": "ご不明な点やサポートが必要な場合は、お気軽にお問い合わせください：",
+      "supportContactLabel": "📞 サポート窓口：",
+      "supportFb": "Facebook公式ページ",
+      "supportTg": "Telegram",
+      "supportTgHandle": "TKAIProサポートTelegram",
+      "supportEmailLabel": "✉️ メール：",
       "supportOr": "または",
-      "footerThanks": "FigmaEdu を信頼していただきありがとうございます。 🎉",
-      "footerAuto": "システムからの自動メール - このメールには返信しないでください",
-      "footerTimePrefix": "時間：",
-      "footerSupport24x7": "FigmaEdu - 24 時間年中無休のカスタマー サポート",
-      "footerAutoShort": "システムからの自動メール",
+      "footerThanks": "TKAIProをご利用いただきありがとうございます！ 🎉",
+      "footerAuto": "本メールはシステムからの自動送信です。返信はご遠慮ください",
+      "footerTimePrefix": "日時：",
+      "footerSupport24x7": "TKAIPro - 24/7 カスタマーサポート",
+      "footerAutoShort": "システム自動送信メール",
       "fields": {
-        "orderNumber": "注文コード:",
+        "orderNumber": "注文番号：",
         "total": "合計金額：",
-        "paidAt": "支払い先:",
-        "product": "製品：",
-        "username": "ログイン名:",
+        "paidAt": "決済日時：",
+        "product": "商品：",
+        "username": "ユーザー名：",
         "password": "パスワード：",
-        "licenseKey": "ライセンスキー:",
-        "expiresAt": "有効期限:",
-        "upgradeEmail": "アップグレードメール:"
+        "licenseKey": "ライセンスキー：",
+        "expiresAt": "有効期限：",
+        "upgradeEmail": "アップグレード対象メールアドレス："
       }
     },
     "subjects": {
-      "customerOrderConfirmation": "✅ 注文確認 #{orderNumber} - FigmaEdu",
-      "activationSuccess": "✅ 注文 #{orderNumber} が正常に有効化されました - Figma Education",
-      "subscriptionReminderUrgent": "🚨 緊急アカウント {productName} はあと {daysLeft} 日で期限切れになります。",
-      "subscriptionReminderWarning": "⚠️ アカウント {productName} の有効期限が {daysLeft} 日以内に切れることにご注意ください。",
-      "accountContact": "📞 アカウントを受け取るための連絡先 - 注文番号{orderNumber}",
-      "upgradeCompleted": "✅ アカウントは正常にアップグレードされました - 注文番号 {orderNumber}",
-      "upgradeIssue": "⚠️ 情報を確認する必要があります - 注文番号{orderNumber}",
-      "walletTopupSuccess": "✅ ウォレット {金額} が正常にロードされました - FigmaEdu",
-      "walletTopupRejected": "❌ ウォレット デポジット リクエスト {金額} が拒否されました",
-      "restockAlert": "🎉 {productName} が再入荷しました!"
+      "customerOrderConfirmation": "✅ ご注文の確認 #{orderNumber} - TKAIPro",
+      "activationSuccess": "✅ 注文 #{orderNumber} のアクティベーションが完了しました - Google AI",
+      "subscriptionReminderUrgent": "🚨 【重要】{productName} アカウントの有効期限が残り {daysLeft} 日で切れます！",
+      "subscriptionReminderWarning": "⚠️ 【お知らせ】{productName} アカウントの有効期限が残り {daysLeft} 日です！",
+      "accountContact": "📞 アカウントお受け取りのご案内 - 注文番号 #{orderNumber}",
+      "upgradeCompleted": "✅ アカウントのアップグレードが完了しました - 注文番号 #{orderNumber}",
+      "upgradeIssue": "⚠️ 情報の確認が必要です - 注文番号 #{orderNumber}",
+      "walletTopupSuccess": "✅ ウォレットへのチャージが完了しました ({amount}) - TKAIPro",
+      "walletTopupRejected": "❌ ウォレットチャージリクエストが拒否されました ({amount})",
+      "restockAlert": "🎉 {productName} が再入荷しました！"
     },
     "customerOrderConfirmation": {
-      "headerTitle": "✅ 注文が成功しました!",
-      "intro": "ご注文 #{orderNumber} は正常にお支払いされました。以下はご注文とアカウントの詳細です。",
-      "orderTitle": "📦注文情報",
-      "productsTitle": "🛒購入した商品",
-      "productItemQty": "数量: {qty}x - 価格: {price}",
-      "credsTitle": "🔑あなたのアカウント情報",
-      "credsWarning": "⚠️この情報は大切に保存してください。これはあなたのアカウントのログイン情報です。",
-      "credsNote": "💡 注: この情報は、注文管理ページでいつでも確認できます。",
-      "otpTitle": "🔐 OTP コードの入手方法 Figma",
-      "otpLead": "Figma が認証コードを要求したら、以下のリンクを開きます (Outlook の受信トレイに移動する必要はありません)。",
-      "otpStep1": "上記で指定したメールアドレス/パスワードを使用して Figma にログインします",
-      "otpStep2": "Figma が OTP コードを要求したら、以下のリンクを開きます",
-      "otpStep3": "購入メールに送信された 6 桁のコードで確認します",
-      "otpStep4": "Figma OTP コードを取得し、Figma に貼り付けます。",
-      "otpBtn": "{email} の OTP コードを取得する",
-      "otpNote": "💡 購入メールに送信された 6 桁のコードで確認し、OTP Figma を取得します。",
-      "viewOrderBtn": "📋 注文の詳細を表示する"
+      "headerTitle": "✅ ご注文が完了しました！",
+      "intro": "ご注文 #{orderNumber} のお支払いが正常に完了いたしました！以下に注文内容およびアカウント情報を記載しております。",
+      "orderTitle": "📦 ご注文情報",
+      "productsTitle": "🛒 購入した商品",
+      "productItemQty": "数量: {qty}点 - 価格: {price}",
+      "credsTitle": "🔑 アカウント情報",
+      "credsWarning": "⚠️ この情報は大切に保管してください。お客様のログイン情報となります。",
+      "credsNote": "💡 補足: この情報は注文管理ページでいつでもご確認いただけます。",
+      "otpTitle": "🔐 Google AI OTPコードの取得方法",
+      "otpLead": "Google AIから認証コードを求められた場合は、以下のリンクを開いてください（Outlookの受信トレイを開く必要はありません）。",
+      "otpStep1": "上記で提供されたメールアドレス/パスワードでGoogle AIにログイン",
+      "otpStep2": "Google AIでOTPコードの入力を求められたら、下のリンクを開く",
+      "otpStep3": "購入用メールアドレスに送信された6桁のコードで認証",
+      "otpStep4": "Google AIのOTPコードを取得してGoogle AIに入力",
+      "otpBtn": "{email} のOTPコードを取得",
+      "otpNote": "💡 購入用メールアドレスに届く6桁のコードで認証し、Google AIのOTPを取得してください。",
+      "viewOrderBtn": "📋 注文の詳細を見る"
     },
     "activationSuccess": {
-      "headerTitle": "✅ 無事にアクティブになりました！",
-      "headerSubtitle": "Figma Education アカウントはデバイス上で準備ができています",
-      "intro": "こんにちは、ご注文 #{orderNumber} が有効になりました。",
-      "accountTitle": "🔐 Figma アカウントが付与されました",
-      "accountEmailLabel": "Figma にメールで送信:",
-      "durationLabel": "間隔：",
+      "headerTitle": "✅ アクティベーション完了！",
+      "headerSubtitle": "Google AIアカウントの利用準備が整いました",
+      "intro": "こんにちは、ご注文 #{orderNumber} のアクティベーションが正常に完了いたしました！",
+      "accountTitle": "🔐 発行されたGoogle AIアカウント",
+      "accountEmailLabel": "Google AIメールアドレス：",
+      "durationLabel": "有効期間：",
       "daysSuffix": "日",
-      "expiresLabel": "期限切れ：",
-      "note": "👉 コンピューターで Figma IDE を開きます - アカウントはすでにログインしているため、すぐに使用できます。問題がある場合は、このメールに返信するか、Telegram までご連絡ください。"
+      "expiresLabel": "有効期限：",
+      "note": "👉 お使いの端末でGoogle AI IDEを開いてください。アカウントは既にログインされた状態ですぐにご利用いただけます。問題が発生した場合は、本メールに返信するかTelegramまでご連絡ください。"
     },
     "subscriptionReminder": {
-      "headerTitleUrgent": "🚨 アカウントの有効期限が近づいています!",
-      "headerTitleWarning": "⏰ アカウントの有効期限が近づいています!",
-      "headerSubtitle": "有効期限まであと {daysLeft} 日あります",
-      "urgencyEmergency": "🚨緊急事態",
-      "urgencyWarning": "⚠️注意事項",
-      "warningBody": "{urgency}: アカウントの有効期限は {daysLeft} 日以内に切れます。",
+      "headerTitleUrgent": "🚨 アカウントの有効期限がまもなく切れます！",
+      "headerTitleWarning": "⏰ アカウントの有効期限が迫っています！",
+      "headerSubtitle": "有効期限まであと {daysLeft} 日です",
+      "urgencyEmergency": "🚨 【重要】",
+      "urgencyWarning": "⚠️ 【お知らせ】",
+      "warningBody": "{urgency}: お客様のアカウントはあと {daysLeft} 日で有効期限が切れます！",
       "accountTitle": "📋 アカウント情報",
       "cta": {
-        "title": "🔄 今すぐ更新してください！",
-        "body": "サービスを中断せずに使用し続けるには、有効期限が切れる前にアカウントを更新してください。",
+        "title": "🔄 今すぐ更新する！",
+        "body": "サービスを継続して中断なくご利用いただくため、期限切れ前にアカウントの更新を行ってください。",
         "btn": "🛒 今すぐ更新"
       },
       "benefits": {
-        "title": "✨ 素晴らしい機能をお見逃しなく!",
-        "item1": "Pro 機能への無制限のアクセス",
-        "item2": "24時間365日の優先サポート",
-        "item3": "最新機能をアップデートする",
-        "item4": "進行状況とデータをそのまま維持する"
+        "title": "✨ 素晴らしい機能をお見逃しなく！",
+        "item1": "Pro機能を無制限でご利用可能",
+        "item2": "24/7 優先サポート",
+        "item3": "最新機能へのアクセス",
+        "item4": "データおよび進行状況をそのまま維持"
       }
     },
     "accountContact": {
-      "headerTitle": "📞 アカウントを受け取るには連絡してください",
-      "headerSubtitle": "お問い合わせください",
-      "orderTitle": "📋 注文情報",
-      "messageTitle": "📝通知内容",
+      "headerTitle": "📞 アカウント受け取りのご連絡",
+      "headerSubtitle": "当店サポート窓口までご連絡ください",
+      "orderTitle": "📋 ご注文情報",
+      "messageTitle": "📝 お知らせ内容",
       "cta": {
-        "title": "📞 アカウントを取得するには今すぐお問い合わせください",
-        "lead": "情報を交換し、アカウントを取得するには、次のいずれかのチャネルを通じて連絡してください。",
-        "fb": "📘 Facebook ファンページ",
-        "tg": "✈️ Telegram は FigmaEdu をサポートしています",
-        "emailIntro": "または次の電子メールを送信してください:"
+        "title": "📞 今すぐご連絡いただきアカウントをお受け取りください",
+        "lead": "以下のいずれかのチャネルよりご連絡いただき、アカウント情報をお受け取りください：",
+        "fb": "📘 Facebook公式ページ",
+        "tg": "✈️ TKAIProサポートTelegram",
+        "emailIntro": "またはメール："
       },
-      "note": "⚠️ 注: 最速のサポートをお問い合わせいただく際は、注文コード #{orderNumber} をお知らせください。"
+      "note": "⚠️ ご注意: スムーズな対応のため、お問い合わせの際は注文番号 #{orderNumber} をお伝えください。"
     },
     "upgradeCompleted": {
-      "headerTitle": "🎉 アップグレードに成功しました!",
-      "headerSubtitle": "アカウントがアップグレードされました",
-      "intro": "ご注文 #{orderNumber} が正常に処理されたことをお知らせいたします。",
+      "headerTitle": "🎉 アップグレード完了！",
+      "headerSubtitle": "アカウントのアップグレードが完了いたしました",
+      "intro": "ご注文 #{orderNumber} の処理が正常に完了いたしました！",
       "successTitle": "アップグレード完了！",
-      "successBody": "アカウント {upgradeEmail} は {productName} にアップグレードされました",
+      "successBody": "アカウント {upgradeEmail} が {productName} にアップグレードされました",
       "nextSteps": {
         "title": "📌 次のステップ",
-        "item1": "アカウントにログインして確認してください",
-        "item2": "新しい Pro 機能をお楽しみください",
+        "item1": "アカウントにログインして変更内容をご確認ください",
+        "item2": "新しいPro機能をお楽しみください",
         "item3": "サポートが必要な場合は、お気軽にお問い合わせください"
       }
     },
     "upgradeIssue": {
-      "headerTitle": "⚠️情報の確認が必要です",
-      "headerSubtitle": "お問い合わせください",
-      "orderTitle": "📋 注文情報",
-      "messageTitle": "📝通知内容",
+      "headerTitle": "⚠️ 情報の確認が必要です",
+      "headerSubtitle": "サポート窓口までご連絡をお願いいたします",
+      "orderTitle": "📋 ご注文情報",
+      "messageTitle": "📝 お知らせ内容",
       "cta": {
         "title": "📞 今すぐお問い合わせください",
-        "lead": "最速のサポートが必要な場合は、次のいずれかのチャネルを通じてお問い合わせください。",
-        "fb": "📘フェイスブック",
-        "tg": "✈️電報",
-        "emailIntro": "または次の電子メールを送信してください:"
+        "lead": "迅速な対応のため、以下のチャネルのいずれかよりお問い合わせください：",
+        "fb": "📘 Facebook",
+        "tg": "✈️ Telegram",
+        "emailIntro": "またはメール："
       }
     },
     "walletTopupSuccess": {
-      "headerTitle": "✅ ウォレットが正常にロードされました",
-      "intro": "{amount} を FigmaEdu ウォレットに正常に入金しました。",
-      "amountLabel": "入金額:",
-      "balanceLabel": "ニューバランス：",
-      "paidAtLabel": "時間：",
-      "viewWalletBtn": "📊 私の財布を見てください"
+      "headerTitle": "✅ チャージ完了",
+      "intro": "TKAIProウォレットに {amount} が正常にチャージされました。",
+      "amountLabel": "チャージ金額：",
+      "balanceLabel": "チャージ後の残高：",
+      "paidAtLabel": "日時：",
+      "viewWalletBtn": "📊 ウォレットを確認する"
     },
     "walletTopupRejected": {
-      "headerTitle": "❌ ウォレット入金リクエストが拒否されました",
-      "intro": "{amount} の入金リクエストは拒否されました。",
+      "headerTitle": "❌ チャージリクエスト失敗",
+      "intro": "{amount} のウォレットチャージリクエストが拒否されました。",
       "reasonLabel": "理由：",
-      "viewWalletBtn": "📊 私の財布を見てください"
+      "viewWalletBtn": "📊 ウォレットを確認する"
     },
     "restockAlert": {
       "headerTitle": "🎉 商品が再入荷しました！",
-      "intro": "良いニュース — {productName} が再入荷しました!無くなる前に急いで注文してください。",
-      "productLabel": "製品",
+      "intro": "朗報です — {productName} の在庫が復活いたしました！売り切れる前にお早めにご購入ください。",
+      "productLabel": "商品",
       "priceLabel": "価格",
-      "viewProductBtn": "🛒 製品を見て今すぐ購入"
+      "viewProductBtn": "🛒 商品を見る・今すぐ購入"
     }
   },
   "AboutPage": {
-    "metaTitle": "FigmaEdu について — Figma Education アカウントの小売店",
-    "metaDescription": "FigmaEdu は、Figma Education アカウントの独立したサードパーティ再販業者です。 UI デザインやフリーランスの学生が競争力のある価格で Figma edu にアクセスできるようにします。株式会社Figmaとは一切関係ありません。",
-    "metaKeywords": "FigmaEdu について、Figma Education、Figma アカウントの購入、Figma edu、Figma 販売店、figmaedu.shop",
+    "metaTitle": "TKAIProについて — Google AIアカウントのリセラー",
+    "metaDescription": "TKAIProはGoogle AIアカウントの独立したサードパーティリセラーです。AIユーザーやGeminiユーザーが競争力のある価格でGoogle AIにアクセスできるよう支援します。Google LLCとは提携していません。",
+    "metaKeywords": "TKAIProについて, Google AI, Google AIアカウント購入, Google AI, Google AIリセラー, tkaipro.shop",
     "breadcrumbs": {
-      "home": "ホームページ",
+      "home": "ホーム",
       "about": "私たちについて"
     },
     "hero": {
-      "titlePrefix": "について",
-      "subtitle": "FigmaEdu は、Figma Education アカウントの独立した再販業者です。私たちは、合法的に購入したサブスクリプションの再配布を通じて、UI デザインやフリーランスの学生が競争力のある価格で Figma edu にアクセスできるよう支援します。",
-      "disclaimerLabel": "注記",
-      "disclaimer": "FigmaEdu は、Figma, Inc. と提携、承認、後援されていません。「Figma」および「Figma Education」は Figma, Inc. の商標です。当社は、合法的に購入されたパックの独立した小売業者です。",
-      "ctaProducts": "製品を見る",
-      "ctaContact": "今すぐ連絡する"
+      "titlePrefix": "概要:",
+      "subtitle": "TKAIProはGoogle AIアカウントの独立リセラーです。合法的に購入されたサブスクリプションを再販売することで、AIユーザーやGeminiユーザーが競争力のある価格でGoogle AIにアクセスできるよう支援します。",
+      "disclaimerLabel": "ご注意",
+      "disclaimer": "TKAIProはGoogle LLCと提携、認証、またはスポンサー関係にありません。「Google」および「Google AI」はGoogle LLCの商標です。当店は合法的に購入されたプランの独立リセラーです。",
+      "ctaProducts": "商品を見る",
+      "ctaContact": "お問い合わせ"
     },
     "stats": {
       "customers": {
-        "number": "5,000+",
-        "label": "顧客対応"
+        "number": "5.000+",
+        "label": "支援実績"
       },
       "years": {
         "number": "2+",
-        "label": "運営年"
+        "label": "運営年数"
       },
       "satisfaction": {
         "number": "99%",
-        "label": "満足度"
+        "label": "顧客満足度"
       },
       "support": {
-        "number": "24時間365日",
-        "label": "継続的なサポート"
+        "number": "24/7",
+        "label": "年中無休サポート"
       }
     },
     "mission": {
-      "title": "私たちの使命",
-      "paragraph1": "FigmaEdu では、地域や予算に関係なく、すべてのデザイン学生が Figma Education に手頃な価格でアクセスできる権利があると信じています。",
-      "paragraph2": "Figma Education アカウントを簡単かつ安全に購入できるよう、電子メールによる相談、支払いサポート、ログインを提供します。",
-      "independenceTitle": "独立系配信サービス",
-      "independenceDescription": "当社は Figma, Inc. を代表するものではありません。当社の使命は、プロセスを説明し、お客様が Figma edu アカウントを購入できるよう支援することです。",
+      "title": "私たちのミッション",
+      "paragraph1": "TKAIProでは、地域や予算に関わらず、すべてのAIユーザーが手頃な価格でGoogle AIを利用できる権利があると信じています。",
+      "paragraph2": "Google AIアカウントを安全かつ簡単に購入できるよう、コンサルティング、決済サポート、メールでのログイン情報共有を提供しています。",
+      "independenceTitle": "独立配送サービス",
+      "independenceDescription": "当店はGoogle LLCを代理するものではありません。私たちの役目はプロセスを解説し、お客様のGoogle AIアカウント購入をサポートすることです。",
       "cards": {
         "process": {
-          "title": "クリアプロセス",
-          "description": "デザイン ツールのサブスクリプションに登録するための段階的なチェックリストを提供します。"
+          "title": "明確なプロセス",
+          "description": "AIツールサブスクリプション登録のステップバイステップチェックリストを提供します。"
         },
         "warranty": {
           "title": "透明性のある保証",
-          "description": "サポート期間中に発生した問題には全力で対応します。"
+          "description": "サポート期間内に発生した問題の迅速な解決をお約束します。"
         },
         "delivery": {
-          "title": "即時配達",
-          "description": "1 ～ 5 分で支払いとアクティベーションをサポートします。"
+          "title": "即時配送",
+          "description": "1〜5分以内に決済サポートおよびアクティベーションを完了します。"
         },
         "support": {
-          "title": "年中無休のサポート",
-          "description": "いつでも電報、電子メールでご同行いただけます。"
+          "title": "24/7 サポート",
+          "description": "Telegramやメールでいつでもサポートいたします。"
         }
       }
     },
     "values": {
       "title": "コアバリュー",
-      "subtitle": "FigmaEdu の運営と開発の指針となる原則。",
+      "subtitle": "TKAIProの運営と発展を導く基本原則。",
       "transparency": {
-        "title": "評判と透明性",
-        "description": "デザインツールのサブスクリプションへの登録と顧客情報の保護の各ステップをわかりやすく説明します。"
+        "title": "信頼 & 透明性",
+        "description": "AIツールのサブスクリプション登録手順を明確に説明し、お客様の個人情報を保護します。"
       },
       "efficiency": {
-        "title": "高速かつ効率的",
-        "description": "わずか数分で国際支払い、アカウントの確認、アクティベーションをサポートします。"
+        "title": "迅速 & 効率",
+        "description": "海外決済サポート、アカウント認証、アクティベーションをわずか数分で完了します。"
       },
       "customerFirst": {
-        "title": "顧客中心",
-        "description": "ライフサイクル全体を通じて、透明性のある保証と返金ポリシーを提供します。"
+        "title": "顧客中心主義",
+        "description": "透明性のある保証・返金ポリシーとともに、利用期間全体を通じてサポートします。"
       },
       "sustainability": {
-        "title": "持続可能な発展",
-        "description": "知識とリソースを共有することで、学生コミュニティが AI を効果的に設計し、活用することができます。"
+        "title": "持続可能な成長",
+        "description": "AIユーザーコミュニティがAIを効果的に活用できるよう、知識やリソースを共有します。"
       }
     },
     "cta": {
-      "title": "Figma Education アカウントを購入する必要がありますか?",
-      "subtitle": "FigmaEdu を信頼して Figma edu アカウントを購入し、アクティベーション サポートを受けている何千人ものデザイン学生に加わってください。",
+      "title": "Google AIアカウントの購入をお考えですか？",
+      "subtitle": "TKAIProを信頼してGoogle AIアカウントを購入し、アクティベーションサポートを受けている何千人ものAIユーザーの仲間入りをしましょう。",
       "ctaPrimary": "サービスを見る",
       "ctaSecondary": "無料相談"
     }
   },
   "DisclaimerBanner": {
-    "message": "FigmaEdu は、Figma Education の小売/アカウント サポート サービスのみを提供しており、Figma, Inc. の再販業者や販売代理店ではありません。ブランド名は製品を説明することのみを目的としています。",
-    "dismiss": "理解した"
+    "message": "TKAIProはGoogle AIアカウントのリセール／サポートサービスのみを提供しており、Google LLCの代理店や販売代理店ではありません。ブランド名は製品の説明のみを目的としています。",
+    "dismiss": "了解"
   },
   "ProductPage": {
     "actions": {
-      "resellerNoticeTitle": "テクニカル サポートに関する通知 - 購入前にお読みください",
-      "resellerNoticeBody": "FigmaEdu は、お客様のニーズに応じて Figma Education アカウント/アップグレードのサポートを提供します。当社は Figma, Inc. の代理店、販売代理店、または代表者ではありません。引き渡し後、アカウントはお客様の所有物となります。電子メール、パスワード、2FA、および回復用電子メールを直ちに変更してください。パスワードを忘れた場合や 2FA を紛失した場合は、後からサポートされません。特典と期間は Figma のポリシーによって異なる場合があります。"
+      "resellerNoticeTitle": "技術サポートに関するお知らせ — ご購入前にお読みください",
+      "resellerNoticeBody": "TKAIProはお客様のリクエストに応じてGoogle AIのアカウント提供／アップグレードサポートを行っています。当店はGoogle LLCの代理店、販売代理店、または代表機関ではありません。納品後、アカウントはお客様の所有物となります。速やかにメールアドレス、パスワード、2段階認証（2FA）、復元用メールアドレスを変更してください。納品後のパスワード忘れや2FA紛失に関するサポートは対応いたしかねます。特典や有効期間はGoogle AIのポリシーに依存する場合があります。"
     }
   },
   "DisclaimerPage": {
     "seo": {
       "title": "免責事項",
-      "description": "法的声明 FigmaEdu — Figma に関連するセットアップ/アクティブ化テクニカル サポート サービス。 Figma, Inc. の代理店または代理店ではありません。",
-      "keywords": "免責事項 FigmaEdu、Figma Education の免責事項、Figma Inc とは関係ありません"
+      "description": "TKAIProの法的免責事項 — Google AIに関連する設定・アクティベーションの技術サポートサービス。Google LLCの代理店または販売代理店ではありません。",
+      "keywords": "TKAIPro 免責事項, Google AI 免責事項, Google AI 非提携"
     },
     "hero": {
-      "title": "宣言する",
-      "highlight": "権利放棄",
-      "description": "Figma, Inc. のテクニカル サポートの役割および関連する責任の制限に関する重要な情報。"
+      "title": "免責",
+      "highlight": "事項",
+      "description": "当社の技術サポートの役割およびGoogle LLCに関連する責任限定に関する重要な情報。"
     },
     "sections": {
       "reseller": {
         "title": "独立した技術サポート",
-        "body": "FigmaEdu は、お客様のニーズに応じて、セットアップ、アップグレード、アクティベーションのサポート サービスを提供します。当社は、Figma, Inc. (Figma) の正規代理店、代理店、認定ユニット、またはパートナーではありません。",
-        "referral": "Web サイト上のブランド名と製品名は、互換性またはサポートのニーズを説明することのみを目的としています。 Figma, Inc. によって提供されるプロモーション/プラットフォーム特典 (存在する場合) は管理されており、変更または中止される場合があります。"
+        "body": "TKAIProは、お客様のご要望に応じた設定、アップグレード、アクティベーションのサポートサービスを提供しています。当店はGoogle LLC（Google AI）の代理店、販売代理店、正規認定機関、または公式パートナーではありません。",
+        "referral": "ウェブサイト上のブランド名および製品名は、互換性またはサポートの必要性を説明することのみを目的としています。特典やプラットフォームの権利（ある場合）はすべてGoogle LLCによって管理されており、変更または撤回される場合があります。"
       },
       "trademark": {
-        "title": "ブランド",
-        "body": "「Figma」および「Figma Education」は Figma, Inc. の商標です。その他の製品名はそれぞれの所有者に帰属します。互換性やサポートのニーズを説明するためにのみ使用します。"
+        "title": "商標",
+        "body": "「Google」および「Google AI」はGoogle LLCの商標です。その他の製品名はそれぞれの所有者に帰属します。当店では互換性やサポートニーズを説明するためにのみ使用しています。"
       },
       "risks": {
         "title": "理解すべきリスク",
         "items": [
-          "Figma, Inc. は、いつでも価格、機能を変更したり、サブスクリプションを終了したりすることがあります。",
-          "Figma, Inc. は、利用規約に違反したアカウントを一時停止/終了することができます。",
-          "引き継ぎ後は、電子メール、パスワード、2FA、回復用電子メールの変更など、セキュリティについてはお客様が単独で責任を負います。後で資格情報を紛失した場合、復元することはできません。",
-          "当社は、継続的なアクセスや永続的なサードパーティのプロモーション特典を保証するものではありません。",
-          "ブランド所有者から公式にご購入ください: www.figma.com。"
+          "Google LLCは予告なく価格や機能を変更、またはサブスクリプションを終了する場合があります。",
+          "Google LLCは利用規約（ToS）に違反したアカウントを停止／解約する場合があります。",
+          "納品後のセキュリティはお客様自身の責任となります。メールアドレス、パスワード、2FA、復元用メールアドレスを必ず変更してください。資格情報を紛失した場合、復旧サポートは行えません。",
+          "継続的なアクセスや第三者のプロモーション特典の永久的な保持を保証するものではありません。",
+          "商標権者からの公式購入: www.gemini.google.com."
         ]
       },
       "official": {
         "title": "公式購入チャネル",
-        "body": "Figma, Inc. から直接 Figma サブスクリプションを購入するには:"
+        "body": "Google LLCから直接Google AIサブスクリプションを購入する場合:"
       }
     },
     "cta": {
-      "title": "規約全文を読む",
-      "description": "ご購入前に利用規約とプライバシーポリシーをお読みください。",
+      "title": "規約の全容を読む",
+      "description": "ご購入前に利用規約およびプライバシーポリシーをお読みください。",
       "terms": "利用規約",
-      "shop": "製品を見る"
+      "shop": "商品を見る"
     }
   },
   "CookieConsent": {
-    "title": "クッキーの設定",
-    "description": "ログイン、ショッピングカート、セキュリティに必要なCookie。分析 Cookie (Microsoft Clarity) はオプションです。以下から選択してください。",
-    "learnMore": "クッキーポリシーを参照",
-    "essentialOnly": "必要なだけ",
-    "acceptAll": "すべてを受け入れる"
+    "title": "Cookie設定",
+    "description": "ログイン、ショッピングカート、セキュリティに必要なCookieです。分析用Cookie（Microsoft Clarity）は任意です。以下から選択してください。",
+    "learnMore": "Cookieポリシーを見る",
+    "essentialOnly": "必須Cookieのみ",
+    "acceptAll": "すべて同意"
   },
   "Wallet": {
-    "title": "私の財布",
-    "vndBalance": "ベトナムドン残高",
-    "usdBalance": "米ドル残高",
-    "topup": "お金を預ける",
-    "topupVnd": "デポジット VND",
-    "topupUsd": "米ドルを入金",
-    "topupAgain": "新しい入金リクエストを作成する",
-    "refresh": "リロード",
+    "title": "マイウォレット",
+    "vndBalance": "VND残高",
+    "usdBalance": "USD残高",
+    "topup": "チャージ",
+    "topupVnd": "VNDをチャージ",
+    "topupUsd": "USDをチャージ",
+    "topupAgain": "新規チャージリクエストを作成",
+    "refresh": "更新",
     "backToWallet": "ウォレットに戻る",
-    "returnToCheckout": "支払いに戻る",
-    "currency": "通貨の種類",
-    "vnd": "ベトナムドン",
-    "usd": "米ドル",
-    "vndDescription": "QR 銀行振込による入金 - 数分で自動確認。",
-    "usdDescription": "暗号通貨 (Binance/Bybit/USDT/BTC/ETH/LTC) による入金 — 領収書をアップロードした後、管理者が確認します。",
-    "selectAmount": "宗派を選択してください",
-    "customAmount": "別の金額を入力してください",
-    "selectMethod": "積載方法",
-    "selectCryptoMethod": "暗号化タイプを選択してください",
-    "youWillTopup": "ロードします",
-    "continueToPay": "支払いを続ける",
-    "topupTitle": "ウォレットにチャージする",
-    "topupDetailTitle": "入金リクエストの詳細",
-    "amount": "額",
-    "expiresAt": "有効期限は次のとおりです",
+    "returnToCheckout": "チェックアウトに戻る",
+    "currency": "通貨",
+    "vnd": "VND",
+    "usd": "USD",
+    "vndDescription": "銀行振込QRでのチャージ — 数分以内に自動確認されます。",
+    "usdDescription": "暗号資産（Binance/Bybit/USDT/BTC/ETH/LTC）でのチャージ — 領収書アップロード後、管理者が確認します。",
+    "selectAmount": "金額を選択",
+    "customAmount": "その他の金額を入力",
+    "selectMethod": "チャージ方法を選択",
+    "selectCryptoMethod": "暗号資産の種類を選択",
+    "youWillTopup": "チャージ額",
+    "continueToPay": "お支払いに進む",
+    "topupTitle": "ウォレットにチャージ",
+    "topupDetailTitle": "チャージリクエストの詳細",
+    "amount": "金額",
+    "expiresAt": "有効期限",
     "bank": "銀行",
     "accountNumber": "口座番号",
-    "accountName": "口座名義人名",
-    "transferContentLabel": "転送コンテンツ (正確であることが必須)",
-    "transferContentWarning": "以下に正しいコンテンツを入力してください。間違ったコンテンツは自動的にウォレットに入金されません。管理者に連絡する必要があります。",
-    "payId": "ペイID",
+    "accountName": "口座名義",
+    "transferContentLabel": "振込メモ・内容（正確に入力必須）",
+    "transferContentWarning": "以下の内容を正確に入力してください。内容に誤りがある場合、自動反映されず、管理者に連絡する必要があります。",
+    "payId": "Pay-ID",
     "network": "ネットワーク",
     "walletAddress": "ウォレットアドレス",
-    "onchainWarning": "{ネットワーク}経由でのみ送信してください。ネットワークが間違っていると、お金が失われ、取り戻すことができなくなります。",
-    "submitProofTitle": "領収書添付（必須ではありません）",
-    "submitProofDescription": "暗号通貨を転送したら、管理者の承認を迅速化するために領収書の画像 URL (Imgur/Cloudinary など) を貼り付けるか、空白のままにして「転送しました」をクリックします。",
-    "submitProof": "領収書の送信",
-    "submitWithoutProof": "お金を送金しました",
-    "proofSubmitted": "領収書を送信しました。管理者は数時間以内に承認します。",
-    "pendingReviewMessage": "領収書を提出しました。システムは管理者の確認を待っています。承認が完了すると残高は自動的に更新されます。",
-    "viewProof": "送信された領収書を表示する",
-    "autoConfirmNote": "✅ 銀行が送金を確認するとすぐに（通常は 1 ～ 3 分）、残高が自動的にウォレットに追加されます。",
-    "topupPaidTitle": "入金成功",
-    "topupPaidDescription": "ウォレットに {amount} を追加しました。",
-    "topupRejectedTitle": "リチャージリクエストが拒否されました",
-    "topupExpiredTitle": "入金リクエストの有効期限が切れました",
-    "topupExpiredDescription": "この入金リクエストは 30 分で期限切れになりました。新しいリクエストを作成してください。",
-    "paidToast": "入金が成功し、ウォレットが更新されました。",
-    "rejectedToast": "リチャージリクエストが拒否されました",
-    "expiredToast": "入金リクエストの有効期限が切れました",
+    "onchainWarning": "{network}ネットワーク経由でのみ送信してください。誤ったネットワークを使用すると、資金が失われ復元できなくなります。",
+    "submitProofTitle": "領収書の添付（任意）",
+    "submitProofDescription": "暗号資産の送金後、領収書画像のURL（Imgur/Cloudinaryなど）を貼り付けると管理者の承認がスムーズになります。空欄のまま「送金済み」をクリックすることも可能です。",
+    "submitProof": "領収書を送信",
+    "submitWithoutProof": "送金済み",
+    "proofSubmitted": "領収書を送信しました。管理者が数時間以内に確認します。",
+    "pendingReviewMessage": "領収書を受理しました。現在管理者の承認待ちです。承認が完了すると残高が自動更新されます。",
+    "viewProof": "送信した領収書を表示",
+    "autoConfirmNote": "✅ 銀行の送金確認が完了次第、残高が自動的に反映されます（通常1〜3分）。",
+    "topupPaidTitle": "チャージ成功",
+    "topupPaidDescription": "ウォレットに {amount} が反映されました。",
+    "topupRejectedTitle": "チャージリクエストが拒否されました",
+    "topupExpiredTitle": "チャージリクエストの期限切れ",
+    "topupExpiredDescription": "このチャージリクエストは30分の制限時間を超えました。新しいリクエストを作成してください。",
+    "paidToast": "チャージが完了し、ウォレットが更新されました！",
+    "rejectedToast": "チャージリクエストが拒否されました",
+    "expiredToast": "チャージリクエストの期限が切れました",
     "transactionHistory": "取引履歴",
-    "balanceAfter": "バランスは続く",
-    "noTransactions": "まだ取引はありません",
-    "copied": "{ラベル}をコピー",
+    "balanceAfter": "取引後の残高",
+    "noTransactions": "取引履歴はありません",
+    "copied": "{label} をコピーしました",
     "copyFailed": "コピーに失敗しました",
-    "qrZoom": "QR拡大",
-    "bankQrAlt": "QR {銀行}",
-    "notFound": "入金リクエストが見つかりませんでした",
+    "qrZoom": "QRコード拡大",
+    "bankQrAlt": "{bank} QRコード",
+    "notFound": "チャージリクエストが見つかりません",
     "status": {
-      "pending": "支払いを待ちます",
+      "pending": "支払い待ち",
       "pendingReview": "承認待ち"
     },
     "txType": {
-      "topup": "お金を預ける",
-      "debit": "控除ウォレット（購入）",
+      "topup": "チャージ",
+      "debit": "支払い（購入）",
       "refund": "返金",
-      "admin_adjust": "管理者が調整しました"
+      "admin_adjust": "管理者調整"
     },
     "errors": {
-      "generic": "エラーが発生しました。もう一度お試しください",
-      "INVALID_PROOF_URL": "無効な領収書 URL (http/https が必要)",
+      "generic": "エラーが発生しました。もう一度お試しください。",
+      "INVALID_PROOF_URL": "無効な領収書URLです（http/httpsが必要です）",
       "INVALID_AMOUNT": "無効な金額です",
-      "AMOUNT_TOO_SMALL": "最低金額に達していません",
-      "AMOUNT_TOO_LARGE": "1回の入金制限を超えました",
-      "AMOUNT_NOT_ROUND": "VND の金額は 1,000 の倍数である必要があります",
-      "INVALID_CURRENCY": "無効な通貨",
-      "INVALID_METHOD": "無効な入金方法です",
-      "SEPAY_REQUIRES_VND": "銀行振込による VND の入金のみをサポートします",
-      "CRYPTO_REQUIRES_USD": "暗号通貨は米ドルでの入金のみをサポートします",
-      "INVALID_CRYPTO_METHOD": "無効な暗号タイプ",
-      "WALLET_INSUFFICIENT_BALANCE": "残高不足"
+      "AMOUNT_TOO_SMALL": "最低チャージ金額を満たしていません",
+      "AMOUNT_TOO_LARGE": "1回のチャージ上限額を超えています",
+      "AMOUNT_NOT_ROUND": "VNDの金額は1,000単位である必要があります",
+      "INVALID_CURRENCY": "無効な通貨です",
+      "INVALID_METHOD": "無効なチャージ方法です",
+      "SEPAY_REQUIRES_VND": "銀行振込でのチャージはVNDのみ対応しています",
+      "CRYPTO_REQUIRES_USD": "暗号資産でのチャージはUSDのみ対応しています",
+      "INVALID_CRYPTO_METHOD": "無効な暗号資産の種類です",
+      "WALLET_INSUFFICIENT_BALANCE": "残高が不足しています"
     }
   },
   "LegalNoticePopup": {
-    "title": "通知",
-    "p1": "FigmaEdu は、顧客のニーズに応じて小売サービス/Figma Education アカウントのサポートのみを提供します。 FigmaEdu は、ブランド所有者の代理店、販売代理店、または代表者ではありません。ブランド名、ロゴ、および製品名が言及されている場合、これらは製品/サービスを説明することのみを目的としており、それぞれの所有者の財産です。サービスの範囲および責任の制限は、利用規約に規定されています。",
-    "p2": "お客様への注意事項: 当社がお客様のアカウントをお客様に引き渡すとき、そのアカウントはすでにお客様の所有物であるため、電子メール、パスワード、2FA、回復用電子メールなどのセキュリティ情報をお客様ご自身で変更し、お客様自身で資産を保存する必要があります。アカウント情報を忘れたり、パスワードを忘れたり、ログイン情報を忘れたり、2FA を紛失したりするなどの理由で、お客様が購入後一定期間アカウントにアクセスできない場合はサポートできません。したがって、アカウントと資産の安全を確保するために、購入後すぐに情報を変更してください。",
-    "p3": "FigmaEdu をサポートしていただきありがとうございます。",
+    "title": "お知らせ",
+    "p1": "TKAIProは、お客様のニーズに応じたGoogle AIアカウントのリテール販売およびサポートサービスのみを提供しています。TKAIProは、ブランド所有者の代理店、販売店、または代表組織ではありません。言及されているブランド名、ロゴ、製品名は、サービス/製品を説明する目的でのみ使用されており、それぞれの所有者に帰属します。サービスの範囲および責任制限は利用規約に規定されています。",
+    "p2": "【注意事項】アカウント引き渡し後、そのアカウントはお客様の資産となります。お客様ご自身でメールアドレス、パスワード、2段階認証（2FA）、復元用メールアドレスなどのセキュリティ情報を速やかに変更し、適切に管理してください。ご購入から時間が経った後、アカウント情報の失念、パスワード忘れ、ログイン情報の紛失、2FAの紛失等によりアクセスできなくなった場合、当店ではサポートいたしかねます。そのため、ご購入直後に必ずセキュリティ情報を変更し、ご自身の資産を保護してください。",
+    "p3": "TKAIProをご利用いただき、誠にありがとうございます。",
     "termsLink": "利用規約",
-    "close": "近い"
+    "close": "閉じる"
   }
 }

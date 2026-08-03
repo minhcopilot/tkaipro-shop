@@ -219,8 +219,8 @@ export default async function ReturnPolicyPage({ params }: Props) {
                 <div className="bg-orange-50 p-4 rounded-lg border border-orange-200 mt-4">
                   <p className="text-orange-800 text-sm font-medium">
                     {isVi
-                      ? "Sau khi credential đã giao / account đã kích hoạt: KHÔNG hoàn tiền (đặc thù hàng số). Không bảo hành nếu Figma suspend/terminate do vi phạm ToS của họ."
-                      : "After credentials delivered / account activated: NO refund (digital goods). No warranty if Figma suspends/terminates due to their ToS."}
+                      ? "Sau khi credential đã giao / account đã kích hoạt: KHÔNG hoàn tiền (đặc thù hàng số). Không bảo hành nếu Google suspend/terminate do vi phạm ToS của họ."
+                      : "After credentials delivered / account activated: NO refund (digital goods). No warranty if Google suspends/terminates due to their ToS."}
                   </p>
                 </div>
 
@@ -271,7 +271,7 @@ export default async function ReturnPolicyPage({ params }: Props) {
                     </li>
                     <li className="flex items-start gap-2">
                       <XCircle className="h-5 w-5 mt-0.5 flex-shrink-0" />
-                      <span><strong>{isVi ? "Vi phạm điều khoản:" : "Terms violation:"}</strong> {isVi ? "Sử dụng sai mục đích hoặc vi phạm ToS của Figma" : "Misuse or violation of Figma's ToS"}</span>
+                      <span><strong>{isVi ? "Vi phạm điều khoản:" : "Terms violation:"}</strong> {isVi ? "Sử dụng sai mục đích hoặc vi phạm ToS của Google" : "Misuse or violation of Google's ToS"}</span>
                     </li>
                     <li className="flex items-start gap-2">
                       <XCircle className="h-5 w-5 mt-0.5 flex-shrink-0" />
@@ -283,7 +283,7 @@ export default async function ReturnPolicyPage({ params }: Props) {
                     </li>
                     <li className="flex items-start gap-2">
                       <XCircle className="h-5 w-5 mt-0.5 flex-shrink-0" />
-                      <span><strong>{isVi ? "Lỗi từ Figma:" : "Figma's issues:"}</strong> {isVi ? "Server down, maintenance từ phía Google LLC" : "Server down, maintenance from Google LLC"}</span>
+                      <span><strong>{isVi ? "Lỗi từ Google:" : "Google's issues:"}</strong> {isVi ? "Server down, maintenance từ phía Google LLC" : "Server down, maintenance from Google LLC"}</span>
                     </li>
                   </ul>
                 </div>

@@ -65,7 +65,7 @@ export function StructuredData({ type, data }: StructuredDataProps) {
           "description":
             data?.description ||
             `Resold Google AI account from ${SEO_CONFIG.name}, an independent reseller. Not affiliated with Google LLC`,
-          // We are NOT the Brand authoring the underlying product. Figma is.
+          // We are NOT the Brand authoring the underlying product. Google is.
           // Emit `manufacturer` for the underlying product; brand the offer surface
           // as our reseller brand.
           "brand": {

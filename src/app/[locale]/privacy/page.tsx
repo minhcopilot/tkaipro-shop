@@ -67,7 +67,7 @@ export default async function PrivacyPage({ params }: Props) {
       description: t("highlights.noCard.desc")
     },
     {
-      icon: <Eye className="h-8 w-8 text-purple-500" />,
+      icon: <Eye className="h-8 w-8 text-primary" />,
       title: t("highlights.transparent.title"),
       description: t("highlights.transparent.desc")
     },

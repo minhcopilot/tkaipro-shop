@@ -46,9 +46,9 @@ interface TrustSocialProofSectionProps {
 const productTypeConfig: Record<string, { color: string; icon: string }> = {
   "cursor-pro": { color: "bg-blue-500", icon: "💎" },
   "cursor-pro-official-1m": { color: "bg-blue-700", icon: "🛡️" },
-  "github-copilot": { color: "bg-purple-500", icon: "🚀" },
+  "github-copilot": { color: "bg-secondary", icon: "🚀" },
   "github-edu": { color: "bg-green-500", icon: "🎓" },
-  "figma-pro": { color: "bg-pink-500", icon: "🎨" },
+  "figma-pro": { color: "bg-cyan-500", icon: "🎨" },
   "jetbrains-edu": { color: "bg-orange-500", icon: "⚡" },
 };
 
@@ -202,7 +202,7 @@ export function TrustSocialProofSection({ proofs, stats }: TrustSocialProofSecti
       <div className="relative container mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         {/* header with badge */}
         <div className="mb-12 flex flex-col items-center text-center">
-          <div className="mb-6 inline-flex items-center gap-2 rounded-full bg-gradient-brand px-6 py-3 text-primary-foreground shadow-soft">
+          <div className="mb-6 inline-flex items-center gap-2 rounded-md bg-gradient-brand px-6 py-3 text-primary-foreground shadow-soft">
             <Sparkles className="h-5 w-5" />
             <span className="text-sm font-semibold">{t("badge")}</span>
             <CheckCircle2 className="h-5 w-5" />
@@ -386,7 +386,7 @@ export function TrustSocialProofSection({ proofs, stats }: TrustSocialProofSecti
                 <span className="text-sm font-semibold text-foreground">{t("labels.warranty")}</span>
               </div>
               <div className="flex items-center gap-2 bg-white/80 dark:bg-gray-800/80 backdrop-blur-sm px-4 py-2 rounded-full shadow-md">
-                <Users className="h-5 w-5 text-purple-500" />
+                <Users className="h-5 w-5 text-primary" />
                 <span className="text-sm font-semibold text-foreground">{t("labels.support")}</span>
               </div>
             </div>
@@ -396,7 +396,7 @@ export function TrustSocialProofSection({ proofs, stats }: TrustSocialProofSecti
               <Link href="/khach-hang-da-mua">
                 <Button
                   size="lg"
-                  className="h-14 gap-3 px-10 text-lg bg-gradient-to-r from-primary via-purple-600 to-pink-600 hover:from-primary/90 hover:via-purple-500 hover:to-pink-500 shadow-xl hover:shadow-2xl transition-all duration-300 hover:scale-105"
+                  className="h-14 gap-3 px-10 text-lg bg-gradient-brand shadow-xl hover:shadow-2xl hover:brightness-110 transition-all duration-300 hover:scale-105"
                 >
                   <Sparkles className="h-5 w-5" />
                   {t("cta")}

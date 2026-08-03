@@ -46,7 +46,7 @@ export function Footer({ className }: { className?: string }) {
             <p className="text-sm text-muted-foreground">
               {t("description")}
             </p>
-            <div className="rounded-xl border border-border bg-card p-3 text-xs text-foreground shadow-soft-sm">
+            <div className="rounded-lg border border-border bg-card p-3 text-xs text-foreground shadow-soft-sm">
               <p className="mb-2 flex items-center gap-1.5 font-semibold text-foreground">
                 <Clock className="h-3.5 w-3.5" />
                 {t("schedule.title")}

@@ -28,9 +28,9 @@ interface SocialProofPreviewSectionProps {
 const productTypeColors: Record<string, string> = {
   "cursor-pro": "bg-blue-500",
   "cursor-pro-official-1m": "bg-blue-700",
-  "github-copilot": "bg-purple-500",
+  "github-copilot": "bg-secondary",
   "github-edu": "bg-green-500",
-  "figma-pro": "bg-pink-500",
+  "figma-pro": "bg-cyan-500",
   "jetbrains-edu": "bg-orange-500",
 };
 
@@ -40,7 +40,7 @@ export async function SocialProofPreviewSection({ proofs }: SocialProofPreviewSe
   const displayProofs = proofs.slice(0, 6);
 
   return (
-    <section className="py-12 md:py-16 bg-gradient-to-br from-blue-50 via-purple-50 to-pink-50 dark:from-gray-900 dark:via-gray-800 dark:to-gray-900">
+    <section className="py-12 md:py-16 bg-gradient-to-br from-blue-50 via-sky-50 to-indigo-50 dark:from-[#0b1220] dark:via-[#111827] dark:to-[#172554]">
       <div className="container mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         {/* header */}
         <div className="mb-12 flex flex-col items-center text-center">

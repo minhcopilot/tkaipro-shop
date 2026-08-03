@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 
 import { NextSSRPlugin } from "@uploadthing/react/next-ssr-plugin";
-import { Jost, Overpass_Mono } from "next/font/google";
+import { Anonymous_Pro, Audiowide, Roboto } from "next/font/google";
 import Script from "next/script";
 import { headers } from "next/headers";
 import { notFound } from "next/navigation";
@@ -30,18 +30,28 @@ import { ServerActionRecovery } from "~/ui/components/server-action-recovery";
 import { FingerprintTracker } from "~/ui/components/security/fingerprint-tracker";
 import { AntiInspect } from "~/ui/components/security/anti-inspect";
 
-const jost = Jost({
+const roboto = Roboto({
   subsets: ["latin"],
-  variable: "--font-jost",
+  variable: "--font-roboto",
   display: "swap",
   preload: true,
+  weight: ["300", "400", "500", "700"],
 });
 
-const overpassMono = Overpass_Mono({
+const audiowide = Audiowide({
   subsets: ["latin"],
-  variable: "--font-overpass-mono",
+  variable: "--font-audiowide",
   display: "swap",
   preload: true,
+  weight: "400",
+});
+
+const anonymousPro = Anonymous_Pro({
+  subsets: ["latin"],
+  variable: "--font-anonymous-pro",
+  display: "swap",
+  preload: true,
+  weight: ["400", "700"],
 });
 
 export async function generateMetadata({
@@ -207,8 +217,9 @@ export default async function RootLayout({
         <body
           suppressHydrationWarning
           className={`
-            ${jost.variable}
-            ${overpassMono.variable}
+            ${roboto.variable}
+            ${audiowide.variable}
+            ${anonymousPro.variable}
             min-h-screen bg-neutral-950 text-neutral-100 antialiased
             flex items-center justify-center
           `}
@@ -239,8 +250,9 @@ export default async function RootLayout({
         <body
           suppressHydrationWarning
           className={`
-            ${jost.variable}
-            ${overpassMono.variable}
+            ${roboto.variable}
+            ${audiowide.variable}
+            ${anonymousPro.variable}
             min-h-screen bg-white text-neutral-900 antialiased
             dark:bg-neutral-950 dark:text-neutral-100
           `}
@@ -326,8 +338,9 @@ export default async function RootLayout({
       <body
         suppressHydrationWarning
         className={`
-          ${jost.variable}
-          ${overpassMono.variable}
+          ${roboto.variable}
+          ${audiowide.variable}
+          ${anonymousPro.variable}
           min-h-screen bg-background text-foreground antialiased
           selection:bg-primary/15
         `}

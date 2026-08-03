@@ -66,7 +66,7 @@ const warrantyFeatures = [
     descriptionEn: "Shop-side errors within 24h"
   },
   {
-    icon: <Clock className="h-8 w-8 text-purple-500" />,
+    icon: <Clock className="h-8 w-8 text-primary" />,
     title: "Xử Lý Nhanh",
     titleEn: "Fast Processing",
     description: "Trong vòng 24 giờ",
@@ -198,7 +198,7 @@ export default async function WarrantyPage({ params }: Props) {
           <Card className="p-8 mb-8">
             <CardHeader className="px-0 pt-0">
               <CardTitle className="flex items-center gap-2">
-                <Calendar className="h-5 w-5 text-purple-500" />
+                <Calendar className="h-5 w-5 text-primary" />
                 Hỗ Trợ Mở Rộng
               </CardTitle>
             </CardHeader>

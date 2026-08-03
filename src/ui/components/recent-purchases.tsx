@@ -24,11 +24,11 @@ type Props = {
 // generate a consistent color based on string
 const getAvatarColor = (name: string) => {
   const colors = [
-    "from-red-500 to-rose-600", "from-orange-500 to-amber-600", "from-amber-500 to-yellow-600", 
-    "from-lime-500 to-green-600", "from-green-500 to-emerald-600", "from-emerald-500 to-teal-600", 
-    "from-teal-500 to-cyan-600", "from-cyan-500 to-sky-600", "from-sky-500 to-blue-600", 
-    "from-blue-500 to-indigo-600", "from-indigo-500 to-violet-600", "from-violet-500 to-purple-600", 
-    "from-purple-500 to-fuchsia-600", "from-fuchsia-500 to-pink-600", "from-pink-500 to-rose-600"
+    "from-sky-500 to-blue-600", "from-blue-500 to-indigo-600", "from-indigo-500 to-violet-600",
+    "from-cyan-500 to-sky-600", "from-teal-500 to-cyan-600", "from-emerald-500 to-teal-600",
+    "from-green-500 to-emerald-600", "from-lime-500 to-green-600", "from-amber-500 to-orange-600",
+    "from-orange-500 to-amber-600", "from-secondary to-indigo-600", "from-primary to-cyan-500",
+    "from-blue-600 to-sky-500", "from-indigo-600 to-blue-500", "from-cyan-600 to-primary"
   ];
   let hash = 0;
   for (let i = 0; i < name.length; i++) {
@@ -310,11 +310,11 @@ export function RecentPurchases({ orders, locale, visitorName }: Props) {
               <div className="flex items-center gap-3">
                 <a
                   href={`/${locale}/products`}
-                  className="group/btn relative flex items-center gap-2 px-5 py-3 rounded-xl bg-white text-purple-600 font-bold text-sm md:text-base shadow-lg hover:shadow-xl hover:scale-105 transition-all duration-300"
+                  className="group/btn relative flex items-center gap-2 px-5 py-3 rounded-md bg-white text-primary font-bold text-sm md:text-base shadow-lg hover:shadow-xl hover:scale-105 transition-all duration-300"
                 >
                   <Zap className="h-5 w-5 text-yellow-500 group-hover/btn:animate-bounce" />
                   <span>{locale === 'vi' ? 'Xem ngay!' : locale === 'ru' ? 'Смотреть!' : locale === 'zh' ? '立即查看！' : locale === 'ar' ? '!شاهد الآن' : locale === 'es' ? '¡Míralo!' : locale === 'fr' ? 'Voir!' : locale === 'de' ? 'Ansehen!' : locale === 'ja' ? '見る！' : locale === 'ko' ? '확인하기!' : locale === 'pt' ? 'Confira!' : 'Check it out!'}</span>
-                  <Gift className="h-5 w-5 text-pink-500 animate-pulse" />
+                  <Gift className="h-5 w-5 text-secondary animate-pulse" />
                   
                   {/* shine effect */}
                   <div className="absolute inset-0 rounded-xl overflow-hidden">
@@ -644,7 +644,7 @@ export function RecentPurchases({ orders, locale, visitorName }: Props) {
                 <Sparkles className="h-3.5 w-3.5" />
                 <span>{locale === 'vi' ? 'Giao hàng tức thì' : locale === 'ru' ? 'Мгновенная доставка' : locale === 'zh' ? '即时配送' : locale === 'ar' ? 'توصيل فوري' : locale === 'es' ? 'Entrega Instantánea' : locale === 'fr' ? 'Livraison Instantanée' : locale === 'de' ? 'Sofortige Lieferung' : locale === 'ja' ? '即時配達' : locale === 'ko' ? '즉시 배송' : locale === 'pt' ? 'Entrega Instantânea' : 'Instant Delivery'}</span>
               </div>
-              <div className="flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-purple-100 dark:bg-purple-900/50 text-purple-700 dark:text-purple-300 text-xs font-semibold">
+              <div className="flex items-center gap-1.5 px-3 py-1.5 rounded-md bg-indigo-100 dark:bg-indigo-900/50 text-indigo-700 dark:text-indigo-300 text-xs font-semibold">
                 <Award className="h-3.5 w-3.5" />
                 <span>{locale === 'vi' ? 'Uy tín #1 VN' : locale === 'ru' ? '#1 в VN' : locale === 'zh' ? '越南#1信赖' : locale === 'ar' ? '#1 الأكثر ثقة في VN' : locale === 'es' ? '#1 Confiable en VN' : locale === 'fr' ? '#1 Confiance VN' : locale === 'de' ? '#1 Vertrauenswürdig VN' : locale === 'ja' ? 'VN信頼No.1' : locale === 'ko' ? 'VN 신뢰 1위' : locale === 'pt' ? '#1 Confiável VN' : '#1 Trusted in VN'}</span>
               </div>

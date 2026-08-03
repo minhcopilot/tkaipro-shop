@@ -309,8 +309,8 @@ export default function CareersPage() {
             </div>
             
             <div className="text-center">
-              <div className="w-12 h-12 bg-purple-100 rounded-full flex items-center justify-center mx-auto mb-3">
-                <span className="text-purple-600 font-bold">4</span>
+              <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-3">
+                <span className="text-blue-600 font-bold">4</span>
               </div>
               <h4 className="font-semibold mb-2">Final</h4>
               <p className="text-sm text-muted-foreground">Meet the team và thỏa thuận offer</p>

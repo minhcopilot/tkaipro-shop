@@ -96,7 +96,7 @@ export default async function ContactPage({ params }: Props) {
             action: t("methods.facebook.action"),
             href: FACEBOOK_URL,
             available: primaryHoursLabel,
-            bgGradient: "from-indigo-500/10 to-purple-500/10",
+            bgGradient: "from-blue-500/10 to-indigo-500/10",
             borderColor: "border-indigo-500/20",
             iconColor: "text-indigo-600",
             buttonColor: "bg-indigo-600 hover:bg-indigo-700"
@@ -152,7 +152,7 @@ export default async function ContactPage({ params }: Props) {
         <div className="absolute inset-0 bg-transparent" />
         <div className="container relative mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
-            <p className="mb-4 inline-block rounded-full bg-gradient-brand px-3.5 py-1 text-sm font-semibold tracking-tight text-primary-foreground shadow-soft-sm">
+            <p className="mb-4 inline-block rounded-md bg-gradient-brand px-3.5 py-1 text-sm font-semibold tracking-tight text-primary-foreground shadow-soft-sm">
               {SEO_CONFIG.name} · {t("hero.badge")}
             </p>
             <h1 className="mb-6 font-display text-4xl font-black tracking-tight md:text-6xl">

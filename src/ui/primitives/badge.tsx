@@ -8,7 +8,7 @@ import { cn } from "~/lib/cn";
 const badgeVariants = cva(
   `
     inline-flex w-fit shrink-0 items-center justify-center gap-1 overflow-hidden
-    rounded-lg border border-transparent px-2 py-0.5 text-xs font-semibold
+    rounded-md border border-transparent px-2 py-0.5 text-xs font-semibold
     whitespace-nowrap transition-colors
     focus-visible:outline-2 focus-visible:outline-offset-2
     focus-visible:outline-ring
@@ -31,7 +31,7 @@ const badgeVariants = cva(
         `,
         outline: `
           border-border bg-background text-foreground
-          [a&]:hover:bg-accent
+          [a&]:hover:bg-accent [a&]:hover:border-primary/40
         `,
         secondary: `
           bg-secondary text-secondary-foreground

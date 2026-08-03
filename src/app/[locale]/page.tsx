@@ -528,17 +528,21 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
         <section className="relative overflow-hidden border-b border-border bg-background py-16 md:py-24">
           <div
             aria-hidden
+            className="pointer-events-none absolute inset-0 bg-tech-grid opacity-40"
+          />
+          <div
+            aria-hidden
             className="pointer-events-none absolute inset-0"
             style={{
               background:
-                "radial-gradient(ellipse 80% 60% at 10% 20%, color-mix(in oklab, var(--primary) 14%, transparent), transparent 55%), radial-gradient(ellipse 70% 50% at 90% 10%, color-mix(in oklab, var(--secondary) 12%, transparent), transparent 50%)",
+                "radial-gradient(ellipse 80% 60% at 10% 20%, color-mix(in oklab, var(--primary) 18%, transparent), transparent 55%), radial-gradient(ellipse 70% 50% at 90% 10%, color-mix(in oklab, var(--secondary) 14%, transparent), transparent 50%)",
             }}
           />
           <div className="relative z-10 container mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
             <div className="grid items-center gap-12 lg:grid-cols-2 lg:gap-16">
               <div className="animate-fade-in-up flex flex-col justify-center space-y-8">
                 <div className="space-y-5">
-                  <p className="inline-block rounded-full bg-gradient-brand px-3.5 py-1 font-display text-sm font-semibold tracking-tight text-primary-foreground shadow-soft-sm">
+                  <p className="inline-block rounded-md bg-gradient-brand px-3.5 py-1 font-display text-sm tracking-tight text-primary-foreground shadow-soft-sm">
                     {SEO_CONFIG.name}
                   </p>
                   <h1 className="font-display text-5xl font-bold leading-[1.05] tracking-tight text-foreground sm:text-6xl md:text-7xl">
@@ -654,7 +658,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
                   key={feature.key}
                 >
                   <CardHeader className="pb-2">
-                    <div className="mb-3 flex h-10 w-10 items-center justify-center rounded-xl bg-gradient-brand text-primary-foreground shadow-soft-sm">
+                    <div className="mb-3 flex h-10 w-10 items-center justify-center rounded-md bg-gradient-brand text-primary-foreground shadow-soft-sm">
                       {feature.icon}
                     </div>
                     <CardTitle>{t(`features.${feature.key}.title`)}</CardTitle>
@@ -674,7 +678,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
         <section className="border-y border-border bg-gradient-brand py-16 text-primary-foreground md:py-20">
           <div className="container mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
             <div className="mb-12 flex flex-col items-center text-center">
-              <h2 className="font-display text-3xl font-bold tracking-tight text-primary-foreground md:text-5xl">
+              <h2 className="font-display text-3xl tracking-tight text-primary-foreground md:text-5xl">
                 {t("benefitsTitle")}
               </h2>
               <p className="mt-4 max-w-2xl text-center text-primary-foreground/85 md:text-lg">
@@ -784,9 +788,9 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
               lg:px-8
             `}
           >
-            <div className="relative overflow-hidden rounded-2xl bg-gradient-brand px-8 py-16 text-primary-foreground shadow-soft-lg md:px-12 md:py-20">
+            <div className="relative overflow-hidden rounded-lg bg-gradient-brand px-8 py-16 text-primary-foreground shadow-soft-lg md:px-12 md:py-20">
               <div className="relative z-10 mx-auto max-w-2xl text-center">
-                <h2 className="font-display text-3xl font-bold tracking-tight text-primary-foreground md:text-5xl">
+                <h2 className="font-display text-3xl tracking-tight text-primary-foreground md:text-5xl">
                   {t("finalCta.title")}
                 </h2>
                 <p className="mt-4 text-lg font-medium text-primary-foreground/90 md:text-xl">

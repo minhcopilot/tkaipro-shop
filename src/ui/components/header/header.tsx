@@ -269,14 +269,14 @@ export function Header({ showAuth = true }: HeaderProps) {
           {showAuth && !user && (
             <div className="space-y-2 border-t border-border px-4 py-4">
               <Link
-                className="block rounded-xl border border-border px-3 py-2.5 text-center text-base font-semibold text-foreground shadow-soft-sm hover:bg-muted"
+                className="block rounded-md border border-border px-3 py-2.5 text-center text-base font-semibold text-foreground shadow-soft-sm hover:bg-muted"
                 href="/auth/sign-in"
                 onClick={() => setMobileMenuOpen(false)}
               >
                 {t("signIn")}
               </Link>
               <Link
-                className="block rounded-full bg-gradient-brand px-3 py-2.5 text-center text-base font-semibold text-primary-foreground shadow-soft"
+                className="block rounded-md bg-gradient-brand px-3 py-2.5 text-center text-base font-semibold text-primary-foreground shadow-soft glow-primary"
                 href="/auth/sign-up"
                 onClick={() => setMobileMenuOpen(false)}
               >

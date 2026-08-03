@@ -83,7 +83,7 @@ export default async function CookiesPage({ params }: Props) {
       ]
     },
     {
-      icon: <Target className="h-8 w-8 text-purple-500" />,
+      icon: <Target className="h-8 w-8 text-primary" />,
       title: t("types.items.marketing.title"),
       description: t("types.items.marketing.description"),
       purpose: t("types.items.marketing.purpose"),
@@ -306,7 +306,7 @@ export default async function CookiesPage({ params }: Props) {
                         <span className={`px-2 py-1 text-xs rounded-full font-medium ${
                           cookie.type === 'Essential' ? 'bg-green-100 text-green-800' :
                           cookie.type === 'Analytics' ? 'bg-blue-100 text-blue-800' :
-                          cookie.type === 'Marketing' ? 'bg-purple-100 text-purple-800' :
+                          cookie.type === 'Marketing' ? 'bg-blue-100 text-purple-800' :
                           'bg-orange-100 text-orange-800'
                         }`}>
                           {cookie.type}

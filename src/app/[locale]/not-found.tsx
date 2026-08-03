@@ -26,7 +26,7 @@ export default function NotFound() {
             action: "Truy cập Fanpage",
             href: FACEBOOK_URL,
             available: "24/7",
-            bgGradient: "from-indigo-500/10 to-purple-500/10",
+            bgGradient: "from-blue-500/10 to-indigo-500/10",
             borderColor: "border-indigo-500/20",
             iconColor: "text-indigo-600",
             buttonColor: "bg-indigo-600 hover:bg-indigo-700",

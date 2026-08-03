@@ -81,7 +81,7 @@ export default async function SitemapPage({ params }: Props) {
     },
     {
       title: t("sections.support.title"),
-      icon: <FileText className="h-5 w-5 text-purple-500" />,
+      icon: <FileText className="h-5 w-5 text-primary" />,
       description: t("sections.support.description"),
       pages: [
         { name: t("sections.support.pages.help.name"), url: "/help", description: t("sections.support.pages.help.desc") },

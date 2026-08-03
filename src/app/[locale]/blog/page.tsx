@@ -214,7 +214,7 @@ export default async function BlogPage({ params, searchParams }: Props) {
               
               <Card className="overflow-hidden hover:shadow-lg transition-shadow">
                 <div className="grid lg:grid-cols-2 gap-0">
-                  <div className="bg-gradient-to-br from-blue-50 to-purple-50 dark:from-blue-950/30 dark:to-purple-950/30 p-8 lg:p-12 flex items-center">
+                  <div className="bg-gradient-to-br from-blue-50 to-indigo-50 dark:from-blue-950/30 dark:to-indigo-950/30 p-8 lg:p-12 flex items-center">
                     <div className="relative w-full h-64 lg:h-full min-h-[200px] rounded-lg overflow-hidden bg-black">
                       <Image
                         src={featuredPost.featuredImage || DEFAULT_BLOG_IMAGE}

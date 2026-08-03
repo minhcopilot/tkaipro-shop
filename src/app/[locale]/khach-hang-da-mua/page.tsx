@@ -166,11 +166,11 @@ export default async function SocialProofPage({ params }: Props) {
 
   const figmaEduLabel = t("productTypes.figmaEdu");
   const productTypeLabels: Record<string, { label: string; color: string }> = {
-    [PROOF_PRODUCT_TYPES.CURSOR_PRO]: { label: figmaEduLabel, color: "bg-pink-500" },
-    [PROOF_PRODUCT_TYPES.CURSOR_PRO_OFFICIAL]: { label: figmaEduLabel, color: "bg-pink-600" },
-    [PROOF_PRODUCT_TYPES.CURSOR_PRO_OFFICIAL_239K]: { label: figmaEduLabel, color: "bg-pink-700" },
-    [PROOF_PRODUCT_TYPES.GITHUB_COPILOT]: { label: figmaEduLabel, color: "bg-pink-500" },
-    [PROOF_PRODUCT_TYPES.FIGMA_PRO]: { label: figmaEduLabel, color: "bg-pink-500" },
+    [PROOF_PRODUCT_TYPES.CURSOR_PRO]: { label: figmaEduLabel, color: "bg-primary" },
+    [PROOF_PRODUCT_TYPES.CURSOR_PRO_OFFICIAL]: { label: figmaEduLabel, color: "bg-blue-600" },
+    [PROOF_PRODUCT_TYPES.CURSOR_PRO_OFFICIAL_239K]: { label: figmaEduLabel, color: "bg-blue-700" },
+    [PROOF_PRODUCT_TYPES.GITHUB_COPILOT]: { label: figmaEduLabel, color: "bg-secondary" },
+    [PROOF_PRODUCT_TYPES.FIGMA_PRO]: { label: figmaEduLabel, color: "bg-cyan-500" },
     [PROOF_PRODUCT_TYPES.JETBRAINS_EDU]: { label: figmaEduLabel, color: "bg-orange-500" },
   };
 

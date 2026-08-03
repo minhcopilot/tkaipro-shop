@@ -38,13 +38,13 @@ const getRandomLocation = (locale: string) => {
 // generate avatar gradient color based on name
 const getAvatarColor = (name: string) => {
   const colors = [
-    "from-pink-500 to-rose-500",
-    "from-violet-500 to-purple-500", 
     "from-blue-500 to-cyan-500",
+    "from-indigo-500 to-blue-500",
+    "from-sky-500 to-primary",
     "from-green-500 to-emerald-500",
     "from-orange-500 to-amber-500",
-    "from-red-500 to-pink-500",
-    "from-indigo-500 to-blue-500",
+    "from-secondary to-indigo-500",
+    "from-cyan-500 to-teal-500",
     "from-teal-500 to-green-500",
   ];
   let hash = 0;

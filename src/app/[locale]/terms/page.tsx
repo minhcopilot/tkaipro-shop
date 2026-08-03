@@ -63,7 +63,7 @@ export default async function TermsPage({ params }: Props) {
       description: t("highlights.fair.desc"),
     },
     {
-      icon: <RefreshCw className="h-8 w-8 text-purple-500" />,
+      icon: <RefreshCw className="h-8 w-8 text-primary" />,
       title: t("highlights.flexible.title"),
       description: t("highlights.flexible.desc"),
     },

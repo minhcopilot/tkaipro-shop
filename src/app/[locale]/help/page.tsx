@@ -85,7 +85,7 @@ const helpCategories = [
     href: "#troubleshoot"
   },
   {
-    icon: <MessageCircle className="h-8 w-8 text-purple-500" />,
+    icon: <MessageCircle className="h-8 w-8 text-primary" />,
     title: "Liên Hệ Support",
     description: "Chat trực tiếp với đội ngũ hỗ trợ",
     count: "24/7",

@@ -71,7 +71,7 @@ export default function IntroPage() {
       <section className="relative border-b border-border py-24 md:py-32">
         <div className="container mx-auto max-w-4xl px-4 md:px-6">
           <div className="animate-fade-in-up flex flex-col items-center space-y-8 text-center">
-            <p className="inline-block rounded-full bg-gradient-brand px-3.5 py-1 font-display text-sm font-semibold tracking-tight text-primary-foreground shadow-soft-sm">
+            <p className="inline-block rounded-md bg-gradient-brand px-3.5 py-1 font-display text-sm tracking-tight text-primary-foreground shadow-soft-sm">
               {SEO_CONFIG.name}
             </p>
             <h1 className="font-display text-5xl font-bold tracking-tight text-foreground sm:text-6xl md:text-7xl">

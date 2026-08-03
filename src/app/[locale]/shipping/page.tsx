@@ -81,7 +81,7 @@ const shippingFeatures = [
     descriptionEn: "1-for-1 if shop-side error"
   },
   {
-    icon: <Clock className="h-8 w-8 text-purple-500" />,
+    icon: <Clock className="h-8 w-8 text-primary" />,
     title: "24/7",
     titleEn: "24/7",
     description: "Giao hàng mọi lúc trong năm",
@@ -168,8 +168,8 @@ export default async function ShippingPage({ params }: Props) {
                   </div>
                   
                   <div className="text-center">
-                    <div className="w-12 h-12 bg-purple-100 rounded-full flex items-center justify-center mx-auto mb-3">
-                      <span className="text-purple-600 font-bold">4</span>
+                    <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-3">
+                      <span className="text-blue-600 font-bold">4</span>
                     </div>
                     <h4 className="font-semibold mb-2">Sử Dụng Ngay</h4>
                     <p className="text-sm text-muted-foreground">Đăng nhập và trải nghiệm Google AI</p>

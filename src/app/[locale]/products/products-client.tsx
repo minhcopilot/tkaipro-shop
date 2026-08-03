@@ -375,7 +375,7 @@ export function ProductsClient() {
                   return (
                     <div key={category.id} className="relative">
                       <div className={cn(
-                        "absolute -inset-[2px] rounded-full bg-gradient-to-r from-violet-500 via-primary to-cyan-400 blur-[2px] transition-opacity",
+                        "absolute -inset-[2px] rounded-md bg-gradient-to-r from-primary via-secondary to-cyan-400 blur-[2px] transition-opacity",
                         isSelected ? "opacity-100" : "opacity-60"
                       )} />
                       <Button
@@ -383,8 +383,8 @@ export function ProductsClient() {
                         className={cn(
                           "relative rounded-full font-semibold",
                           isSelected
-                            ? "bg-gradient-to-r from-violet-600 to-primary text-white  border-0 hover:from-violet-500 hover:to-primary/90"
-                            : "bg-background hover:bg-gradient-to-r hover:from-violet-600 hover:to-primary hover:text-white hover:border-0"
+                            ? "bg-gradient-brand text-white border-0 hover:brightness-110"
+                            : "bg-background hover:bg-gradient-brand hover:text-white hover:border-0"
                         )}
                         onClick={() => setSelectedCategory(category)}
                         size="sm"

@@ -31,7 +31,7 @@ function PopoverContent({
         className={cn(
           `
             z-[9999] w-72 origin-(--radix-popover-content-transform-origin)
-            rounded-xl border border-border bg-popover p-4
+            rounded-lg border border-border bg-popover p-4
             text-popover-foreground shadow-soft-lg outline-hidden
             pointer-events-auto
             data-[side=bottom]:slide-in-from-top-2

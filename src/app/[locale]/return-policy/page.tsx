@@ -100,7 +100,7 @@ const returnPolicyFeatures = [
     descriptionEn: "After successful activation"
   },
   {
-    icon: <MessageCircle className="h-8 w-8 text-purple-500" />,
+    icon: <MessageCircle className="h-8 w-8 text-primary" />,
     title: "Hỗ Trợ 24/7",
     titleEn: "24/7 Support",
     description: "Xử lý mọi vấn đề nhanh chóng",

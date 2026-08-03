@@ -111,7 +111,7 @@ function AboutPageClient({ locale }: { locale: string }) {
       description: t("values.customerFirst.description"),
     },
     {
-      icon: <Globe className="h-8 w-8 text-purple-500" />,
+      icon: <Globe className="h-8 w-8 text-primary" />,
       title: t("values.sustainability.title"),
       description: t("values.sustainability.description"),
     },
@@ -215,7 +215,7 @@ function AboutPageClient({ locale }: { locale: string }) {
                   </p>
                 </Card>
                 <Card className="text-center p-6">
-                  <Users className="h-8 w-8 text-purple-500 mx-auto mb-4" />
+                  <Users className="h-8 w-8 text-primary mx-auto mb-4" />
                   <h3 className="font-semibold mb-2">{t("mission.cards.support.title")}</h3>
                   <p className="text-sm text-muted-foreground">
                     {t("mission.cards.support.description")}

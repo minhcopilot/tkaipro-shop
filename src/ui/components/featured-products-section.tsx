@@ -6,7 +6,6 @@ import * as React from "react";
 import { toast } from "sonner";
 import { useTranslations } from "next-intl";
 
-import { cn } from "~/lib/cn";
 import { useCart } from "~/lib/hooks/use-cart";
 import { ProductCard } from "./product-card";
 import { Button } from "~/ui/primitives/button";
@@ -82,24 +81,16 @@ export function FeaturedProductsSection({ products }: FeaturedProductsSectionPro
           </p>
         </div>
 
-        {/* Bento-ish product grid for Google / Antigravity SKUs */}
-        <div className="grid auto-rows-fr grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-4 lg:gap-5">
-          {products.map((product, index) => (
-            <div
+        {/* Equal 2×2 product grid — same card size for all SKUs */}
+        <div className="grid auto-rows-fr grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-2 lg:gap-5">
+          {products.map((product) => (
+            <ProductCard
               key={product.id}
-              className={cn(
-                "min-h-0",
-                index === 0 && "sm:col-span-2 lg:col-span-2 lg:row-span-2",
-                index === 1 && "lg:col-span-2",
-              )}
-            >
-              <ProductCard
-                className="h-full"
-                product={product}
-                onAddToCart={handleAddToCart}
-                onAddToWishlist={handleAddToWishlist}
-              />
-            </div>
+              className="h-full"
+              product={product}
+              onAddToCart={handleAddToCart}
+              onAddToWishlist={handleAddToWishlist}
+            />
           ))}
         </div>
 

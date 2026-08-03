@@ -16,7 +16,7 @@ export const SEO_CONFIG = {
   slogan: "", // Managed by i18n
   keywords: "", // Managed by i18n
   url: SITE_URL,
-  image: "/logo.png",
+  image: "/logo-v2.png",
   ogImage: "/api/og", // dynamic OG image generation
   downloadUrl: "https://gemini.google.com/",
   // Independent disclaimer rendered prominently on landing surfaces.

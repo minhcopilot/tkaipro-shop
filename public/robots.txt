@@ -1,6 +1,5 @@
 # robots.txt for TKAIPro
 # https://tkaipro.shop
-# Note: nginx temporarily forces Disallow: / via X-Robots-Tag until launch.
 
 User-agent: *
 Allow: /

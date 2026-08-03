@@ -22,7 +22,7 @@ export function StructuredData({ type, data }: StructuredDataProps) {
           "@type": "Organization",
           "name": SEO_CONFIG.name,
           "url": SEO_CONFIG.url,
-          "logo": `${SEO_CONFIG.url}/logo.png`,
+          "logo": `${SEO_CONFIG.url}/logo-v2.png`,
           "description": SEO_CONFIG.description,
           ...(SOCIAL_PROFILES.length > 0 ? { "sameAs": SOCIAL_PROFILES } : {}),
           "contactPoint": {

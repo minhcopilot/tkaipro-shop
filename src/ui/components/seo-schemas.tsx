@@ -21,8 +21,8 @@ export function LocalBusinessSchema() {
     "alternateName": [SEO_CONFIG.fullName],
     "url": SEO_CONFIG.url,
     ...(SEO_CONFIG.supportContacts.email ? { "email": SEO_CONFIG.supportContacts.email } : {}),
-    "image": `${SEO_CONFIG.url}/logo.png`,
-    "logo": `${SEO_CONFIG.url}/logo.png`,
+    "image": `${SEO_CONFIG.url}/logo-v2.png`,
+    "logo": `${SEO_CONFIG.url}/logo-v2.png`,
     "priceRange": "₫₫",
     "currenciesAccepted": "VND",
     "paymentAccepted": "Bank Transfer, MoMo, ZaloPay, VietQR",
@@ -158,7 +158,7 @@ export function VideoSchema({
       "name": SEO_CONFIG.name,
       "logo": {
         "@type": "ImageObject",
-        "url": `${SEO_CONFIG.url}/logo.png`
+        "url": `${SEO_CONFIG.url}/logo-v2.png`
       }
     }
   };
@@ -202,7 +202,7 @@ export function ArticleSchema({
     "@type": "Article",
     "headline": headline,
     "description": description,
-    "image": image || `${SEO_CONFIG.url}/logo.png`,
+    "image": image || `${SEO_CONFIG.url}/logo-v2.png`,
     "datePublished": datePublished,
     "dateModified": dateModified || datePublished,
     "author": {
@@ -215,7 +215,7 @@ export function ArticleSchema({
       "name": SEO_CONFIG.name,
       "logo": {
         "@type": "ImageObject",
-        "url": `${SEO_CONFIG.url}/logo.png`
+        "url": `${SEO_CONFIG.url}/logo-v2.png`
       }
     },
     "mainEntityOfPage": {

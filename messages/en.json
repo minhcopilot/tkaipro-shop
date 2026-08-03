@@ -1,13 +1,13 @@
 {
   "IntroPage": {
     "seo": {
-      "title": "About TKAIPro — Google AI Reseller",
-      "description": "Learn who TKAIPro is: an independent reseller of Google AI accounts. Ready stock, email delivery, clear warranty. Not affiliated with Google LLC",
-      "keywords": "TKAIPro, Google AI, buy Google AI account, Google AI reseller, about TKAIPro, Google AI shop"
+      "title": "About TKAIPro — Buy Google AI Pro, Ultra & Antigravity",
+      "description": "TKAIPro (tkaipro.shop) is an independent reseller for Google AI Pro, Google Ultra, and Antigravity PRO/ULTRA accounts. Email delivery, clear warranty. Not affiliated with Google LLC.",
+      "keywords": "TKAIPro, tkaipro.shop, buy Google AI account, Google PRO, Google ULTRA, Antigravity PRO, Antigravity ULTRA, Google AI reseller"
     },
     "hero": {
       "title": "Who Is TKAIPro?",
-      "subtitle": "Independent reseller of Google AI accounts for students and design teams. Buy a Google AI account with ready stock and email delivery — not affiliated with Google LLC",
+      "subtitle": "Independent reseller at tkaipro.shop — buy Google AI Pro, Ultra, and Antigravity PRO/ULTRA accounts with ready stock and email delivery. Not affiliated with Google LLC.",
       "ctaConfig": "How It Works",
       "ctaBuy": "Buy Now",
       "badge": "Google AI",
@@ -19,7 +19,7 @@
     },
     "about": {
       "title": "About tkaipro.shop",
-      "description": "TKAIPro is an independent third-party reseller of Google AI accounts. We are not affiliated with Google LLC Our mission is to make Google AI access more affordable through stocked accounts delivered by email after payment.",
+      "description": "TKAIPro is an independent third-party reseller at tkaipro.shop for Google AI Pro, Google Ultra, and Antigravity PRO/ULTRA accounts. We are not affiliated with Google LLC. Our mission is clearer local checkout and email delivery after payment.",
       "features": {
         "price": "Competitive market price",
         "support": "24/7 Support",
@@ -656,11 +656,11 @@
     "english": "English"
   },
   "HomePage": {
-    "heroTitle": "<highlight>Buy Google AI Account</highlight> — <highlight>Google AI</highlight> Plans",
-    "heroDescription": "TKAIPro is an independent reseller of Google AI accounts. Ready stock, auto delivery by email after payment, clear warranty terms, and 24/7 support. Not affiliated with Google LLC",
+    "heroTitle": "Buy <highlight>Google AI</highlight> — Pro, Ultra & <highlight>Antigravity</highlight>",
+    "heroDescription": "TKAIPro (tkaipro.shop) is an independent reseller: buy Google AI Pro, Google Ultra, and Antigravity PRO/ULTRA accounts. Ready stock, email delivery after payment, clear warranty, 24/7 support. Not affiliated with Google LLC.",
     "ctaRegister": "View Plans",
-    "ctaPricing": "📊 View Pricing",
-    "disclaimer": "TKAIPro is an independent reseller. Not affiliated with, endorsed by, or sponsored by Google LLC. \"Google\" and \"Google AI\" are trademarks of Google LLC We sell Google AI accounts from our stock for students and design teams.",
+    "ctaPricing": "View Pricing",
+    "disclaimer": "TKAIPro is an independent third-party reseller. Not affiliated with, endorsed by, or sponsored by Google LLC. \"Google\", \"Google AI\", \"Gemini\", and related plan names are trademarks of Google LLC. We resell legitimately acquired accounts/subscriptions as described on each product page.",
     "badges": {
       "warranty": "1-to-1 Warranty",
       "support": "24/7 Support"
@@ -676,8 +676,8 @@
       "subtitle": "Only <bold>3 days</bold> left for this special offer"
     },
     "liveDemo": "🔴 Live Demo",
-    "featuresTitle": "Why design students choose TKAIPro?",
-    "featuresDescription": "Independent Google AI reseller trusted by 5,000+ buyers. Fair pricing, fast email delivery, 1-to-1 warranty.",
+    "featuresTitle": "Why buy Google AI accounts at TKAIPro?",
+    "featuresDescription": "Independent reseller at tkaipro.shop for Google AI Pro, Ultra, and Antigravity PRO/ULTRA. Fair pricing, fast email delivery, 1-to-1 warranty.",
     "features": {
       "transparentConsulting": {
         "title": "Clear Guidance",
@@ -714,7 +714,7 @@
     },
     "finalCta": {
       "title": "Ready to buy a Google AI account?",
-      "description": "Join 5,000+ buyers who chose TKAIPro. Browse Google AI plans and get login details by email.",
+      "description": "Browse Google AI Pro, Ultra, and Antigravity plans at TKAIPro (tkaipro.shop) — independent reseller, not affiliated with Google LLC.",
       "register": "View Plans",
       "viewPackages": "View Pricing"
     }
@@ -777,13 +777,13 @@
     }
   },
   "FeaturedProducts": {
-    "title": "Google AI Plans",
-    "subtitle": "Buy Google AI account stock — save more — 1-to-1 warranty",
+    "title": "Google AI Pro, Ultra & Antigravity",
+    "subtitle": "Buy Google AI Pro, Ultra, Antigravity PRO/ULTRA — 1-to-1 warranty",
     "cta": "View All Plans",
     "toast": "{name} has been added to cart"
   },
   "Footer": {
-    "description": "TKAIPro — independent reseller of Google AI accounts. Not affiliated with Google LLC 1-to-1 warranty, 24/7 support.",
+    "description": "TKAIPro (tkaipro.shop) — independent reseller for Google AI Pro, Ultra & Antigravity. Not affiliated with Google LLC. 1-to-1 warranty, 24/7 support.",
     "columns": {
       "products": "Products",
       "company": "Company",
@@ -829,10 +829,10 @@
     }
   },
   "SEO": {
-    "defaultDescription": "Buy a Google AI account from TKAIPro — an independent reseller. Stock ready, auto email delivery after payment, clear warranty, 24/7 help. Not affiliated with Google LLC",
-    "defaultTitle": "Buy Google AI Account — Google AI Plans | TKAIPro",
+    "defaultDescription": "Buy Google AI accounts at TKAIPro (tkaipro.shop): Google PRO, Google ULTRA, Antigravity PRO/ULTRA. Independent reseller — email delivery, clear warranty, 24/7 support. Not affiliated with Google LLC.",
+    "defaultTitle": "Buy Google AI Pro, Ultra & Antigravity Accounts | TKAIPro",
     "slogan": "Buy Google AI accounts — independent reseller",
-    "keywords": "buy Google AI account, Google AI, Google AI, buy Google AI account, TKAIPro, Google AI shop, Google AI reseller"
+    "keywords": "buy Google AI account, Google PRO, Google ULTRA, Antigravity PRO, Antigravity ULTRA, Google AI Pro, Google AI Ultra, TKAIPro, tkaipro.shop"
   },
   "CompetitorComparison": {
     "title": "Compare Design Tools",
@@ -1248,9 +1248,9 @@
   },
   "ProductsPage": {
     "seo": {
-      "title": "Google AI Accounts — Plans for Sale | TKAIPro",
-      "description": "Browse Google AI plans at TKAIPro. Buy a Google AI account from ready stock — email delivery, warranty, VietQR & e-wallet checkout. Not affiliated with Google LLC",
-      "keywords": "Google AI, Google AI account, buy Google AI account, Google AI plans, TKAIPro products, Google AI shop"
+      "title": "Buy Google AI Pro, Ultra & Antigravity | TKAIPro",
+      "description": "Browse Google AI plans at tkaipro.shop: Google PRO, Google ULTRA, Antigravity PRO/ULTRA. Independent reseller — email delivery, warranty, VietQR & e-wallet checkout. Not affiliated with Google LLC.",
+      "keywords": "buy Google AI account, Google PRO, Google ULTRA, Antigravity PRO, Antigravity ULTRA, TKAIPro, tkaipro.shop"
     },
     "breadcrumb": {
       "home": "Home",
@@ -1260,8 +1260,8 @@
       "home": "Home",
       "products": "Buy Google AI"
     },
-    "title": "Google AI Accounts",
-    "subtitle": "Buy Google AI account (Education) — save more — 1-to-1 warranty — email delivery in minutes",
+    "title": "Google AI Pro, Ultra & Antigravity Accounts",
+    "subtitle": "Buy Google AI Pro, Google Ultra, Antigravity PRO/ULTRA at tkaipro.shop — 1-to-1 warranty — email delivery in minutes",
     "allCategories": "All",
     "newBadge": "New",
     "filterTitle": "Filter by {name}",
@@ -1481,8 +1481,8 @@
   "ContactPage": {
     "seo": {
       "title": "Contact — Buy Google AI Account | TKAIPro",
-      "description": "Contact TKAIPro to buy a Google AI account. 24/7 support via Telegram and Facebook. Independent reseller — not affiliated with Google LLC",
-      "keywords": "contact TKAIPro, buy Google AI account support, Google AI help, Google AI reseller contact"
+      "description": "Contact TKAIPro (tkaipro.shop) to buy Google AI Pro, Ultra, or Antigravity PRO/ULTRA. 24/7 support via Telegram and Facebook. Independent reseller — not affiliated with Google LLC.",
+      "keywords": "contact TKAIPro, buy Google AI account, Google PRO, Google ULTRA, Antigravity PRO, tkaipro.shop"
     },
     "hero": {
       "badge": "We are always ready to help",

@@ -1,13 +1,13 @@
 {
   "IntroPage": {
     "seo": {
-      "title": "Về TKAIPro — nhà bán lẻ tài khoản Google AI",
-      "description": "TKAIPro là nhà bán lẻ độc lập tài khoản Google AI. Tìm hiểu sứ mệnh, quy trình giao login qua email và cam kết hỗ trợ khi mua tài khoản Google AI.",
-      "keywords": "TKAIPro, Google AI, mua tài khoản Google AI, Google AI, nhà bán lẻ Google AI, tkaipro.shop, về TKAIPro"
+      "title": "Về TKAIPro — mua tài khoản Google AI Pro, Ultra & Antigravity",
+      "description": "TKAIPro (tkaipro.shop) là nhà bán lẻ độc lập: mua tài khoản Google AI Pro, Google Ultra, Antigravity PRO/ULTRA. Giao login qua email, bảo hành rõ ràng. Không liên kết với Google LLC.",
+      "keywords": "TKAIPro, tkaipro.shop, mua tài khoản Google AI, Google PRO, Google ULTRA, Antigravity PRO, Antigravity ULTRA, nhà bán lẻ Google AI"
     },
     "hero": {
       "title": "TKAIPro là ai",
-      "subtitle": "Nhà bán lẻ độc lập tài khoản Google AI — giá hợp lý cho người dùng AI và người dùng Gemini. Mua tài khoản Google AI, thanh toán nội địa, nhận login qua email.",
+      "subtitle": "Nhà bán lẻ độc lập tại tkaipro.shop — mua tài khoản Google AI Pro, Ultra và Antigravity PRO/ULTRA. Thanh toán nội địa, nhận login qua email.",
       "ctaConfig": "Xem bảng giá",
       "ctaBuy": "Mua Google AI",
       "badge": "Giá hợp lý",
@@ -19,7 +19,7 @@
     },
     "about": {
       "title": "Về tkaipro.shop",
-      "description": "TKAIPro là nhà bán lẻ độc lập (third-party reseller) tài khoản Google AI. Chúng tôi không liên kết với Google LLC Sứ mệnh của chúng tôi là giúp sinh viên và nhóm đồ án tiếp cận Google AI dễ dàng hơn qua thanh toán nội địa và hỗ trợ tiếng Việt.",
+      "description": "TKAIPro là nhà bán lẻ độc lập (third-party reseller) tại tkaipro.shop — chuyên mua tài khoản Google AI Pro, Google Ultra và Antigravity PRO/ULTRA. Chúng tôi không liên kết với Google LLC. Sứ mệnh: giúp người dùng AI tiếp cận gói Pro/Ultra dễ hơn qua thanh toán nội địa và hỗ trợ tiếng Việt.",
       "features": {
         "price": "Giá tốt trên thị trường",
         "support": "Hỗ trợ kỹ thuật 24/7",
@@ -656,11 +656,11 @@
     "english": "English"
   },
   "HomePage": {
-    "heroTitle": "Mua tài khoản <highlight>Google AI</highlight> — <highlight>Google AI</highlight> giá tốt, giao nhanh",
-    "heroDescription": "TKAIPro là nhà bán lẻ độc lập tài khoản Google AI. Thanh toán → nhận login qua email trong vài phút. Bảo hành 1 đổi 1, hỗ trợ 24/7. Không liên kết với Google LLC",
+    "heroTitle": "Mua tài khoản <highlight>Google AI</highlight> — Pro, Ultra & <highlight>Antigravity</highlight>",
+    "heroDescription": "TKAIPro (tkaipro.shop) là nhà bán lẻ độc lập: mua tài khoản Google AI Pro, Google Ultra, Antigravity PRO/ULTRA. Thanh toán → nhận login qua email. Bảo hành 1 đổi 1, hỗ trợ 24/7. Không liên kết với Google LLC.",
     "ctaRegister": "Xem Bảng Giá",
-    "ctaPricing": "📊 Xem Bảng Giá",
-    "disclaimer": "TKAIPro là nhà bán lẻ độc lập. Chúng tôi KHÔNG đại diện, không thuộc sở hữu của, không được tài trợ hay xác nhận bởi Google LLC. \"Google\" và \"Google AI\" là nhãn hiệu của Google LLC. Chúng tôi phân phối lại các gói subscription đã mua hợp pháp cho người dùng AI và nhóm đồ án.",
+    "ctaPricing": "Xem Bảng Giá",
+    "disclaimer": "TKAIPro là nhà bán lẻ độc lập (third-party reseller). Chúng tôi KHÔNG đại diện, không thuộc sở hữu của, không được tài trợ hay xác nhận bởi Google LLC. \"Google\", \"Google AI\", \"Gemini\" và các tên gói liên quan là nhãn hiệu của Google LLC. Chúng tôi bán lại tài khoản/subscription đã mua hợp pháp theo mô tả trên từng sản phẩm.",
     "badges": {
       "warranty": "Bảo hành 1 đổi 1",
       "support": "Hỗ trợ 24/7"
@@ -685,7 +685,7 @@
     },
     "liveDemo": "🔴 Live Demo",
     "featuresTitle": "Tại sao chọn TKAIPro để mua tài khoản Google AI?",
-    "featuresDescription": "Nhà bán lẻ độc lập phục vụ hàng nghìn người dùng AI & người dùng Gemini. Giá cạnh tranh, giao hàng nhanh, bảo hành 1 đổi 1.",
+    "featuresDescription": "Nhà bán lẻ độc lập tại tkaipro.shop — Google AI Pro, Ultra và Antigravity PRO/ULTRA. Giá cạnh tranh, giao email nhanh, bảo hành 1 đổi 1.",
     "features": {
       "transparentConsulting": {
         "title": "Tư Vấn Minh Bạch",
@@ -722,7 +722,7 @@
     },
     "finalCta": {
       "title": "Sẵn sàng mua tài khoản Google AI?",
-      "description": "Tham gia cùng hàng nghìn người dùng AI đã chọn TKAIPro. Xem bảng giá tài khoản Google AI ngay.",
+      "description": "Xem bảng giá Google AI Pro, Ultra và Antigravity tại TKAIPro (tkaipro.shop) — nhà bán lẻ độc lập, không liên kết với Google LLC.",
       "register": "Xem Bảng Giá",
       "viewPackages": "Xem Bảng Giá"
     }
@@ -776,13 +776,13 @@
     }
   },
   "FeaturedProducts": {
-    "title": "Các gói tài khoản Google AI",
-    "subtitle": "Mua tài khoản Google AI — tiết kiệm chi phí — bảo hành 1 đổi 1",
+    "title": "Google AI Pro, Ultra & Antigravity",
+    "subtitle": "Mua tài khoản Google AI Pro, Ultra, Antigravity PRO/ULTRA — bảo hành 1 đổi 1",
     "cta": "Xem tất cả các gói",
     "toast": "{name} đã được thêm vào giỏ hàng"
   },
   "Footer": {
-    "description": "TKAIPro — nhà bán lẻ độc lập tài khoản Google AI. Không liên kết với Google LLC Bảo hành 1 đổi 1, hỗ trợ 24/7.",
+    "description": "TKAIPro (tkaipro.shop) — nhà bán lẻ độc lập: mua tài khoản Google AI Pro, Ultra & Antigravity. Không liên kết với Google LLC. Bảo hành 1 đổi 1, hỗ trợ 24/7.",
     "columns": {
       "products": "Sản Phẩm",
       "company": "Công Ty",
@@ -828,10 +828,10 @@
     }
   },
   "SEO": {
-    "defaultDescription": "TKAIPro là nhà bán lẻ độc lập (third-party reseller) tài khoản Google AI. Mua tài khoản Google AI giá tốt, giao login qua email sau thanh toán, bảo hành 1 đổi 1, hỗ trợ 24/7. Không liên kết với Google LLC",
-    "defaultTitle": "Mua tài khoản Google AI giá tốt | TKAIPro",
-    "slogan": "Nhà bán lẻ tài khoản Google AI",
-    "keywords": "mua tài khoản Google AI, Google AI, Google AI, tài khoản Google AI, mua Google AI, TKAIPro, tkaipro.shop, tài khoản Google AI giá tốt"
+    "defaultDescription": "Mua tài khoản Google AI tại TKAIPro (tkaipro.shop): Google PRO, Google ULTRA, Antigravity PRO/ULTRA. Nhà bán lẻ độc lập — giao login qua email, bảo hành 1 đổi 1, hỗ trợ 24/7. Không liên kết với Google LLC.",
+    "defaultTitle": "Mua tài khoản Google AI Pro, Ultra & Antigravity | TKAIPro",
+    "slogan": "Mua tài khoản Google AI — nhà bán lẻ độc lập",
+    "keywords": "mua tài khoản Google AI, Google PRO, Google ULTRA, Antigravity PRO, Antigravity ULTRA, tài khoản Google AI, TKAIPro, tkaipro.shop, Google AI Pro, Google AI Ultra"
   },
   "CompetitorComparison": {
     "title": "So Sánh Google AI Với Công Cụ Khác",
@@ -1251,8 +1251,8 @@
       "home": "Trang Chủ",
       "products": "Tài khoản Google AI"
     },
-    "title": "Tài khoản Google AI",
-    "subtitle": "Mua tài khoản Google AI - Tiết kiệm chi phí - Bảo hành 1 đổi 1 - Giao email ~5 phút",
+    "title": "Tài khoản Google AI Pro, Ultra & Antigravity",
+    "subtitle": "Mua tài khoản Google AI Pro, Google Ultra, Antigravity PRO/ULTRA tại tkaipro.shop — bảo hành 1 đổi 1 — giao email nhanh",
     "allCategories": "Tất Cả",
     "newBadge": "New",
     "filterTitle": "Lọc theo {name}",
@@ -1287,9 +1287,9 @@
       "clear": "Xóa bộ lọc"
     },
     "seo": {
-      "title": "Tài khoản Google AI — các gói đang bán",
-      "description": "Danh sách gói tài khoản Google AI đang bán tại TKAIPro. Mua tài khoản Google AI giá tốt, giao login qua email, bảo hành 1 đổi 1.",
-      "keywords": "tài khoản Google AI, mua tài khoản Google AI, Google AI, gói Google AI, bảng giá Google AI, TKAIPro"
+      "title": "Mua tài khoản Google AI Pro, Ultra & Antigravity | TKAIPro",
+      "description": "Bảng giá mua tài khoản Google AI tại tkaipro.shop: Google PRO, Google ULTRA, Antigravity PRO/ULTRA. Nhà bán lẻ độc lập — giao login qua email, bảo hành 1 đổi 1.",
+      "keywords": "mua tài khoản Google AI, Google PRO, Google ULTRA, Antigravity PRO, Antigravity ULTRA, bảng giá Google AI, TKAIPro, tkaipro.shop"
     },
     "breadcrumb": {
       "home": "Trang Chủ",
@@ -1480,9 +1480,9 @@
   },
   "ContactPage": {
     "seo": {
-      "title": "Liên hệ mua tài khoản Google AI — hỗ trợ 24/7",
-      "description": "Liên hệ TKAIPro để mua tài khoản Google AI. Hỗ trợ 24/7 qua Telegram, Facebook. Tư vấn mua tài khoản Google AI nhanh chóng.",
-      "keywords": "liên hệ TKAIPro, mua tài khoản Google AI, hỗ trợ Google AI, Google AI Việt Nam, tkaipro.shop"
+      "title": "Liên hệ mua tài khoản Google AI — TKAIPro hỗ trợ 24/7",
+      "description": "Liên hệ TKAIPro (tkaipro.shop) để mua tài khoản Google AI Pro, Ultra hoặc Antigravity PRO/ULTRA. Hỗ trợ 24/7 qua Telegram, Facebook. Nhà bán lẻ độc lập.",
+      "keywords": "liên hệ TKAIPro, mua tài khoản Google AI, Google PRO, Google ULTRA, Antigravity PRO, tkaipro.shop"
     },
     "hero": {
       "badge": "Chúng tôi luôn sẵn sàng hỗ trợ bạn",

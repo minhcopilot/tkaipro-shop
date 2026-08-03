@@ -516,12 +516,12 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
       />
       <VideoSchema
         name="Hướng dẫn dùng Google AI"
-        description="Video hướng dẫn làm quen Google AI — thiết kế UI collaboratively. TKAIPro là nhà bán lẻ độc lập, không liên kết với Google LLC"
-        thumbnailUrl="https://img.youtube.com/vi/4aWPJGsTveU/maxresdefault.jpg"
+        description="Video hướng dẫn Google AI / Antigravity. TKAIPro (tkaipro.shop) là nhà bán lẻ độc lập, không liên kết với Google LLC."
+        thumbnailUrl="https://img.youtube.com/vi/eltfkitJsTc/maxresdefault.jpg"
         uploadDate="2024-01-15"
         duration="PT10M"
-        embedUrl="https://www.youtube.com/embed/4aWPJGsTveU"
-        contentUrl="https://www.youtube.com/watch?v=4aWPJGsTveU"
+        embedUrl="https://www.youtube.com/embed/eltfkitJsTc"
+        contentUrl="https://www.youtube.com/watch?v=eltfkitJsTc"
       />
       <main className="flex min-h-screen flex-col gap-y-20 bg-background">
         {/* Hero — brand + headline + CTA + video only in first viewport */}
@@ -576,7 +576,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
               <div className="animate-fade-in-up-delayed relative mx-auto w-full max-w-2xl overflow-hidden rounded-2xl border border-border bg-card shadow-soft-lg lg:block">
                 <div className="relative aspect-video">
                   <LazyYouTube
-                    videoId="4aWPJGsTveU"
+                    videoId="eltfkitJsTc"
                     title="Demo: Google AI preview"
                     priority
                   />

@@ -38,7 +38,7 @@ function ResetPasswordForm() {
                   alt={SEO_CONFIG.name}
                   className="h-full w-full object-contain"
                   height={48}
-                  src="/logo.png"
+                  src="/logo-v2.png"
                   width={48}
                 />
               </div>
@@ -136,7 +136,7 @@ function ResetPasswordForm() {
                 alt={SEO_CONFIG.name}
                 className="h-full w-full object-contain"
                 height={48}
-                src="/logo.png"
+                src="/logo-v2.png"
                 width={48}
               />
             </div>

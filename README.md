@@ -38,6 +38,5 @@ bash /app/tkaipro-shop/scripts/deploy.sh
 
 ## Notes
 
-- Temporary nginx `X-Robots-Tag: noindex` until content is approved.
 - Add Google OAuth redirect: `https://tkaipro.shop/api/auth/callback/google`
 - Add SePay webhook: `https://tkaipro.shop/api/webhooks/sepay`

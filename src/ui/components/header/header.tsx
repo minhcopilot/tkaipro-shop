@@ -93,7 +93,7 @@ export function Header({ showAuth = true }: HeaderProps) {
                 className="h-8 w-8 shrink-0 rounded-md"
                 height={32}
                 priority
-                src="/tkaipro-icon.png"
+                src="/tkaipro-mark-v2.png"
                 width={32}
               />
               <span className="font-display text-xl font-bold tracking-tight text-foreground">

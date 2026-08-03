@@ -1,0 +1,2731 @@
+{
+  "IntroPage": {
+    "seo": {
+      "title": "关于 FigmaEdu — Figma Education 账号分销商",
+      "description": "FigmaEdu 是 Figma Education 账号的独立分销商。了解我们的使命、邮件交付登录信息的流程以及购买 Figma edu 账号时的服务承诺。",
+      "keywords": "FigmaEdu, Figma Education, 购买 Figma 账号, Figma edu, Figma 分销商, figmaedu.shop, 关于 FigmaEdu"
+    },
+    "hero": {
+      "title": "关于 FigmaEdu",
+      "subtitle": "Figma Education 账号独立分销商 — 为设计系学生和 UI 自由职业者提供实惠价格。购买 Figma edu 账号，支持本地支付，邮件接收登录信息。",
+      "ctaConfig": "查看价格表",
+      "ctaBuy": "购买 Figma Edu",
+      "badge": "价格实惠",
+      "trustBadges": {
+        "authentic": "信誉分销商",
+        "fast": "约5分钟邮件交付",
+        "warranty": "1对1质保"
+      }
+    },
+    "about": {
+      "title": "关于 figmaedu.shop",
+      "description": "FigmaEdu 是 Figma Education 账号的第三方独立分销商（third-party reseller）。我们与 Figma, Inc. 无直接关联。我们的使命是帮助学生和项目团队通过本地支付和便捷支持更轻松地使用 Figma edu。",
+      "features": {
+        "price": "市场优选价格",
+        "support": "24/7 技术支持",
+        "warranty": "店铺原因1对1质保"
+      },
+      "sectionLabel": "关于我们"
+    },
+    "whyChoose": {
+      "title": "为什么选择我们？",
+      "items": {
+        "authentic": {
+          "title": "透明正规分销",
+          "description": "订阅（Subscription）均通过正规合法渠道购买并完成验证支付。无破解，无欺诈。"
+        },
+        "fast": {
+          "title": "快速交付",
+          "description": "支付后 5–10 分钟内即可通过电子邮件接收登录信息。高度自动化流程。"
+        },
+        "cheap": {
+          "title": "性价比极佳",
+          "description": "相比直接订阅大幅节省成本。为学生和 UI 自由职业者提供多种灵活套餐。"
+        },
+        "privacy": {
+          "title": "严格隐私保护",
+          "description": "所有客户信息均经加密与安全保护。绝不向第三方共享。"
+        },
+        "support": {
+          "title": "贴心售后支持",
+          "description": "经验丰富的团队随时为您提供 Figma 登录指导及 24/7 故障排除服务。"
+        }
+      },
+      "sectionLabel": "为什么选择我们"
+    },
+    "products": {
+      "title": "热销套餐",
+      "trial": {
+        "name": "Figma Edu 短期体验版",
+        "description": "体验短期 Figma Education，适合新手入门。",
+        "label": "体验版"
+      },
+      "shared": {
+        "name": "热门学习套餐",
+        "description": "极致超值。非常适合学生及基础课程项目需求。",
+        "label": "超值版",
+        "badge": "🔥 最受欢迎"
+      },
+      "private": {
+        "name": "长期 / 个人独立套餐",
+        "description": "长期稳定。拥有完整 edu 权限，满足 UI 自由职业者与深度学习需求。",
+        "label": "Premium"
+      },
+      "sectionLabel": "产品服务"
+    },
+    "payment": {
+      "title": "支付方式",
+      "subtitle": "灵活多样，安全便捷",
+      "methods": {
+        "bank": "银行转账 (VietQR)",
+        "crypto": "Binance Pay (加密货币)",
+        "momo": "MoMo 电子钱包"
+      },
+      "support": "通过 Hotline/Zalo 提供 24/7 交易处理支持",
+      "sectionLabel": "支付方式"
+    },
+    "contact": {
+      "title": "联系客服",
+      "website": "Website: https://figmaedu.shop",
+      "telegram": "Telegram: FigmaEdu 客服",
+      "fanpage": "Fanpage: FigmaEdu",
+      "cta": "需要紧急协助？立即与我们在线咨询！"
+    },
+    "commitment": {
+      "title": "我们的承诺",
+      "items": {
+        "1": "账号信息 100% 真实相符",
+        "2": "若属店家问题照政策免费更换",
+        "3": "坚决杜绝破解与盗号行为",
+        "4": "每笔交易均公开透明"
+      },
+      "sectionLabel": "服务承诺"
+    },
+    "ctaSection": {
+      "title": "立即购买 Figma Education 账号",
+      "subtitle": "别让预算阻碍您的设计项目。通过 FigmaEdu 以极具竞争力的价格获取 Figma edu，登录信息直接发送至邮箱。",
+      "buyNow": "查看价格表",
+      "contact": "联系咨询"
+    }
+  },
+  "DashboardProfile": {
+    "title": "个人资料",
+    "description": "管理您的账号信息",
+    "avatar": {
+      "title": "头像",
+      "change": "更换",
+      "remove": "删除",
+      "uploading": "正在上传...",
+      "success": "头像更新成功",
+      "error": "头像更新失败"
+    },
+    "form": {
+      "name": "姓名",
+      "email": "电子邮箱",
+      "save": "保存更改",
+      "saving": "正在保存...",
+      "success": "信息更新成功",
+      "error": "信息更新失败"
+    }
+  },
+  "DashboardSettings": {
+    "title": "设置",
+    "description": "管理您的账号设置与偏好",
+    "tabs": {
+      "profile": "个人资料",
+      "security": "账号安全"
+    },
+    "profile": {
+      "title": "个人信息",
+      "name": "姓名",
+      "namePlaceholder": "请输入您的姓名",
+      "email": "电子邮箱",
+      "emailPlaceholder": "请输入您的电子邮箱",
+      "save": "保存更改",
+      "saving": "正在保存...",
+      "success": "信息更新成功",
+      "error": "信息更新失败"
+    },
+    "security": {
+      "title": "安全设置",
+      "currentPassword": "当前密码",
+      "currentPasswordPlaceholder": "请输入当前密码",
+      "newPassword": "新密码",
+      "newPasswordPlaceholder": "请输入新密码",
+      "confirmPassword": "确认新密码",
+      "confirmPasswordPlaceholder": "请再次输入新密码",
+      "update": "更新密码",
+      "updating": "正在更新...",
+      "success": "密码修改成功",
+      "error": "密码修改失败",
+      "errorMatch": "两次输入的密码不一致",
+      "errorLength": "新密码长度至少需要 8 个字符"
+    }
+  },
+  "RecentPurchases": {
+    "title": "最新购买",
+    "justBought": "刚刚购买了",
+    "recently": "最近",
+    "ago": "前",
+    "hours": "小时",
+    "hour": "小时",
+    "minutes": "分钟",
+    "minute": "分钟",
+    "days": "天",
+    "day": "天",
+    "seconds": "秒"
+  },
+  "DashboardOrders": {
+    "title": "我的订单",
+    "subtitle": "查看并追踪您的订单状态",
+    "refresh": "刷新",
+    "loginRequired": "请先登录",
+    "loginDescription": "您需要登录后才能查看订单。",
+    "errorTitle": "加载数据失败",
+    "errorDescription": "无法加载订单列表，请稍后再试。",
+    "stats": {
+      "totalOrders": "订单总量",
+      "paidOrders": "已支付",
+      "pendingPayment": "待支付",
+      "totalSpent": "消费总额"
+    },
+    "filters": {
+      "statusPlaceholder": "订单状态",
+      "paymentPlaceholder": "支付状态",
+      "allStatus": "全部状态",
+      "allPayment": "全部支付状态"
+    },
+    "status": {
+      "pending": "待处理",
+      "processing": "处理中",
+      "completed": "已完成",
+      "cancelled": "已取消"
+    },
+    "paymentStatus": {
+      "pending": "待支付",
+      "paid": "已支付",
+      "failed": "支付失败"
+    },
+    "table": {
+      "orderNumber": "订单号",
+      "products": "商品",
+      "otherProducts": "+{count} 件其他商品",
+      "total": "总金额",
+      "status": "状态",
+      "payment": "支付",
+      "date": "下单日期",
+      "actions": "操作",
+      "viewDetails": "查看详情",
+      "payNow": "立即支付"
+    },
+    "pagination": "第 {current}/{total} 页",
+    "empty": {
+      "title": "暂无订单",
+      "description": "您还没有任何订单，立即开始选购吧！",
+      "cta": "浏览商品"
+    },
+    "toast": {
+      "loadError": "加载订单数据失败",
+      "connectionError": "网络连接错误"
+    }
+  },
+  "Pricing": {
+    "title": "Chọn Gói Phù Hợp Với Bạn",
+    "description": "所有方案均包含 Figma Education 申请协助服务、激活状态追踪以及透明的售后保障。",
+    "popular": "最受欢迎",
+    "perMonth": "₫/月",
+    "guarantees": {
+      "oneTime": "一次性付款",
+      "noRenew": "无自动续费",
+      "refund": "店铺责任1换1质保"
+    },
+    "plans": {
+      "1-month": {
+        "name": "1个月",
+        "description": "适合新手快速体验与咨询",
+        "button": "申请 1 个月方案",
+        "features": {
+          "0": "Figma Education 在线申请指导",
+          "1": "详细的安装与激活视频教程",
+          "2": "支付方式选择咨询",
+          "3": "激活后检查清单",
+          "4": "24/7 客服支持",
+          "5": "1换1质保"
+        }
+      },
+      "3-months": {
+        "name": "3个月",
+        "description": "自由职业者热门方案",
+        "button": "选择 3 个月方案",
+        "features": {
+          "0": "包含 1 个月方案的所有服务",
+          "1": "根据更长期需求推荐适合的 Figma Education 方案",
+          "2": "需要身份验证时享有优先支持",
+          "3": "提供带指导的续费提醒",
+          "4": "Figma 工作流优化资源",
+          "5": "专属客户服务群组"
+        }
+      },
+      "6-months": {
+        "name": "6个月",
+        "description": "适合专业设计系学生的性价比之选",
+        "button": "订购 6 个月方案",
+        "features": {
+          "0": "包含 3 个月方案的所有服务",
+          "1": "激活时提供 1对1 视频通话支持",
+          "2": "定期追踪账号状态",
+          "3": "最新 Figma 政策实时更新",
+          "4": "进阶工作流指南",
+          "5": "精选插件与扩展推荐"
+        }
+      },
+      "12-months": {
+        "name": "12个月",
+        "description": "适合团队与学习小组",
+        "button": "联系购买 12 个月方案",
+        "features": {
+          "0": "包含 6 个月方案的所有服务",
+          "1": "多成员账号配置咨询",
+          "2": "安全与权限管理清单",
+          "3": "Figma 突发问题协助处理",
+          "4": "批量续费协调管理",
+          "5": "新成员入职/新手引导文档"
+        }
+      }
+    }
+  },
+  "MockData": {
+    "fallbackProducts": {
+      "mock-1": {
+        "name": "Figma Education 账号 - 1个月",
+        "description": "Figma Education 1个月方案 — 适合快速体验。付款后通过邮件发送登录信息，并附带登录指南。",
+        "shortDescription": "适合快速体验"
+      },
+      "mock-2": {
+        "name": "Figma Education 账号 - 3个月",
+        "description": "Figma Education 3个月方案 — 学期大作业热门选择。提供方案咨询与本地支付支持。",
+        "shortDescription": "课程作业推荐方案"
+      },
+      "mock-3": {
+        "name": "Figma Education 账号 - 6个月",
+        "description": "Figma Education 6个月方案 — 适合设计系学生与UI自由职业者长期使用，更具性价比。",
+        "shortDescription": "高频使用者长期省钱之选"
+      },
+      "mock-4": {
+        "name": "Figma Education 账号 - 12个月",
+        "description": "Figma Education 12个月方案 — 适合项目小组或长期学习，全长学年成本最优。",
+        "shortDescription": "1年期方案，全学年超值之选"
+      }
+    }
+  },
+  "UserOrderDetails": {
+    "title": "订单详情 {orderNumber}",
+    "payNow": "立即支付",
+    "status": {
+      "completed": "已完成",
+      "processing": "处理中",
+      "pending": "待处理",
+      "cancelled": "已取消"
+    },
+    "paymentStatus": {
+      "paid": "已支付",
+      "failed": "支付失败",
+      "pending": "待支付"
+    },
+    "info": {
+      "title": "订单信息",
+      "orderNumber": "订单编号",
+      "orderDate": "下单时间",
+      "customer": "客户",
+      "email": "电子邮箱"
+    },
+    "items": {
+      "title": "已购商品 ({count})",
+      "quantity": "数量：{quantity}",
+      "empty": "暂无商品"
+    },
+    "payment": {
+      "title": "支付明细",
+      "subtotal": "小计",
+      "discount": "优惠",
+      "total": "合计",
+      "paidAt": "支付时间"
+    },
+    "notes": {
+      "title": "订单备注"
+    },
+    "support": {
+      "title": "需要帮助？",
+      "description": "如果您对订单有任何疑问，请联系我们",
+      "contact": "联系客服"
+    },
+    "statusLabels": {
+      "order": "订单状态：",
+      "payment": "支付状态："
+    },
+    "loginLinkInstructions": {
+      "title": "🔗 账号领取指南（手动流程）",
+      "lead": "请按以下步骤操作以获取账号：",
+      "step1": "在电脑上打开 <b>Figma IDE</b>，退出当前登录账号",
+      "step2": "点击应用内的 <b>\"Sign in\"</b>",
+      "step3": "Figma 将在浏览器中打开如下格式的登录链接：",
+      "linkExample": "https://www.figma.com/loginDeepControl?challenge=xxxxx&uuid=xxxxx&mode=login",
+      "step4": "<b>立即复制该链接</b>并发送给客服",
+      "noteTitle": "⚠️ 重要提示：",
+      "note1": "切勿在网页浏览器中点击登录",
+      "note2": "切勿使用已跳转至 authenticator.cursor.sh 的链接",
+      "note3": "只需复制原链接发送给客服即可 ✅",
+      "videoBtn": "▶️ 视频教程",
+      "fbBtn": "📘 Facebook",
+      "tgBtn": "✈️ Telegram",
+      "footer": "发送登录链接并附上订单编号 <b>#{orderNumber}</b> 即可获取账号。"
+    }
+  },
+  "PrivacyPage": {
+    "seo": {
+      "title": "隐私政策",
+      "description": "FigmaEdu 客户信息隐私政策。承诺 100% 安全保护个人数据与支付信息。"
+    },
+    "hero": {
+      "title": "隐私",
+      "highlight": "政策",
+      "description": "FigmaEdu 承诺采用先进的安全措施保护您的个人信息，并对数据的使用保持完全透明。",
+      "update": "最后更新时间：2026年7月7日"
+    },
+    "highlights": {
+      "ssl": {
+        "title": "256位 SSL 加密",
+        "desc": "所有传输数据均采用银行级标准加密"
+      },
+      "noCard": {
+        "title": "不存储银行卡信息",
+        "desc": "我们绝不记录或存储您的任何支付卡信息"
+      },
+      "transparent": {
+        "title": "完全透明",
+        "desc": "明确告知数据的收集与使用方式"
+      },
+      "rights": {
+        "title": "您的权利",
+        "desc": "您拥有查看、修改、删除个人信息的完整权利"
+      }
+    },
+    "sections": {
+      "collection": {
+        "title": "1. 我们收集的信息",
+        "basic": "基本个人信息：",
+        "basicItems": {
+          "1": "姓名、电子邮箱、手机号码",
+          "2": "IP 地址、浏览器信息、设备指纹（用于防欺诈）",
+          "3": "交易历史、钱包余额、加密货币交易哈希/参考号"
+        },
+        "payment": "支付信息：",
+        "paymentItems": {
+          "1": "支付方式（SePay/VietQR、加密货币、电子钱包）",
+          "2": "交易单号（不存储卡号）",
+          "3": "支付状态与交易金额"
+        }
+      },
+      "usage": {
+        "title": "2. 信息的使用方式",
+        "purpose": "使用目的：",
+        "purposeItems": {
+          "1": "处理订单并交付 Figma Education 账号",
+          "2": "提供客户支持与解决售后问题",
+          "3": "发送有关订单的重要通知",
+          "4": "改善服务质量与用户体验",
+          "5": "遵守相关法律法规要求"
+        },
+        "commitment": "我们承诺【绝不出售】个人数据，【绝不用于】定向广告，且【不会故意】收集未满 18 周岁未成年人的数据。"
+      },
+      "security": {
+        "title": "3. 信息安全保障",
+        "measures": "安全防护措施：",
+        "measuresItems": {
+          "1": "对所有传输数据实施 256位 SSL 加密",
+          "2": "部署防火墙与入侵防御系统",
+          "3": "定期开展安全审计与检查",
+          "4": "严格限制内部人员的数据访问权限",
+          "5": "安全的数据备份机制"
+        },
+        "paymentSec": "支付安全：",
+        "paymentSecItems": {
+          "1": "支付处理支持：SePay/VietQR、加密货币（Binance、Bybit、链上转账）、电子钱包",
+          "2": "不存储任何信用卡/借记卡敏感数据",
+          "3": "整合 Cloudflare Turnstile 人机验证防范 Bot 攻击"
+        }
+      },
+      "rights": {
+        "title": "4. 您的个人权利",
+        "desc": "您对自己的个人信息享有充分的控制权：",
+        "items": {
+          "access": "访问权：有权要求查看存储的个人信息",
+          "edit": "更正权：有权更新或修改个人信息",
+          "delete": "删除权：有权要求删除个人信息",
+          "object": "异议权：有权拒绝特定的数据处理行为",
+          "complain": "投诉权：有权举报任何数据安全违规行为"
+        },
+        "contact": "如需行使上述权利，请联系："
+      },
+      "cookies": {
+        "title": "5. Cookie 与追踪技术",
+        "desc": "我们使用 Cookie 以提升您的用户体验：",
+        "items": {
+          "1": "必要 Cookie：用于登录状态、购物车、安全防护及授权偏好保存",
+          "2": "分析型 Cookie（需主动同意）：Microsoft Clarity、Vercel Analytics",
+          "3": "绝不使用任何第三方定向广告 Cookie"
+        },
+        "note": "您可以在浏览器设置中禁用 Cookie，但这可能导致部分网站功能无法正常使用。"
+      },
+      "sharing": {
+        "title": "6. 信息共享与披露",
+        "desc": "仅在以下必要情况下，我们才会共享您的信息：",
+        "items": {
+          "1": "支付结算：SePay/VietQR、加密货币（Binance、Bybit、链上转账）、电子钱包",
+          "2": "基础设施服务商：Vercel（托管）、Cloudflare Turnstile、Brevo（邮件服务）",
+          "3": "配合执法机关：在收到依法发出的调取请求时",
+          "4": "在取得您明确同意的其他情况下"
+        }
+      },
+      "storage": {
+        "title": "7. 数据存储期限",
+        "items": {
+          "1": "账号信息：在您的平台账号有效使用期间持续保存",
+          "2": "订单/交易历史：根据相关税务与会计法规要求保存 5 年",
+          "3": "系统日志与设备指纹：最长保存 12 个月",
+          "4": "营销数据：在您取消订阅后立即删除"
+        }
+      },
+      "minors": {
+        "title": "8. 未成年人隐私保护",
+        "desc": "本服务不面向未满 18 周岁的未成年人。我们不会故意收集未成年人的数据。如果您认为我们误收集了未成年人信息，请立即联系我们予以删除。"
+      },
+      "international": {
+        "title": "9. 跨境数据传输",
+        "desc": "您的数据可能会在美国及其他国家的服务器上进行处理（包括 Vercel、Brevo、Cloudflare）。使用本服务即表示您同意此类传输。欧盟用户请注意，其他国家的数据保护标准可能与您所在地区有所不同。"
+      },
+      "contact": {
+        "title": "10. 联系我们与投诉",
+        "desc": "如果您对本隐私政策有任何疑问或建言，请通过以下方式联系：",
+        "direct": "直接联系方式：",
+        "company": "公司信息：",
+        "supportTime": "客服在线时间：24/7 全天候"
+      }
+    },
+    "cta": {
+      "title": "对隐私与安全仍有疑问？",
+      "description": "我们的安全团队随时准备为您解答任何相关疑问",
+      "contact": "立即联系",
+      "terms": "查看服务条款"
+    }
+  },
+  "PaymentResult": {
+    "title": "订单支付",
+    "orderNumber": "订单号 #{number}",
+    "status": {
+      "paid": "已支付",
+      "pending": "待支付"
+    },
+    "progress": {
+      "info": "订单信息",
+      "payment": "进行支付",
+      "finish": "完成"
+    },
+    "transfer": {
+      "title": "转账信息",
+      "scan": "扫码进行转账",
+      "generating": "正在生成二维码...",
+      "bank": "银行",
+      "accountNumber": "银行账号",
+      "accountName": "户名",
+      "amount": "金额",
+      "content": "转账备注",
+      "contentNote": "⚠️ 请准确填写以下转账备注，以便系统自动确认",
+      "check": "我已完成转账",
+      "checkManual": "手动核验",
+      "checking": "正在核验...",
+      "copy": "已复制 {label}",
+      "autoVerifyTitle": "⏱️ 转账完成后，请等待 5-10 秒",
+      "autoVerifyDesc": "系统将自动核验您的交易。如果 30 秒后未更新，请点击下方的手动核验按钮。"
+    },
+    "summary": {
+      "title": "订单详情",
+      "customer": "客户信息",
+      "name": "姓名：",
+      "email": "邮箱：",
+      "products": "商品 ({count})",
+      "total": "总计：",
+      "successTitle": "支付成功！",
+      "successDesc": "您的账号已发放，并显示在下方。",
+      "redirect": "🔄 将在 {seconds} 秒内自动跳转至订单页面...",
+      "guestSuccessTitle": "订单已确认！",
+      "guestOrderNumber": "订单编号：",
+      "guestEmailNotice": "📧 订单确认邮件和账号信息将发送至 {email}。请检查您的收件箱（包括垃圾邮件箱）。",
+      "guestSaveOrder": "📌 请保存上方的订单编号，以便需要时查询或联系客服。",
+      "guestContactTitle": "需要帮助？立即联系：",
+      "guestRegisterHint": "💡 在网站上注册账号，即可随时轻松管理订单和查看账号信息。",
+      "note": "💡 注意：我们在收到转账后会自动确认订单。",
+      "support": "如有任何问题，请通过联系页面或 FigmaEdu 支持渠道联系客服"
+    },
+    "error": {
+      "notFound": "未找到订单",
+      "fetchError": "无法加载订单信息",
+      "connection": "连接错误，请重试",
+      "back": "返回购物"
+    },
+    "backButton": "返回购物",
+    "qrAlt": "支付二维码",
+    "binance": {
+      "title": "Binance Pay",
+      "desc": "请使用 Binance App 转账至下方 ID"
+    },
+    "crypto": {
+      "selectMethod": "选择支付方式",
+      "scanQrToPay": "扫码进行付款",
+      "scanWithApp": "使用 {app} 应用扫码支付",
+      "provider": "服务商",
+      "payId": "Pay-ID",
+      "accountName": "账户名称",
+      "asset": "币种",
+      "network": "网络",
+      "address": "钱包地址",
+      "sendOnlyOn": "仅支持在 {network} 网络发送 {asset}。转错网络资金将永久丢失。",
+      "orderRefNote": "订单参考号（非链上 memo）— 如果交易所要求，请填写在备注/附言栏。",
+      "manualVerifyTitle": "手动核验",
+      "manualVerifyDesc": "发送后，请等待管理员确认，或附带订单号联系客服。",
+      "zoomQr": "放大 {method} 二维码"
+    },
+    "loginLinkInstructions": {
+      "title": "🔗 账号获取指南",
+      "lead": "请按以下步骤操作以获取账号：",
+      "step1": "在电脑上打开 <b>Figma IDE</b>，退出当前账号",
+      "step2": "点击应用中的 <b>\"Sign in\"</b>",
+      "step3": "Figma 将在浏览器中打开类似以下格式的登录链接：",
+      "linkExample": "https://www.figma.com/loginDeepControl?challenge=xxxxx&uuid=xxxxx&mode=login",
+      "step4": "<b>立即复制此链接</b>并发送给客服",
+      "noteTitle": "⚠️ 重要提示：",
+      "note1": "请勿在网页浏览器中点击登录",
+      "note2": "请勿使用已跳转至 authenticator.cursor.sh 的链接 - 如果已跳转，请从头重新操作 \"Sign in\"",
+      "note3": "只需复制链接发送给客服即可。客服完成登录即告成功 ✅",
+      "videoBtn": "▶️ 观看视频教程",
+      "fbBtn": "📘 Facebook",
+      "tgBtn": "✈️ Telegram",
+      "footer": "请发送登录链接及订单号 <b>#{orderNumber}</b> 以接收账号。"
+    }
+  },
+  "HeaderUser": {
+    "menu": {
+      "orders": "我的订单",
+      "wallet": "我的钱包",
+      "profile": "个人资料",
+      "settings": "设置",
+      "admin": "管理后台",
+      "signOut": "退出登录"
+    },
+    "toast": {
+      "success": "已成功退出登录",
+      "error": "退出登录时出错"
+    }
+  },
+  "Header": {
+    "home": "首页",
+    "intro": "关于我们",
+    "products": "产品列表",
+    "purchasedCustomers": "已购客户",
+    "blog": "博客",
+    "affiliate": "推广联盟",
+    "contact": "联系我们",
+    "admin": "管理后台",
+    "signIn": "登录",
+    "signUp": "注册",
+    "dashboard": "订单",
+    "profile": "个人资料",
+    "settings": "设置",
+    "cart": "购物车",
+    "orders": "订单",
+    "search": {
+      "placeholder": "搜索产品...",
+      "empty": "未找到相关产品",
+      "hint": "搜索"
+    },
+    "wallet": "我的钱包"
+  },
+  "Common": {
+    "language": "语言",
+    "vietnamese": "Tiếng Việt",
+    "english": "English"
+  },
+  "HomePage": {
+    "heroTitle": "购买 <highlight>Figma Education</highlight> 账号 — <highlight>Figma edu</highlight> 优质平价，快速发货",
+    "heroDescription": "FigmaEdu 是 Figma Education 账号的独立零售商。支付完成后几分钟内即可通过邮箱接收登录信息。提供 1 换 1 质保与 24/7 客户支持。与 Figma, Inc. 无隶属关系。",
+    "ctaRegister": "查看价格表",
+    "ctaPricing": "📊 查看价格表",
+    "disclaimer": "FigmaEdu 是一家独立零售商。我们并不代表 Figma, Inc.，不受其所有、赞助或认可。“Figma”和“Figma Education”是 Figma, Inc. 的商标。我们向设计系学生和项目团队分发合法购买的订阅套餐。",
+    "badges": {
+      "warranty": "1换1质保",
+      "support": "24/7 客服支持"
+    },
+    "customRequest": {
+      "badge": "热门",
+      "title": "提供按需定制/寻号服务",
+      "subtitle": "需要<highlight>网站列表之外的其他 Figma edu 套餐</highlight>？请私信客服，5 分钟内为您寻找并报价。",
+      "cta": "立即联系"
+    },
+    "productTypes": {
+      "cursor-pro": "Figma Education",
+      "cursor-pro-official-1m": "Figma Edu 1 个月",
+      "github-copilot": "Figma Edu 3 个月",
+      "github-edu": "Figma Edu 6 个月",
+      "figma-pro": "Figma Education",
+      "jetbrains-edu": "Figma Edu 12 个月"
+    },
+    "urgency": {
+      "title": "⚡ 限时特惠 - 最高节省 90%",
+      "subtitle": "距离享受此特别优惠仅剩 <bold>3 天</bold>"
+    },
+    "liveDemo": "🔴 实时演示",
+    "featuresTitle": "为什么选择 FigmaEdu 购买 Figma 账号？",
+    "featuresDescription": "服务数万名设计专业学生和 UI 自由职业者的独立零售商。价格实惠、发货迅速、1换1质保。",
+    "features": {
+      "transparentConsulting": {
+        "title": "透明咨询",
+        "description": "咨询团队将协助您选择合适的 Figma Education 套餐，并透明明晰地完成 Figma edu 账号购买。"
+      },
+      "reasonableSavings": {
+        "title": "合理省钱",
+        "description": "推荐合适的支付方式（VietQR、MoMo、ZaloPay），优化购买 Figma Education 账号的成本。"
+      },
+      "support247": {
+        "title": "24/7 支持",
+        "description": "通过 Telegram 提供 24/7 客户支持。快速解答有关 Figma edu 的所有疑问。"
+      },
+      "longTermCompanion": {
+        "title": "长期陪伴",
+        "description": "提供 Figma 登录指南、相关文档资料以及交割账号后的后续支持。"
+      }
+    },
+    "benefitsTitle": "为什么要购买 Figma Education 账号？",
+    "benefitsDescription": "Figma Education — 为设计团队提供实时协作、Dev Mode 以及教育特权组件库与文件",
+    "benefits": {
+      "unlimitedCompletion": {
+        "title": "无限制实时协作",
+        "description": "与团队在同一 Figma 文件中协同工作、评论和同时编辑 — 完美适合课程项目和 UI 自由职业。"
+      },
+      "fastRequests": {
+        "title": "Dev Mode 与设计交付",
+        "description": "相比免费版，能更快地查看参数、导出资源并与设计团队同步。"
+      },
+      "maxMode": {
+        "title": "教育版组件库与组件",
+        "description": "按 Figma Education 套餐权限使用组件库、组件和原型 — 完全满足日常学习与实战项目需求。"
+      }
+    },
+    "finalCta": {
+      "title": "准备好购买 Figma edu 账号了吗？",
+      "description": "加入数以千计已选择 FigmaEdu 的设计系学生行列。立即查看 Figma Education 账号价格表。",
+      "register": "查看价格表",
+      "viewPackages": "查看价格表"
+    }
+  },
+  "ProofGallery": {
+    "cta": "查看详情",
+    "badges": {
+      "featured": "精选",
+      "verified": "已验证",
+      "authentic": ""
+    },
+    "empty": {
+      "title": "暂无证明",
+      "description": "新订单将尽快更新"
+    },
+    "details": {
+      "orderCode": "订单号",
+      "customer": "客户",
+      "value": "金额",
+      "orderDate": "下单日期"
+    },
+    "zoom": {
+      "zoomOut": "缩小",
+      "zoomIn": "放大",
+      "reset": "重置",
+      "hint": {
+        "zoom": "点击放大 • 滚动鼠标缩放",
+        "pan": "拖拽移动 • 滚动鼠标缩放"
+      }
+    }
+  },
+  "TrustSocialProof": {
+    "badge": "来自客户的真实证明",
+    "titlePart1": "数千名客户的信任",
+    "titlePart2": "并选择我们的服务",
+    "description": "查看成功订单的真实截图证明。所有订单均经过验证，并提供 1 对 1 质保服务。",
+    "stats": {
+      "successOrders": "成功订单",
+      "avgRating": "平均评分"
+    },
+    "cta": "查看所有客户证明",
+    "ctaSub": "点击查看数千笔成功订单和真实客户评价",
+    "empty": {
+      "title": "证明材料即将来袭"
+    },
+    "labels": {
+      "verified": "已验证",
+      "authentic": "100%",
+      "warranty": "1 对 1 质保",
+      "support": "24/7 支持"
+    }
+  },
+  "FeaturedProducts": {
+    "title": "Figma Education 账号套餐",
+    "subtitle": "购买 Figma edu 账号 — 节省成本 — 1 对 1 质保",
+    "cta": "查看所有套餐",
+    "toast": "{name} 已添加到购物车"
+  },
+  "Footer": {
+    "description": "FigmaEdu — 独立的 Figma Education 账号零售商。与 Figma, Inc. 无关联。提供 1 对 1 质保及 24/7 客服支持。",
+    "columns": {
+      "products": "产品",
+      "company": "公司",
+      "support": "支持"
+    },
+    "links": {
+      "allPackages": "所有套餐",
+      "cursorPro1m": "Figma Education 1 个月",
+      "cursorPro3m": "Figma Education 3 个月",
+      "cursorPro6m": "Figma Education 6 个月",
+      "cursorPro12m": "Figma Education 12 个月",
+      "about": "关于我们",
+      "careers": "招贤纳士",
+      "affiliate": "联盟营销",
+      "blog": "博客",
+      "press": "新闻报道",
+      "contact": "联系我们",
+      "customers": "客户评价",
+      "help": "帮助中心",
+      "shipping": "发货与退换",
+      "warranty": "保修条款",
+      "returnPolicy": "退换货政策",
+      "privacy": "隐私政策",
+      "terms": "服务条款",
+      "disclaimer": "免责声明",
+      "cookies": "Cookie 政策",
+      "sitemap": "网站地图"
+    },
+    "copyright": "保留所有权利。",
+    "schedule": {
+      "title": "服务时间",
+      "mainHours": "08:00-23:00（周一至周日）",
+      "fastHours": "快速响应时段：周一至周五 08:00-12:00；13:30-17:00",
+      "telegramPriority": "优先使用 Telegram 获得更快的回复",
+      "emergency": "紧急情况：通过 Telegram/Facebook 提供 24/7 支持"
+    },
+    "legal": {
+      "disclaimerTitle": "商标声明",
+      "disclaimerBody": "FigmaEdu 是 Figma Education 账号的第三方独立零售商。我们与 Figma, Inc. 无任何关联、认证或赞助关系。“Figma”和“Figma Education”是 Figma, Inc. 的商标。我们转售合法购买的账号/订阅，旨在为设计系学生和 UI 自由职业者提供便利。如需直接从商标所有者处订阅，请访问 https://www.figma.com。"
+    },
+    "trustBadges": {
+      "authentic": "信誉经销商"
+    }
+  },
+  "SEO": {
+    "defaultDescription": "FigmaEdu 是 Figma Education 账号的第三方独立零售商。提供优惠价格购买 Figma edu 账号，付款后通过邮箱发送登录信息，提供 1 对 1 质保及 24/7 支持。与 Figma, Inc. 无关联。",
+    "defaultTitle": "高性价比购买 Figma Edu 账号 | FigmaEdu",
+    "slogan": "Figma Education 账号零售商",
+    "keywords": "购买 Figma 账号, Figma edu, Figma Education, Figma edu 账号, 购买 Figma Education, FigmaEdu, figmaedu.shop, 实惠 Figma 账号"
+  },
+  "CompetitorComparison": {
+    "title": "Figma Education 与其他工具对比",
+    "description": "为什么众多设计专业学生和 UI 自由职业者选择通过 FigmaEdu 购买 Figma edu 账号，而不是仅使用 Free 版或其他工具。",
+    "tools": {
+      "cursor": {
+        "description": "Figma Education — 实时协作与 Dev Mode",
+        "price": "FigmaEdu 优享价",
+        "originalPrice": "Figma Education 按时长订阅套餐"
+      },
+      "vscode": {
+        "name": "Figma Free",
+        "description": "功能受限的免费版",
+        "price": "Free"
+      },
+      "copilot": {
+        "name": "Sketch",
+        "description": "以 macOS 为中心的设计工具",
+        "price": "需单独付费"
+      },
+      "codeium": {
+        "name": "Adobe XD / Canva",
+        "description": "原型制作与轻量设计",
+        "price": "按各厂商套餐付费"
+      }
+    },
+    "features": {
+      "header": "功能特性",
+      "completion": "实时协作",
+      "chat": "文件评论/标注",
+      "models": "组件与资源库 (Component & Library)",
+      "analysis": "Dev Mode / 开发交付",
+      "editing": "多人同时编辑",
+      "generation": "交互原型 (Interactive Prototype)",
+      "debug": "插件与社区生态",
+      "performance": "课程大作业/项目团队协作",
+      "cost": "通过 FigmaEdu 购买的费用（参考）"
+    },
+    "values": {
+      "cursor": {
+        "completion": "根据教育版权限无限制",
+        "chat": "完整评论与 @提及 功能",
+        "models": "教育版完整组件库与资源库",
+        "analysis": "✓ Dev Mode",
+        "editing": "✓ 支持多人同时编辑",
+        "generation": "✓ 高级交互原型",
+        "debug": "✓ 庞大的生态系统",
+        "performance": "专为学习团队/项目组优化",
+        "cost": "超值月均价"
+      },
+      "vscode": {
+        "completion": "限制文件数/团队人数",
+        "chat": "基础功能",
+        "models": "受限",
+        "analysis": "✗ / 非常受限",
+        "editing": "限制席位数",
+        "generation": "基础原型",
+        "debug": "基础功能",
+        "performance": "仅满足个人基本需求",
+        "cost": "Free（功能受限）"
+      },
+      "copilot": {
+        "completion": "基于本地文件 / Sketch 云端",
+        "chat": "相比 Figma 限制较多",
+        "models": "Symbols / 资源库",
+        "analysis": "独立 Inspect 审查",
+        "editing": "多人实时协作能力较弱",
+        "generation": "支持基础原型",
+        "debug": "插件数量较少",
+        "performance": "主要适用于 macOS",
+        "cost": "Sketch 订阅付费"
+      },
+      "codeium": {
+        "completion": "协作功能视套餐而定",
+        "chat": "视具体产品而定",
+        "models": "预设模板",
+        "analysis": "开发交付功能受限",
+        "editing": "视套餐而定",
+        "generation": "轻量原型 / 营销设计",
+        "debug": "不同的生态系统",
+        "performance": "适合轻量级设计",
+        "cost": "按 Adobe / Canva 套餐"
+      }
+    },
+    "cards": {
+      "cursor": {
+        "title": "Figma Education 有何亮点？",
+        "content": [
+          "• UI/UX 项目团队 <bold>实时协作</bold>",
+          "• <bold>Dev Mode</bold> 查看参数与导出标注资源",
+          "• 享有教育版 <bold>组件与资源库 (Component / Library)</bold> 权限",
+          "• 直接在文件内制作页面跳转 <bold>原型 (Prototype)</bold>"
+        ]
+      },
+      "service": {
+        "title": "通过 FigmaEdu 购买的优势",
+        "content": [
+          "• <bold>购买 Figma 账号</bold> 支持便捷本地支付（VietQR、电子钱包等）",
+          "• 根据学习 / 自由职业需求 <bold>提供套餐咨询</bold>",
+          "• 24/7 <bold>专业客服支持</bold>",
+          "• <bold>透明公开</bold> — 独立分销商，与 Figma, Inc. 无直接关联"
+        ]
+      },
+      "commitment": {
+        "title": "FigmaEdu 服务承诺",
+        "content": [
+          "• 24小时内商家原因故障 <bold>1换1质保</bold>",
+          "• 付款后 <bold>账号通过 Email 发送</bold>",
+          "• 24/7 <bold>全天候专业客服</bold>",
+          "• 从零开始的 <bold>完整登录指导</bold>"
+        ]
+      }
+    },
+    "recommended": "推荐选择"
+  },
+  "SuccessStories": {
+    "title": "已购买 Figma Edu 账号的客户评价",
+    "description": "来自在 FigmaEdu 购买 Figma Education 账号的设计系学生、UI 自由职业者及项目组的真实体验",
+    "stats": {
+      "developers": "已购买 Figma edu 客户",
+      "speed": "Mockup 完成速度提升",
+      "debug": "减少团队改稿时间",
+      "rating": "平均客户评分"
+    },
+    "stories": {
+      "0": {
+        "role": "平面设计专业学生",
+        "story": "自从在 FigmaEdu 购买了 Figma edu 账号后，我们大作业小组在同一个文件里实时协作非常流畅。评论功能和 Auto Layout 让我们定稿布局的速度远快于免费版。",
+        "results": [
+          "提前 1 周完成大作业",
+          "5人团队顺畅协作",
+          "借助 Dev Mode 实现清晰的开发交付"
+        ]
+      },
+      "1": {
+        "role": "UI 自由设计师",
+        "story": "我需要 Figma Education 的原型和资源库功能来服务客户。在 FigmaEdu 购买非常方便，支付后几分钟内就收到了登录 Email，当天就能直接上手工作。",
+        "results": [
+          "Mockup 交付速度提升 40%",
+          "更容易与客户确认原型方案",
+          "大幅节省订阅成本"
+        ]
+      },
+      "2": {
+        "role": "UX 课题项目组",
+        "story": "之前用免费版受到了席位限制。换成 Figma edu 后，全组能在同一个文件里实时评论和迭代，导师 review 也方便多了。",
+        "results": [
+          "不再受 Free 版席位限制",
+          "导师直接在文件内反馈指导",
+          "可复用组件资源库"
+        ]
+      },
+      "3": {
+        "role": "UI/UX 专业学生",
+        "story": "第一次在网上买 Figma 账号有点担心，但 FigmaEdu 的交付完全符合描述，客服指导也很清晰。现在学习交付时，我都用 Dev Mode 来查看边距和间距。",
+        "results": [
+          "账号登录稳定",
+          "更快掌握 Dev Mode 使用",
+          "客服响应时间低于 5 分钟"
+        ]
+      },
+      "4": {
+        "role": "自由产品设计师",
+        "story": "我每个月同时跟进 2–3 个项目。Figma Education 帮我保持组件系统整洁；通过 FigmaEdu 购买长期套餐，再也不用担心每月续费的问题了。",
+        "results": [
+          "保持设计系统一致性",
+          "按时交付项目任务",
+          "可按季度规划设计预算"
+        ]
+      },
+      "5": {
+        "role": "设计大作业组长",
+        "story": "我们在同一个 Figma 文件里分工负责调研、UI 和原型。通过 FigmaEdu 为全组购买了 edu 账号 — 流程规范，大家都能顺利访问主文件。",
+        "results": [
+          "全组共享单一 Master 文件",
+          "减少文件反复传输",
+          "在大作业答辩前顺利定稿原型"
+        ]
+      }
+    },
+    "cta": {
+      "title": "想要开启您自己的成功故事？",
+      "description": "加入已在 FigmaEdu 购买 Figma edu 账号的设计专业学生与 UI 自由职业者社区。下一个成功故事可能就是你的！",
+      "start": "🚀 查看 Figma Edu 价格表",
+      "follow": "📘 关注 Fanpage"
+    },
+    "resultsLabel": "取得的效果："
+  },
+  "Tutorial": {
+    "title": "Figma Edu 账号购买与使用指南",
+    "description": "从选择套餐 → 支付 → 接收 Email → 登录 Figma，仅需数分钟",
+    "download": {
+      "title": " presentation在网页或客户端打开 Figma",
+      "version": "在 <bold>浏览器</bold> 或桌面客户端（Windows、macOS、Linux）上使用 Figma",
+      "button": "打开 Figma",
+      "note": "⚡ 收到交付 Email 后，登录即可享用 Figma Education 权限"
+    },
+    "steps": {
+      "1": {
+        "title": "选择 Figma Education 套餐",
+        "description": "查看价格表并选择适合您需求的 Figma edu 账号套餐",
+        "details": [
+          "访问 figmaedu.shop 的产品页面",
+          "选择合适的套餐时长（1个月、3个月等）",
+          "加入购物车并核对订单信息",
+          "准备好准确的接收 Email 地址"
+        ],
+        "duration": "2 分钟",
+        "difficulty": "简单"
+      },
+      "2": {
+        "title": "通过 VietQR / 电子钱包支付",
+        "description": "通过 VietQR、MoMo、ZaloPay 或银行转账完成支付",
+        "details": [
+          "在结账页面选择支付方式",
+          "扫描 VietQR 或确认电子钱包交易",
+          "保留凭证/交易单号以便核对",
+          "等待系统确认支付成功"
+        ],
+        "duration": "3 分钟",
+        "difficulty": "简单"
+      },
+      "3": {
+        "title": "接收包含登录信息的 Email",
+        "description": "FigmaEdu 会将登录信息发送至您的 Email — 网站不会直接显示密码",
+        "details": [
+          "检查收件箱（以及垃圾邮件/垃圾箱）",
+          "打开来自 FigmaEdu 的交付 Email",
+          "妥善保存登录 Email 和密码",
+          "按照 Email 中附带的指南操作"
+        ],
+        "duration": "2 分钟",
+        "difficulty": "简单"
+      },
+      "4": {
+        "title": "登录 Figma",
+        "description": "使用收到的凭据登录并核对 edu 权限",
+        "details": [
+          "打开 figma.com 或 Figma 客户端",
+          "使用收到的 Email/密码登录",
+          "验证账号上的 Figma Education 权限",
+          "创建测试文件或加入项目团队"
+        ],
+        "duration": "5 分钟",
+        "difficulty": "简单"
+      },
+      "5": {
+        "title": "开始与团队一起设计",
+        "description": "利用 edu 权限使用 Auto Layout、组件、原型和 Dev Mode",
+        "details": [
+          "创建 Frame 并应用 Auto Layout",
+          "复用团队组件/资源库 (Component / Library)",
+          "为大作业/项目制作页面跳转原型",
+          "需要交付参数时开启 Dev Mode"
+        ],
+        "duration": "15 分钟",
+        "difficulty": "中等"
+      }
+    },
+    "tips": {
+      "shortcuts": {
+        "title": "Figma 常用实用快捷键",
+        "list": [
+          "F: 创建 Frame",
+          "Shift + A: 应用 Auto Layout",
+          "Ctrl/Cmd + Alt + K: 创建 Component",
+          "Shift + E: 开启 Dev Mode（具备权限时）"
+        ]
+      },
+      "bestPractices": {
+        "title": "最佳实践 (Best Practices)",
+        "list": [
+          "为 图层/Frame 规范命名，方便团队协作",
+          "使用 Auto Layout 代替手动对齐",
+          "将通用组件拆分提取至资源库",
+          "直接在文件上评论标注，替代分散聊天"
+        ]
+      },
+      "useCases": {
+        "title": "常见使用场景",
+        "list": [
+          "UI/UX 大作业团队在同一文件内协作",
+          "在开发前制作 App/Web 交互原型",
+          "为课程打造轻量 Design System",
+          "通过 Dev Mode 为开发人员交付参数标注"
+        ]
+      }
+    },
+    "support": {
+      "freeSetup": "为新客户提供 1对1 登录指导服务",
+      "messenger": "💬 Chat Messenger Support",
+      "telegram": "📱 Telegram Support"
+    }
+  },
+  "FAQ": {
+    "title": "关于购买 Figma Edu 账号的常见问题",
+    "description": "解答关于 Figma Education 及 FigmaEdu 分销服务的常见疑问。",
+    "items": {
+      "0": {
+        "question": "什么是 Figma edu / Figma Education？",
+        "answer": "Figma Education（常称 Figma edu）是 Figma 为学生及设计学习环境推出的订阅套餐 — 包含实时协作、Dev Mode 以及教育版级别的文件/资源库权限。FigmaEdu 作为独立分销商转售此订阅，与 Figma, Inc. 无任何直接关联。"
+      },
+      "1": {
+        "question": "本商店是 Figma 的官方代表吗？",
+        "answer": "不是。FigmaEdu 是独立第三方分销商（third-party reseller）。我们不代表 Figma, Inc.，未获得其授权或官方背书。套餐权益均取决于 Figma 的条款。"
+      },
+      "2": {
+        "question": "为什么在这里购买 Figma edu 账号更便宜？",
+        "answer": "FigmaEdu 通过整合需求、优化跨境支付费率并分摊运营成本。相比直接按原价订阅，您可以节省大量费用，同时享受专属客服支持及商家原因故障 1换1 质保。"
+      },
+      "3": {
+        "question": "购买 Figma 账号有质保吗？",
+        "answer": "提供 24 小时内商家原因故障 1换1 质保（如无法登录、缺失 edu 权限等）。凭据（数字商品）交付后概不退款。若因违反 Figma 服务条款导致被封禁/终止账号，则不在质保范围内。支持 24/7 通过 Telegram 咨询。"
+      },
+      "4": {
+        "question": "Figma Education 与 Figma Free 版有何区别？",
+        "answer": "Free 版对文件数量、团队规模及部分高级功能有所限制。Figma Education 则扩展了实时协作、Dev Mode、资源库以及适用于学习/大作业的项目权限 — 助力在教育环境下更专业地完成 UI/UX 设计。"
+      },
+      "5": {
+        "question": "购买 Figma 账号如何付款？",
+        "answer": "可以通过 MoMo、ZaloPay、VietQR 或银行转账支付。交易均采用 SSL 加密。一次性付款，不会自动扣费续订。支付信息不予保存，确保安全。"
+      },
+      "6": {
+        "question": "付款后如何接收账号？",
+        "answer": "支付成功后，您将在 1–5 分钟内（工作时间平均 2–3 分钟）收到包含 Figma 登录信息的 Email。网站不会直接显示密码 — 仅通过 Email 发送。"
+      },
+      "7": {
+        "question": "有 Figma edu 登录指导吗？",
+        "answer": "有的。每个订单均附带详细的登录指南。如遇到问题，我们的客服团队将通过 Telegram/Facebook 为您提供从零开始的全程帮助。"
+      }
+    },
+    "stillHaveQuestions": "仍有疑问？",
+    "contactSupport": "欢迎通过多种渠道与我们联系。我们的客服团队随时为您提供 24/7 服务！",
+    "telegram": "立即咨询",
+    "messenger": "立即咨询",
+    "fanpage": "Fanpage",
+    "email": "Email",
+    "zaloGroup": "社群",
+    "facebookGroup": "Facebook 社群"
+  },
+  "Community": {
+    "badge": "交流社区",
+    "title": "加入 Figma 越南交流社区",
+    "description": "与越南的设计专业学生及 UI 自由职业者建立联系，分享 Figma Education 使用经验，获得社区快速支持。",
+    "members": "名成员",
+    "facebook": {
+      "title": "Facebook 社群",
+      "description": "最大的交流社区，讨论热烈，分享 Figma Education 使用心得。"
+    },
+    "zalo": {
+      "title": "Zalo 社群",
+      "description": "快速交流，实时技术支持并获取最新的优惠动态。"
+    },
+    "telegram": {
+      "title": "Telegram 频道",
+      "description": "获取最新通知、Tips & Tricks 技巧及 Figma Education 学习资料。"
+    },
+    "benefits": {
+      "support": "社区互相协助",
+      "network": "拓展设计师人脉圈",
+      "exclusive": "专属优惠特权"
+    }
+  },
+  "WarningMarquee": {
+    "text": "⚠️ 警告：目前有人冒充 Figma 店铺 Fanpage。请客户仅通过 <contact>店铺联系页面</contact> 或 <products>直接在 FigmaEdu 官网下单购买</products> 进行交易！"
+  },
+  "Testimonials": {
+    "title": "Figma Edu 账号买家评价",
+    "description": "数千名设计专业学生和 UI 自由职业者信赖并使用 FigmaEdu 的服务",
+    "items": {
+      "0": {
+        "text": "客服非常热情，5分钟内就收到了登录邮件。购买 Figma edu 账号的价格比直接订阅更划算，而且使用很稳定。非常满意！",
+        "author": {
+          "name": "Hoàng Văn Nam",
+          "handle": "@nam.design"
+        }
+      },
+      "1": {
+        "text": "之前用 Figma Free 团队人数受限。通过 FigmaEdu 换成 Figma Education 后，协同非常顺畅，Auto Layout 和原型制作完全满足毕业设计需求。",
+        "author": {
+          "name": "Trần Thanh Tú",
+          "handle": "@tu.uiux"
+        }
+      },
+      "2": {
+        "text": "非常靠谱。购买了长期套餐，按时激活到邮箱。不需要和别人共享——专门用于接自由职业的项目需求。",
+        "author": {
+          "name": "Lê Đức Thắng",
+          "handle": "@thang.figma"
+        }
+      },
+      "3": {
+        "text": "Figma edu 帮我同时高效处理好几个需求。店铺支持越南语沟通，VietQR 支付也很方便。强烈推荐给学设计的朋友。",
+        "author": {
+          "name": "Phạm Minh Tâm",
+          "handle": "@tam.product"
+        }
+      },
+      "4": {
+        "text": "刚开始对于网购有点犹豫，但仔细核实后试买了一个月。现在续费了更长期的套餐，性价比更高。给 FigmaEdu 打满分！",
+        "author": {
+          "name": "Nguyễn Quốc Bảo",
+          "handle": "@bao.ux"
+        }
+      },
+      "5": {
+        "text": "我们 5 人小组一起买的。指南清晰，质保明确。给这家售卖 Figma 账号的店铺五星好评。",
+        "author": {
+          "name": "Vũ Thị Hằng",
+          "handle": "@hang.studio"
+        }
+      }
+    }
+  },
+  "ProductsPage": {
+    "breadcrumbs": {
+      "home": "首页",
+      "products": "Figma Edu 账号"
+    },
+    "title": "Figma Education 账号",
+    "subtitle": "购买 Figma edu 账号 - 节省成本 - 1对1质保 - 约5分钟邮件发货",
+    "allCategories": "全部",
+    "newBadge": "New",
+    "filterTitle": "按 {name} 筛选",
+    "emptyState": {
+      "title": "未找到任何商品",
+      "categoryEmpty": "“{category}” 分类下暂无商品",
+      "genericEmpty": "暂无商品 — 请稍后再试或联系客服支持"
+    },
+    "pagination": {
+      "prev": "上一页",
+      "next": "下一页"
+    },
+    "toast": {
+      "added": "{name} 已成功添加到购物车"
+    },
+    "search": {
+      "placeholder": "搜索 Figma edu 套餐...",
+      "noResults": "未找到与“{query}”相关的结果",
+      "noResultsHint": "尝试其他关键字或按分类浏览"
+    },
+    "sort": {
+      "label": "排序",
+      "default": "默认",
+      "priceLowToHigh": "价格：从低到高",
+      "priceHighToLow": "价格：从高到低",
+      "newest": "最新",
+      "topRated": "评分最高"
+    },
+    "priceFilter": {
+      "label": "价格区间",
+      "apply": "应用",
+      "clear": "清除筛选"
+    },
+    "seo": {
+      "title": "Figma Edu 账号 — 热销套餐",
+      "description": "FigmaEdu 正在销售的 Figma Education 账号套餐列表。价格实惠，邮箱交付登录，提供 1 对 1 质保。",
+      "keywords": "Figma edu 账号, 购买 Figma 账号, Figma Education, Figma edu 套餐, Figma Education 价格表, FigmaEdu"
+    },
+    "breadcrumb": {
+      "home": "首页",
+      "products": "商品"
+    }
+  },
+  "ProductCard": {
+    "popular": "热门",
+    "soldCount": "已售 {count}+",
+    "save": "立省 {amount}₫",
+    "warranty": "1 对 1 质保",
+    "support": "24/7 客服支持",
+    "buyNow": "立即购买",
+    "addToCart": "加入购物车",
+    "outOfStock": "缺货",
+    "toast": {
+      "added": "{name} 已成功添加到购物车"
+    },
+    "aria": {
+      "addToWishlist": "添加到心愿单"
+    },
+    "quickView": {
+      "button": "快速预览",
+      "features": "主要特色",
+      "viewDetail": "查看完整详情"
+    }
+  },
+  "SocialShare": {
+    "share": "分享",
+    "facebook": "分享到 Facebook",
+    "telegram": "分享到 Telegram",
+    "copyLink": "复制链接",
+    "copied": "已复制！",
+    "linkCopied": "商品链接已复制",
+    "copyFailed": "无法复制链接",
+    "shareText": "快来 FigmaEdu 查看 {productName}！"
+  },
+  "SocialProofPreview": {
+    "badge": "来自客户的真实见证",
+    "title": "已购买客户",
+    "highlight": "数千笔成功订单",
+    "description": "查看信任并使用我们服务的客户真实订单见证",
+    "featured": "精选",
+    "empty": "暂无见证",
+    "viewAll": "查看所有见证",
+    "productTypes": {
+      "cursor-pro": "Figma Education",
+      "cursor-pro-official-1m": "Figma Education 1个月",
+      "github-copilot": "GitHub Copilot",
+      "github-edu": "GitHub EDU",
+      "figma-pro": "Figma Pro",
+      "jetbrains-edu": "JetBrains"
+    },
+    "badges": {
+      "authentic": "正规经销商"
+    },
+    "labels": {
+      "authentic": "正规经销商"
+    }
+  },
+  "SocialProofPage": {
+    "seo": {
+      "title": "在 FigmaEdu 购买 Figma Edu 账号的客户见证",
+      "description": "查看在 FigmaEdu 购买 Figma Education 账号的真实客户见证。真实订单——在越南购买靠谱的 Figma edu 账号。",
+      "keywords": "购买 Figma 账号, Figma edu 客户, Figma Education 订单, FigmaEdu, 购买 Figma edu 见证"
+    },
+    "hero": {
+      "badge": "真实订单见证",
+      "title": "客户已购买",
+      "highlight": "Figma Education 账号",
+      "description": "数千名客户在购买 Figma edu 账号时信任 FigmaEdu。查看来自成功订单的真实见证！",
+      "stats": {
+        "orders": "订单",
+        "cursor": "Figma Edu",
+        "github": "学生账号",
+        "reviews": "评价",
+        "figma": "Figma Edu",
+        "delivery": "快速发货"
+      }
+    },
+    "proofs": {
+      "title": "来自客户的真实见证",
+      "description": "点击每个见证查看详情并放大图片",
+      "badges": {
+        "authentic": "值得信赖的零售商"
+      },
+      "labels": {
+        "authentic": "值得信赖的零售商"
+      },
+      "verifiedBadge": "已验证凭证"
+    },
+    "trust": {
+      "title": "为什么选择我们？",
+      "items": {
+        "0": {
+          "title": "100%",
+          "description": "承诺协助购买透明、符合套餐描述的 Figma Education 账号"
+        },
+        "1": {
+          "title": "Bảo hành 1 đổi 1",
+          "description": "若因商家原因出错立即换新（依据政策）"
+        },
+        "2": {
+          "title": "Hỗ trợ 24/7",
+          "description": "热情的支持团队随时准备提供帮助"
+        }
+      }
+    },
+    "productTypes": {
+      "figmaEdu": "Figma Education"
+    },
+    "commitment": {
+      "bannerTitle": "🛡️ 100% 真实订单承诺",
+      "bannerSubtitle": "如发现虚假订单，200% 退款",
+      "ssl": "SSL 安全加密",
+      "verified": "已验证",
+      "trusted": "卓越信誉"
+    },
+    "whyTrust": {
+      "badge": "为什么客户信任我们",
+      "title": "信誉承诺 - 100% 透明",
+      "description": "我们很自豪能成为专门销售 Figma Education 账号的独立零售商，拥有数千名满意的客户。",
+      "realOrdersTitle": "100% 真实订单",
+      "realOrdersDesc": "所有显示的订单均直接来自支付系统，无任何人为干预。",
+      "dataSecurityTitle": "信息安全",
+      "dataSecurityDesc": "客户信息通过 256 位 SSL 得到绝对保护。客户姓名已部分隐藏以保护隐私。",
+      "instantDeliveryTitle": "即时发货",
+      "instantDeliveryDesc": "支付成功后立即通过电子邮件接收 Figma Education 账号。24/7 支持。",
+      "refundTitle": "200% 退款",
+      "refundDesc": "若发现任何虚假订单，承诺 200% 退款。这是我们的自信。",
+      "quote": "超过 {count}+ 名客户已经在 FigmaEdu 信任并购买了 Figma Education 账号。感谢您的同行！",
+      "satisfied": "满意的客户"
+    },
+    "promise": {
+      "badge": "我们的承诺"
+    },
+    "cta": {
+      "title": "🎯 您还在犹豫什么？",
+      "description": "数千名客户已在 FigmaEdu 购买了 Figma Education 账号。轮到您了！",
+      "buyNow": "立即购买",
+      "contact": "联系客服"
+    }
+  },
+  "BlogPage": {
+    "seo": {
+      "title": "Figma Education 博客 — 指南与技巧",
+      "description": "FigmaEdu 博客 — Figma edu 账号购买指南、Auto Layout 技巧、原型制作与团队协作。面向越南设计专业学生的 Figma Education 知识。",
+      "keywords": "blog Figma Education, Figma edu, mua tài khoản Figma, mẹo Figma, hướng dẫn Figma Education, FigmaEdu blog"
+    },
+    "hero": {
+      "title": "博客",
+      "highlight": "Figma Education",
+      "description": "分享 Figma Education 的使用指南与技巧 — 从购买 Figma edu 账号到 Auto Layout、原型制作与课题组协作。"
+    },
+    "categories": {
+      "all": "全部",
+      "tutorial": "教程",
+      "news": "新闻",
+      "tips": "技巧"
+    },
+    "featured": {
+      "title": "精选文章",
+      "readMore": "阅读文章",
+      "defaultTitle": "Featured Post",
+      "readTime": "{minutes} 分钟阅读",
+      "author": "Admin"
+    },
+    "posts": {
+      "title": "最新文章",
+      "readMore": "继续阅读",
+      "defaultImage": "Blog Image",
+      "empty": "暂无文章。Figma Education 指南即将来袭 — 敬请期待！",
+      "loadMore": "加载更多文章"
+    },
+    "newsletter": {
+      "title": "订阅最新资讯",
+      "description": "接收 Figma Education 技巧简报、Figma edu 套餐更新以及订阅者专属教程。",
+      "placeholder": "your.email@example.com",
+      "button": "订阅",
+      "privacy": "我们尊重您的 privacy。可随时 Unsubscribe。"
+    },
+    "cta": {
+      "title": "准备好购买 Figma Edu 账号了吗？",
+      "description": "立即运用博客技巧，开启您的 Figma Education 设计之旅",
+      "buyNow": "立即购买 Figma Edu",
+      "guide": "查看指南"
+    }
+  },
+  "ContactPage": {
+    "seo": {
+      "title": "联系购买 Figma Edu 账号 — 24/7 客服支持",
+      "description": "联系 FigmaEdu 购买 Figma Education 账号。通过 Telegram、Facebook 提供 24/7 全天候支持。快速咨询购买 Figma edu 账号。",
+      "keywords": "liên hệ FigmaEdu, mua tài khoản Figma, hỗ trợ Figma edu, Figma Education Việt Nam, figmaedu.shop"
+    },
+    "hero": {
+      "badge": "我们随时准备为您提供帮助",
+      "title": "联系",
+      "highlight": "FigmaEdu",
+      "description": "专业的支持团队随时准备为您服务",
+      "subDescription": "立即联系以获得关于购买 Figma Education 账号的免费咨询！",
+      "stats": {
+        "response": "5分钟内回复",
+        "customers": "数千客户信赖",
+        "support": "24/7 即时支持"
+      }
+    },
+    "methods": {
+      "title": "选择适合您的",
+      "highlight": "联系方式",
+      "description": "通过 Facebook 专页或 Telegram 联系我们以获得快速支持",
+      "facebook": {
+        "title": "Facebook 专页",
+        "description": "关注并通过专页联系",
+        "action": "访问专页"
+      },
+      "telegram": {
+        "title": "Telegram",
+        "description": "通过 Telegram 联系客服",
+        "action": "联系 Telegram"
+      },
+      "available": "24/7"
+    },
+    "quickBanner": {
+      "title": "💬 最快联系渠道",
+      "facebook": "Facebook 专页",
+      "or": "hoặc",
+      "telegram": "Telegram",
+      "description": "若想获得即时回复及关于购买 Figma edu 账号的详细咨询，请通过 Facebook 专页或 Telegram 联系。我们承诺在 5 分钟内回复！",
+      "buttons": {
+        "facebook": "Facebook 专页",
+        "telegram": "FigmaEdu Telegram"
+      }
+    },
+    "info": {
+      "title": "联系我们",
+      "description": "请通过 Facebook 专页或 Telegram 联系以获得快速支持",
+      "note": "💡 注意：我们仅通过 Facebook 专页和 Telegram 两个主要渠道提供支持。请通过其中之一联系以获得最快回复。",
+      "company": {
+        "title": "店铺信息",
+        "name": "FigmaEdu",
+        "description": "Figma Education 账号独立零售商 — 与 Figma, Inc. 无关联。",
+        "addressTitle": "地址",
+        "address": "越南胡志明市",
+        "hoursTitle": "营业时间",
+        "hours": "• 周一至周日：08:00 - 23:00\n• 晚间和周末回复可能较慢\n• 快速回复时段：周一至周五，08:00-12:00；13:30-17:00\n• 午休时间 12:00-13:30 回复可能较慢或延迟至下午\n• 优先发送 Telegram 信息以获得比 Facebook 更快的回复\n• 紧急情况：通过 Telegram/Facebook 24/7 全天候响应",
+        "responseTitle": "回复时间",
+        "response": "• Telegram（优先）：通常更快\n• Facebook 专页：晚间/周末可能较慢"
+      },
+      "faq": {
+        "title": "常见问题",
+        "viewAll": "查看所有 FAQ",
+        "items": {
+          "0": {
+            "question": "账号可以立即使用吗？",
+            "answer": "可以！支付后您将收到登录邮箱，即可立即登录 Figma。"
+          },
+          "1": {
+            "question": "是否提供登录指导？",
+            "answer": "是的！我们提供全程免费的 Figma edu 账号登录指导。"
+          },
+          "2": {
+            "question": "支付安全吗？",
+            "answer": "绝对安全，支持多种支付方式：MoMo、银行转账、ZaloPay、VietQR。"
+          }
+        }
+      }
+    },
+    "emergency": {
+      "badge": "🚨",
+      "title": "需要紧急支持？",
+      "description": "如果 Figma edu 账号遇到故障或需要紧急帮助，请立即通过 Facebook 专页或 Telegram 联系我们！我们 24/7 在线。",
+      "note": "⚡ 紧急情况下 2 分钟内回复"
+    },
+    "social": {
+      "title": "通过以下支持渠道联系我们"
+    }
+  },
+  "Cart": {
+    "trigger": {
+      "ariaLabel": "打开购物车"
+    },
+    "title": "购物车",
+    "empty": {
+      "message": "您的购物车是空的",
+      "count": "您的购物车中有 {count} 件商品",
+      "title": "购物车为空",
+      "description": "您尚未将任何商品添加到购物车。",
+      "viewProducts": "查看商品"
+    },
+    "item": {
+      "remove": "删除商品",
+      "decrease": "减少数量",
+      "increase": "增加数量"
+    },
+    "summary": {
+      "subtotal": "小计",
+      "discountCode": "推广员优惠码",
+      "placeholder": "输入优惠码",
+      "apply": "应用",
+      "applying": "正在验证...",
+      "discount": "折扣",
+      "total": "合计",
+      "checkout": "去结算",
+      "continue": "继续购物",
+      "clear": "清空购物车"
+    },
+    "voucher": {
+      "appliedLabel": "已应用优惠码",
+      "applied": "已成功应用优惠码！",
+      "removed": "已移除优惠码",
+      "remove": "移除",
+      "invalid": "优惠码无效",
+      "networkError": "网络连接失败，请重试"
+    },
+    "priceChanged": {
+      "title": "商品价格已更新",
+      "dismiss": "知道了"
+    }
+  },
+  "Checkout": {
+    "title": "结账",
+    "back": "返回购物",
+    "greeting": {
+      "user": "你好，{name}！请完善信息以完成下单",
+      "guest": "请完善信息以完成下单"
+    },
+    "loginHint": {
+      "text": "以自动填写信息并跟踪订单",
+      "link": "登录"
+    },
+    "walletBanner": "一次充值钱包 — 多次消费，减少银行转账操作",
+    "loginRequired": {
+      "title": "请先登录后再进行支付",
+      "desc": "使用钱包支付，只需转账一次即可多次购物"
+    },
+    "steps": {
+      "info": "订单信息",
+      "payment": "支付",
+      "finish": "完成"
+    },
+    "form": {
+      "customerInfo": "客户信息",
+      "name": "姓名",
+      "email": "电子邮箱",
+      "phone": "手机号码",
+      "note": "订单备注",
+      "notePlaceholder": "订单备注（选填）",
+      "autoFill": "✓ 已从您的账户自动填充"
+    },
+    "payment": {
+      "title": "支付方式",
+      "bankTransfer": "银行转账",
+      "bankTransferDesc": "扫码支付 - 自动确认",
+      "wallet": "钱包余额支付",
+      "walletDesc": "直接从钱包扣款 — 订单立即处理，无需扫描二维码。",
+      "walletBalance": "余额",
+      "recommended": "推荐",
+      "shortfall": "还差 {amount}",
+      "topupCta": "充值 {amount} 以进行支付",
+      "walletInsufficientHint": "余额不足 — 请充值",
+      "walletInsufficient": "钱包余额不足以支付此订单",
+      "walletLoginHint": "以便使用钱包余额快速支付（无需逐笔转账）。",
+      "payWithWalletBtn": "立即使用钱包支付"
+    },
+    "summary": {
+      "title": "订单明细（{count} 件商品）",
+      "subtotal": "小计",
+      "processingFee": "手续费",
+      "free": "免费",
+      "voucher": "优惠券（{code}）",
+      "total": "合计",
+      "submit": "立即下单",
+      "submitting": "处理中...",
+      "termsHint": "下单前请勾选上方所有必选确认框。"
+    },
+    "consent": {
+      "title": "必要确认",
+      "over18": "我已年满 18 岁。",
+      "termsPrivacy": "我同意<terms>服务条款</terms>和<privacy>隐私政策</privacy>。",
+      "reseller": "我已知晓 FigmaEdu 为独立分销商，与 Figma, Inc. 无附属关系。",
+      "cursorTos": "我同意遵守 Figma 条款（<link>www.figma.com/legal</link>）。"
+    },
+    "toast": {
+      "cartEmpty": "购物车为空，请选择商品",
+      "missingInfo": "请输入姓名和电子邮箱",
+      "missingConsent": "请勾选所有必选确认框",
+      "missingUpgradeInfo": "请输入需要升级的完整账户信息",
+      "success": "订单创建成功！",
+      "error": "发生错误，请重试"
+    },
+    "upgradeInfo": {
+      "title": "需升级的账户信息",
+      "description": "请输入您需要升级的账户邮箱和密码。此信息仅用于升级您的账户。",
+      "email": "账户邮箱",
+      "emailPlaceholder": "输入需要升级的账户邮箱",
+      "password": "账户密码",
+      "passwordPlaceholder": "输入账户密码",
+      "contactInfo": "Telegram / Facebook",
+      "contactPlaceholder": "输入 Telegram 用户名或 Facebook 链接以便联系"
+    }
+  },
+  "CookiesPage": {
+    "seo": {
+      "title": "Cookie 政策",
+      "description": "FigmaEdu 的 Cookie 政策。了解我们如何使用 Cookie 来提升用户体验并保护个人信息。",
+      "keywords": "FigmaEdu Cookie 政策, Cookie 政策, 信息安全"
+    },
+    "hero": {
+      "title": "政策",
+      "highlight": "Cookie",
+      "description": "透明地了解 FigmaEdu 如何使用 Cookie 来提升您的体验并保护您的个人信息。",
+      "update": "更新日期：2025年1月15日"
+    },
+    "definition": {
+      "title": "什么是 Cookie？",
+      "description": "Cookie 是您访问网站时存储在设备上的小文本文件。它们帮助网站记录有关您的访问信息，使下一次访问更加便捷。",
+      "whyTitle": "我们为什么使用 Cookie？",
+      "reasons": {
+        "1": "确保网站正常运行和安全",
+        "2": "记住您的登录状态和购物车内容",
+        "3": "提高页面加载速度与性能",
+        "4": "了解您如何使用网站以优化体验",
+        "5": "提供相关的个性化内容和广告"
+      },
+      "commitment": "承诺：我们绝不会在 Cookie 中存储密码、信用卡信息等敏感数据。"
+    },
+    "types": {
+      "title": "我们使用的 Cookie 类型",
+      "description": "清晰了解每类 Cookie 及其具体用途",
+      "purpose": "目的：",
+      "examples": "示例：",
+      "canDisable": "可禁用：",
+      "yes": "✅ 是",
+      "no": "❌ 否",
+      "settings": "设置",
+      "items": {
+        "essential": {
+          "title": "必要 Cookie",
+          "description": "网站基本运行所必需",
+          "purpose": "确保网站正常运行"
+        },
+        "analytics": {
+          "title": "分析 Cookie",
+          "description": "收集网站使用数据",
+          "purpose": "了解用户与网站的互动方式"
+        },
+        "marketing": {
+          "title": "营销 Cookie",
+          "description": "用于精准投放相关广告",
+          "purpose": "追踪广告效果"
+        },
+        "functional": {
+          "title": "功能性 Cookie",
+          "description": "记住您的偏好设置",
+          "purpose": "保存语言和界面设置"
+        }
+      }
+    },
+    "details": {
+      "title": "Cookie 详情",
+      "description": "本网站使用的完整 Cookie 列表",
+      "headers": {
+        "name": "Cookie 名称",
+        "provider": "提供商",
+        "purpose": "用途",
+        "duration": "有效期",
+        "type": "类型"
+      }
+    },
+    "manage": {
+      "title": "管理 Cookie",
+      "description": "您可以根据需要控制和/或删除 Cookie。",
+      "browser": "浏览器设置",
+      "options": "可用选项",
+      "warning": "警告",
+      "warningItems": {
+        "1": "禁用必要 Cookie 可能会影响网站功能的正常使用",
+        "2": "个人偏好设置将无法保存",
+        "3": "您可能需要重新登录"
+      },
+      "buttons": {
+        "settings": "更改设置",
+        "view": "查看详情"
+      }
+    },
+    "thirdParty": {
+      "title": "第三方 Cookie",
+      "description": "我们使用可信赖的第三方服务，它们可能会在您的设备上放置 Cookie。"
+    },
+    "contact": {
+      "title": "联系与更新",
+      "changes": "政策变更",
+      "info": "联系信息"
+    },
+    "cta": {
+      "title": "有疑问？",
+      "description": "我们的团队随时准备为您解答有关数据处理的任何疑问。",
+      "contact": "立即联系",
+      "privacy": "隐私政策"
+    }
+  },
+  "TermsPage": {
+    "seo": {
+      "title": "条款与条件",
+      "description": "FigmaEdu (figmaedu.shop) 的条款与条件。设置、升级、激活的技术支持服务 — 非 Figma, Inc. 的代理商或分销商。保修、付款及责任限制。",
+      "keywords": "FigmaEdu 条款, 条款与条件, Figma Education, figmaedu.shop"
+    },
+    "hero": {
+      "title": "条款与",
+      "highlight": "条件",
+      "description": "在使用 FigmaEdu 之前，请仔细阅读本条款。访问本网站、下单或支付任何服务费用，即表示您确认已阅读、理解并同意受以下条款约束。",
+      "effective": "生效日期：2026年7月11日（版本 2026-07-11）"
+    },
+    "highlights": {
+      "transparent": {
+        "title": "透明",
+        "desc": "技术支持范围清晰明确"
+      },
+      "fair": {
+        "title": "公平",
+        "desc": "保障双方合法权益"
+      },
+      "flexible": {
+        "title": "保修明确",
+        "desc": "若因商家原因出错，24小时内1换1"
+      },
+      "updated": {
+        "title": "实时更新",
+        "desc": "符合当前运营实际"
+      }
+    },
+    "sections": {
+      "1": {
+        "title": "1. 服务范围",
+        "intro": "FigmaEdu (figmaedu.shop) 提供客户支持服务，协助根据客户的具体要求进行与软件、账户或数字服务相关的设置、升级、激活、配置或处理技术需求。",
+        "items": [
+          "“FigmaEdu”或“我们”：指独立的技术支持服务商 — 除非该品牌所有者有明确的书面通知，否则并非 Figma, Inc.、Figma 或任何其他品牌的代理商、分销商、授权单位、代表机构或官方合作伙伴。",
+          "“客户”或“您”：指请求并使用我们支持服务的人员。",
+          "“服务”：指已公布范围内的设置、升级、激活、配置指导、付款协助（如适用）及交付后售后维护等活动。",
+          "“账户 / 访问权限”：指在我们根据要求完成协助后交付的与 Figma（或所述产品）相关的登录信息或访问权限。",
+          "“网站”：指 figmaedu.shop 网站及其二级域名。"
+        ],
+        "trademarkNote": "本网站提及的所有品牌名称、标志、软件名称或产品名称，仅用于说明兼容性、技术支持需求或客户要求的服务内容。所有商标均归其各自所有者所有。"
+      },
+      "2": {
+        "title": "2. 接受条款",
+        "content": "通过访问本网站、注册、提交支持请求、下单、付款（SePay/VietQR、加密货币、钱包余额或其他已公布的付款方式）或使用我们提供的任何服务，即表示您确认已阅读、理解并同意遵守本条款及隐私政策。",
+        "note": "注意：如果您不同意本条款中的任何内容，请立即停止使用本服务，切勿下单或付款。",
+        "paymentMeans": "完成付款即视为您确认支持请求合法，所提供的信息属于您的合法使用权，并同意提供我们执行服务所需的信息。"
+      },
+      "3": {
+        "title": "3. 本质服务与第三方因素",
+        "package": "支持服务可能包括（但不限于）：",
+        "packageItems": [
+          "协助账户设置或软件配置",
+          "协助服务套餐、功能或配置升级",
+          "根据客户合规需求协助激活软件、账户或数字服务",
+          "在我们技术能力范围内协助安装、配置、测试或提供使用指导",
+          "协助处理我们已为您执行的服务在使用过程中产生的相关问题"
+        ],
+        "commitment": "重要澄清：",
+        "commitmentItems": [
+          "我们仅执行符合法律、平台/软件提供商条款以及 FigmaEdu 服务政策的请求。",
+          "如果请求有违法、侵犯知识产权、欺诈、滥用或影响第三方合法权益的迹象，我们有权拒绝提供服务。",
+          "我们并非 Figma, Inc. 的代理商或分销商；产品名称仅具描述性质。",
+          "在已公布的保修范围内，发生与付款或激活相关的错误时，我们将协助处理。"
+        ],
+        "note": "注意：FigmaEdu 是一项独立的技术支持服务，不属于 Figma, Inc.。Figma 产品的所有知识产权和最终解释权均归 Figma, Inc. 所有。",
+        "durationTitle": "使用期限、支持期限及不可控因素",
+        "durationIntro": "每项服务可能具有不同的使用期限、支持期限或其他条件。客户在付款前需仔细阅读说明。维持服务的能力可能会受到超出我们控制范围的因素影响，包括：",
+        "durationItems": [
+          "软件开发商、平台或原始服务提供商（包括 Figma, Inc.）的政策",
+          "第三方使用条款、激活政策、账户政策或安全政策的变更",
+          "第三方停止提供、更改、限制或撤销功能",
+          "来自 third-party 的系统错误、技术变更或其他客观原因",
+          "法律规定的不可抗力情况"
+        ],
+        "durationNote": "我们将尝试在合理范围内提供协助，但如果原因超出我们的控制范围，我们不保证能完全恢复功能、访问权限或服务状态。",
+        "cursorTitle": "Figma 条款",
+        "cursorItems": [
+          "您必须遵守 Figma 条款 (www.figma.com/legal) 和隐私政策 (www.figma.com/legal)。",
+          "我们无法控制 Figma, Inc. 的价格、功能、在线时间 (uptime) 或封禁账户的决定。",
+          "任何优惠/推荐权益（如有）均取决于 Figma, Inc. 的政策，并可能随时变更或被撤销。"
+        ]
+      },
+      "4": {
+        "title": "4. 账户信息、安全与交付后责任",
+        "intro": "客户有责任确保提供的信息准确、合法且属于其合法使用权。在服务完成/交付后，账户（或访问权限）即为客户的资产，客户须自行确保其安全。",
+        "items": [
+          "如果建议或适用，请在收到凭据后立即更改电子邮件、密码、2FA（双重认证）和恢复邮箱。",
+          "请将登录信息、激活码和配置数据妥善保存在安全位置；切勿共享给未经授权的人员。",
+          "主动保护账户和设备，防止出现丢失访问权限、信息泄露或被第三方未经授权使用的风险。",
+          "出于安全原因，交付完成后我们可能不会存储或无法重新提供某些信息 — 客户需自行保存。",
+          "使用一段时间后，因忘记账户信息、忘记密码、忘记登录凭据或丢失 2FA 而无法访问的情况，我们概不提供支持。",
+          "严禁垃圾邮件 (spam)、逆向工程或违反越南/国际法律的行为。",
+          "违规行为可能导致服务被立即终止，且不予退款。",
+          "您需对所收到账户下发生的一切活动承担全责。"
+        ]
+      },
+      "5": {
+        "title": "5. 下单与付款",
+        "order": "下单：",
+        "orderItems": [
+          "选择与所需 Figma 期限对应的支持服务套餐",
+          "添加到购物车并结账",
+          "准确填写联系信息和 Figma 账户（如有）",
+          "选择合适的付款方式",
+          "确认支持请求并完成服务订购"
+        ],
+        "payment": "付款：",
+        "paymentItems": [
+          "SePay / VietQR（银行转账）、加密货币（Binance、Bybit、链上）及钱包余额（如有）",
+          "客户需在协助服务开始前 100% 支付服务费用",
+          "收据将通过电子邮件或订单管理系统发送",
+          "服务费已明确列出，不包含 Figma 发行商的相关税费"
+        ],
+        "time": "处理时间：对于常规订单，我们在付款成功后通常会在 1–5 分钟内开始提供协助。"
+      },
+      "6": {
+        "title": "6. 保修、退换货与退款",
+        "noRefundNote": "凭据交付 / 账户激活成功（数字商品）后不予退款，除非因我们自身原因导致无法履行服务，或通过官方支持渠道另行达成书面协议。",
+        "replacement": "1换1保修（商家原因导致的错误，前24小时内）：",
+        "replacementItems": [
+          "收到凭据后无法立即登录（商家原因）",
+          "登录后前24小时内缺少 Education 功能（商家原因）",
+          "使用期限与购买的套餐不符（商家原因）"
+        ],
+        "warranty": "保修支持：",
+        "warrantyItems": [
+          "在已公布的套餐范围内提供技术支持",
+          "确认 24 小时内因商家原因导致的交付错误后进行核查与 1 换 1",
+          "在 24 小时内回复合规的保修请求"
+        ],
+        "exclusion": "在以下情况下不予保修 / 不予退款 / 不提供额外支持：",
+        "exclusionItems": [
+          "凭据已交付且账户已成功激活",
+          "使用一段时间后忘记密码、丢失 2FA、忘记登录凭据或失去访问权限",
+          "客户在交付后自行更改配置、邮箱、密码、个人资料或安全设置",
+          "Figma, Inc. 根据其服务条款或政策暂停/终止账户",
+          "误用或违反 Figma 条款",
+          "未经授权共享账户、转售或进行商业开发",
+          "购买后改变主意",
+          "因客户设备、网络、恶意软件导致的错误或超出服务范围的因素",
+          "来自 Figma, Inc. 的服务器宕机、维护或政策变更"
+        ]
+      },
+      "7": {
+        "title": "7. 客户义务",
+        "commit": "您承诺：",
+        "commitItems": [
+          "遵守越南法律及相关规定",
+          "提供准确、完整的联系信息和账户信息",
+          "交付后立即更改安全信息并自行保管凭据",
+          "将账户用于合法的个人用途并遵守 Figma 条款",
+          "配合提供完成协助所需的必要信息"
+        ],
+        "forbid": "您不得：",
+        "forbidItems": [
+          "要求执行违法、越权访问、破解、破译或违反第三方条款的行为",
+          "将服务用于欺诈、侵犯知识产权或损害第三方利益",
+          "未经授权倒卖、共享或转让，从而影响 FigmaEdu、其他客户或第三方",
+          "提供虚假信息或不属于您合法使用权的信息",
+          "发送垃圾邮件、滥用请求限制、创建多个账户以套取优惠，或使用非法付款方式",
+          "使用账户开发违反适用条款的竞争性产品"
+        ]
+      },
+      "8": {
+        "title": "8. 我们的义务与责任限制",
+        "commit": "我们承诺：",
+        "commitItems": [
+          "透明公布支持服务范围及相关费用",
+          "在承诺的时间内提供支持（常规订单通常在付款后 1–5 分钟内）",
+          "在已公布的保修/支持期限内全程提供技术协助",
+          "根据隐私政策保护客户信息",
+          "遵守已公布的保修与退款政策"
+        ],
+        "limit": "责任限制：",
+        "limitItems": [
+          "无法干预 Figma, Inc. 的政策、功能、在线时间或账户决定",
+          "不保证 Figma 服务的 100% 连续性",
+          "对于因客户误用、第三方政策变更、客户侧安全漏洞（丢失密码/2FA）或不可抗力导致的间接、偶然、衍生损失、数据丢失、收入损失、利润损失、业务中断或访问权限丢失，概不承担责任",
+          "针对某项具体服务，如果由我们直接原因导致且无法修复，最大责任金额不超过客户为该特定服务支付的金额"
+        ]
+      },
+      "9": {
+        "title": "9. 知识产权与商标",
+        "items": [
+          "网站内容（由我们编纂的文本、布局、界面、图像、指导文档）属于 FigmaEdu 的所有权或合法使用权。",
+          "Figma 和 Figma Education 是 Figma, Inc. 的商标。其他名称/标志归其各自所有者所有。",
+          "提及这些商标并不意味着我们获得了这些品牌的赞助、认可、授权、分销或官方代表身份。",
+          "未经 FigmaEdu 或合法所有者的书面同意，客户不得未经授权复制、修改、分销或利用本网站内容。"
+        ]
+      },
+      "10": {
+        "title": "10. 中止或终止服务",
+        "intro": "如果发生以下情况，我们有权暂停或终止提供服务：",
+        "items": [
+          "客户违反本条款",
+          "客户有欺诈、滥用、骚扰或影响系统/其他客户的行为",
+          "客户要求的服务内容有违法迹象或侵犯第三方权利",
+          "客户未提供完成服务所需的充分信息",
+          "继续提供服务可能会给 FigmaEdu、其他客户或第三方带来法律、技术或安全风险"
+        ],
+        "note": "如果因客户违规行为导致中止或终止服务，我们有权拒绝退款并拒绝继续提供协助。"
+      },
+      "11": {
+        "title": "11. 条款变更",
+        "content": "我们有权随时更新、修改或变更本条款，以符合商业模式、法律法规、第三方政策或运营需求。",
+        "reasonItems": [
+          "业务与服务变更",
+          "新的法律要求",
+          "第三方政策变更",
+          "提升客户体验"
+        ],
+        "note": "更新版本将在 figmaedu.shop 上公布，并自发布之日起生效，除非另有说明。更新后继续使用服务即表示接受变更。重大变更也可能在结账时通过 TERMS_VERSION 呈现。"
+      },
+      "12": {
+        "title": "12. 争议解决",
+        "process": "解决流程：",
+        "processItems": [
+          "通过 Messenger、Telegram 或电子邮件直接联系",
+          "在 24 小时内沟通并寻找解决方案",
+          "如未能达成一致，提交至管理层处理",
+          "最终根据越南法律在胡志明市有管辖权的机构解决"
+        ],
+        "law": "适用法律：本条款受越南法律管辖。所有争议均应在胡志明市有管辖权的法院解决。"
+      },
+      "13": {
+        "title": "13. 联系方式",
+        "brand": "FigmaEdu",
+        "support": "支持时间",
+        "time": "支持：24/7",
+        "resp": "回复：5分钟内（常规班次）",
+        "web": "网站：figmaedu.shop",
+        "email": "电子邮件：support@figmaedu.shop",
+        "messenger": "Messenger：figmaedu.shop/contact",
+        "telegram": "Telegram：figmaedu.shop/contact"
+      }
+    },
+    "legalSafety": {
+      "title": "合法使用规定与免责声明",
+      "highlight": "购买并使用本服务，即表示您确认已阅读、理解并同意以下规定。",
+      "prohibitedTitle": "严禁以下行为：",
+      "prohibited": [
+        "严禁将提供的账户、电子邮件及所有资源用于非法目的。",
+        "网络诈骗、欺诈、侵占财产、洗钱或资助非法活动。",
+        "发送垃圾邮件 (spam)、传播恶意软件、钓鱼攻击、网络攻击或未经授权访问系统。",
+        "冒充他人、伪造身份或伪造文件资料。",
+        "侵犯知识产权或传播法律明令禁止的内容。",
+        "任何违反客户居住国法律及越南法律的行为。"
+      ],
+      "disclaimerTitle": "免责声明：",
+      "disclaimer": [
+        "账户/访问权限按“按现状”(as-is) 和“按现有”(as-available) 形式提供；除在已公布支持范围内进行常规合法使用外，我们不保证其适用于任何特定目的。",
+        "对于滥用资源产生的任何行为，我们概不承担责任。",
+        "交付后，客户对该账户发生的所有活动承担全部法律责任。",
+        "客户有义务了解并遵守其居住国的法律；遵守法律的责任由客户承担。",
+        "我们对任何索赔承担的最大责任仅限于相关订单的金额。"
+      ],
+      "indemnityTitle": "赔偿与使用条件：",
+      "indemnity": [
+        "客户同意赔偿、保护并使 FigmaEdu 免受因客户违反条款或滥用服务而产生的任何索赔、损失、费用（包括法律费用）的损害。",
+        "客户确认使用服务时已年满 18 周岁且具备完全民事行为能力。",
+        "如果发现有将服务用于非法目的的迹象，我们有权立即拒绝或终止服务（不予退款）。",
+        "当执法机关提出合法要求时，我们将依法配合提供相关信息。",
+        "总体责任上限仅限于您为相关订单支付的金额。"
+      ]
+    },
+    "cta": {
+      "title": "已完全理解条款？",
+      "description": "在权利与责任明确的前提下，开始使用来自 FigmaEdu 的 Figma 支持服务",
+      "buy": "立即购买 - 我同意",
+      "contact": "常见问题解答"
+    }
+  },
+  "ProductDetail": {
+    "back": "返回商品",
+    "notFound": {
+      "title": "未找到商品",
+      "description": "您正在寻找的商品不存在。",
+      "button": "返回商品"
+    },
+    "badges": {
+      "popular": "热门",
+      "discount": "{percent}%"
+    },
+    "purchaseMode": {
+      "account": "购买新账号",
+      "upgrade": "升级个人原号"
+    },
+    "status": {
+      "inStock": "有货",
+      "outOfStock": "缺货",
+      "available": "现有 {count} 个可用账号"
+    },
+    "actions": {
+      "addToCart": "加入购物车",
+      "buyNow": "立即购买",
+      "adding": "添加中…",
+      "added": "{name} 已成功加入购物车"
+    },
+    "item": {
+      "decrease": "减少数量",
+      "increase": "增加数量"
+    },
+    "sections": {
+      "description": "详细描述",
+      "features": "核心功能",
+      "specs": "技术参数",
+      "reviews": "商品评价"
+    },
+    "breadcrumbs": {
+      "home": "首页",
+      "products": "商品列表"
+    },
+    "quantity": "数量",
+    "reviews": "条评价",
+    "soldCount": "已售 {count}+",
+    "save": "立省 {amount}",
+    "noDescription": "暂无该商品的详细描述。",
+    "trust": {
+      "warranty": "售后质保",
+      "warrantyDesc": "终身 1 换 1",
+      "delivery": "自动发货",
+      "deliveryDesc": "5分钟内自动交付",
+      "support": "技术支持",
+      "supportDesc": "24/7 全天候"
+    },
+    "relatedProducts": {
+      "title": "相关商品",
+      "viewAll": "查看全部",
+      "added": "{name} 已成功加入购物车"
+    },
+    "restockAlert": {
+      "title": "到货通知",
+      "description": "输入您的电子邮箱，商品补货后我们将第一时间通知您。",
+      "emailLabel": "电子邮箱",
+      "emailPlaceholder": "email@example.com",
+      "submit": "订阅到货通知",
+      "submitting": "提交中…",
+      "success": "订阅成功！商品到货后我们将发送邮件通知您。",
+      "error": "订阅失败，请重试。",
+      "alreadyInStock": "该商品目前现货供应。",
+      "rateLimited": "请求过于频繁，请稍后再试。"
+    }
+  },
+  "ProductReviews": {
+    "title": "用户评价 ({count})",
+    "writeReview": {
+      "title": "撰写评价",
+      "description": "分享您对该商品的使用体验",
+      "loginRequired": "请先登录后再撰写评价",
+      "loginButton": "立即登录",
+      "yourRating": "您的评分",
+      "quickTags": "快捷标签",
+      "commentLabel": "评价内容",
+      "placeholder": "商品非常棒...",
+      "submit": "提交评价",
+      "submitting": "提交中..."
+    },
+    "list": {
+      "empty": "暂无评价。",
+      "loading": "加载评价中...",
+      "adminReply": "商家回复："
+    },
+    "toast": {
+      "loginRequired": "请先登录后再评价",
+      "success": "您的评价已成功提交！",
+      "error": "发生错误"
+    },
+    "tags": {
+      "quality": "正品保障，质量很好。",
+      "support": "客服响应迅速，态度很好。",
+      "reliable": "靠谱稳定发货快，大家放心购买。",
+      "professional": "店铺非常专业。",
+      "fast": "发货迅速，账号好用。",
+      "recommend": "会长期回购。"
+    }
+  },
+  "CookiesPageV2": {
+    "types": {
+      "items": {
+        "analytics": {
+          "title": "分析 Cookie",
+          "description": "收集网站使用数据",
+          "purpose": "了解用户与网站的互动方式"
+        },
+        "marketing": {
+          "title": "营销 Cookie",
+          "description": "个性化广告与内容",
+          "purpose": "展示符合您兴趣的内容"
+        },
+        "functional": {
+          "title": "功能 Cookie",
+          "description": "储存您的偏好设置",
+          "purpose": "记住您的个人设置与偏好"
+        }
+      }
+    },
+    "details": {
+      "title": "Cookie 详情",
+      "description": "本网站使用的完整 Cookie 列表",
+      "headers": {
+        "name": "Cookie 名称",
+        "provider": "提供商",
+        "purpose": "用途",
+        "duration": "有效期",
+        "type": "类型"
+      }
+    },
+    "manage": {
+      "title": "Cookie 管理",
+      "description": "您可以自主控制我们在网站上对 Cookie 的使用：",
+      "browser": "通过浏览器设置：",
+      "options": "可用选项：",
+      "warning": "⚠️ 重要提示：",
+      "warningItems": {
+        "1": "• 禁用 Cookie 可能会影响网站浏览体验",
+        "2": "• 部分功能可能无法正常使用",
+        "3": "• 禁用 Cookie 后您可能需要重新登录"
+      },
+      "buttons": {
+        "settings": "设置 Cookie 偏好",
+        "view": "查看当前 Cookie"
+      }
+    },
+    "thirdParty": {
+      "title": "第三方 Cookie",
+      "description": "我们的网站可能包含第三方内容（如 YouTube 视频、地图、社交媒体插件），这些第三方可能会设置其自有的 Cookie。"
+    },
+    "contact": {
+      "title": "更新与联系方式",
+      "changes": "政策变更：",
+      "info": "Cookie 相关咨询："
+    },
+    "cta": {
+      "title": "对 Cookie 有疑问？",
+      "description": "我们的隐私与安全团队随时为您解答",
+      "contact": "联系客服 Support",
+      "privacy": "查看隐私政策"
+    }
+  },
+  "Auth": {
+    "signIn": {
+      "title": "登录",
+      "subtitle": "输入电子邮箱和密码以登录",
+      "emailLabel": "电子邮箱",
+      "emailPlaceholder": "email@example.com",
+      "passwordLabel": "密码",
+      "passwordPlaceholder": "请输入密码",
+      "forgotPassword": "忘记密码？",
+      "submit": "登录",
+      "submitting": "登录中...",
+      "orContinueWith": "或通过以下方式继续",
+      "noAccount": "还没有账号？",
+      "signUpLink": "立即注册"
+    },
+    "banner": {
+      "title": "FigmaEdu",
+      "slogan": "优质超值 Figma Education 账号服务",
+      "imageAlt": "FigmaEdu - 购买 Figma Education 账号"
+    },
+    "signUp": {
+      "title": "创建账号",
+      "subtitle": "填写信息以创建您的账号",
+      "nameLabel": "姓名",
+      "namePlaceholder": "张三",
+      "emailLabel": "电子邮箱",
+      "emailPlaceholder": "email@example.com",
+      "passwordLabel": "密码",
+      "passwordPlaceholder": "请输入强密码",
+      "passwordHint": "密码长度至少需要 8 个字符",
+      "over18Label": "我确认已年满 18 周岁。",
+      "over18Required": "您必须确认已年满 18 周岁才能注册。",
+      "submit": "创建账号",
+      "submitting": "账号创建中...",
+      "hasAccount": "已有账号？",
+      "signInLink": "登录"
+    },
+    "errors": {
+      "invalidEmailOrPassword": "账号或密码错误！",
+      "invalidPassword": "密码不正确，请重试。",
+      "userNotFound": "账号不存在，请先注册。",
+      "accountNotVerified": "账号尚未验证，请检查您的电子邮箱。",
+      "accountDisabled": "账号已被禁用，请联系客服。",
+      "tooManyAttempts": "尝试次数过多，请稍后再试。",
+      "networkError": "网络连接错误，请重试。",
+      "serverError": "服务器错误，请稍后再试。",
+      "defaultSignIn": "登录失败，请检查您的邮箱和密码。",
+      "defaultSignUp": "注册失败，请重试或联系客服。",
+      "userAlreadyExists": "该邮箱已被注册，请使用其他邮箱或直接登录。",
+      "weakPassword": "密码强度太低，请设置更强密码。",
+      "passwordTooShort": "密码太短，请输入至少 8 个字符。",
+      "invalidEmail": "电子邮箱格式不正确，请检查。",
+      "social": {
+        "github": "使用 GitHub 登录失败",
+        "google": "使用 Google 登录失败"
+      }
+    },
+    "success": {
+      "signIn": "登录成功！欢迎回来。",
+      "signUp": "注册成功！欢迎加入 FigmaEdu。"
+    }
+  },
+  "LiveOrderToast": {
+    "badge": "最新购买",
+    "verified": "已验证",
+    "justPurchased": "刚刚成功购买了"
+  },
+  "InteractiveCodeDemo": {
+    "badge": "互动 Demo",
+    "title": "Wait，在 Figma 上体验设计",
+    "subtitle": "对比手动排版与在 Figma Education 上使用 Auto Layout 及组件的工作流——更高效，团队同步更轻松！",
+    "playDemo": "运行 Demo",
+    "reset": "重置",
+    "withoutAI": "手动对齐",
+    "withCursorPro": "使用 Figma Education",
+    "timeSaved": "节省的时间",
+    "feature1Title": "智能 Auto Layout",
+    "feature1Desc": "一次设置约束，Frame 随内容自动扩展——大幅减少手动微调",
+    "feature2Title": "快速构建 Mockup",
+    "feature2Desc": "复用组件，几分钟内即可搭建界面，无需耗费数小时",
+    "feature3Title": "清晰的高保真 Prototype",
+    "feature3Desc": "清晰连接页面流程，轻松向导师或客户演示"
+  },
+  "ChatWidget": {
+    "title": "AI 客服支持",
+    "open": "打开支持聊天",
+    "close": "关闭",
+    "minimize": "最小化",
+    "expand": "展开",
+    "placeholder": "输入消息...",
+    "error": "抱歉，发生错误。请重试或通过 Telegram 联系客服。",
+    "clearHistory": "清除历史记录",
+    "notificationTitle": "🤖 AI 24/7 全天候支持",
+    "notificationDescription": "需要 Figma Education 套餐咨询？立即与 AI 聊天！",
+    "notificationAction": "立即聊天",
+    "bubbleMessage": "您好！我是 AI 客服。有什么可以帮您的吗？👋",
+    "quickActions": {
+      "pricing": "查看价格表",
+      "packages": "套餐咨询",
+      "payment": "付款方式",
+      "warranty": "质保政策"
+    }
+  },
+  "Email": {
+    "common": {
+      "shopName": "FigmaEdu",
+      "shopSubtitle": "感谢您在 FigmaEdu 购物",
+      "greeting": "您好 {name}",
+      "supportTitle": "💬 需要帮助？",
+      "supportIntro": "如果您遇到任何问题或需要支持，请联系我们：",
+      "supportContactLabel": "📞 联系客服：",
+      "supportFb": "Facebook 专页",
+      "supportTg": "Telegram",
+      "supportTgHandle": "FigmaEdu Telegram 支持",
+      "supportEmailLabel": "✉️ 邮箱：",
+      "supportOr": "或",
+      "footerThanks": "感谢您信任 FigmaEdu！🎉",
+      "footerAuto": "系统自动发送的邮件——请勿回复此邮件",
+      "footerTimePrefix": "时间：",
+      "footerSupport24x7": "FigmaEdu - 24/7 客户支持",
+      "footerAutoShort": "系统自动发送的邮件",
+      "fields": {
+        "orderNumber": "订单号：",
+        "total": "总金额：",
+        "paidAt": "支付时间：",
+        "product": "商品：",
+        "username": "用户名：",
+        "password": "密码：",
+        "licenseKey": "许可证密钥：",
+        "expiresAt": "到期时间：",
+        "upgradeEmail": "升级邮箱："
+      }
+    },
+    "subjects": {
+      "customerOrderConfirmation": "✅ 订单确认 #{orderNumber} - FigmaEdu",
+      "activationSuccess": "✅ 订单 #{orderNumber} 已成功激活 - Figma Education",
+      "subscriptionReminderUrgent": "🚨 紧急 {productName} 账号即将在 {daysLeft} 天内到期！",
+      "subscriptionReminderWarning": "⚠️ 注意 {productName} 账号即将在 {daysLeft} 天内到期！",
+      "accountContact": "📞 联系接收账号 - 订单 #{orderNumber}",
+      "upgradeCompleted": "✅ 账号升级成功 - 订单 #{orderNumber}",
+      "upgradeIssue": "⚠️ 需要确认信息 - 订单 #{orderNumber}",
+      "walletTopupSuccess": "✅ 钱包充值成功 {amount} - FigmaEdu",
+      "walletTopupRejected": "❌ 钱包充值请求已被拒绝 {amount}",
+      "restockAlert": "🎉 {productName} 已补货！"
+    },
+    "customerOrderConfirmation": {
+      "headerTitle": "✅ 下单成功！",
+      "intro": "您的订单 #{orderNumber} 已成功支付！以下是您的订单和账号详细信息。",
+      "orderTitle": "📦 订单信息",
+      "productsTitle": "🛒 已购商品",
+      "productItemQty": "数量: {qty}x - 价格: {price}",
+      "credsTitle": "🔑 您的账号信息",
+      "credsWarning": "⚠️ 请妥善保管此信息！这是您的账号登录信息。",
+      "credsNote": "💡 注意：您可以随时在订单管理页面重新查看此信息。",
+      "otpTitle": "🔐 如何获取 Figma OTP 验证码",
+      "otpLead": "当 Figma 要求验证码时，请打开下方链接（无需进入 Outlook 邮箱）。",
+      "otpStep1": "使用上方提供的邮箱/密码登录 Figma",
+      "otpStep2": "当 Figma 提示输入 OTP 验证码时，打开下方链接",
+      "otpStep3": "使用发送至购买邮箱的 6 位数验证码进行验证",
+      "otpStep4": "获取 Figma OTP 验证码并粘贴到 Figma 中",
+      "otpBtn": "获取 {email} 的 OTP 验证码",
+      "otpNote": "💡 使用发送至购买邮箱的 6 位数验证码进行验证，然后获取 Figma OTP。",
+      "viewOrderBtn": "📋 查看订单详情"
+    },
+    "activationSuccess": {
+      "headerTitle": "✅ 激活成功！",
+      "headerSubtitle": "Figma Education 账号已在您的设备上准备就绪",
+      "intro": "您好，您的订单 #{orderNumber} 已成功激活！",
+      "accountTitle": "🔐 分配的 Figma 账号",
+      "accountEmailLabel": "Figma 邮箱：",
+      "durationLabel": "有效期：",
+      "daysSuffix": "天",
+      "expiresLabel": "到期日：",
+      "note": "👉 在电脑上打开 Figma 客户端/网页版——账号已预先登录，您可以立即使用。如有问题，请回复此邮件或联系 Telegram。"
+    },
+    "subscriptionReminder": {
+      "headerTitleUrgent": "🚨 账号即将在到期！",
+      "headerTitleWarning": "⏰ 账号即将在到期！",
+      "headerSubtitle": "距离到期还有 {daysLeft} 天",
+      "urgencyEmergency": "🚨 紧急",
+      "urgencyWarning": "⚠️ 注意",
+      "warningBody": "{urgency}：您的账号将在 {daysLeft} 天后到期！",
+      "accountTitle": "📋 账号信息",
+      "cta": {
+        "title": "🔄 立即续费！",
+        "body": "为了保证服务不中断，请在到期前续费您的账号。",
+        "btn": "🛒 立即续费"
+      },
+      "benefits": {
+        "title": "✨ 不要错过这些极佳的功能！",
+        "item1": "无限制使用所有 Pro 专业功能",
+        "item2": "24/7 优先客户支持",
+        "item3": "获取最新功能更新",
+        "item4": "完整保留您的进度与数据"
+      }
+    },
+    "accountContact": {
+      "headerTitle": "📞 联系接收账号",
+      "headerSubtitle": "请联系我们",
+      "orderTitle": "📋 订单信息",
+      "messageTitle": "📝 通知内容",
+      "cta": {
+        "title": "📞 立即联系以获取账号",
+        "lead": "请通过以下渠道之一联系我们，以沟通信息并接收账号：",
+        "fb": "📘 Facebook 专页",
+        "tg": "✈️ FigmaEdu Telegram 支持",
+        "emailIntro": "或发送邮件至："
+      },
+      "note": "⚠️ 注意：联系时请提供订单号 #{orderNumber}，以便获得最快支持。"
+    },
+    "upgradeCompleted": {
+      "headerTitle": "🎉 升级成功！",
+      "headerSubtitle": "您的账号已成功升级",
+      "intro": "我们很高兴地通知您，您的订单 #{orderNumber} 已处理成功！",
+      "successTitle": "升级完成！",
+      "successBody": "账号 {upgradeEmail} 已升级至 {productName}",
+      "nextSteps": {
+        "title": "📌 下一步",
+        "item1": "登录您的账号进行查看",
+        "item2": "体验全新的 Pro 功能",
+        "item3": "如需帮助，随时联系我们"
+      }
+    },
+    "upgradeIssue": {
+      "headerTitle": "⚠️ 需要确认信息",
+      "headerSubtitle": "请联系我们",
+      "orderTitle": "📋 订单信息",
+      "messageTitle": "📝 通知内容",
+      "cta": {
+        "title": "📞 立即联系我们",
+        "lead": "请通过以下渠道之一联系我们，以获取最快的帮助：",
+        "fb": "📘 Facebook",
+        "tg": "✈️ Telegram",
+        "emailIntro": "或发送邮件至："
+      }
+    },
+    "walletTopupSuccess": {
+      "headerTitle": "✅ 钱包充值成功",
+      "intro": "您已成功向 FigmaEdu 钱包充值 {amount}。",
+      "amountLabel": "充值金额：",
+      "balanceLabel": "最新余额：",
+      "paidAtLabel": "时间：",
+      "viewWalletBtn": "📊 查看我的钱包"
+    },
+    "walletTopupRejected": {
+      "headerTitle": "❌ 钱包充值请求已被拒绝",
+      "intro": "您充值 {amount} 的请求已被拒绝。",
+      "reasonLabel": "原因：",
+      "viewWalletBtn": "📊 查看我的钱包"
+    },
+    "restockAlert": {
+      "headerTitle": "🎉 商品已补货！",
+      "intro": "好消息——{productName} 已重新补货！手慢无，快来抢购吧。",
+      "productLabel": "商品",
+      "priceLabel": "价格",
+      "viewProductBtn": "🛒 查看商品并立即购买"
+    }
+  },
+  "AboutPage": {
+    "metaTitle": "关于 FigmaEdu — Figma Education 账号分销商",
+    "metaDescription": "FigmaEdu 是 Figma Education 账号的独立第三方分销商（third-party reseller）。旨在帮助设计专业学生和 UI 自由职业者以具竞争力的价格获取 Figma edu。与 Figma, Inc. 无关联。",
+    "metaKeywords": "关于 FigmaEdu, Figma Education, 购买 Figma 账号, Figma edu, Figma 分销商, figmaedu.shop",
+    "breadcrumbs": {
+      "home": "首页",
+      "about": "关于我们"
+    },
+    "hero": {
+      "titlePrefix": "关于",
+      "subtitle": "FigmaEdu 是 Figma Education 账号的独立分销商。我们通过二次分发合法购买的订阅，帮助设计专业学生和 UI 自由职业者以优惠价格使用 Figma edu。",
+      "disclaimerLabel": "提示",
+      "disclaimer": "FigmaEdu 不隶属于 Figma, Inc.，未获得其认证，亦未受其赞助。\"Figma\" 和 \"Figma Education\" 是 Figma, Inc. 的商标。我们是合法购买订阅套餐的独立分销商。",
+      "ctaProducts": "查看商品",
+      "ctaContact": "立即联系"
+    },
+    "stats": {
+      "customers": {
+        "number": "5.000+",
+        "label": "已服务客户"
+      },
+      "years": {
+        "number": "2+",
+        "label": "运营年限"
+      },
+      "satisfaction": {
+        "number": "99%",
+        "label": "满意度"
+      },
+      "support": {
+        "number": "24/7",
+        "label": "全天候支持"
+      }
+    },
+    "mission": {
+      "title": "我们的使命",
+      "paragraph1": "在 FigmaEdu，我们相信每位设计专业学生都值得以合理的价格使用 Figma Education——无论所在地区或预算如何。",
+      "paragraph2": "我们提供咨询、支付协助以及通过邮箱交付登录信息，让您简单安全地购买 Figma Education 账号。",
+      "independenceTitle": "独立分销服务",
+      "independenceDescription": "我们不代表 Figma, Inc.。我们的使命是解答流程并协助客户购买 Figma edu 账号。",
+      "cards": {
+        "process": {
+          "title": "清晰流程",
+          "description": "提供设计工具订阅注册的逐步清单。"
+        },
+        "warranty": {
+          "title": "透明质保",
+          "description": "承诺在服务有效期内解决出现的任何问题。"
+        },
+        "delivery": {
+          "title": "即时交付",
+          "description": "支持 1-5 分钟内快速支付与激活。"
+        },
+        "support": {
+          "title": "24/7 支持",
+          "description": "随时通过 Telegram 和 Email 为您提供协助。"
+        }
+      }
+    },
+    "values": {
+      "title": "核心价值观",
+      "subtitle": "指导 FigmaEdu 运营与发展的核心原则。",
+      "transparency": {
+        "title": "诚信与透明",
+        "description": "清晰说明设计工具订阅的每一步流程，妥善保护客户个人信息。"
+      },
+      "efficiency": {
+        "title": "快捷与高效",
+        "description": "支持国际支付、账号验证，几分钟内即可完成激活。"
+      },
+      "customerFirst": {
+        "title": "以客户为中心",
+        "description": "凭借透明的质保和退款政策，贯穿整个使用周期全程相伴。"
+      },
+      "sustainability": {
+        "title": "可持续发展",
+        "description": "分享知识与资源，帮助设计学生社区高效运用 AI。"
+      }
+    },
+    "cta": {
+      "title": "需要购买 Figma Education 账号？",
+      "subtitle": "加入数以千计信任 FigmaEdu 的设计学生行列，购买 Figma edu 账号并获得激活支持。",
+      "ctaPrimary": "查看服务",
+      "ctaSecondary": "免费咨询"
+    }
+  },
+  "DisclaimerBanner": {
+    "message": "FigmaEdu 仅提供 Figma Education 账号的零售/支持服务——并非 Figma, Inc. 的代理商或分销商。品牌名称仅用于产品描述。",
+    "dismiss": "我知道了"
+  },
+  "ProductPage": {
+    "actions": {
+      "resellerNoticeTitle": "技术支持须知 — 购买前请阅读",
+      "resellerNoticeBody": "FigmaEdu 根据客户需求提供 Figma Education 账号/升级支持服务。我们并非 Figma, Inc. 的代理商、分销商或代表机构。交付后，账号即为您个人的资产 — 请立即更改邮箱、密码、双重验证 (2FA) 及恢复邮箱。我们后续无法为忘记密码/丢失 2FA 提供协助。相关权益与有效期可能受 Figma 政策约束。"
+    }
+  },
+  "DisclaimerPage": {
+    "seo": {
+      "title": "免责声明",
+      "description": "FigmaEdu 法律声明 — 提供与 Figma 相关的设置/激活技术支持服务。非 Figma, Inc. 的代理商或分销商。",
+      "keywords": "FigmaEdu 免责声明, Figma Education disclaimer, 非 Figma Inc 官方关联"
+    },
+    "hero": {
+      "title": "声明",
+      "highlight": "免责",
+      "description": "关于我们的技术支持角色及涉及 Figma, Inc. 责任限制的重要信息。"
+    },
+    "sections": {
+      "reseller": {
+        "title": "独立技术支持",
+        "body": "FigmaEdu 根据客户需求提供设置、升级和激活支持服务。我们并非 Figma, Inc. (Figma) 的代理商、分销商、授权单位或官方合作伙伴。",
+        "referral": "网站上的品牌名称和产品名称仅用于说明兼容性或支持需求。所有促销/平台权益（如有）均由 Figma, Inc. 控制，并可能随时更改或撤销。"
+      },
+      "trademark": {
+        "title": "商标",
+        "body": "“Figma” 和 “Figma Education” 是 Figma, Inc. 的商标。其他产品名称归各自所有者所有。我们使用这些名称仅用于说明兼容性或支持需求。"
+      },
+      "risks": {
+        "title": "注意事项与风险",
+        "items": [
+          "Figma, Inc. 可能会随时更改价格、功能或终止订阅。",
+          "Figma, Inc. 可能会暂停/封禁违反其服务条款 (ToS) 的账号。",
+          "交付后，您需自行负责账号安全 — 更改邮箱、密码、2FA 及恢复邮箱；如果您日后丢失凭据，我们无法帮您找回。",
+          "我们无法保证永久持续访问或第三方促销权益。",
+          "从商标所有者官方购买：www.figma.com。"
+        ]
+      },
+      "official": {
+        "title": "官方购买渠道",
+        "body": "如需直接从 Figma, Inc. 购买 Figma 订阅："
+      }
+    },
+    "cta": {
+      "title": "阅读完整条款",
+      "description": "购买前请阅读条款与条件以及隐私政策。",
+      "terms": "条款与条件",
+      "shop": "查看产品"
+    }
+  },
+  "CookieConsent": {
+    "title": "Cookie 设置",
+    "description": "必需 Cookie 用于登录、购物车和安全保障。分析 Cookie (Microsoft Clarity) 为可选项 — 请在下方选择。",
+    "learnMore": "查看 Cookie 政策",
+    "essentialOnly": "仅必需",
+    "acceptAll": "接受全部"
+  },
+  "Wallet": {
+    "title": "我的钱包",
+    "vndBalance": "VND 余额",
+    "usdBalance": "USD 余额",
+    "topup": "充值",
+    "topupVnd": "充值 VND",
+    "topupUsd": "充值 USD",
+    "topupAgain": "创建新充值请求",
+    "refresh": "刷新",
+    "backToWallet": "返回钱包",
+    "returnToCheckout": "返回结账",
+    "currency": "币种",
+    "vnd": "VND",
+    "usd": "USD",
+    "vndDescription": "通过银行转账二维码充值 — 几分钟内自动确认。",
+    "usdDescription": "通过加密货币 (Binance/Bybit/USDT/BTC/ETH/LTC) 充值 — 上传凭证后由管理员确认。",
+    "selectAmount": "选择充值金额",
+    "customAmount": "输入其他金额",
+    "selectMethod": "充值方式",
+    "selectCryptoMethod": "选择加密货币类型",
+    "youWillTopup": "您将充值",
+    "continueToPay": "继续支付",
+    "topupTitle": "钱包充值",
+    "topupDetailTitle": "充值请求详情",
+    "amount": "金额",
+    "expiresAt": "过期时间",
+    "bank": "银行",
+    "accountNumber": "账号",
+    "accountName": "户名",
+    "transferContentLabel": "转账备注/内容（必须完全一致）",
+    "transferContentWarning": "请准确输入下方备注内容 — 备注错误将无法自动上分入账，您须联系管理员处理。",
+    "payId": "Pay-ID",
+    "network": "网络 (Network)",
+    "walletAddress": "钱包地址",
+    "onchainWarning": "请仅通过 {network} 网络发送。充错网络资金将丢失且无法找回。",
+    "submitProofTitle": "上传支付凭证（可选）",
+    "submitProofDescription": "完成加密货币转账后，您可以粘贴凭证图片链接（如 Imgur/Cloudinary）以便管理员更快审核，或留空并点击“我已转账”。",
+    "submitProof": "提交凭证",
+    "submitWithoutProof": "我已转账",
+    "proofSubmitted": "已提交凭证。管理员将在几小时内审核。",
+    "pendingReviewMessage": "您已提交凭证。系统正在等待管理员确认。审核完成后余额将自动更新。",
+    "viewProof": "查看已提交凭证",
+    "autoConfirmNote": "✅ 银行确认转账后，余额将自动充入钱包（通常需要 1-3 分钟）。",
+    "topupPaidTitle": "充值成功",
+    "topupPaidDescription": "已将 {amount} 充入您的钱包。",
+    "topupRejectedTitle": "充值请求已被拒绝",
+    "topupExpiredTitle": "充值请求已过期",
+    "topupExpiredDescription": "该充值请求已超过 30 分钟时限。请重新创建充值请求。",
+    "paidToast": "充值成功，钱包余额已更新！",
+    "rejectedToast": "充值请求已被拒绝",
+    "expiredToast": "充值请求已过期",
+    "transactionHistory": "交易历史",
+    "balanceAfter": "变动后余额",
+    "noTransactions": "暂无交易记录",
+    "copied": "已复制 {label}",
+    "copyFailed": "复制失败",
+    "qrZoom": "放大二维码",
+    "bankQrAlt": "{bank} 二维码",
+    "notFound": "未找到充值请求",
+    "status": {
+      "pending": "待支付",
+      "pendingReview": "待审核"
+    },
+    "txType": {
+      "topup": "充值",
+      "debit": "扣款（购买）",
+      "refund": "退款",
+      "admin_adjust": "管理员调整"
+    },
+    "errors": {
+      "generic": "发生错误，请重试",
+      "INVALID_PROOF_URL": "凭证链接无效（须为 http/https）",
+      "INVALID_AMOUNT": "金额无效",
+      "AMOUNT_TOO_SMALL": "未达到最低充值金额",
+      "AMOUNT_TOO_LARGE": "超过单次充值限额",
+      "AMOUNT_NOT_ROUND": "VND 金额必须是 1,000 的整数倍",
+      "INVALID_CURRENCY": "币种无效",
+      "INVALID_METHOD": "充值方式无效",
+      "SEPAY_REQUIRES_VND": "银行转账仅支持充值 VND",
+      "CRYPTO_REQUIRES_USD": "加密货币仅支持充值 USD",
+      "INVALID_CRYPTO_METHOD": "加密货币类型无效",
+      "WALLET_INSUFFICIENT_BALANCE": "钱包余额不足"
+    }
+  },
+  "LegalNoticePopup": {
+    "title": "重要通知",
+    "p1": "FigmaEdu 仅根据客户需求提供 Figma Education 账号零售/支持服务。FigmaEdu 非任何品牌所有者的代理商、分销商或代表机构。若提及品牌名称、Logo 及产品名称，仅用于描述产品/服务，其产权归各自所有者所有。服务范围与责任限制见条款与条件。",
+    "p2": "客户请注意：在我们向您交付账号后，该账号即属于您的个人资产，您需要自行更改安全信息：邮箱、密码、2FA、恢复邮箱并自行妥善保管您的资产。对于购买一段时间后因忘记账号信息、忘记密码、忘记登录信息或丢失 2FA 而无法访问账号的情况，我们无法提供协助。因此，请在购买后立即更改安全信息，以确保您的账号和资产安全。",
+    "p3": "感谢您支持 FigmaEdu。",
+    "termsLink": "条款与条件",
+    "close": "关闭"
+  }
+}

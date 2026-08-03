@@ -1,0 +1,2731 @@
+{
+  "IntroPage": {
+    "seo": {
+      "title": "À propos de FigmaEdu — revendeur de comptes Figma Education",
+      "description": "FigmaEdu est un revendeur indépendant de comptes Figma Education. Découvrez notre mission, notre processus de livraison des identifiants par e-mail et notre engagement de support lors de l'achat d'un compte Figma edu.",
+      "keywords": "FigmaEdu, Figma Education, mua tài khoản Figma, Figma edu, nhà bán lẻ Figma, figmaedu.shop, về FigmaEdu"
+    },
+    "hero": {
+      "title": "Qui est FigmaEdu",
+      "subtitle": "Revendeur indépendant de comptes Figma Education — prix abordables pour les étudiants en design et les freelances UI. Achetez un compte Figma edu, payez localement, recevez vos identifiants par e-mail.",
+      "ctaConfig": "Voir les tarifs",
+      "ctaBuy": "Acheter Figma Edu",
+      "badge": "Prix abordable",
+      "trustBadges": {
+        "authentic": "Revendeur Fiable",
+        "fast": "Livraison e-mail ~5 min",
+        "warranty": "Garantie échange 1 pour 1"
+      }
+    },
+    "about": {
+      "title": "À propos de figmaedu.shop",
+      "description": "FigmaEdu est un revendeur tiers indépendant (third-party reseller) de comptes Figma Education. Nous ne sommes pas affiliés à Figma, Inc. Notre mission est d'aider les étudiants et les équipes de projets à accéder plus facilement à Figma edu grâce aux paiements locaux et au support en vietnamien.",
+      "features": {
+        "price": "Meilleur prix du marché",
+        "support": "Support technique 24/7",
+        "warranty": "Garantie 1 pour 1 en cas d'erreur boutique"
+      },
+      "sectionLabel": "À propos de nous"
+    },
+    "whyChoose": {
+      "title": "Pourquoi Nous Choisir ?",
+      "items": {
+        "authentic": {
+          "title": "Revendeur Transparent",
+          "description": "Abonnement acheté auprès de canaux légaux, payé via des méthodes vérifiées. Pas de crack, pas de fraude."
+        },
+        "fast": {
+          "title": "Livraison Rapide",
+          "description": "Recevez vos identifiants de connexion par e-mail dans les 5 à 10 minutes suivant le paiement. Processus hautement automatisé."
+        },
+        "cheap": {
+          "title": "Coût Optimisé",
+          "description": "Économies considérables par rapport à l'abonnement direct. De nombreuses formules flexibles pour étudiants et freelances UI."
+        },
+        "privacy": {
+          "title": "Confidentialité Absolue",
+          "description": "Toutes les informations client sont cryptées et sécurisées. Pas de partage avec des tiers."
+        },
+        "support": {
+          "title": "Support Dévoué",
+          "description": "Une équipe expérimentée prête à vous guider pour la connexion à Figma et le dépannage 24/7."
+        }
+      },
+      "sectionLabel": "Pourquoi nous chọn"
+    },
+    "products": {
+      "title": "Forfaits Disponibles",
+      "trial": {
+        "name": "Figma Edu Essai Court",
+        "description": "Découvrez Figma Education sur une courte durée. Idéal pour les débutants.",
+        "label": "Essai"
+      },
+      "shared": {
+        "name": "Forfait Études Populaire",
+        "description": "Économie maximale. Adapté aux étudiants et aux besoins de projets de base.",
+        "label": "Économique",
+        "badge": "🔥 LE PLUS POPULAIRE"
+      },
+      "private": {
+        "name": "Forfait Longue Durée / Personnel",
+        "description": "Stabilité à long terme. Droits edu complets pour les freelances UI et les études approfondies.",
+        "label": "Premium"
+      },
+      "sectionLabel": "Services"
+    },
+    "payment": {
+      "title": "Moyens de Paiement",
+      "subtitle": "Diversifiés, flexibles et sécurisés",
+      "methods": {
+        "bank": "Virement bancaire (VietQR)",
+        "crypto": "Binance Pay (Crypto)",
+        "momo": "Portefeuille MoMo"
+      },
+      "support": "Support pour le traitement des transactions 24/7 via Hotline/Zalo",
+      "sectionLabel": "Paiement"
+    },
+    "contact": {
+      "title": "Contact & Support",
+      "website": "Site web : https://figmaedu.shop",
+      "telegram": "Telegram : support FigmaEdu",
+      "fanpage": "Fanpage : FigmaEdu",
+      "cta": "Besoin d'aide urgente ? Discutez avec nous dès maintenant !"
+    },
+    "commitment": {
+      "title": "Nos Engagements",
+      "items": {
+        "1": "Compte 100% conforme à la description",
+        "2": "Remplacement en cas d'erreur de la boutique (selon politique)",
+        "3": "Non aux comptes crackés ou scannés",
+        "4": "Transparence dans toutes les transactions"
+      },
+      "sectionLabel": "Engagements"
+    },
+    "ctaSection": {
+      "title": "Achetez un Compte Figma Education Dès Aujourd'hui",
+      "subtitle": "Ne laissez pas le coût freiner vos projets de design. Obtenez Figma edu via FigmaEdu à un prix compétitif, livraison des identifiants par e-mail.",
+      "buyNow": "Voir les Tarifs",
+      "contact": "Contacter pour Conseil"
+    }
+  },
+  "DashboardProfile": {
+    "title": "Profil personnel",
+    "description": "Gérez les informations de votre compte",
+    "avatar": {
+      "title": "Photo de profil",
+      "change": "Changer",
+      "remove": "Supprimer",
+      "uploading": "Téléversement en cours...",
+      "success": "Photo de profil mise à jour avec succès",
+      "error": "Erreur lors de la mise à jour de la photo de profil"
+    },
+    "form": {
+      "name": "Nom et prénom",
+      "email": "E-mail",
+      "save": "Enregistrer les modifications",
+      "saving": "Enregistrement en cours...",
+      "success": "Informations mises à jour avec succès",
+      "error": "Erreur lors de la mise à jour des informations"
+    }
+  },
+  "DashboardSettings": {
+    "title": "Paramètres",
+    "description": "Gérez les paramètres et préférences de votre compte",
+    "tabs": {
+      "profile": "Profil",
+      "security": "Sécurité"
+    },
+    "profile": {
+      "title": "Informations du profil",
+      "name": "Nom",
+      "namePlaceholder": "Entrez votre nom",
+      "email": "E-mail",
+      "emailPlaceholder": "Entrez votre e-mail",
+      "save": "Enregistrer les modifications",
+      "saving": "Enregistrement...",
+      "success": "Informations mises à jour avec succès",
+      "error": "Erreur lors de la mise à jour des informations"
+    },
+    "security": {
+      "title": "Paramètres de sécurité",
+      "currentPassword": "Mot de passe actuel",
+      "currentPasswordPlaceholder": "Entrez votre mot de passe actuel",
+      "newPassword": "Nouveau mot de passe",
+      "newPasswordPlaceholder": "Entrez le nouveau mot de passe",
+      "confirmPassword": "Confirmer le nouveau mot de passe",
+      "confirmPasswordPlaceholder": "Confirmez le nouveau mot de passe",
+      "update": "Mettre à jour le mot de passe",
+      "updating": "Mise à jour en cours...",
+      "success": "Mot de passe modifié avec succès",
+      "error": "Erreur lors du changement de mot de passe",
+      "errorMatch": "Les mots de passe ne correspondent pas",
+      "errorLength": "Le nouveau mot de passe doit contenir au moins 8 caractères"
+    }
+  },
+  "RecentPurchases": {
+    "title": "Achats Récents",
+    "justBought": "Vient d'acheter",
+    "recently": "Récemment",
+    "ago": "il y a",
+    "hours": "heures",
+    "hour": "heure",
+    "minutes": "minutes",
+    "minute": "minute",
+    "days": "jours",
+    "day": "jour",
+    "seconds": "secondes"
+  },
+  "DashboardOrders": {
+    "title": "Mes commandes",
+    "subtitle": "Consultez et suivez l'état de vos commandes",
+    "refresh": "Actualiser",
+    "loginRequired": "Veuillez vous connecter",
+    "loginDescription": "Vous devez vous connecter pour voir vos commandes.",
+    "errorTitle": "Erreur de chargement des données",
+    "errorDescription": "Impossible de charger la liste des commandes. Veuillez réessayer plus tard.",
+    "stats": {
+      "totalOrders": "Total des commandes",
+      "paidOrders": "Payées",
+      "pendingPayment": "En attente de paiement",
+      "totalSpent": "Total dépensé"
+    },
+    "filters": {
+      "statusPlaceholder": "Statut de la commande",
+      "paymentPlaceholder": "Statut du paiement",
+      "allStatus": "Tous les statuts",
+      "allPayment": "Tous les paiements"
+    },
+    "status": {
+      "pending": "En attente",
+      "processing": "En cours de traitement",
+      "completed": "Terminée",
+      "cancelled": "Annulée"
+    },
+    "paymentStatus": {
+      "pending": "En attente de paiement",
+      "paid": "Payé",
+      "failed": "Échec du paiement"
+    },
+    "table": {
+      "orderNumber": "N° de commande",
+      "products": "Produits",
+      "otherProducts": "+{count} autre(s) produit(s)",
+      "total": "Total",
+      "status": "Statut",
+      "payment": "Paiement",
+      "date": "Date de commande",
+      "actions": "Actions",
+      "viewDetails": "Détails",
+      "payNow": "Payer maintenant"
+    },
+    "pagination": "Page {current}/{total}",
+    "empty": {
+      "title": "Aucune commande pour le moment",
+      "description": "Vous n'avez aucune commande. Commencez vos achats dès maintenant !",
+      "cta": "Découvrir les produits"
+    },
+    "toast": {
+      "loadError": "Erreur lors du chargement des commandes",
+      "connectionError": "Erreur de connexion"
+    }
+  },
+  "Pricing": {
+    "title": "Choisissez le Forfait Qui Vous Convient",
+    "description": "Tous les forfaits incluent le service d'assistance à l'inscription Figma Education, le suivi d'activation et un service après-vente transparent.",
+    "popular": "LE PLUS POPULAIRE",
+    "perMonth": "₫/mois",
+    "guarantees": {
+      "oneTime": "Paiement unique",
+      "noRenew": "Sans renouvellement automatique",
+      "refund": "Garantie de remplacement 1:1 en cas de faute de la boutique"
+    },
+    "plans": {
+      "1-month": {
+        "name": "1 Mois",
+        "description": "Conseil rapide pour débutants",
+        "button": "Demander le Forfait 1 Mois",
+        "features": {
+          "0": "Guide d'achat Figma Education en ligne",
+          "1": "Vidéo détaillée d'installation et d'activation",
+          "2": "Conseils pour choisir le mode de paiement",
+          "3": "Checklist de vérification après activation",
+          "4": "Support 24/7",
+          "5": "Garantie de remplacement 1:1"
+        }
+      },
+      "3-months": {
+        "name": "3 Mois",
+        "description": "Forfait populaire pour les freelancers",
+        "button": "Choisir le Forfait 3 Mois",
+        "features": {
+          "0": "Tous les services du forfait 1 mois",
+          "1": "Conseils pour choisir l'offre Figma Education adaptée à des besoins plus longs",
+          "2": "Assistance prioritaire lors des vérifications",
+          "3": "Rappels de renouvellement avec instructions",
+          "4": "Ressources pour optimiser votre workflow sur Figma",
+          "5": "Groupe client dédié"
+        }
+      },
+      "6-months": {
+        "name": "6 Mois",
+        "description": "Optimisé pour les étudiants en design professionnel",
+        "button": "Commander le Forfait 6 Mois",
+        "features": {
+          "0": "Tous les services du forfait 3 mois",
+          "1": "Assistance personnalisée 1-on-1 par appel vidéo lors de l'activation",
+          "2": "Suivi régulier du statut du compte",
+          "3": "Mises à jour des dernières politiques de Figma",
+          "4": "Documentation sur les workflows avancés",
+          "5": "Bibliothèque d'extensions recommandées"
+        }
+      },
+      "12-months": {
+        "name": "12 Mois",
+        "description": "Adapté aux équipes et aux entreprises",
+        "button": "Contacter pour le Forfait 12 Mois",
+        "features": {
+          "0": "Tous les services du forfait 6 mois",
+          "1": "Conseils pour la configuration de comptes multi-membres",
+          "2": "Checklist de sécurité et de gestion des permissions",
+          "3": "Assistance pour la gestion des imprévus avec Figma",
+          "4": "Coordination du renouvellement par lots",
+          "5": "Documents d'intégration pour les nouveaux membres"
+        }
+      }
+    }
+  },
+  "MockData": {
+    "fallbackProducts": {
+      "mock-1": {
+        "name": "Compte Figma Education - 1 Mois",
+        "description": "Forfait Figma edu 1 mois — idéal pour un essai rapide. Identifiants envoyés par email après le paiement, avec instructions de connexion.",
+        "shortDescription": "Idéal pour un essai rapide"
+      },
+      "mock-2": {
+        "name": "Compte Figma Education - 3 Mois",
+        "description": "Forfait Figma Education 3 mois — populaire pour les projets de semestre. Conseil dans le choix du forfait et support de paiement local.",
+        "shortDescription": "Forfait populaire pour les projets académiques"
+      },
+      "mock-3": {
+        "name": "Compte Figma Education - 6 Mois",
+        "description": "Forfait Figma edu 6 mois — économie à long terme pour étudiants en design et freelancers UI réguliers.",
+        "shortDescription": "Économie à long terme pour utilisateurs réguliers"
+      },
+      "mock-4": {
+        "name": "Compte Figma Education - 12 Mois",
+        "description": "Forfait Figma Education 12 mois — coût optimisé à l'année pour groupes de projets ou études continues.",
+        "shortDescription": "Forfait 1 an, optimisé pour toute l'année scolaire"
+      }
+    }
+  },
+  "UserOrderDetails": {
+    "title": "Détails de la commande {orderNumber}",
+    "payNow": "Payer maintenant",
+    "status": {
+      "completed": "Terminée",
+      "processing": "En cours de traitement",
+      "pending": "En attente",
+      "cancelled": "Annulée"
+    },
+    "paymentStatus": {
+      "paid": "Payé",
+      "failed": "Échec du paiement",
+      "pending": "En attente de paiement"
+    },
+    "info": {
+      "title": "Informations de la commande",
+      "orderNumber": "Mã đơn hàng",
+      "orderDate": "Date de commande",
+      "customer": "Client",
+      "email": "E-mail"
+    },
+    "items": {
+      "title": "Produits achetés ({count})",
+      "quantity": "Quantité : {quantity}",
+      "empty": "Aucun produit"
+    },
+    "payment": {
+      "title": "Détails du paiement",
+      "subtotal": "Sous-total",
+      "discount": "Réduction",
+      "total": "Total",
+      "paidAt": "Payé le"
+    },
+    "notes": {
+      "title": "Notes de commande"
+    },
+    "support": {
+      "title": "Besoin d'aide ?",
+      "description": "Contactez-nous si vous avez des questions concernant votre commande",
+      "contact": "Contacter le support"
+    },
+    "statusLabels": {
+      "order": "Commande :",
+      "payment": "Paiement :"
+    },
+    "loginLinkInstructions": {
+      "title": "🔗 Instructions pour recevoir votre compte (manuel)",
+      "lead": "Pour recevoir votre compte, veuillez suivre les étapes suivantes :",
+      "step1": "Ouvrez <b>Figma IDE</b> sur votre ordinateur, déconnectez-vous du compte actuel",
+      "step2": "Cliquez sur <b>\"Sign in\"</b> dans l'application",
+      "step3": "Figma ouvrira votre navigateur avec un lien de connexion au format :",
+      "linkExample": "https://www.figma.com/loginDeepControl?challenge=xxxxx&uuid=xxxxx&mode=login",
+      "step4": "<b>Copiez IMMÉDIATEMENT ce lien</b> et envoyez-le à la boutique",
+      "noteTitle": "⚠️ Remarque importante :",
+      "note1": "Ne cliquez pas sur connecter dans le navigateur web",
+      "note2": "Ne prenez pas le lien qui a été redirigé vers authenticator.cursor.sh",
+      "note3": "Il vous suffit de copier le lien et de l'envoyer à la boutique, c'est tout ✅",
+      "videoBtn": "▶️ Tutoriel vidéo",
+      "fbBtn": "📘 Facebook",
+      "tgBtn": "✈️ Telegram",
+      "footer": "Envoyez le lien de connexion avec le numéro de commande <b>#{orderNumber}</b> pour recevoir votre compte."
+    }
+  },
+  "PrivacyPage": {
+    "seo": {
+      "title": "Politique de Confidentialité",
+      "description": "Politique de confidentialité des informations client de FigmaEdu. Engagement à protéger les données personnelles et les informations de paiement en toute sécurité à 100%."
+    },
+    "hero": {
+      "title": "Politique de",
+      "highlight": "Confidentialité",
+      "description": "FigmaEdu s'engage à protéger vos informations personnelles grâce à des mesures de sécurité avancées et une transparence totale quant à l'utilisation des données.",
+      "update": "Dernière mise à jour : 07/07/2026"
+    },
+    "highlights": {
+      "ssl": {
+        "title": "Chiffrement SSL 256 bits",
+        "desc": "Toutes les données sont chiffrées selon les standards bancaires"
+      },
+      "noCard": {
+        "title": "Aucun Stockage des Données de Carte",
+        "desc": "Nous ne stockons pas vos informations de paiement"
+      },
+      "transparent": {
+        "title": "Transparence Totale",
+        "desc": "Transparence claire sur la collecte et l'utilisation des données"
+      },
+      "rights": {
+        "title": "Vos Droits",
+        "desc": "Vous avez le droit de consulter, modifier et supprimer vos données personnelles"
+      }
+    },
+    "sections": {
+      "collection": {
+        "title": "1. Informations Que Nous Collectons",
+        "basic": "Informations personnelles de base :",
+        "basicItems": {
+          "1": "Nom, prénom, e-mail, numéro de téléphone",
+          "2": "Adresse IP, informations sur le navigateur, empreinte numérique de l'appareil (anti-fraude)",
+          "3": "Historique des transactions, solde du portefeuille, code de référence crypto"
+        },
+        "payment": "Informations de paiement :",
+        "paymentItems": {
+          "1": "Mode de paiement (SePay/VietQR, crypto, portefeuille virtuel)",
+          "2": "ID de transaction (les numéros de carte ne sont pas enregistrés)",
+          "3": "Statut et montant du paiement"
+        }
+      },
+      "usage": {
+        "title": "2. Comment Nous Utilisons Vos Informations",
+        "purpose": "Finalités d'utilisation :",
+        "purposeItems": {
+          "1": "Traiter les commandes et livrer les comptes Figma Education",
+          "2": "Assurer le support client et résoudre les problèmes",
+          "3": "Envoyer des notifications importantes concernant les commandes",
+          "4": "Améliorer la qualité du service",
+          "5": "Se conformer aux réglementations légales"
+        },
+        "commitment": "Nous ne vendons PAS vos données, ne les utilisons PAS pour de la publicité ciblée et ne collectons PAS sciemment de données auprès des mineurs de moins de 18 ans."
+      },
+      "security": {
+        "title": "3. Sécurité des Informations",
+        "measures": "Mesures de sécurité :",
+        "measuresItems": {
+          "1": "Chiffrement SSL 256 bits pour toutes les données transmises",
+          "2": "Pare-feu et systèmes anti-intrusion",
+          "3": "Audits de sécurité réguliers",
+          "4": "Accès interne restreint",
+          "5": "Sauvegarde sécurisée des données"
+        },
+        "paymentSec": "Sécurité des paiements :",
+        "paymentSecItems": {
+          "1": "Traitement des paiements : SePay/VietQR, crypto (Binance, Bybit, on-chain), portefeuilles",
+          "2": "Aucun stockage des données de carte de crédit",
+          "3": "Protection anti-bot Cloudflare Turnstile"
+        }
+      },
+      "rights": {
+        "title": "4. Vos Droits",
+        "desc": "Vous disposez d'un contrôle total sur vos informations personnelles :",
+        "items": {
+          "access": "Droit d'accès : Demander à consulter les données personnelles conservées",
+          "edit": "Droit de rectification : Mettre à jour ou modifier vos informations",
+          "delete": "Droit à l'effacement : Demander la suppression de vos données personnelles",
+          "object": "Droit d'opposition : Refuser le traitement de vos données",
+          "complain": "Droit de réclamation : Signaler une violation de la sécurité"
+        },
+        "contact": "Pour exercer ces droits, veuillez nous contacter :"
+      },
+      "cookies": {
+        "title": "5. Cookies et Traçage",
+        "desc": "Nous utilisons des cookies pour améliorer votre expérience utilisateur :",
+        "items": {
+          "1": "Cookies essentiels : connexion, panier d'achat, sécurité, enregistrement du consentement",
+          "2": "Cookies d'analyse (opt-in) : Microsoft Clarity, Vercel Analytics",
+          "3": "Aucun cookie de publicité ciblée"
+        },
+        "note": "Vous pouvez désactiver les cookies dans les paramètres de votre navigateur, mais certaines fonctionnalités peuvent ne pas fonctionner correctement."
+      },
+      "sharing": {
+        "title": "6. Partage des Informations",
+        "desc": "Nous ne partageons vos informations que dans les cas suivants :",
+        "items": {
+          "1": "Paiement : SePay/VietQR, crypto (Binance, Bybit, on-chain), portefeuilles",
+          "2": "Infrastructure : Vercel (hébergement), Cloudflare Turnstile, Brevo (e-mail)",
+          "3": "Autorités publiques sur requête légale",
+          "4": "Avec votre consentement explicite"
+        }
+      },
+      "storage": {
+        "title": "7. Conservation des Données",
+        "items": {
+          "1": "Informations de compte : conservées pendant toute la durée d'activité du compte sur la boutique",
+          "2": "Historique des commandes/transactions : 5 ans conformément au droit fiscal et comptable vietnamien",
+          "3": "Journaux système et empreintes numériques : 12 mois maximum",
+          "4": "Données marketing : supprimées lors de votre désinscription"
+        }
+      },
+      "minors": {
+        "title": "8. Mineurs de Moins de 18 Ans",
+        "desc": "Nos services ne s'adressent pas aux personnes de moins de 18 ans. Nous ne collectons pas sciemment de données auprès d'enfants. Si vous pensez que nous avons collecté des données sur un mineur de moins de 18 ans, veuillez nous contacter pour demander leur suppression."
+      },
+      "international": {
+        "title": "9. Transfert International de Données",
+        "desc": "Les données peuvent être traitées sur des serveurs situés aux États-Unis et dans d'autres pays (Vercel, Brevo, Cloudflare). En utilisant nos services, vous acceptez ce transfert. Les utilisateurs de l'UE doivent noter que le niveau de protection peut différer de celui de leur pays."
+      },
+      "contact": {
+        "title": "10. Contact & Réclamations",
+        "desc": "Si vous avez des questions concernant cette politique de confidentialité, veuillez nous contacter :",
+        "direct": "Contact direct :",
+        "company": "Informations sur l'entreprise :",
+        "supportTime": "Horaire d'assistance : 24/7"
+      }
+    },
+    "cta": {
+      "title": "Des Questions sur la Sécurité ?",
+      "description": "Notre équipe de sécurité est à votre disposition pour répondre à toutes vos questions",
+      "contact": "Contacter Maintenant",
+      "terms": "Voir les Conditions Générales d'Utilisation"
+    }
+  },
+  "PaymentResult": {
+    "title": "Paiement de la commande",
+    "orderNumber": "Commande n° {numéro}",
+    "status": {
+      "paid": "Payé",
+      "pending": "Attendre le paiement"
+    },
+    "progress": {
+      "info": "Informations sur la commande",
+      "payment": "Payer",
+      "finish": "Complété"
+    },
+    "transfer": {
+      "title": "Informations sur le transfert",
+      "scan": "Scannez le code QR pour transférer de l'argent",
+      "generating": "Création d'un code QR...",
+      "bank": "Banque",
+      "accountNumber": "Numéro de compte",
+      "accountName": "Propriétaire du compte",
+      "amount": "Montant",
+      "content": "Transférer du contenu",
+      "contentNote": "⚠️ Entrez le contenu de transfert correct ci-dessous pour que le système confirme automatiquement",
+      "check": "J'ai transféré de l'argent",
+      "checkManual": "Vérification manuelle",
+      "checking": "Vérification...",
+      "copy": "Copié {étiquette}",
+      "autoVerifyTitle": "⏱️ Après le transfert, veuillez attendre 5 à 10 secondes",
+      "autoVerifyDesc": "Le système vérifiera AUTOMATIQUEMENT votre transaction. S'il n'a pas été mis à jour après 30 secondes, appuyez sur le bouton de vérification manuelle ci-dessous."
+    },
+    "summary": {
+      "title": "Détails de la commande",
+      "customer": "Informations client",
+      "name": "Nom:",
+      "email": "E-mail:",
+      "products": "Produits ({count})",
+      "total": "Total:",
+      "successTitle": "Paiement réussi !",
+      "successDesc": "Votre compte a été créé et s'affiche ci-dessous.",
+      "redirect": "🔄 Redirigez automatiquement vers la page de commande dans les {seconds} secondes...",
+      "guestSuccessTitle": "La commande a été confirmée !",
+      "guestOrderNumber": "Code de commande :",
+      "guestEmailNotice": "📧 L'e-mail de confirmation de commande et les informations de compte seront envoyés à {email}. Veuillez vérifier votre boîte aux lettres (y compris les courriers indésirables/spam).",
+      "guestSaveOrder": "📌 Veuillez enregistrer le code de commande ci-dessus pour le rechercher ou contacter l'assistance en cas de besoin.",
+      "guestContactTitle": "Besoin d'aide ? Contactez maintenant :",
+      "guestRegisterHint": "💡 Créez un compte sur le site Web pour gérer facilement les commandes et consulter les informations du compte à tout moment.",
+      "note": "💡 Remarque : La commande sera automatiquement confirmée après réception du virement.",
+      "support": "En cas de problème, veuillez contacter l'assistance via la page de contact ou le canal d'assistance FigmaEdu."
+    },
+    "error": {
+      "notFound": "Commande introuvable",
+      "fetchError": "Impossible de télécharger les informations de commande",
+      "connection": "Erreur de connexion, veuillez réessayer",
+      "back": "Retour à l'achat"
+    },
+    "backButton": "Retour à l'achat",
+    "qrAlt": "Paiement par QR Code",
+    "binance": {
+      "title": "Payer Binance",
+      "desc": "Veuillez utiliser l'application Binance pour accéder à l'ID ci-dessous"
+    },
+    "crypto": {
+      "selectMethod": "Choisissez le mode de paiement",
+      "scanQrToPay": "Scannez le QR pour envoyer le paiement",
+      "scanWithApp": "Scannez avec l'application {app} pour payer",
+      "provider": "Fournisseur",
+      "payId": "ID de paiement",
+      "accountName": "Nom du compte",
+      "asset": "Pièce de monnaie",
+      "network": "Réseau",
+      "address": "Adresse du portefeuille",
+      "sendOnlyOn": "Envoyez uniquement {asset} sur le réseau {network}. L’envoi vers le mauvais réseau entraînera une perte d’argent permanente.",
+      "orderRefNote": "Référence de commande (pas de mémo en chaîne) — jointe à la zone de commentaire/note si nécessaire.",
+      "manualVerifyTitle": "Vérification manuelle",
+      "manualVerifyDesc": "Après la soumission, veuillez attendre quelques minutes que l'administrateur confirme ou contactez l'assistance avec le code de l'application.",
+      "zoomQr": "Zoom sur le code QR {méthode}"
+    },
+    "loginLinkInstructions": {
+      "title": "🔗 Instructions pour recevoir un compte",
+      "lead": "Pour recevoir un compte, veuillez suivre ces étapes :",
+      "step1": "Ouvrez <b>Figma IDE</b> sur votre ordinateur, déconnectez-vous de votre compte actuel",
+      "step2": "Cliquez sur <b>\"Connexion\"</b> dans l'application",
+      "step3": "Figma ouvrira le navigateur avec un lien de connexion comme :",
+      "linkExample": "https://www.figma.com/loginDeepControl?challenge=xxxxx&uuid=xxxxx&mode=login",
+      "step4": "<b>Copiez ce lien MAINTENANT</b> envoyez-le à la boutique",
+      "noteTitle": "⚠️ Remarque importante :",
+      "note1": "Ne cliquez pas sur se connecter sur le navigateur Web",
+      "note2": "Ne prenez pas le lien et redirigez automatiquement la page vers Authenticator.cursor.sh - si vous changez de page, refaites l'opération \"Connexion\" depuis le début",
+      "note3": "Copiez simplement le lien et envoyez-le à la boutique et le tour est joué. La connexion au compte de la boutique est OK ✅",
+      "videoBtn": "▶️ Regardez les instructions vidéo",
+      "fbBtn": "📘Facebook",
+      "tgBtn": "✈️ Télégramme",
+      "footer": "Veuillez envoyer le lien de connexion avec le code de commande <b>#{orderNumber</b> pour recevoir votre compte."
+    }
+  },
+  "HeaderUser": {
+    "menu": {
+      "orders": "Ma commande",
+      "wallet": "Mon portefeuille",
+      "profile": "Profil personnel",
+      "settings": "Paramètre",
+      "admin": "Page d'administration",
+      "signOut": "se déconnecter"
+    },
+    "toast": {
+      "success": "Déconnexion réussie",
+      "error": "Une erreur s'est produite lors de la déconnexion"
+    }
+  },
+  "Header": {
+    "home": "Page d'accueil",
+    "intro": "Introduire",
+    "products": "Produit",
+    "purchasedCustomers": "Client acheté",
+    "blog": "Blogue",
+    "affiliate": "Collaborateur",
+    "contact": "Contact",
+    "admin": "Administrateur",
+    "signIn": "Se connecter",
+    "signUp": "Registre",
+    "dashboard": "Commande",
+    "profile": "Déposer",
+    "settings": "Paramètre",
+    "cart": "Panier",
+    "orders": "Commande",
+    "search": {
+      "placeholder": "Rechercher des produits...",
+      "empty": "Aucun produit trouvé",
+      "hint": "Recherche"
+    },
+    "wallet": "Mon portefeuille"
+  },
+  "Common": {
+    "language": "Langue",
+    "vietnamese": "vietnamien",
+    "english": "Anglais"
+  },
+  "HomePage": {
+    "heroTitle": "Acheter un compte <highlight>Figma Education</highlight> — <highlight>Figma edu</highlight> bon prix, livraison rapide",
+    "heroDescription": "FigmaEdu est un revendeur indépendant de comptes Figma Education. Payer → recevoir une connexion par e-mail en quelques minutes. Garantie 1 pour 1, assistance 24h/24 et 7j/7. Non affilié à Figma, Inc.",
+    "ctaRegister": "Voir la liste de prix",
+    "ctaPricing": "📊 Voir la liste de prix",
+    "disclaimer": "FigmaEdu est un détaillant indépendant. Nous ne représentons PAS, ne sommes pas détenus, sponsorisés ou approuvés par Figma, Inc. « Figma » et « Figma Education » sont des marques commerciales de Figma, Inc. Nous redistribuons les abonnements achetés légalement aux étudiants en design et aux équipes de projet.",
+    "badges": {
+      "warranty": "Garantie 1 pour 1 échange",
+      "support": "Assistance 24h/24 et 7j/7"
+    },
+    "customRequest": {
+      "badge": "CHAUD",
+      "title": "Recevoir et retrouver des comptes sur demande",
+      "subtitle": "Besoin d'un <highlight>un package Figma edu autre que celui répertorié sur le site Web</highlight> ? Boutique par boîte de réception, aide à trouver et à devis en 5 minutes.",
+      "cta": "Contactez maintenant"
+    },
+    "productTypes": {
+      "cursor-pro": "Figma Education",
+      "cursor-pro-official-1m": "Figma Edu 1 mois",
+      "github-copilot": "Figma Edu 3 mois",
+      "github-edu": "Figma Edu 6 mois",
+      "figma-pro": "Figma Education",
+      "jetbrains-edu": "Figma Edu 12 mois"
+    },
+    "urgency": {
+      "title": "⚡ Offre limitée - Économisez jusqu'à 90%",
+      "subtitle": "Il ne reste que <bold>3 jours</bold> pour bénéficier de cette offre spéciale"
+    },
+    "liveDemo": "🔴 Démo en direct",
+    "featuresTitle": "Pourquoi choisir FigmaEdu pour acheter un compte Figma ?",
+    "featuresDescription": "Détaillant indépendant au service de milliers d'étudiants indépendants en conception d'interface utilisateur. Prix ​​compétitif, livraison rapide, garantie 1 pour 1.",
+    "features": {
+      "transparentConsulting": {
+        "title": "Conseil transparent",
+        "description": "L'équipe de conseil vous aide à choisir le bon forfait Figma Education et à finaliser l'achat d'un compte Figma edu avec des informations claires."
+      },
+      "reasonableSavings": {
+        "title": "Des économies raisonnables",
+        "description": "Proposer des moyens de paiement adaptés (VietQR, MoMo, ZaloPay), optimisant les coûts lors de l'achat d'un compte Figma Education."
+      },
+      "support247": {
+        "title": "Assistance 24h/24 et 7j/7",
+        "description": "Assistance client 24h/24 et 7j/7 via Telegram. Répondez rapidement à toutes les questions sur Figma edu."
+      },
+      "longTermCompanion": {
+        "title": "Compagnon à long terme",
+        "description": "Fournissez les instructions de connexion Figma, les documents vietnamiens et l'assistance après la création du compte."
+      }
+    },
+    "benefitsTitle": "Pourquoi devriez-vous acheter un compte Figma Education ?",
+    "benefitsDescription": "Figma Education – collaboration en temps réel, mode Dev, bibliothèques et fichiers Edu pour les équipes de conception",
+    "benefits": {
+      "unlimitedCompletion": {
+        "title": "Collaboration illimitée en temps réel",
+        "description": "Travaillez en équipe sur le même fichier Figma, en commentant et en éditant simultanément – ​​adapté aux projets et à l'interface utilisateur indépendante."
+      },
+      "fastRequests": {
+        "title": "Mode développement et transfert",
+        "description": "Affichez les paramètres, exportez des ressources et synchronisez-vous avec l'équipe de conception plus rapidement que la version gratuite."
+      },
+      "maxMode": {
+        "title": "Bibliothèque et composants Edu",
+        "description": "Utilisez des bibliothèques, des composants et des prototypes dans le cadre du package Figma Education – suffisamment pour l'apprentissage et les projets réels."
+      }
+    },
+    "finalCta": {
+      "title": "Prêt à acheter un compte Figma edu ?",
+      "description": "Rejoignez des milliers d'étudiants en design qui ont choisi FigmaEdu. Consultez la liste de prix du compte Figma Education maintenant.",
+      "register": "Voir la liste de prix",
+      "viewPackages": "Voir la liste de prix"
+    }
+  },
+  "ProofGallery": {
+    "cta": "Voir les détails",
+    "badges": {
+      "featured": "Remarquable",
+      "verified": "Vérifié",
+      "authentic": ""
+    },
+    "empty": {
+      "title": "Il n'y a pas encore de preuve",
+      "description": "Les nouvelles commandes seront bientôt mises à jour"
+    },
+    "details": {
+      "orderCode": "Code de commande",
+      "customer": "Client",
+      "value": "Valeur",
+      "orderDate": "Date de commande"
+    },
+    "zoom": {
+      "zoomOut": "Zoom arrière",
+      "zoomIn": "Agrandir",
+      "reset": "Réinitialiser",
+      "hint": {
+        "zoom": "Cliquez pour agrandir • Faites défiler pour zoomer",
+        "pan": "Faites glisser pour déplacer • Faites défiler pour zoomer"
+      }
+    }
+  },
+  "TrustSocialProof": {
+    "badge": "Preuve réelle des clients",
+    "titlePart1": "Des milliers de clients ont fait confiance",
+    "titlePart2": "et utilisez nos services",
+    "description": "Voyez la preuve réelle des commandes réussies. Chaque commande est vérifiée et est accompagnée d'une garantie 1 pour 1.",
+    "stats": {
+      "successOrders": "commande réussie",
+      "avgRating": "note moyenne"
+    },
+    "cta": "Voir tous les témoignages clients",
+    "ctaSub": "Cliquez pour voir des milliers de commandes réussies et d'avis de vrais clients",
+    "empty": {
+      "title": "Les preuves seront bientôt mises à jour"
+    },
+    "labels": {
+      "verified": "vérifié",
+      "authentic": "100%",
+      "warranty": "Garantie d'échange 1 pour 1",
+      "support": "Assistance 24h/24 et 7j/7"
+    }
+  },
+  "FeaturedProducts": {
+    "title": "Forfaits de compte Figma Education",
+    "subtitle": "Achetez un compte Figma edu - économisez de l'argent - garantie 1 pour 1",
+    "cta": "Voir tous les forfaits",
+    "toast": "{name} a été ajouté au panier"
+  },
+  "Footer": {
+    "description": "FigmaEdu — compte du détaillant indépendant Figma Education. Non affilié à Figma, Inc. Garantie 1 pour 1, assistance 24h/24 et 7j/7.",
+    "columns": {
+      "products": "Produit",
+      "company": "Entreprise",
+      "support": "Soutien"
+    },
+    "links": {
+      "allPackages": "Tous les forfaits",
+      "cursorPro1m": "Figma Éducation 1 mois",
+      "cursorPro3m": "Figma Éducation 3 mois",
+      "cursorPro6m": "Figma Éducation 6 mois",
+      "cursorPro12m": "Figma Éducation 12 mois",
+      "about": "À propos de nous",
+      "careers": "Recrutement",
+      "affiliate": "Collaborateur",
+      "blog": "Blogue",
+      "press": "Presse",
+      "contact": "Contact",
+      "customers": "Client acheté",
+      "help": "Centre d'assistance",
+      "shipping": "Livraison et retours",
+      "warranty": "Garantie",
+      "returnPolicy": "Politique de retour",
+      "privacy": "politique de confidentialité",
+      "terms": "Conditions d'utilisation",
+      "disclaimer": "Clause de non-responsabilité",
+      "cookies": "Cookies",
+      "sitemap": "Plan du site"
+    },
+    "copyright": "Tous droits réservés.",
+    "schedule": {
+      "title": "Heures d'assistance",
+      "mainHours": "08h00-23h00 (du lundi au dimanche)",
+      "fastHours": "Horaires de réponse rapide : du lundi au vendredi, de 8h00 à 12h00 ; 13h30-17h00",
+      "telegramPriority": "Donnez la priorité à Telegram pour une réponse plus rapide",
+      "emergency": "Urgent : 24h/24 et 7j/7 via Telegram/Facebook"
+    },
+    "legal": {
+      "disclaimerTitle": "Déclaration de marque",
+      "disclaimerBody": "FigmaEdu est un revendeur tiers indépendant du compte Figma Education. Nous ne sommes PAS affiliés, ni approuvés ni sponsorisés par Figma, Inc. « Figma » et « Figma Education » sont des marques commerciales de Figma, Inc. Nous revendons des comptes/abonnements achetés légalement pour la commodité de la conception d'interface utilisateur vietnamienne et des étudiants indépendants. Pour postuler directement auprès du propriétaire de la marque, veuillez visiter https://www.figma.com."
+    },
+    "trustBadges": {
+      "authentic": "Agent réputé"
+    }
+  },
+  "SEO": {
+    "defaultDescription": "FigmaEdu est un revendeur tiers indépendant du compte Figma Education. Achetez un compte Figma edu à bon prix, connectez-vous par e-mail après le paiement, garantie 1 pour 1, assistance 24h/24 et 7j/7. Non affilié à Figma, Inc.",
+    "defaultTitle": "Acheter un compte Figma Edu à bon prix | FigmaEdu",
+    "slogan": "Détaillant de comptes Figma Education",
+    "keywords": "acheter compte Figma, Figma edu, Figma Education, compte Figma edu, acheter Figma Education, FigmaEdu, figmaedu.shop, compte Figma à bon prix"
+  },
+  "CompetitorComparison": {
+    "title": "Comparatif : Figma Education vs autres outils",
+    "description": "Pourquoi de nombreux étudiants en design et freelancers UI choisissent d'acheter un compte Figma edu via FigmaEdu plutôt que de se limiter à la version Free ou à d'autres outils.",
+    "tools": {
+      "cursor": {
+        "description": "Figma Education — collab & Dev Mode",
+        "price": "Meilleur prix via FigmaEdu",
+        "originalPrice": "Formule Figma Education selon la durée"
+      },
+      "vscode": {
+        "name": "Figma Free",
+        "description": "Version gratuite limitée",
+        "price": "Free"
+      },
+      "copilot": {
+        "name": "Sketch",
+        "description": "Design centré sur macOS",
+        "price": "Payant séparément"
+      },
+      "codeium": {
+        "name": "Adobe XD / Canva",
+        "description": "Prototypage & design léger",
+        "price": "Selon les forfaits éditeur"
+      }
+    },
+    "features": {
+      "header": "Fonctionnalités",
+      "completion": "Collab en temps réel",
+      "chat": "Commentaires sur fichier",
+      "models": "Composants & bibliothèques",
+      "analysis": "Dev Mode / handoff",
+      "editing": "Édition multiplayer",
+      "generation": "Prototypes interactifs",
+      "debug": "Plugins & communauté",
+      "performance": "Travail de groupe pour projets",
+      "cost": "Coût via FigmaEdu (indicatif)"
+    },
+    "values": {
+      "cursor": {
+        "completion": "Illimité avec l'accès edu",
+        "chat": "Commentaires & mentions complets",
+        "models": "Bibliothèques & composants edu",
+        "analysis": "✓ Dev Mode",
+        "editing": "✓ Édition simultanée à plusieurs",
+        "generation": "✓ Prototypes avancés",
+        "debug": "✓ Écosystème étendu",
+        "performance": "Optimisé pour les groupes d'études",
+        "cost": "Prix avantageux / mois"
+      },
+      "vscode": {
+        "completion": "Limitation des fichiers/équipes",
+        "chat": "De base",
+        "models": "Restreint",
+        "analysis": "✗ / très limité",
+        "editing": "Places limitées",
+        "generation": "De base",
+        "debug": "De base",
+        "performance": "Suffisant pour un usage individuel",
+        "cost": "Gratuit (limité)"
+      },
+      "copilot": {
+        "completion": "Par fichier local / cloud Sketch",
+        "chat": "Plus limité que Figma",
+        "models": "Symboles / Bibliothèques",
+        "analysis": "Inspect séparé",
+        "editing": "Multijoueur moins performant",
+        "generation": "Prototypage disponible",
+        "debug": "Moins de plugins",
+        "performance": "Principalement macOS",
+        "cost": "Abonnement Sketch"
+      },
+      "codeium": {
+        "completion": "Collab selon la formule",
+        "chat": "Selon le produit",
+        "models": "Modèles prêts à l'emploi",
+        "analysis": "Handoff limité",
+        "editing": "Selon la formule",
+        "generation": "Prototypage léger / marketing",
+        "debug": "Écosystème différent",
+        "performance": "Adapté au design basique",
+        "cost": "Selon Adobe / Canva"
+      }
+    },
+    "cards": {
+      "cursor": {
+        "title": "Quels sont les atouts de Figma Education ?",
+        "content": [
+          "• <bold>Collab en temps réel</bold> pour les projets UI/UX en groupe",
+          "• <bold>Dev Mode</bold> pour inspecter le code & exporter les assets",
+          "• <bold>Composants / bibliothèques</bold> inclus avec le statut edu",
+          "• <bold>Prototypes</bold> de parcours utilisateur directement sur le fichier"
+        ]
+      },
+      "service": {
+        "title": "Pourquoi acheter via FigmaEdu ?",
+        "content": [
+          "• <bold>Achat de compte Figma</bold> avec paiements locaux simples (VietQR, e-wallets)",
+          "• <bold>Conseils sur le forfait</bold> selon vos besoins d'études ou freelance",
+          "• <bold>Support client dédié</bold> 24/7",
+          "• <bold>Transparence</bold> — revendeur indépendant, non affilié à Figma, Inc."
+        ]
+      },
+      "commitment": {
+        "title": "Les engagements de FigmaEdu",
+        "content": [
+          "• <bold>Garantie remplacement 1 pour 1</bold> en cas de problème vendeur sous 24h",
+          "• <bold>Envoi des identifiants par e-mail</bold> immédiatement après paiement",
+          "• <bold>Support réactif 24/7</bold>",
+          "• <bold>Guide de connexion pas à pas</bold> de A à Z"
+        ]
+      }
+    },
+    "recommended": "RECOMMANDÉ"
+  },
+  "SuccessStories": {
+    "title": "Témoignages de nos clients Figma Edu",
+    "description": "Découvrez l'expérience d'étudiants en design, de freelancers UI et d'équipes projet ayant acheté leur compte Figma Education sur FigmaEdu",
+    "stats": {
+      "developers": "Clients Figma edu",
+      "speed": "Vitesse de création des maquettes",
+      "debug": "Réduction des révisions d'équipe",
+      "rating": "Note moyenne"
+    },
+    "stories": {
+      "0": {
+        "role": "Étudiant en Design Graphique",
+        "story": "Depuis que nous avons acheté un compte Figma edu via FigmaEdu, notre groupe de projet travaille sur un fichier unique en temps réel de manière très fluide. Les commentaires et Auto Layout permettent de valider le layout bien plus vite qu'avec la version Free.",
+        "results": [
+          "Projet terminé 1 semaine en avance",
+          "Collaboration fluide pour une équipe de 5 personnes",
+          "Handoff clair grâce au Dev Mode"
+        ]
+      },
+      "1": {
+        "role": "Designer UI Freelance",
+        "story": "J'avais besoin de Figma Education pour mes prototypes et bibliothèques clients. L'achat sur FigmaEdu a été très pratique, identifiants reçus par e-mail en quelques minutes — j'ai pu attaquer directement le jour même.",
+        "results": [
+          "Livraison des maquettes 40% plus rapide",
+          "Validation des prototypes plus facile avec les clients",
+          "Économies sur les coûts d'abonnement"
+        ]
+      },
+      "2": {
+        "role": "Équipe de projet UX",
+        "story": "Avant, on utilisait la version Free qui limitait les accès. En passant à Figma edu, toute l'équipe commente et itère sur le même fichier — et les revues avec le mentor sont bien plus simples.",
+        "results": [
+          "Plus de blocage dû aux limites de la version Free",
+          "Retours du mentor directement sur le fichier",
+          "Composants réutilisables en bibliothèque"
+        ]
+      },
+      "3": {
+        "role": "Étudiante en UI/UX",
+        "story": "J'hésitais un peu à acheter un compte Figma en ligne, mais FigmaEdu a fourni un service totalement conforme avec un support très clair. J'utilise désormais le Dev Mode pour analyser les espacements durant mes cours sur le handoff.",
+        "results": [
+          "Connexion stable",
+          "Apprentissage du Dev Mode plus rapide",
+          "Réponse du support en moins de 5 minutes"
+        ]
+      },
+      "4": {
+        "role": "Product Designer Freelance",
+        "story": "Gérant 2 à 3 briefs en parallèle chaque mois, Figma Education m'aide à garder un design system structuré. L'achat longue durée sur FigmaEdu m'évite les soucis de renouvellement mensuel.",
+        "results": [
+          "Design system cohérent",
+          "Livraison des briefs dans les temps",
+          "Budget prévisible au trimestre"
+        ]
+      },
+      "5": {
+        "role": "Chef de projet design",
+        "story": "Distribution des rôles research / UI / prototype sur le même fichier Figma. J'ai acheté la version edu pour toute l'équipe via FigmaEdu : le workflow est limpide, tout le monde accède au fichier master.",
+        "results": [
+          "1 fichier master unique pour l'équipe",
+          "Réduction des allers-retours de fichiers",
+          "Prototypes finalisés avant la soutenance"
+        ]
+      }
+    },
+    "cta": {
+      "title": "Envie de créer votre propre success story ?",
+      "description": "Rejoignez la communauté d'étudiants en design et de freelancers UI qui ont fait confiance à FigmaEdu. Votre histoire pourrait être la prochaine !",
+      "start": "🚀 Voir les tarifs Figma Edu",
+      "follow": "📘 Suivre la page Fanpage"
+    },
+    "resultsLabel": "Résultats obtenus :"
+  },
+  "Tutorial": {
+    "title": "Guide d'achat & d'utilisation de votre compte Figma Edu",
+    "description": "De la sélection de l'offre → paiement → réception de l'e-mail → connexion à Figma en quelques minutes",
+    "download": {
+      "title": "Ouvrir Figma sur le Web ou l'application",
+      "version": "Utilisez Figma sur <bold>navigateur</bold> ou l'application desktop — Windows, macOS, Linux",
+      "button": "Ouvrir Figma",
+      "note": "⚡ Après réception de l'e-mail de livraison, connectez-vous pour profiter de vos accès Figma Education"
+    },
+    "steps": {
+      "1": {
+        "title": "Choisir l'offre Figma Education",
+        "description": "Consultez la grille tarifaire et sélectionnez le forfait Figma edu adapté à vos besoins",
+        "details": [
+          "Accédez à la page Produits sur figmaedu.shop",
+          "Choisissez la durée souhaitée (1 mois, 3 mois...)",
+          "Ajoutez au panier et vérifiez votre commande",
+          "Assurez-vous de fournir une adresse e-mail valide pour la livraison"
+        ],
+        "duration": "2 minutes",
+        "difficulty": "Facile"
+      },
+      "2": {
+        "title": "Règlement par VietQR / Portefeuille électronique",
+        "description": "Paiement via VietQR, MoMo, ZaloPay ou virement bancaire",
+        "details": [
+          "Sélectionnez votre mode de paiement lors du checkout",
+          "Scannez le code VietQR ou validez la transaction sur votre e-wallet",
+          "Conservez le reçu / numéro de transaction si besoin de vérification",
+          "Patientez pendant la confirmation automatique du paiement"
+        ],
+        "duration": "3 minutes",
+        "difficulty": "Facile"
+      },
+      "3": {
+        "title": "Réception de l'e-mail de livraison",
+        "description": "FigmaEdu vous envoie les identifiants par e-mail — aucun mot de passe n'est affiché sur le site",
+        "details": [
+          "Vérifiez votre boîte de réception (et le dossier Spams)",
+          "Ouvrez l'e-mail de livraison envoyé par FigmaEdu",
+          "Conservez précieusement vos identifiants de connexion",
+          "Suivez les instructions figurant dans l'e-mail"
+        ],
+        "duration": "2 minutes",
+        "difficulty": "Facile"
+      },
+      "4": {
+        "title": "Connexion à Figma",
+        "description": "Utilisez les identifiants reçus pour vous connecter et vérifier vos droits edu",
+        "details": [
+          "Ouvrez figma.com ou l'application Figma",
+          "Connectez-vous avec l'e-mail et le mot de passe reçus",
+          "Vérifiez le statut Figma Education sur votre compte",
+          "Créez un fichier de test ou rejoignez votre équipe de projet"
+        ],
+        "duration": "5 minutes",
+        "difficulty": "Facile"
+      },
+      "5": {
+        "title": "Commencer à concevoir en équipe",
+        "description": "Profitez d'Auto Layout, des composants, du prototypage et du Dev Mode inclus dans votre statut edu",
+        "details": [
+          "Créez un frame et appliquez l'Auto Layout",
+          "Réutilisez les composants et bibliothèques d'équipe",
+          "Prototypez les flux d'écrans pour votre projet",
+          "Activez le Dev Mode pour partager les spécifications d'intégration"
+        ],
+        "duration": "15 minutes",
+        "difficulty": "Moyen"
+      }
+    },
+    "tips": {
+      "shortcuts": {
+        "title": "Raccourcis utiles sur Figma",
+        "list": [
+          "F : créer un Frame",
+          "Shift + A : Auto Layout",
+          "Ctrl/Cmd + Alt + K : créer un composant",
+          "Shift + E : Dev Mode (selon vos accès)"
+        ]
+      },
+      "bestPractices": {
+        "title": "Bonnes pratiques",
+        "list": [
+          "Nommer clairement les calques/frames pour toute l'équipe",
+          "Utiliser Auto Layout au lieu d'un alignement manuel",
+          "Isoler les composants partagés dans une bibliothèque",
+          "Commenter directement sur le fichier au lieu d'échanger à côté"
+        ]
+      },
+      "useCases": {
+        "title": "Cas d'usage courants",
+        "list": [
+          "Projet UI/UX collaboratif en équipe sur un seul fichier",
+          "Prototypage d'application web/mobile avant le développement",
+          "Création d'un petit design system pour un cours",
+          "Handoff des spécifications techniques pour l'équipe dev"
+        ]
+      }
+    },
+    "support": {
+      "freeSetup": "Accompagnement personnalisé à la connexion pour les nouveaux clients",
+      "messenger": "💬 Support Messenger",
+      "telegram": "📱 Support Telegram"
+    }
+  },
+  "FAQ": {
+    "title": "Foire aux questions — Achat de compte Figma Edu",
+    "description": "Retrouvez les réponses aux questions les plus fréquentes sur Figma Education et notre service de revente FigmaEdu.",
+    "items": {
+      "0": {
+        "question": "Qu'est-ce que Figma edu / Figma Education ?",
+        "answer": "Figma Education (souvent appelé Figma edu) est l'offre dédiée aux étudiants et au milieu éducatif sur Figma : collaboration en temps réel, Dev Mode, fichiers/bibliothèques inclus. FigmaEdu revend ces abonnements en tant que revendeur indépendant, sans affiliation avec Figma, Inc."
+      },
+      "1": {
+        "question": "La boutique est-elle un représentant officiel de Figma ?",
+        "answer": "Non. FigmaEdu est un revendeur tiers indépendant (third-party reseller). Nous ne représentons pas, ne sommes pas mandatés ni approuvés par Figma, Inc. L'accès aux fonctionnalités dépend des conditions d'utilisation de Figma."
+      },
+      "2": {
+        "question": "Pourquoi l'achat d'un compte Figma edu est-il moins cher ici ?",
+        "answer": "FigmaEdu regroupe les demandes, optimise les frais de traitement internationaux et réduit les coûts opérationnels. Vous réalisez ainsi une économie importante par rapport à un souscription directe, tout en bénéficiant d'un support réactif et d'une garantie de remplacement en cas de problème côté boutique."
+      },
+      "3": {
+        "question": "Les comptes Figma achetés bénéficient-ils d'une garantie ?",
+        "answer": "Oui, nous offrons une garantie de remplacement 1 pour 1 sous 24 heures pour tout problème imputable au vendeur (impossibilité de connexion, accès edu manquant...). Pas de remboursement après l'envoi des identifiants (produit numérique). Aucune garantie si Figma suspend le compte en cas de violation de leurs conditions d'utilisation. Support 24/7 disponible sur Telegram."
+      },
+      "4": {
+        "question": "Quelle est la différence entre Figma Education et la version Figma Free ?",
+        "answer": "La version Free limite le nombre de fichiers, d'équipes et de fonctionnalités avancées. Figma Education offre une collaboration étendue, le Dev Mode, l'accès aux bibliothèques et des autorisations adaptées aux projets éducatifs — idéal pour concevoir des projets UI/UX professionnels."
+      },
+      "5": {
+        "question": "Quels sont les modes de paiement disponibles ?",
+        "answer": "Le paiement s'effectue via MoMo, ZaloPay, VietQR ou virement bancaire. Les transactions sont sécurisées par chiffrement SSL. Paiement unique sans renouvellement automatique. Aucune donnée de paiement sensible n'est conservée."
+      },
+      "6": {
+        "question": "Comment reçois-je mon compte après le paiement ?",
+        "answer": "Une fois le paiement validé, vous recevrez un e-mail contenant vos identifiants de connexion Figma en 1 à 5 minutes (en moyenne 2 à 3 minutes aux heures ouvrables). Le site n'affiche aucun mot de passe — tout est envoyé de façon sécurisée par e-mail."
+      },
+      "7": {
+        "question": "Un guide de connexion Figma edu est-il fourni ?",
+        "answer": "Oui. Chaque commande comprend des instructions détaillées. Notre équipe de support reste disponible pour vous guider pas à pas si vous rencontrez le moindre souci via Telegram/Facebook."
+      }
+    },
+    "stillHaveQuestions": "Vous avez encore des questions ?",
+    "contactSupport": "Contactez-nous via nos différents canaux. Notre équipe de support est disponible 24/7 !",
+    "telegram": "Discuter maintenant",
+    "messenger": "Discuter maintenant",
+    "fanpage": "Page Fanpage",
+    "email": "E-mail",
+    "zaloGroup": "Groupe communautaire",
+    "facebookGroup": "Groupe Facebook"
+  },
+  "Community": {
+    "badge": "Communauté",
+    "title": "Rejoignez la communauté Figma",
+    "description": "Connectez-vous avec des étudiants en design et des designers UI freelance, partagez vos retours sur Figma Education et obtenez une entraide rapide.",
+    "members": "membres",
+    "facebook": {
+      "title": "Groupe Facebook",
+      "description": "La plus grande communauté pour échanger et partager vos retours sur Figma Education."
+    },
+    "zalo": {
+      "title": "Groupe Zalo",
+      "description": "Échanges rapides, assistance technique en temps réel et dernières promotions."
+    },
+    "telegram": {
+      "title": "Canal Telegram",
+      "description": "Recevez les annonces, astuces & conseils ainsi que des ressources sur Figma Education."
+    },
+    "benefits": {
+      "support": "Entraide communautaire",
+      "network": "Réseautage entre designers",
+      "exclusive": "Offres exclusives"
+    }
+  },
+  "WarningMarquee": {
+    "text": "⚠️ ATTENTION : Des personnes usurpent actuellement l'identité de la page Fanpage du shop Figma. Nous demandons à nos clients d'effectuer leurs transactions uniquement via la <contact>Page de contact du Shop</contact> ou d'en <products>effectuer l'achat directement sur le site web de FigmaEdu</products> !"
+  },
+  "Testimonials": {
+    "title": "Avis des clients ayant acheté un compte Figma Edu",
+    "description": "Des milliers d'étudiants en design et de freelancers UI font confiance aux services de FigmaEdu",
+    "items": {
+      "0": {
+        "text": "Support très réactif, e-mail de connexion reçu en 5 minutes. Acheter un compte Figma edu revient moins cher qu'une inscription directe et fonctionne parfaitement. Très satisfait !",
+        "author": {
+          "name": "Hoàng Văn Nam",
+          "handle": "@nam.design"
+        }
+      },
+      "1": {
+        "text": "Avant, j'utilisais Figma Free et les places en équipe étaient limitées. Je suis passé à Figma Education via FigmaEdu : collaboration fluide, Auto Layout + prototypage amplement suffisants pour mes projets.",
+        "author": {
+          "name": "Trần Thanh Tú",
+          "handle": "@tu.uiux"
+        }
+      },
+      "2": {
+        "text": "Très fiable. J'ai acheté un forfait longue durée, activé sur mon e-mail dans les temps. Pas de partage douteux — compte personnel pour mes briefs freelance.",
+        "author": {
+          "name": "Lê Đức Thắng",
+          "handle": "@thang.figma"
+        }
+      },
+      "3": {
+        "text": "Figma edu m'aide à gérer plusieurs briefs en même temps. Le shop offre un support en vietnamien et le paiement VietQR est très pratique. Je le recommande aux étudiants en design.",
+        "author": {
+          "name": "Phạm Minh Tâm",
+          "handle": "@tam.product"
+        }
+      },
+      "4": {
+        "text": "Au début, j'hésitais à acheter en ligne, mais après avoir bien vérifié, j'ai testé pendant 1 mois. Maintenant je renouvelle pour plus longtemps afin d'économiser. 10/10 pour FigmaEdu.",
+        "author": {
+          "name": "Nguyễn Quốc Bảo",
+          "handle": "@bao.ux"
+        }
+      },
+      "5": {
+        "text": "Nous avons acheté ensemble à 5 personnes. Instructions claires, garantie transparente. 5 étoiles pour ce shop de comptes Figma.",
+        "author": {
+          "name": "Vũ Thị Hằng",
+          "handle": "@hang.studio"
+        }
+      }
+    }
+  },
+  "ProductsPage": {
+    "breadcrumbs": {
+      "home": "Accueil",
+      "products": "Comptes Figma Edu"
+    },
+    "title": "Comptes Figma Education",
+    "subtitle": "Achetez un compte Figma edu - Économisez du budget - Garantie 1 pour 1 - Livraison par e-mail en ~5 min",
+    "allCategories": "Toutes les catégories",
+    "newBadge": "Nouveau",
+    "filterTitle": "Filtrer par {name}",
+    "emptyState": {
+      "title": "Aucun produit trouvé",
+      "categoryEmpty": "Aucun produit dans la catégorie « {category} »",
+      "genericEmpty": "Aucun produit disponible pour le moment — veuillez revenir plus tard ou contacter le support"
+    },
+    "pagination": {
+      "prev": "Précédent",
+      "next": "Suivant"
+    },
+    "toast": {
+      "added": "{name} a été ajouté au panier"
+    },
+    "search": {
+      "placeholder": "Rechercher une offre Figma edu...",
+      "noResults": "Aucun résultat pour « {query} »",
+      "noResultsHint": "Essayez d'autres mots-clés ou parcourez par catégorie"
+    },
+    "sort": {
+      "label": "Trier par",
+      "default": "Par défaut",
+      "priceLowToHigh": "Prix : Croissant",
+      "priceHighToLow": "Prix : Décroissant",
+      "newest": "Plus récents",
+      "topRated": "Mieux notés"
+    },
+    "priceFilter": {
+      "label": "Gamme de prix",
+      "apply": "Appliquer",
+      "clear": "Réinitialiser les filtres"
+    },
+    "seo": {
+      "title": "Comptes Figma Edu — Offres disponibles",
+      "description": "Liste des forfaits de comptes Figma Education disponibles sur FigmaEdu. Achetez un compte Figma edu à bon prix, identifiants envoyés par e-mail, garantie 1 pour 1.",
+      "keywords": "compte Figma edu, acheter compte Figma, Figma Education, forfait Figma edu, tarif Figma Education, FigmaEdu"
+    },
+    "breadcrumb": {
+      "home": "Accueil",
+      "products": "Produits"
+    }
+  },
+  "ProductCard": {
+    "popular": "POPULAIRE",
+    "soldCount": "{count}+ achetés",
+    "save": "Économisez {amount} ₫",
+    "warranty": "Garantie 1 pour 1",
+    "support": "Support 24/7",
+    "buyNow": "Acheter maintenant",
+    "addToCart": "Ajouter au panier",
+    "outOfStock": "Rupture de stock",
+    "toast": {
+      "added": "{name} a été ajouté au panier"
+    },
+    "aria": {
+      "addToWishlist": "Ajouter à la liste d'envies"
+    },
+    "quickView": {
+      "button": "Aperçu rapide",
+      "features": "Caractéristiques principales",
+      "viewDetail": "Voir tous les détails"
+    }
+  },
+  "SocialShare": {
+    "share": "Partager",
+    "facebook": "Partager sur Facebook",
+    "telegram": "Partager sur Telegram",
+    "copyLink": "Copier le lien",
+    "copied": "Copié !",
+    "linkCopied": "Lien du produit copié",
+    "copyFailed": "Impossible de copier le lien",
+    "shareText": "Découvrez {productName} sur FigmaEdu !"
+  },
+  "SocialProofPreview": {
+    "badge": "Preuve réelle des clients",
+    "title": "Le client a acheté",
+    "highlight": "des milliers de commandes réussies",
+    "description": "Voir les preuves réelles des commandes de clients qui ont fait confiance et ont utilisé nos services",
+    "featured": "Remarquable",
+    "empty": "Il n'y a pas encore de preuve",
+    "viewAll": "Voir toutes les démonstrations",
+    "productTypes": {
+      "cursor-pro": "Figma Education",
+      "cursor-pro-official-1m": "Figma Éducation 1 mois",
+      "github-copilot": "Copilote GitHub",
+      "github-edu": "GitHub EDU",
+      "figma-pro": "Figma Pro",
+      "jetbrains-edu": "JetBrains"
+    },
+    "badges": {
+      "authentic": "Agent réputé"
+    },
+    "labels": {
+      "authentic": "Agent réputé"
+    }
+  },
+  "SocialProofPage": {
+    "seo": {
+      "title": "Le client a acheté un compte Figma Edu chez FigmaEdu",
+      "description": "Voir la preuve que le client a acheté un compte Figma Education sur FigmaEdu. Commandes réelles : achetez un compte Figma edu réputé au Vietnam.",
+      "keywords": "acheter un compte Figma, client Figma edu, commande Figma Education, FigmaEdu, preuve d'achat Figma edu"
+    },
+    "hero": {
+      "badge": "Preuve de commande réelle",
+      "title": "Le client a acheté",
+      "highlight": "Compte Figma Éducation",
+      "description": "Des milliers de clients ont fait confiance à FigmaEdu lors de l'achat de comptes Figma edu. Voyez la preuve réelle des commandes réussies !",
+      "stats": {
+        "orders": "Commande",
+        "cursor": "Figma Édu",
+        "github": "Étudiant en savoirs traditionnels",
+        "reviews": "Évaluer",
+        "figma": "Figma Édu",
+        "delivery": "Livraison rapide"
+      }
+    },
+    "proofs": {
+      "title": "Preuve réelle des clients",
+      "description": "Cliquez sur chaque démonstration pour voir les détails et agrandir l'image",
+      "badges": {
+        "authentic": "Détaillant réputé"
+      },
+      "labels": {
+        "authentic": "Détaillant réputé"
+      },
+      "verifiedBadge": "PREUVE D'AUTHENTICITÉ"
+    },
+    "trust": {
+      "title": "Pourquoi nous choisir ?",
+      "items": {
+        "0": {
+          "title": "100%",
+          "description": "Engagé à soutenir l'achat de comptes Figma Education de manière transparente et avec des descriptions de packages correctes"
+        },
+        "1": {
+          "title": "Garantie 1 pour 1 échange",
+          "description": "Remplacez immédiatement si l'erreur provient du magasin (selon la politique)"
+        },
+        "2": {
+          "title": "Assistance 24h/24 et 7j/7",
+          "description": "Une équipe d'assistance enthousiaste, prête à vous aider"
+        }
+      }
+    },
+    "productTypes": {
+      "figmaEdu": "Figma Education"
+    },
+    "commitment": {
+      "bannerTitle": "🛡️ ENGAGEMENT À 100% DES COMMANDES ORIGINES",
+      "bannerSubtitle": "Remboursement à 200 % si une fausse commande est détectée",
+      "ssl": "Sécurité SSL",
+      "verified": "Vérifié",
+      "trusted": "Excellente réputation"
+    },
+    "whyTrust": {
+      "badge": "POURQUOI LES CLIENTS NOUS NOUS FONT CONFIANCE",
+      "title": "Engagement envers la réputation - 100 % de transparence",
+      "description": "Nous sommes fiers d'être un détaillant indépendant spécialisé dans les comptes Figma Education avec des milliers de clients satisfaits.",
+      "realOrdersTitle": "Commandes 100% réelles",
+      "realOrdersDesc": "Toutes les commandes affichées sont prises directement depuis le système de paiement, sans aucune intervention.",
+      "dataSecurityTitle": "Sécurité des informations",
+      "dataSecurityDesc": "Les informations client sont absolument protégées avec SSL 256 bits. Les noms des clients sont partiellement masqués pour des raisons de confidentialité.",
+      "instantDeliveryTitle": "Livraison instantanée",
+      "instantDeliveryDesc": "Recevez votre compte Figma Education par e-mail immédiatement après le paiement réussi. Assistance 24h/24 et 7j/7.",
+      "refundTitle": "Remboursement à 200 %",
+      "refundDesc": "Garantie de remboursement à 200 % si de fausses commandes sont détectées. C'est notre confiance.",
+      "quote": "Plus de {count}+ clients ont fait confiance et ont acheté des comptes Figma Education sur FigmaEdu. Merci pour votre coopération!",
+      "satisfied": "Les clients sont satisfaits"
+    },
+    "promise": {
+      "badge": "NOTRE PROMESSE"
+    },
+    "cta": {
+      "title": "🎯 Qu'est-ce que tu attends ?",
+      "description": "Des milliers de clients ont acheté des comptes Figma Education sur FigmaEdu. C'est votre tour !",
+      "buyNow": "Acheter maintenant",
+      "contact": "Contacter l'assistance"
+    }
+  },
+  "BlogPage": {
+    "seo": {
+      "title": "Figma Education Blog – guides et conseils",
+      "description": "Blog FigmaEdu — instructions pour acheter un compte Figma edu, conseils de mise en page automatique, prototypage et collaborations de groupe. Connaissances Figma Education pour les étudiants en design vietnamiens.",
+      "keywords": "Blog Figma Education, Figma edu, acheter un compte Figma, astuces Figma, tutoriel Figma Education, blog FigmaEdu"
+    },
+    "hero": {
+      "title": "Blogue",
+      "highlight": "Figma Education",
+      "description": "Partagez des instructions et des conseils sur l'utilisation de Figma Education, de l'achat d'un compte Figma edu à la mise en page automatique, au prototypage et à la collaboration en équipe de projet."
+    },
+    "categories": {
+      "all": "Tous",
+      "tutorial": "Tutoriel",
+      "news": "Nouvelles",
+      "tips": "Conseils"
+    },
+    "featured": {
+      "title": "Articles en vedette",
+      "readMore": "Lire l'article",
+      "defaultTitle": "Article en vedette",
+      "readTime": "{minutes} minutes de lecture",
+      "author": "Administrateur"
+    },
+    "posts": {
+      "title": "Derniers articles",
+      "readMore": "Lire ensuite",
+      "defaultImage": "Image du blog",
+      "empty": "Il n'y a pas encore de messages. Les tutoriels Figma Education seront bientôt disponibles – revenez bientôt !",
+      "loadMore": "Voir plus d'articles"
+    },
+    "newsletter": {
+      "title": "Inscrivez-vous pour recevoir de nouvelles nouvelles",
+      "description": "Recevez des newsletters avec des conseils Figma Education, des mises à jour du package Figma edu et des tutoriels exclusifs pour les abonnés.",
+      "placeholder": "votre.email@exemple.com",
+      "button": "Registre",
+      "privacy": "Nous respectons votre vie privée. Désabonnez-vous à tout moment."
+    },
+    "cta": {
+      "title": "Prêt à acheter un compte Figma Edu ?",
+      "description": "Appliquez dès maintenant les conseils du blog et commencez à concevoir avec Figma Education",
+      "buyNow": "Achetez Figma Edu maintenant",
+      "guide": "Voir les instructions"
+    }
+  },
+  "ContactPage": {
+    "seo": {
+      "title": "Contact pour acheter un compte Figma Edu — Assistance 24h/24 et 7j/7",
+      "description": "Contactez FigmaEdu pour acheter un compte Figma Education. Assistance 24h/24 et 7j/7 via Telegram, Facebook. Conseils pour acheter rapidement un compte Figma edu.",
+      "keywords": "contactez FigmaEdu, achetez un compte Figma, soutenez Figma edu, Figma Education Vietnam, figmaedu.shop"
+    },
+    "hero": {
+      "badge": "Nous sommes toujours prêts à vous aider",
+      "title": "Contact",
+      "highlight": "FigmaEdu",
+      "description": "L'équipe d'assistance professionnelle est prête à vous aider",
+      "subDescription": "Contactez-nous dès maintenant pour obtenir des conseils gratuits sur l'achat d'un compte Figma Education !",
+      "stats": {
+        "response": "Réponse en 5 minutes",
+        "customers": "Des milliers de clients font confiance",
+        "support": "Assistance instantanée 24h/24 et 7j/7"
+      }
+    },
+    "methods": {
+      "title": "Sélectionnez la méthode de contact",
+      "highlight": "Convient pour vous",
+      "description": "Contactez-nous via Facebook Fanpage ou Telegram pour recevoir une assistance rapide",
+      "facebook": {
+        "title": "Page de fans Facebook",
+        "description": "Suivre et contacter via Fanpage",
+        "action": "Visitez la page des fans"
+      },
+      "telegram": {
+        "title": "Télégramme",
+        "description": "Contacter l'assistance via Telegram",
+        "action": "Contacter le télégramme"
+      },
+      "available": "24h/24 et 7j/7"
+    },
+    "quickBanner": {
+      "title": "💬 Contactez-nous au plus vite",
+      "facebook": "Page de fans Facebook",
+      "or": "ou",
+      "telegram": "Télégramme",
+      "description": "Pour des commentaires instantanés et des conseils détaillés sur l'achat d'un compte Figma edu, veuillez contacter via Facebook Fanpage ou Telegram. Nous nous engageons à répondre dans les 5 minutes !",
+      "buttons": {
+        "facebook": "Page de fans Facebook",
+        "telegram": "Télégramme FigmaEdu"
+      }
+    },
+    "info": {
+      "title": "Contactez-nous",
+      "description": "Veuillez contacter via Facebook Fanpage ou Telegram pour une assistance rapide",
+      "note": "💡 Remarque : Nous ne prenons en charge que via 2 canaux principaux : Facebook Fanpage et Telegram. Veuillez nous contacter via l'un de ces deux canaux pour obtenir la réponse la plus rapide.",
+      "company": {
+        "title": "Informations sur le magasin",
+        "name": "FigmaEdu",
+        "description": "Compte de détaillant indépendant Figma Education – non affilié à Figma, Inc.",
+        "addressTitle": "Adresse",
+        "address": "Hô Chi Minh Ville, Vietnam",
+        "hoursTitle": "Heures d'ouverture",
+        "hours": "• Du lundi au dimanche : de 8h00 à 23h00\n• Les soirées et les week-ends peuvent être plus lents à répondre\n• Horaires de réponse rapide : du lundi au vendredi, de 8h00 à 12h00 ; 13h30-17h00\n• Pause déjeuner de 12h00 à 13h30, réponse peut être retardée ou tard dans l'après-midi\n• Donnez la priorité aux messages Telegram pour obtenir des réponses plus rapides que Facebook\n• Urgence : 24h/24 et 7j/7 via Telegram/Facebook",
+        "responseTitle": "Temps de réponse",
+        "response": "• Télégramme (de préférence) : généralement plus rapide\n• Fanpage Facebook : peut être plus lente le soir/le week-end"
+      },
+      "faq": {
+        "title": "Foire aux questions",
+        "viewAll": "Afficher toutes les FAQ",
+        "items": {
+          "0": {
+            "question": "Le compte peut-il être utilisé immédiatement ?",
+            "answer": "Avoir! Après le paiement, vous recevrez un e-mail de connexion et pourrez vous connecter immédiatement à Figma."
+          },
+          "1": {
+            "question": "Existe-t-il une prise en charge des instructions de connexion ?",
+            "answer": "Avoir! Nous prenons en charge les instructions de connexion Figma edu de A à Z de manière entièrement gratuite."
+          },
+          "2": {
+            "question": "Le paiement est-il sécurisé ?",
+            "answer": "Totalement sécurisé avec de nombreuses méthodes : MoMo, Banking, ZaloPay, VietQR."
+          }
+        }
+      }
+    },
+    "emergency": {
+      "badge": "🚨",
+      "title": "Besoin d'une assistance urgente ?",
+      "description": "Si votre compte Figma edu rencontre des problèmes ou a besoin d'une assistance urgente, contactez-nous immédiatement via Facebook Fanpage ou Telegram ! Nous sommes toujours en ligne 24h/24 et 7j/7.",
+      "note": "⚡ Répondez dans les 2 minutes en cas d'urgence"
+    },
+    "social": {
+      "title": "Contactez-nous via les canaux d'assistance"
+    }
+  },
+  "Cart": {
+    "trigger": {
+      "ariaLabel": "Ouvrir le panier"
+    },
+    "title": "Panier",
+    "empty": {
+      "message": "Votre panier est vide",
+      "count": "Vous avez {count} produits dans votre panier",
+      "title": "Le panier est vide",
+      "description": "Vous n'avez ajouté aucun produit à votre panier.",
+      "viewProducts": "Voir les produits"
+    },
+    "item": {
+      "remove": "Supprimer le produit",
+      "decrease": "Réduire la quantité",
+      "increase": "Augmenter la quantité"
+    },
+    "summary": {
+      "subtotal": "Calculé temporairement",
+      "discountCode": "Code promo CTV",
+      "placeholder": "Entrez le code du bon d'achat",
+      "apply": "Appliquer",
+      "applying": "Vérification...",
+      "discount": "Rabais",
+      "total": "Total",
+      "checkout": "Payer",
+      "continue": "Continuer vos achats",
+      "clear": "Supprimer le panier"
+    },
+    "voucher": {
+      "appliedLabel": "Bon appliqué",
+      "applied": "Bon appliqué !",
+      "removed": "Bon supprimé",
+      "remove": "Retirer",
+      "invalid": "Le code du coupon n'est pas valide",
+      "networkError": "Impossible de se connecter, veuillez réessayer"
+    },
+    "priceChanged": {
+      "title": "Le prix du produit a été mis à jour",
+      "dismiss": "Compris"
+    }
+  },
+  "Checkout": {
+    "title": "Paiement",
+    "back": "Retour à la boutique",
+    "greeting": {
+      "user": "Bonjour {name} ! Complétez vos informations pour finaliser votre commande",
+      "guest": "Complétez vos informations pour finaliser votre commande"
+    },
+    "loginHint": {
+      "text": "pour préremplir vos informations et suivre votre commande",
+      "link": "Se connecter"
+    },
+    "walletBanner": "Rechargez votre solde en 1 fois — achetez plusieurs fois, réduisez vos transactions bancaires",
+    "loginRequired": {
+      "title": "Veuillez vous connecter pour procéder au paiement",
+      "desc": "Le paiement via le solde vous permet d'effectuer un seul virement pour plusieurs achats"
+    },
+    "steps": {
+      "info": "Informations de commande",
+      "payment": "Paiement",
+      "finish": "Confirmation"
+    },
+    "form": {
+      "customerInfo": "Informations client",
+      "name": "Nom complet",
+      "email": "E-mail",
+      "phone": "Numéro de téléphone",
+      "note": "Note de commande",
+      "notePlaceholder": "Remarques sur la commande (facultatif)",
+      "autoFill": "✓ Prérempli depuis votre compte"
+    },
+    "payment": {
+      "title": "Moyen de paiement",
+      "bankTransfer": "Virement bancaire",
+      "bankTransferDesc": "Paiement via QR Code - Confirmation automatique",
+      "wallet": "Payer avec le solde",
+      "walletDesc": "Débité directement de votre solde — commande traitée immédiatement, sans QR.",
+      "walletBalance": "Solde",
+      "recommended": "Recommandé",
+      "shortfall": "Manque {amount}",
+      "topupCta": "Recharger {amount} pour payer",
+      "walletInsufficientHint": "Solde insuffisant — veuillez recharger",
+      "walletInsufficient": "Solde insuffisant pour régler cette commande",
+      "walletLoginHint": "pour payer rapidement avec votre solde (sans faire de virement pour chaque commande).",
+      "payWithWalletBtn": "Payer avec le solde maintenant"
+    },
+    "summary": {
+      "title": "Commande ({count} article(s))",
+      "subtotal": "Sous-total",
+      "processingFee": "Frais de traitement",
+      "free": "Gratuit",
+      "voucher": "Code promo ({code})",
+      "total": "Total",
+      "submit": "Passer la commande",
+      "submitting": "Traitement en cours...",
+      "termsHint": "Vous devez cocher toutes les cases de confirmation ci-dessus avant de passer commande."
+    },
+    "consent": {
+      "title": "Confirmations requises",
+      "over18": "J'ai au moins 18 ans.",
+      "termsPrivacy": "J'accepte les <terms>Conditions d'utilisation</terms> et la <privacy>Politique de confidentialité</privacy>.",
+      "reseller": "Je comprends que FigmaEdu est un revendeur indépendant, non affilié à Figma, Inc.",
+      "cursorTos": "J'accepte de respecter les Conditions de Figma (<link>www.figma.com/legal</link>)."
+    },
+    "toast": {
+      "cartEmpty": "Votre panier est vide, veuillez sélectionner un produit",
+      "missingInfo": "Veuillez saisir votre nom et votre e-mail",
+      "missingConsent": "Veuillez cocher toutes les cases de confirmation obligatoires",
+      "missingUpgradeInfo": "Veuillez renseigner toutes les informations du compte à mettre à niveau",
+      "success": "Commande créée avec succès !",
+      "error": "Une erreur est survenue, veuillez réessayer"
+    },
+    "upgradeInfo": {
+      "title": "Informations du compte à mettre à niveau",
+      "description": "Veuillez saisir l'e-mail et le mot de passe du compte que vous souhaitez mettre à niveau. Ces informations seront uniquement utilisées pour procéder à la mise à niveau.",
+      "email": "E-mail du compte",
+      "emailPlaceholder": "Entrez l'e-mail du compte à mettre à niveau",
+      "password": "Mot de passe du compte",
+      "passwordPlaceholder": "Entrez le mot de passe du compte",
+      "contactInfo": "Telegram / Facebook",
+      "contactPlaceholder": "Entrez votre nom d'utilisateur Telegram ou votre lien Facebook"
+    }
+  },
+  "CookiesPage": {
+    "seo": {
+      "title": "Politique relative aux cookies",
+      "description": "Politique relative aux cookies de FigmaEdu. Découvrez comment nous utilisons les cookies pour améliorer l'expérience utilisateur et protéger vos données personnelles.",
+      "keywords": "politique cookies figmaedu, cookies, protection des données"
+    },
+    "hero": {
+      "title": "Politique relative aux",
+      "highlight": "Cookies",
+      "description": "Découvrez comment FigmaEdu utilise les cookies pour améliorer votre expérience et protéger vos données personnelles en toute transparence.",
+      "update": "Dernière mise à jour : 15/01/2025"
+    },
+    "definition": {
+      "title": "Que sont les cookies ?",
+      "description": "Les cookies sont de petits fichiers texte stockés sur votre appareil lorsque vous visitez un site web. Ils permettent au site de se souvenir de vos informations de visite pour rendre vos prochaines interactions plus fluidifiées.",
+      "whyTitle": "Pourquoi utilisons-nous des cookies ?",
+      "reasons": {
+        "1": "Garantir le bon fonctionnement et la sécurité du site web",
+        "2": "Mémoriser votre connexion et le contenu de votre panier",
+        "3": "Améliorer la performance et la vitesse de chargement du site",
+        "4": "Comprendre votre utilisation du site afin d'optimiser l'expérience utilisateur",
+        "5": "Proposer du contenu et des publicités adaptés"
+      },
+      "commitment": "Engagement : Nous ne stockons jamais d'informations sensibles telles que des mots de passe ou des données de carte bancaire dans nos cookies."
+    },
+    "types": {
+      "title": "Types de cookies utilisés",
+      "description": "Comprendre chaque type de cookie et son utilisation",
+      "purpose": "Objectif :",
+      "examples": "Exemples :",
+      "canDisable": "Désactivable :",
+      "yes": "✅ Oui",
+      "no": "❌ Non",
+      "settings": "Paramètres",
+      "items": {
+        "essential": {
+          "title": "Cookies essentiels",
+          "description": "Indispensables au fonctionnement de base",
+          "purpose": "Assurer le bon fonctionnement du site web"
+        },
+        "analytics": {
+          "title": "Cookies d'analyse",
+          "description": "Collecter des données sur l'utilisation du site",
+          "purpose": "Comprendre l'interaction des utilisateurs avec le site"
+        },
+        "marketing": {
+          "title": "Cookies marketing",
+          "description": "Utilisés pour diffuser des publicités pertinentes",
+          "purpose": "Mesurer l'efficacité des campagnes publicitaires"
+        },
+        "functional": {
+          "title": "Cookies fonctionnels",
+          "description": "Mémoriser vos préférences",
+          "purpose": "Enregistrer les paramètres de langue et d'interface"
+        }
+      }
+    },
+    "details": {
+      "title": "Détail des cookies",
+      "description": "Liste complète des cookies utilisés sur le site web",
+      "headers": {
+        "name": "Nom du cookie",
+        "provider": "Fournisseur",
+        "purpose": "Objectif",
+        "duration": "Durée",
+        "type": "Type"
+      }
+    },
+    "manage": {
+      "title": "Gérer les cookies",
+      "description": "Vous pouvez contrôler et/ou supprimer les cookies selon vos préférences.",
+      "browser": "Paramètres du navigateur",
+      "options": "Options disponibles",
+      "warning": "Avertissement",
+      "warningItems": {
+        "1": "La désactivation des cookies essentiels peut altérer le bon fonctionnement du site",
+        "2": "Vos préférences personnelles ne seront pas sauvegardées",
+        "3": "Vous devrez peut-être vous reconnecter"
+      },
+      "buttons": {
+        "settings": "Modifier les paramètres",
+        "view": "Voir les détails"
+      }
+    },
+    "thirdParty": {
+      "title": "Cookies tiers",
+      "description": "Nous faisons appel à des services tiers de confiance susceptibles de déposer des cookies sur votre appareil."
+    },
+    "contact": {
+      "title": "Contact et mises à jour",
+      "changes": "Modifications de la politique",
+      "info": "Coordonnées de contact"
+    },
+    "cta": {
+      "title": "Des questions ?",
+      "description": "Notre équipe est disponible pour répondre à toutes vos questions concernant le traitement de vos données.",
+      "contact": "Nous contacter",
+      "privacy": "Politique de confidentialité"
+    }
+  },
+  "TermsPage": {
+    "seo": {
+      "title": "Conditions générales",
+      "description": "Conditions générales de FigmaEdu (figmaedu.shop). Services d'assistance technique d'installation, de mise à niveau et d'activation - pas d'agents ou de distributeurs de Figma, Inc. Garantie, paiement et limitation de responsabilité.",
+      "keywords": "Conditions générales de FigmaEdu, Figma Education, figmaedu.shop"
+    },
+    "hero": {
+      "title": "Conditions générales",
+      "highlight": "Condition",
+      "description": "Veuillez lire attentivement ces conditions avant d'utiliser FigmaEdu. En accédant au site Web, en commandant ou en payant des services, vous reconnaissez que vous avez lu, compris et accepté d'être lié par les conditions ci-dessous.",
+      "effective": "En vigueur à compter du : 11 juillet 2026 (version 2026-07-11)"
+    },
+    "highlights": {
+      "transparent": {
+        "title": "Transparent",
+        "desc": "La portée du support technique est claire"
+      },
+      "fair": {
+        "title": "Équitable",
+        "desc": "Protéger les intérêts des deux parties"
+      },
+      "flexible": {
+        "title": "Garantie claire",
+        "desc": "Échange 1 pour 1 dans les 24 heures si erreur en magasin"
+      },
+      "updated": {
+        "title": "Mise à jour",
+        "desc": "Adapté au fonctionnement actuel"
+      }
+    },
+    "sections": {
+      "1": {
+        "title": "1. Portée des services",
+        "intro": "FigmaEdu (figmaedu.shop) fournit des services d'assistance client pour la mise en place, la mise à niveau, l'activation, la configuration ou la gestion des besoins techniques liés aux logiciels, aux comptes ou aux services numériques selon les exigences spécifiques du client.",
+        "items": [
+          "« FigmaEdu », « FigmaEdu » ou « Nous » : une entité d'assistance technique indépendante — et non un revendeur officiel, distributeur, titulaire de licence, représentant ou partenaire de Figma, Inc., Figma ou de toute autre marque, sauf indication contraire expresse par écrit du propriétaire de la marque.",
+          "« Client » ou « Vous » : la personne qui demande et utilise nos services d'assistance.",
+          "« Services » : configuration, mise à niveau, activation, instructions de configuration, assistance au paiement (le cas échéant) et soins après la remise dans le cadre publié.",
+          "« Compte / accès » : informations de connexion ou d'accès liées à Figma (ou au produit décrit) délivrées après avoir effectué le support demandé.",
+          "« Site Internet » : site internet figmaedu.shop et sous-domaines."
+        ],
+        "trademarkNote": "Les noms de marques, logos, noms de logiciels ou noms de produits, s'ils sont mentionnés sur le site Web, ont uniquement pour but de décrire la compatibilité, les besoins d'assistance technique ou le contenu du service demandé par les clients. Toutes les marques déposées sont la propriété de leurs propriétaires respectifs."
+      },
+      "2": {
+        "title": "2. Acceptation des conditions",
+        "content": "En accédant au site Web, en vous inscrivant, en soumettant une demande d'assistance, en passant une commande, en effectuant un paiement (SePay/VietQR, crypto, solde de portefeuille ou autre méthode publiée) ou en utilisant l'un des services que nous fournissons, vous reconnaissez que vous avez lu, compris et accepté de vous conformer aux présentes Conditions et à la Politique de confidentialité.",
+        "note": "Remarque : Si vous n'acceptez aucune des conditions, veuillez cesser immédiatement d'utiliser le service et ne pas passer de commande ni de paiement.",
+        "paymentMeans": "Le paiement signifie votre confirmation que la demande d'assistance est légitime, que les informations fournies relèvent de votre droit légal d'utilisation et que vous acceptez de fournir les informations nécessaires pour que nous puissions exécuter le service."
+      },
+      "3": {
+        "title": "3. Nature des services et facteurs tiers",
+        "package": "Les services d'assistance peuvent inclure (sans s'y limiter) :",
+        "packageItems": [
+          "Prise en charge de la configuration du compte ou de la configuration du logiciel",
+          "Prend en charge la mise à niveau des service packs, des fonctionnalités ou des configurations",
+          "Prise en charge de l'activation de logiciels, de comptes ou de services numériques en fonction des besoins valides des clients",
+          "Assistance à l'installation, à la configuration, aux tests ou au guidage de l'utilisateur dans la limite de nos connaissances techniques",
+          "Assistance dans la gestion des problèmes qui surviennent lors de l'utilisation des services que nous avons réalisés pour les clients"
+        ],
+        "commitment": "Précision importante :",
+        "commitmentItems": [
+          "Nous faisons uniquement des demandes conformes à la loi, aux conditions du fournisseur de plateforme/logiciel et aux politiques de service de FigmaEdu.",
+          "Nous avons le droit de refuser de fournir des services si la demande présente des signes de violation de la loi, de violation des droits de propriété intellectuelle, de fraude, d'abus ou d'atteinte aux droits légaux de tiers.",
+          "Nous ne sommes pas un agent ou un distributeur de Figma, Inc. ; Les noms de produits sont uniquement descriptifs.",
+          "Nous vous aidons à gérer toute erreur liée au paiement ou à l'activation dans le cadre de la garantie publiée."
+        ],
+        "note": "Remarque : FigmaEdu est un service d'assistance technique indépendant et ne fait pas partie de Figma, Inc. Tous les droits de propriété intellectuelle et la juridiction sur les produits Figma appartiennent à Figma, Inc.",
+        "durationTitle": "Durée de conservation, support et facteurs indépendants de tout contrôle",
+        "durationIntro": "Chaque service peut avoir des dates d'expiration, des périodes de support ou des conditions différentes. Les clients doivent lire attentivement la description avant de payer. Notre capacité à maintenir le service peut être affectée par des facteurs indépendants de notre volonté, notamment :",
+        "durationItems": [
+          "Politiques du développeur, de la plateforme ou de l'auteur du logiciel (y compris Figma, Inc.)",
+          "Modifier les conditions d'utilisation, les politiques d'activation, les politiques de compte ou de sécurité d'un tiers",
+          "Les tiers interrompent, modifient, limitent ou retirent des fonctionnalités",
+          "Erreurs système, modifications techniques ou autres causes objectives provenant de tiers",
+          "Cas de force majeure selon les dispositions légales"
+        ],
+        "durationNote": "Nous nous efforcerons de fournir une assistance dans une mesure raisonnable, mais ne nous engageons pas à restaurer l'intégralité des fonctionnalités, de l'accès ou de l'état du service si la cause est indépendante de notre volonté.",
+        "cursorTitle": "Conditions Figma",
+        "cursorItems": [
+          "Vous êtes tenu de respecter les conditions Figma (www.figma.com/legal) et la politique de confidentialité (www.figma.com/legal).",
+          "Nous ne contrôlons pas les décisions de Figma, Inc. en matière de prix, de fonctionnalités, de disponibilité ou de fermeture de compte.",
+          "Tous les avantages promotionnels/parrainages (le cas échéant) sont soumis à la politique de Figma, Inc. et sont sujets à changement ou à retrait."
+        ]
+      },
+      "4": {
+        "title": "4. Informations sur le compte, sécurité et responsabilités après le transfert",
+        "intro": "Les clients sont responsables de s’assurer que les informations fournies sont exactes, légales et conformes à leurs droits d’utilisation légaux. Une fois le service réalisé/livré, le compte (ou l'accès) est la propriété du client et celui-ci doit le garder en sécurité.",
+        "items": [
+          "Modifiez votre e-mail, votre mot de passe, votre 2FA et votre e-mail de récupération immédiatement après avoir reçu vos informations d'identification, si cela est recommandé ou applicable.",
+          "Stockez automatiquement les informations de connexion, les codes d'activation et les données de configuration dans un endroit sûr ; Ne partagez pas avec des personnes non autorisées.",
+          "Protégez de manière proactive les comptes et les appareils contre le risque de perte d’accès, de divulgation d’informations ou d’utilisation non autorisée par des tiers.",
+          "Pour des raisons de sécurité, nous ne pouvons pas stocker ou être en mesure de restituer certaines informations après leur remise : les clients doivent les conserver eux-mêmes.",
+          "Nous ne prenons pas en charge les cas où, après un certain temps, le client ne peut pas accéder en raison d'informations de compte oubliées, d'un mot de passe oublié, d'informations de connexion oubliées ou de la perte du 2FA.",
+          "Le spam, l'ingénierie inverse ou l'utilisation illégale des lois vietnamiennes/internationales sont interdits.",
+          "Les violations peuvent entraîner la résiliation immédiate du service, sans remboursement.",
+          "Vous êtes seul responsable de toutes les activités découlant du compte reçu."
+        ]
+      },
+      "5": {
+        "title": "5. Commande et paiement",
+        "order": "Commande:",
+        "orderItems": [
+          "Sélectionnez le package de services d'assistance correspondant au terme Figma souhaité",
+          "Ajouter au panier et payer",
+          "Remplissez correctement les informations de contact et le compte Figma (le cas échéant)",
+          "Choisissez le mode de paiement approprié",
+          "Confirmez la demande d'assistance et complétez la réservation du service"
+        ],
+        "payment": "Payer:",
+        "paymentItems": [
+          "SePay / VietQR (transfert), crypto (Binance, Bybit, en chaîne) et solde du portefeuille (le cas échéant)",
+          "Les clients paient 100 % des frais de service avant que nous fournissions une assistance",
+          "Les reçus sont envoyés par e-mail ou par système de gestion des commandes",
+          "Les frais de service sont clairement indiqués et n'incluent pas les taxes de l'éditeur Figma"
+        ],
+        "time": "Délai de traitement : nous démarrons généralement l'assistance dans un délai de 1 à 5 minutes après le paiement réussi pour les cas réguliers."
+      },
+      "6": {
+        "title": "6. Garantie, échange et remboursement",
+        "noRefundNote": "Aucun remboursement ne sera effectué après la délivrance des informations d'identification/l'activation du compte (numéro de commande), sauf si nous ne sommes pas en mesure d'exécuter le service pour des raisons de notre part, ou s'il existe un accord écrit séparé via le canal d'assistance officiel.",
+        "replacement": "Garantie 1 pour 1 (erreur d'atelier, premières 24 heures) :",
+        "replacementItems": [
+          "Impossible de se connecter immédiatement après avoir reçu les informations d'identification (erreur de boutique)",
+          "Fonctionnalité Education manquante dans les 24 heures suivant la connexion (erreur de boutique)",
+          "La date d'expiration ne correspond pas au colis acheté (erreur boutique)"
+        ],
+        "warranty": "Prise en charge de la garantie :",
+        "warrantyItems": [
+          "Support technique dans la portée publiée du package",
+          "Chèque et échange 1 pour 1 sur confirmation d'erreur de livraison de la boutique sous 24h",
+          "Réponse dans les 24 heures pour les demandes de garantie valides"
+        ],
+        "exclusion": "Aucune garantie / aucun remboursement / aucune autre assistance lorsque :",
+        "exclusionItems": [
+          "Identifiant délivré et compte activé avec succès",
+          "Mot de passe oublié, perte de 2FA, informations de connexion oubliées ou accès perdu après une période d'utilisation",
+          "Les clients modifient eux-mêmes leur configuration, leur e-mail, leur mot de passe, leur profil ou leurs paramètres de sécurité après le transfert.",
+          "Figma, Inc. suspend/résilie le compte conformément aux ToS ou à sa politique",
+          "Utilisation abusive ou violation des conditions Figma",
+          "Partage de compte, revente ou exploitation commerciale illégale",
+          "Changez d'avis après l'achat",
+          "Les erreurs proviennent de l'appareil du client, du réseau, de logiciels malveillants ou de facteurs extérieurs au service.",
+          "Serveur en panne, maintenance ou modifications de politique de Figma, Inc."
+        ]
+      },
+      "7": {
+        "title": "7. Obligations du client",
+        "commit": "Vous vous engagez à :",
+        "commitItems": [
+          "Se conformer aux lois vietnamiennes et aux réglementations pertinentes",
+          "Fournir des informations de contact et de compte précises et complètes",
+          "Modifiez les informations de sécurité immédiatement après le transfert et conservez vous-même les informations d'identification",
+          "Utiliser le compte à des fins personnelles et légales et conformément aux conditions Figma",
+          "Coopérer en fournissant les informations nécessaires pour compléter le support"
+        ],
+        "forbid": "Vous ne devez pas :",
+        "forbidItems": [
+          "Demandes visant à effectuer des actes illégaux, à contourner les droits d'accès, à déchiffrer des mots de passe, à des jailbreaks ou à violer les conditions de tiers",
+          "Utiliser le service à des fins de fraude, de violation de la propriété intellectuelle ou de préjudice à des tiers",
+          "Achat, revente, partage ou transfert illégaux affectant FigmaEdu, d'autres clients ou des tiers",
+          "Fournir de fausses informations ou des informations qui ne sont pas utilisées légalement",
+          "Spam, abus des limites de demandes, création de plusieurs comptes pour profiter des offres ou utilisation de méthodes de paiement illégales",
+          "Utiliser votre compte pour développer des produits concurrents est contraire aux conditions applicables"
+        ]
+      },
+      "8": {
+        "title": "8. Nos obligations et limitation de responsabilité",
+        "commit": "Nous nous engageons à :",
+        "commitItems": [
+          "Soyez transparent sur l’étendue des services d’assistance et les frais associés",
+          "Fournir une assistance dans les délais prévus (généralement 1 à 5 minutes après le paiement pour les quarts de travail réguliers)",
+          "Compagnonnage technique dans le cadre de garantie/support publié",
+          "Sécurisez les informations client conformément à la politique de confidentialité",
+          "Se conformer aux politiques de garantie et de remboursement publiées"
+        ],
+        "limit": "Limitation de responsabilité :",
+        "limitItems": [
+          "Ne régit pas les politiques, les fonctionnalités, la disponibilité ou les décisions de compte de Figma, Inc.",
+          "La continuité à 100% du service Figma n'est pas garantie",
+          "Non responsable des dommages indirects, accessoires, accessoires, perte de données, perte de revenus, perte de profits, interruption de travail ou perte d'accès résultant d'une mauvaise utilisation du client, de changements de politique de tiers, d'erreurs de sécurité de la part du client (mot de passe perdu/2FA) ou de force majeure.",
+          "La responsabilité maximale pour un service spécifique, s'il y a une erreur directe de notre part et ne peut être corrigée, n'excède pas le montant que le client a payé lui-même pour ce service."
+        ]
+      },
+      "9": {
+        "title": "9. Propriété intellectuelle et marques déposées",
+        "items": [
+          "Le contenu du site Web (texte, mise en page, interface, images, instructions compilées par nos soins) est la propriété ou légalement utilisé par FigmaEdu.",
+          "Figma et Figma Education sont des marques commerciales de Figma, Inc. Les autres noms/logos appartiennent à leurs propriétaires respectifs.",
+          "La référence à ces marques n'implique pas le parrainage, l'approbation, l'autorisation, la distribution ou la représentation officielle de ces marques.",
+          "Les clients ne sont pas autorisés à copier, modifier, distribuer ou exploiter illégalement le contenu du site Web sans le consentement écrit de FigmaEdu ou du propriétaire légal."
+        ]
+      },
+      "10": {
+        "title": "10. Suspension ou résiliation des services",
+        "intro": "Nous nous réservons le droit de suspendre ou de mettre fin à la fourniture du service si :",
+        "items": [
+          "Le client viole ces conditions",
+          "Clients qui commettent des fraudes, des abus, provoquent des perturbations ou affectent d'autres systèmes/clients",
+          "Les clients demandent du contenu qui semble illégal ou viole les droits de tiers",
+          "Le client ne fournit pas suffisamment d'informations nécessaires à l'exécution de la prestation",
+          "La fourniture continue des services peut présenter des risques juridiques, techniques ou de sécurité pour FigmaEdu, d'autres clients ou des tiers."
+        ],
+        "note": "Si la suspension ou la résiliation est due à une violation de la part du client, nous avons le droit de refuser un remboursement et de refuser de poursuivre l'assistance."
+      },
+      "11": {
+        "title": "11. Modifications des conditions",
+        "content": "Nous nous réservons le droit de mettre à jour, de modifier ou de changer ces Conditions à tout moment en fonction de notre modèle commercial, de nos réglementations légales, des politiques de tiers ou de nos besoins opérationnels.",
+        "reasonItems": [
+          "Changements dans les activités et les services",
+          "De nouvelles exigences légales",
+          "Modifications des politiques des tiers",
+          "Améliorer l'expérience client"
+        ],
+        "note": "La version mise à jour est publiée sur figmaedu.shop et entre en vigueur au moment de sa publication, sauf indication contraire. La poursuite de l'utilisation du service après la mise à jour vaut acceptation des modifications. Les modifications importantes peuvent également être reflétées dans TERMS_VERSION lors du paiement."
+      },
+      "12": {
+        "title": "12. Résolution des litiges",
+        "process": "Processus de résolution :",
+        "processItems": [
+          "Contacter directement via Messenger, Telegram ou email",
+          "Communiquez et trouvez des solutions dans les 24 heures",
+          "Si un accord ne peut être trouvé, transmettre à la direction",
+          "Enfin, le problème sera résolu conformément à la loi vietnamienne auprès de l'autorité compétente de la ville. Hô Chi Minh"
+        ],
+        "law": "Loi applicable : Ces conditions sont régies par la loi vietnamienne. Tous les litiges seront résolus devant le tribunal compétent de la ville. Hô Chi Minh."
+      },
+      "13": {
+        "title": "13. Contacter",
+        "brand": "FigmaEdu",
+        "support": "Temps d'assistance",
+        "time": "Assistance : 24h/24 et 7j/7",
+        "resp": "Réponse : Dans les 5 minutes (quart de travail normal)",
+        "web": "Site Web : figmaedu.shop",
+        "email": "E-mail : support@figmaedu.shop",
+        "messenger": "Messager : figmaedu.shop/contact",
+        "telegram": "Télégramme : figmaedu.shop/contact"
+      }
+    },
+    "legalSafety": {
+      "title": "Politique d'utilisation équitable et clause de non-responsabilité",
+      "highlight": "En achetant et en utilisant le service, vous confirmez que vous avez lu, compris et accepté le règlement ci-dessous.",
+      "prohibitedTitle": "Les actes suivants sont strictement interdits :",
+      "prohibited": [
+        "L'utilisation des comptes, des e-mails et de toute ressource fournie à des fins illégales est strictement interdite.",
+        "Fraude, escroquerie, détournement, blanchiment d'argent ou financement d'activités illégales.",
+        "Envoi de spam, propagation de logiciels malveillants, phishing, cyberattaques ou accès non autorisé au système.",
+        "Usurpation d'identité, falsification d'identité ou falsification de papiers et documents.",
+        "Violer les droits de propriété intellectuelle ou distribuer du contenu interdit par la loi.",
+        "Tout acte qui viole la loi du pays où réside le client et la loi vietnamienne."
+      ],
+      "disclaimerTitle": "Clause de non-responsabilité:",
+      "disclaimer": [
+        "Le compte/l'accès est fourni tel quel et selon sa disponibilité ; Nous ne garantissons pas l'adéquation à un usage particulier autre que celui d'un usage légal ordinaire dans le cadre du support déclaré.",
+        "Nous ne sommes PAS responsables de toute mauvaise utilisation des ressources.",
+        "Après la remise, le client assume l'entière responsabilité juridique de toutes les activités découlant du compte.",
+        "Les clients ont l'obligation de se renseigner et de respecter les lois de leur pays de résidence ; La responsabilité du respect de la loi incombe au client.",
+        "Notre responsabilité maximale pour toute réclamation est limitée au montant de la commande concernée."
+      ],
+      "indemnityTitle": "Rémunération & conditions d'utilisation :",
+      "indemnity": [
+        "Le client s'engage à indemniser, défendre et dégager FigmaEdu de toute responsabilité contre toutes réclamations, pertes, coûts (y compris les frais juridiques) découlant de la violation des conditions par le client ou d'une mauvaise utilisation.",
+        "Le client confirme avoir 18 ans révolus et disposer de la pleine capacité civile pour utiliser le service.",
+        "Nous avons le droit de refuser ou de mettre fin au service immédiatement (aucun remboursement) si nous détectons des signes d'utilisation à des fins illégales.",
+        "En cas de demande légale des autorités, nous coopérerons en fournissant des informations conformément à la loi.",
+        "La responsabilité globale est limitée au montant que vous avez payé pour la commande concernée."
+      ]
+    },
+    "cta": {
+      "title": "Comprenez-vous les termes ?",
+      "description": "Commencez à utiliser le support Figma de FigmaEdu avec des droits et des responsabilités clairs",
+      "buy": "Acheter maintenant - J'accepte",
+      "contact": "Questions et réponses"
+    }
+  },
+  "ProductDetail": {
+    "back": "Retour aux produits",
+    "notFound": {
+      "title": "Produit introuvable",
+      "description": "Le produit que vous recherchez n'existe pas.",
+      "button": "Retour aux produits"
+    },
+    "badges": {
+      "popular": "POPULAIRE",
+      "discount": "-{percent}%"
+    },
+    "purchaseMode": {
+      "account": "Acheter un nouveau compte",
+      "upgrade": "Mettre à niveau votre propre compte"
+    },
+    "status": {
+      "inStock": "En stock",
+      "outOfStock": "Rupture de stock",
+      "available": "{count} comptes disponibles"
+    },
+    "actions": {
+      "addToCart": "Ajouter au panier",
+      "buyNow": "Acheter maintenant",
+      "adding": "Ajout en cours…",
+      "added": "{name} a été ajouté au panier"
+    },
+    "item": {
+      "decrease": "Diminuer la quantité",
+      "increase": "Augmenter la quantité"
+    },
+    "sections": {
+      "description": "Description détaillée",
+      "features": "Caractéristiques principales",
+      "specs": "Spécifications techniques",
+      "reviews": "Avis clients"
+    },
+    "breadcrumbs": {
+      "home": "Accueil",
+      "products": "Produits"
+    },
+    "quantity": "Quantité",
+    "reviews": "avis",
+    "soldCount": "{count}+ vendus",
+    "save": "Économisez {amount}",
+    "noDescription": "Aucune description disponible pour ce produit.",
+    "trust": {
+      "warranty": "Garantie",
+      "warrantyDesc": "Échange 1:1 à vie",
+      "delivery": "Livraison",
+      "deliveryDesc": "Automatique en 5 min",
+      "support": "Support",
+      "supportDesc": "Support 24/7"
+    },
+    "relatedProducts": {
+      "title": "Produits similaires",
+      "viewAll": "Voir tout",
+      "added": "{name} a été ajouté au panier"
+    },
+    "restockAlert": {
+      "title": "Alerte de réapprovisionnement",
+      "description": "Entrez votre e-mail, nous vous informerons dès que le produit sera de nouveau en stock.",
+      "emailLabel": "E-mail",
+      "emailPlaceholder": "email@example.com",
+      "submit": "M'informer",
+      "submitting": "Inscription en cours…",
+      "success": "Inscrit ! Nous vous enverrons un e-mail dès que le produit sera de nouveau disponible.",
+      "error": "Impossible de s'inscrire. Veuillez réessayer.",
+      "alreadyInStock": "Ce produit est actuellement en stock.",
+      "rateLimited": "Trop de requêtes. Veuillez réessayer plus tard."
+    }
+  },
+  "ProductReviews": {
+    "title": "Avis clients ({count})",
+    "writeReview": {
+      "title": "Rédiger un avis",
+      "description": "Partagez votre expérience avec ce produit",
+      "loginRequired": "Veuillez vous connecter pour laisser un avis",
+      "loginButton": "Se connecter",
+      "yourRating": "Votre note",
+      "quickTags": "Tags rapides",
+      "commentLabel": "Votre commentaire",
+      "placeholder": "Produit d'excellente qualité...",
+      "submit": "Soumettre l'avis",
+      "submitting": "Envoi en cours..."
+    },
+    "list": {
+      "empty": "Aucun avis pour le moment.",
+      "loading": "Chargement des avis...",
+      "adminReply": "Réponse de la boutique :"
+    },
+    "toast": {
+      "loginRequired": "Veuillez vous connecter pour donner votre avis",
+      "success": "Votre avis a été soumis avec succès !",
+      "error": "Une erreur est survenue"
+    },
+    "tags": {
+      "quality": "Produit de qualité conforme.",
+      "support": "Support réactif et attentionné.",
+      "reliable": "Vendeur fiable et rapide, vous pouvez acheter en toute confiance.",
+      "professional": "Boutique très professionnelle.",
+      "fast": "Livraison rapide, le compte fonctionne très bien.",
+      "recommend": "Je repasserai commande avec plaisir."
+    }
+  },
+  "CookiesPageV2": {
+    "types": {
+      "items": {
+        "analytics": {
+          "title": "Cookies d'analyse",
+          "description": "Collectent des données sur l'utilisation du site",
+          "purpose": "Comprendre comment les utilisateurs interagissent avec le site"
+        },
+        "marketing": {
+          "title": "Cookies marketing",
+          "description": "Personnalisent les publicités et le contenu",
+          "purpose": "Afficher du contenu adapté à vos centres d'intérêt"
+        },
+        "functional": {
+          "title": "Cookies fonctionnels",
+          "description": "Stockent les préférences et paramètres",
+          "purpose": "Mémoriser vos réglages et préférences"
+        }
+      }
+    },
+    "details": {
+      "title": "Détails des cookies",
+      "description": "Liste complète des cookies utilisés sur le site",
+      "headers": {
+        "name": "Nom du cookie",
+        "provider": "Fournisseur",
+        "purpose": "Finalité",
+        "duration": "Durée",
+        "type": "Type"
+      }
+    },
+    "manage": {
+      "title": "Gérer les cookies",
+      "description": "Vous avez le contrôle sur l'utilisation des cookies sur notre site :",
+      "browser": "Via votre navigateur :",
+      "options": "Options disponibles :",
+      "warning": "⚠️ Remarque importante :",
+      "warningItems": {
+        "1": "• La désactivation des cookies peut affecter votre expérience sur le site",
+        "2": "• Certaines fonctionnalités peuvent ne pas fonctionner correctement",
+        "3": "• Vous devrez vous reconnecter après avoir désactivé les cookies"
+      },
+      "buttons": {
+        "settings": "Définir les préférences de cookies",
+        "view": "Voir les cookies actuels"
+      }
+    },
+    "thirdParty": {
+      "title": "Cookies tiers",
+      "description": "Notre site peut contenir du contenu tiers (comme des vidéos YouTube, des cartes, des widgets de réseaux sociaux) susceptible de déposer leurs propres cookies."
+    },
+    "contact": {
+      "title": "Mises à jour & Contact",
+      "changes": "Modifications de la politique :",
+      "info": "Contact pour les cookies :"
+    },
+    "cta": {
+      "title": "Des questions sur les cookies ?",
+      "description": "Notre équipe de confidentialité et sécurité est là pour répondre à vos questions",
+      "contact": "Contacter le support",
+      "privacy": "Voir la politique de confidentialité"
+    }
+  },
+  "Auth": {
+    "signIn": {
+      "title": "Connexion",
+      "subtitle": "Entrez votre e-mail et votre mot de passe pour vous connecter",
+      "emailLabel": "E-mail",
+      "emailPlaceholder": "email@example.com",
+      "passwordLabel": "Mot de passe",
+      "passwordPlaceholder": "Entrez votre mot de passe",
+      "forgotPassword": "Mot de passe oublié ?",
+      "submit": "Se connecter",
+      "submitting": "Connexion en cours...",
+      "orContinueWith": "Ou continuer avec",
+      "noAccount": "Pas encore de compte ?",
+      "signUpLink": "S'inscrire maintenant"
+    },
+    "banner": {
+      "title": "FigmaEdu",
+      "slogan": "Achetez des comptes Figma Education au meilleur prix",
+      "imageAlt": "FigmaEdu - Acheter un compte Figma Education"
+    },
+    "signUp": {
+      "title": "Créer un compte",
+      "subtitle": "Saisissez vos informations pour créer votre compte",
+      "nameLabel": "Nom complet",
+      "namePlaceholder": "Jean Dupont",
+      "emailLabel": "E-mail",
+      "emailPlaceholder": "email@example.com",
+      "passwordLabel": "Mot de passe",
+      "passwordPlaceholder": "Entrez un mot de passe solide",
+      "passwordHint": "Le mot de passe doit contenir au moins 8 caractères",
+      "over18Label": "Je confirme avoir au moins 18 ans.",
+      "over18Required": "Vous devez confirmer avoir au moins 18 ans pour vous inscrire.",
+      "submit": "Créer mon compte",
+      "submitting": "Création du compte...",
+      "hasAccount": "Vous avez déjà un compte ?",
+      "signInLink": "Se connecter"
+    },
+    "errors": {
+      "invalidEmailOrPassword": "Identifiant ou mot de passe incorrect !",
+      "invalidPassword": "Mot de passe incorrect. Veuillez réessayer.",
+      "userNotFound": "Ce compte n'existe pas. Veuillez d'abord vous inscrire.",
+      "accountNotVerified": "Compte non vérifié. Veuillez vérifier vos e-mails.",
+      "accountDisabled": "Compte désactivé. Veuillez contacter le support.",
+      "tooManyAttempts": "Trop de tentatives. Veuillez patienter un instant avant de réessayer.",
+      "networkError": "Erreur de connexion réseau. Veuillez réessayer.",
+      "serverError": "Erreur serveur. Veuillez réessayer plus tard.",
+      "defaultSignIn": "Échec de la connexion. Veuillez vérifier votre e-mail et votre mot de passe.",
+      "defaultSignUp": "Échec de l'inscription. Veuillez réessayer ou contacter le support.",
+      "userAlreadyExists": "Cet e-mail est déjà utilisé. Veuillez utiliser une autre adresse ou vous connecter.",
+      "weakPassword": "Mot de passe trop faible. Veuillez choisir un mot de passe plus solide.",
+      "passwordTooShort": "Mot de passe trop court. Veuillez saisir au moins 8 caractères.",
+      "invalidEmail": "E-mail invalide. Veuillez vérifier votre saisie.",
+      "social": {
+        "github": "Échec de la connexion avec GitHub",
+        "google": "Échec de la connexion avec Google"
+      }
+    },
+    "success": {
+      "signIn": "Connexion réussie ! Bon retour parmi nous.",
+      "signUp": "Inscription réussie ! Bienvenue sur FigmaEdu."
+    }
+  },
+  "LiveOrderToast": {
+    "badge": "Achat récent",
+    "verified": "Vérifié",
+    "justPurchased": "vient d'acheter avec succès"
+  },
+  "InteractiveCodeDemo": {
+    "badge": "Démo Interactive",
+    "title": "Faites l'expérience du design sur Figma",
+    "subtitle": "Comparez la mise en page manuelle avec le flux de travail utilisant Auto Layout et composants sur Figma Education — plus rapide et plus collaboratif !",
+    "playDemo": "Lancer la démo",
+    "reset": "Réinitialiser",
+    "withoutAI": "Alignement manuel",
+    "withCursorPro": "Avec Figma Education",
+    "timeSaved": "gain de temps",
+    "feature1Title": "Auto Layout Intelligent",
+    "feature1Desc": "Définissez les contraintes une fois, le frame s'adapte automatiquement au contenu — moins d'ajustements manuels",
+    "feature2Title": "Création rapide de mockups",
+    "feature2Desc": "Réutilisez les composants pour concevoir des écrans en quelques minutes au lieu de plusieurs heures",
+    "feature3Title": "Prototypage propre",
+    "feature3Desc": "Liez les flux d'écrans clairement, facile à présenter aux mentors ou aux clients"
+  },
+  "ChatWidget": {
+    "title": "Assistance IA",
+    "open": "Ouvrir le chat d'assistance",
+    "close": "Fermer",
+    "minimize": "Réduire",
+    "expand": "Agrandir",
+    "placeholder": "Tapez votre message...",
+    "error": "Désolé, une erreur est survenue. Veuillez réessayer ou contacter le support via Telegram.",
+    "clearHistory": "Effacer l'historique",
+    "notificationTitle": "🤖 Assistant IA 24/7",
+    "notificationDescription": "Besoin de conseils sur les forfaits Figma Education ? Discutez avec l'IA dès maintenant !",
+    "notificationAction": "Discuter maintenant",
+    "bubbleMessage": "Bonjour ! Je suis l'assistant IA. Comment puis-je vous aider ? 👋",
+    "quickActions": {
+      "pricing": "Voir la grille tarifaire",
+      "packages": "Conseil sur les forfaits",
+      "payment": "Modes de paiement",
+      "warranty": "Politique de garantie"
+    }
+  },
+  "Email": {
+    "common": {
+      "shopName": "FigmaEdu",
+      "shopSubtitle": "Merci pour votre achat chez FigmaEdu",
+      "greeting": "Bonjour {name}",
+      "supportTitle": "💬 Besoin d'aide ?",
+      "supportIntro": "Si vous rencontrez des problèmes ou avez besoin d'aide, veuillez nous contacter :",
+      "supportContactLabel": "📞 Contact support :",
+      "supportFb": "Page Facebook",
+      "supportTg": "Telegram",
+      "supportTgHandle": "Support Telegram FigmaEdu",
+      "supportEmailLabel": "✉️ E-mail :",
+      "supportOr": "ou",
+      "footerThanks": "Merci de faire confiance à FigmaEdu ! 🎉",
+      "footerAuto": "E-mail automatique généré par le système - Veuillez ne pas répondre",
+      "footerTimePrefix": "Heure :",
+      "footerSupport24x7": "FigmaEdu - Support client 24/7",
+      "footerAutoShort": "E-mail automatique du système",
+      "fields": {
+        "orderNumber": "N° de commande :",
+        "total": "Total :",
+        "paidAt": "Payé le :",
+        "product": "Produit :",
+        "username": "Nom d'utilisateur :",
+        "password": "Mot de passe :",
+        "licenseKey": "Clé de licence :",
+        "expiresAt": "Expire le :",
+        "upgradeEmail": "E-mail de mise à niveau :"
+      }
+    },
+    "subjects": {
+      "customerOrderConfirmation": "✅ Confirmation de commande #{orderNumber} - FigmaEdu",
+      "activationSuccess": "✅ Commande #{orderNumber} activée avec succès - Figma Education",
+      "subscriptionReminderUrgent": "🚨 URGENT : Votre compte {productName} expire dans {daysLeft} jours !",
+      "subscriptionReminderWarning": "⚠️ Attention : Votre compte {productName} expire dans {daysLeft} jours !",
+      "accountContact": "📞 Contactez-nous pour nhận tài khoản - Commande #{orderNumber}",
+      "upgradeCompleted": "✅ Mise à niveau du compte réussie - Commande #{orderNumber}",
+      "upgradeIssue": "⚠️ Confirmation des informations requise - Commande #{orderNumber}",
+      "walletTopupSuccess": "✅ Recharge de portefeuille réussie {amount} - FigmaEdu",
+      "walletTopupRejected": "❌ Demande de recharge de portefeuille refusée {amount}",
+      "restockAlert": "🎉 {productName} est de nouveau en stock !"
+    },
+    "customerOrderConfirmation": {
+      "headerTitle": "✅ Commande réussie !",
+      "intro": "Votre commande #{orderNumber} a été payée avec succès ! Voici les détails de votre commande et de votre compte.",
+      "orderTitle": "📦 Détails de la commande",
+      "productsTitle": "🛒 Produits achetés",
+      "productItemQty": "Quantité : {qty}x - Prix : {price}",
+      "credsTitle": "🔑 Vos identifiants de compte",
+      "credsWarning": "⚠️ Veuillez conserver ces informations précieusement ! Ce sont vos identifiants de connexion.",
+      "credsNote": "💡 Remarque : Vous pouvez consulter ces informations à tout moment sur la page de gestion des commandes.",
+      "otpTitle": "🔐 Comment obtenir le code OTP Figma",
+      "otpLead": "Lorsque Figma demande un code de vérification, ouvrez le lien ci-dessous (pas besoin d'accéder à Outlook).",
+      "otpStep1": "Connectez-vous à Figma avec l'e-mail/mot de passe fourni ci-dessus",
+      "otpStep2": "Lorsque Figma demande le code OTP, ouvrez le lien ci-dessous",
+      "otpStep3": "Vérifiez avec le code à 6 chiffres envoyé à votre e-mail d'achat",
+      "otpStep4": "Récupérez le code OTP Figma et collez-le dans Figma",
+      "otpBtn": "Obtenir le code OTP pour {email}",
+      "otpNote": "💡 Vérifiez avec le code à 6 chiffres envoyé à l'e-mail d'achat, puis récupérez l'OTP Figma.",
+      "viewOrderBtn": "📋 Voir les détails de la commande"
+    },
+    "activationSuccess": {
+      "headerTitle": "✅ Activation réussie !",
+      "headerSubtitle": "Votre compte Figma Education est prêt sur votre appareil",
+      "intro": "Bonjour, votre commande #{orderNumber} a été activée avec succès !",
+      "accountTitle": "🔐 Compte Figma attribué",
+      "accountEmailLabel": "E-mail Figma :",
+      "durationLabel": "Durée :",
+      "daysSuffix": "jours",
+      "expiresLabel": "Date d'expiration :",
+      "note": "👉 Ouvrez l'application Figma sur votre appareil - le compte est déjà connecté, vous pouvez l'utiliser immédiatement. En cas de problème, répondez à cet e-mail ou contactez Telegram."
+    },
+    "subscriptionReminder": {
+      "headerTitleUrgent": "🚨 Compte sur le point d'expirer !",
+      "headerTitleWarning": "⏰ Compte sur le point d'expirer !",
+      "headerSubtitle": "Plus que {daysLeft} jours avant l'expiration",
+      "urgencyEmergency": "🚨 URGENT",
+      "urgencyWarning": "⚠️ Attention",
+      "warningBody": "{urgency} : Votre compte expirera dans {daysLeft} jours !",
+      "accountTitle": "📋 Informations du compte",
+      "cta": {
+        "title": "🔄 Renouveler maintenant !",
+        "body": "Pour continuer à utiliser le service sans interruption, veuillez renouveler votre compte avant son expiration.",
+        "btn": "🛒 Renouveler maintenant"
+      },
+      "benefits": {
+        "title": "✨ Ne manquez pas ces fonctionnalités exceptionnelles !",
+        "item1": "Accès illimité aux fonctionnalités Pro",
+        "item2": "Support prioritaire 24/7",
+        "item3": "Accès aux dernières nouveautés",
+        "item4": "Conservez vos données et votre progression"
+      }
+    },
+    "accountContact": {
+      "headerTitle": "📞 Contactez-nous pour recevoir votre compte",
+      "headerSubtitle": "Veuillez entrer en contact avec nous",
+      "orderTitle": "📋 Détails de la commande",
+      "messageTitle": "📝 Message",
+      "cta": {
+        "title": "📞 Contactez-nous dès maintenant pour obtenir votre compte",
+        "lead": "Veuillez utiliser l'un des canaux suivants pour échanger vos informations et recevoir votre compte :",
+        "fb": "📘 Page Facebook",
+        "tg": "✈️ Support Telegram FigmaEdu",
+        "emailIntro": "Ou par e-mail :"
+      },
+      "note": "⚠️ Remarque : Veuillez fournir le numéro de commande #{orderNumber} lors de votre prise de contact pour une assistance plus rapide."
+    },
+    "upgradeCompleted": {
+      "headerTitle": "🎉 Mise à niveau réussie !",
+      "headerSubtitle": "Votre compte a été mis à niveau",
+      "intro": "Nous avons le plaisir de vous informer que votre commande #{orderNumber} a été traitée avec succès !",
+      "successTitle": "Mise à niveau terminée !",
+      "successBody": "Le compte {upgradeEmail} a été mis à niveau vers {productName}",
+      "nextSteps": {
+        "title": "📌 Prochaines étapes",
+        "item1": "Connectez-vous à votre compte pour vérifier",
+        "item2": "Profitez des nouvelles fonctionnalités Pro",
+        "item3": "N'hésitez pas à nous contacter si vous avez besoin d'aide"
+      }
+    },
+    "upgradeIssue": {
+      "headerTitle": "⚠️ Confirmation d'information requise",
+      "headerSubtitle": "Veuillez nous contacter",
+      "orderTitle": "📋 Détails de la commande",
+      "messageTitle": "📝 Notification",
+      "cta": {
+        "title": "📞 Contactez-nous immédiatement",
+        "lead": "Veuillez utiliser l'un des canaux suivants pour une assistance rapide :",
+        "fb": "📘 Facebook",
+        "tg": "✈️ Telegram",
+        "emailIntro": "Ou par e-mail :"
+      }
+    },
+    "walletTopupSuccess": {
+      "headerTitle": "✅ Recharge de portefeuille réussie",
+      "intro": "Vous avez rechargé avec succès {amount} sur votre portefeuille FigmaEdu.",
+      "amountLabel": "Montant rechargé :",
+      "balanceLabel": "Nouveau solde :",
+      "paidAtLabel": "Date et heure :",
+      "viewWalletBtn": "📊 Voir mon portefeuille"
+    },
+    "walletTopupRejected": {
+      "headerTitle": "❌ Demande de recharge refusée",
+      "intro": "Votre demande de recharge de {amount} a été refusée.",
+      "reasonLabel": "Raison :",
+      "viewWalletBtn": "📊 Voir mon portefeuille"
+    },
+    "restockAlert": {
+      "headerTitle": "🎉 Produit de nouveau en stock !",
+      "intro": "Bonne nouvelle — {productName} est de nouveau disponible ! Commandez vite avant rupture de stock.",
+      "productLabel": "Produit",
+      "priceLabel": "Prix",
+      "viewProductBtn": "🛒 Voir le produit et acheter"
+    }
+  },
+  "AboutPage": {
+    "metaTitle": "À propos de FigmaEdu — Revendeur de comptes Figma Education",
+    "metaDescription": "FigmaEdu est un revendeur tiers indépendant de comptes Figma Education. Permet aux étudiants en design et freelances UI d'accéder à Figma edu à des tarifs compétitifs. Non affilié à Figma, Inc.",
+    "metaKeywords": "à propos de FigmaEdu, Figma Education, acheter compte Figma, Figma edu, revendeur Figma, figmaedu.shop",
+    "breadcrumbs": {
+      "home": "Accueil",
+      "about": "À propos de nous"
+    },
+    "hero": {
+      "titlePrefix": "À propos de",
+      "subtitle": "FigmaEdu est un revendeur indépendant de comptes Figma Education. Nous aidons les étudiants en design et les freelances UI à accéder à Figma edu à des prix compétitifs via la redistribution d'abonnements acquis légalement.",
+      "disclaimerLabel": "Avertissement",
+      "disclaimer": "FigmaEdu n'est pas affilié à, certifié par ou sponsorisé par Figma, Inc. « Figma » et « Figma Education » sont des marques déposées de Figma, Inc. Nous sommes un revendeur indépendant d'abonnements acquis légalement.",
+      "ctaProducts": "Voir les produits",
+      "ctaContact": "Nous contacter"
+    },
+    "stats": {
+      "customers": {
+        "number": "5.000+",
+        "label": "Clients servis"
+      },
+      "years": {
+        "number": "2+",
+        "label": "Années d'activité"
+      },
+      "satisfaction": {
+        "number": "99%",
+        "label": "Taux de satisfaction"
+      },
+      "support": {
+        "number": "24/7",
+        "label": "Support continu"
+      }
+    },
+    "mission": {
+      "title": "Notre mission",
+      "paragraph1": "Chez FigmaEdu, nous pensons que chaque étudiant en design mérite d'avoir accès à Figma Education à un coût abordable — quel que soit son budget ou sa région.",
+      "paragraph2": "Nous offrons un service de conseil, d'assistance au paiement et de livraison d'identifiants par e-mail pour vous permettre d'acheter un compte Figma Education simplement et en toute sécurité.",
+      "independenceTitle": "Service de distribution indépendant",
+      "independenceDescription": "Nous ne représentons pas Figma, Inc. Notre mission est d'expliquer les démarches et d'aider nos clients à acquérir un compte Figma edu.",
+      "cards": {
+        "process": {
+          "title": "Procédure claire",
+          "description": "Fourniture d'une liste d'étapes détaillées pour l'abonnement aux outils de design."
+        },
+        "warranty": {
+          "title": "Garantie transparente",
+          "description": "Engagement à résoudre les problèmes durant toute la période d'assistance."
+        },
+        "delivery": {
+          "title": "Livraison instantanée",
+          "description": "Assistance au paiement et activation en 1 à 5 minutes."
+        },
+        "support": {
+          "title": "Support 24/7",
+          "description": "Accompagnement via Telegram et E-mail à tout moment."
+        }
+      }
+    },
+    "values": {
+      "title": "Nos valeurs fondamentales",
+      "subtitle": "Les principes qui guident les activités et le développement de FigmaEdu.",
+      "transparency": {
+        "title": "Intégrité & Transparence",
+        "description": "Explication claire de chaque étape d'abonnement et protection rigoureuse des données clients."
+      },
+      "efficiency": {
+        "title": "Rapidité & Efficacité",
+        "description": "Assistance au paiement international, vérification du compte et activation en quelques minutes."
+      },
+      "customerFirst": {
+        "title": "Le client au cœur de nos préoccupations",
+        "description": "Accompagnement tout au long de votre utilisation avec des politiques de garantie et de remboursement transparentes."
+      },
+      "sustainability": {
+        "title": "Développement durable",
+        "description": "Partage de connaissances et de ressources pour aider la communauté d'étudiants en design à exploiter efficacement l'IA."
+      }
+    },
+    "cta": {
+      "title": "Besoin d'un compte Figma Education ?",
+      "subtitle": "Rejoignez des milliers d'étudiants en design qui font confiance à FigmaEdu pour l'achat de leur compte Figma edu et l'aide à l'activation.",
+      "ctaPrimary": "Voir les services",
+      "ctaSecondary": "Conseil gratuit"
+    }
+  },
+  "DisclaimerBanner": {
+    "message": "FigmaEdu fournit uniquement un service de revente et d'assistance pour les comptes Figma Education — et n'est ni un agent ni un distributeur officiel de Figma, Inc. Les noms de marque sont utilisés uniquement à des fins descriptives.",
+    "dismiss": "J'ai compris"
+  },
+  "ProductPage": {
+    "actions": {
+      "resellerNoticeTitle": "Avis d'assistance technique — à lire avant d'acheter",
+      "resellerNoticeBody": "FigmaEdu fournit des comptes / une assistance de mise à niveau Figma Education à la demande des clients. Nous ne sommes pas un revendeur, un distributeur ni un représentant de Figma, Inc. Après la livraison, le compte est votre propriété — veuillez modifier immédiatement l'adresse e-mail, le mot de passe, l'A2F et l'e-mail de récupération. Nous ne fournissons aucune assistance en cas d'oubli de mot de passe ou de perte de l'A2F par la suite. Les avantages et la durée peuvent dépendre des politiques de Figma."
+    }
+  },
+  "DisclaimerPage": {
+    "seo": {
+      "title": "Avis de non-responsabilité",
+      "description": "Avis juridique de FigmaEdu — service d'assistance technique pour la configuration/activation de Figma. Non affilié, ni revendeur ou distributeur de Figma, Inc..",
+      "keywords": "avis de non-responsabilité FigmaEdu, disclaimer Figma Education, non affilié Figma Inc"
+    },
+    "hero": {
+      "title": "Avis de",
+      "highlight": "Non-Responsabilité",
+      "description": "Informations importantes concernant notre rôle d'assistance technique et les limitations de responsabilité relatives à Figma, Inc.."
+    },
+    "sections": {
+      "reseller": {
+        "title": "Assistance technique indépendante",
+        "body": "FigmaEdu fournit des services d'assistance pour la configuration, la mise à niveau et l'activation à la demande des clients. Nous ne sommes ni un revendeur, ni un distributeur, ni une entité autorisée, ni un partenaire officiel de Figma, Inc. (Figma).",
+        "referral": "Les marques et noms de produits sur ce site Web servent uniquement à décrire la compatibilité ou les besoins d'assistance. Tous les avantages promotionnels ou de plateforme (le cas échéant) sont contrôlés par Figma, Inc. et peuvent être modifiés ou révoqués."
+      },
+      "trademark": {
+        "title": "Marques déposées",
+        "body": "« Figma » et « Figma Education » sont des marques déposées de Figma, Inc. Les autres noms de produits appartiennent à leurs propriétaires respectifs. Nous les utilisons uniquement pour décrire la compatibilité ou le besoin d'assistance."
+      },
+      "risks": {
+        "title": "Risques à comprendre",
+        "items": [
+          "Figma, Inc. peut modifier les prix, les fonctionnalités ou résilier l'abonnement à tout moment.",
+          "Figma, Inc. peut suspendre ou résilier les comptes qui violent leurs conditions d'utilisation.",
+          "Après la livraison, vous êtes seul responsable de la sécurité — modifiez l'adresse e-mail, le mot de passe, l'A2F et l'e-mail de récupération ; nous ne pouvons pas récupérer vos identifiants si vous les perdez ultérieurement.",
+          "Nous ne garantissons pas un accès ininterrompu ni le maintien permanent d'avantages promotionnels tiers.",
+          "Achat officiel auprès du titulaire de la marque : www.figma.com."
+        ]
+      },
+      "official": {
+        "title": "Canal d'achat officiel",
+        "body": "Pour acheter un abonnement Figma directement auprès de Figma, Inc. :"
+      }
+    },
+    "cta": {
+      "title": "Lire les conditions complètes",
+      "description": "Veuillez lire les Conditions Générales et la Politique de Confidentialité avant d'acheter.",
+      "terms": "Conditions Générales",
+      "shop": "Voir les produits"
+    }
+  },
+  "CookieConsent": {
+    "title": "Préférences de cookies",
+    "description": "Les cookies essentiels sont requis pour la connexion, le panier et la sécurité. Les cookies d'analyse (Microsoft Clarity) sont facultatifs — choisissez ci-dessous.",
+    "learnMore": "Voir la politique relative aux cookies",
+    "essentialOnly": "Essentiels uniquement",
+    "acceptAll": "Tout accepter"
+  },
+  "Wallet": {
+    "title": "Mon portefeuille",
+    "vndBalance": "Solde VND",
+    "usdBalance": "Solde USD",
+    "topup": "Recharger",
+    "topupVnd": "Recharger en VND",
+    "topupUsd": "Recharger en USD",
+    "topupAgain": "Nouvelle demande de recharge",
+    "refresh": "Actualiser",
+    "backToWallet": "Retour au portefeuille",
+    "returnToCheckout": "Retour au paiement",
+    "currency": "Devise",
+    "vnd": "VND",
+    "usd": "USD",
+    "vndDescription": "Recharge via virement bancaire par QR code — confirmation automatique en quelques minutes.",
+    "usdDescription": "Recharge en crypto (Binance/Bybit/USDT/BTC/ETH/LTC) — confirmation par l'administrateur après envoi du reçu.",
+    "selectAmount": "Sélectionner un montant",
+    "customAmount": "Saisir un autre montant",
+    "selectMethod": "Méthode de recharge",
+    "selectCryptoMethod": "Sélectionner la crypto",
+    "youWillTopup": "Vous allez recharger",
+    "continueToPay": "Continuer vers le paiement",
+    "topupTitle": "Recharger le portefeuille",
+    "topupDetailTitle": "Détails de la demande de recharge",
+    "amount": "Montant",
+    "expiresAt": "Expire à",
+    "bank": "Banque",
+    "accountNumber": "Numéro de compte",
+    "accountName": "Nom du titulaire",
+    "transferContentLabel": "Motif du virement (OBLIGATOIREMENT exact)",
+    "transferContentWarning": "Saisissez exactement le motif ci-dessous — un motif incorrect NE créditera PAS automatiquement votre portefeuille, vous devrez contacter l'administrateur.",
+    "payId": "Pay-ID",
+    "network": "Réseau (network)",
+    "walletAddress": "Adresse du portefeuille",
+    "onchainWarning": "Envoyez uniquement via le réseau {network}. Une erreur de réseau entraînera la PERTE définitive des fonds.",
+    "submitProofTitle": "Joindre un reçu (facultatif)",
+    "submitProofDescription": "Après avoir transféré les cryptos, vous pouvez coller l'URL d'une image du reçu (ex. Imgur/Cloudinary) pour une validation plus rapide, ou laisser vide et cliquer sur « J'ai effectué le virement ».",
+    "submitProof": "Envoyer le reçu",
+    "submitWithoutProof": "J'ai effectué le virement",
+    "proofSubmitted": "Reçu envoyé. L'administrateur le validera sous quelques heures.",
+    "pendingReviewMessage": "Vous avez envoyé le reçu. En attente de confirmation par l'administrateur. Le solde sera mis à jour dès la validation.",
+    "viewProof": "Voir le reçu envoyé",
+    "autoConfirmNote": "✅ Le solde sera crédité automatiquement dès confirmation de la banque (généralement 1 à 3 minutes).",
+    "topupPaidTitle": "Recharge réussie",
+    "topupPaidDescription": "{amount} a été crédité sur votre portefeuille.",
+    "topupRejectedTitle": "Demande de recharge refusée",
+    "topupExpiredTitle": "Demande de recharge expirée",
+    "topupExpiredDescription": "Cette demande de recharge a dépassé le délai de 30 minutes. Veuillez en créer une nouvelle.",
+    "paidToast": "Recharge réussie, portefeuille mis à jour !",
+    "rejectedToast": "Demande de recharge refusée",
+    "expiredToast": "Demande de recharge expirée",
+    "transactionHistory": "Historique des transactions",
+    "balanceAfter": "Solde restant",
+    "noTransactions": "Aucune transaction",
+    "copied": "{label} copié !",
+    "copyFailed": "Échec de la copie",
+    "qrZoom": "Agrandir le QR",
+    "bankQrAlt": "QR {bank}",
+    "notFound": "Demande de recharge introuvable",
+    "status": {
+      "pending": "En attente de paiement",
+      "pendingReview": "En attente de validation"
+    },
+    "txType": {
+      "topup": "Recharge",
+      "debit": "Débit (Achat)",
+      "refund": "Remboursement",
+      "admin_adjust": "Ajustement admin"
+    },
+    "errors": {
+      "generic": "Une erreur est survenue, veuillez réessayer",
+      "INVALID_PROOF_URL": "URL du reçu non valide (doit commencer par http/https)",
+      "INVALID_AMOUNT": "Montant non valide",
+      "AMOUNT_TOO_SMALL": "Le montant minimum n'est pas atteint",
+      "AMOUNT_TOO_LARGE": "Le montant dépasse la limite par recharge",
+      "AMOUNT_NOT_ROUND": "Le montant en VND doit être un multiple de 1 000",
+      "INVALID_CURRENCY": "Devise non valide",
+      "INVALID_METHOD": "Méthode de recharge non valide",
+      "SEPAY_REQUIRES_VND": "Le virement bancaire ne prend en charge que les recharges en VND",
+      "CRYPTO_REQUIRES_USD": "Les cryptomonnaies ne prennent en charge que les recharges en USD",
+      "INVALID_CRYPTO_METHOD": "Crypto sélectionnée non valide",
+      "WALLET_INSUFFICIENT_BALANCE": "Solde insuffisant"
+    }
+  },
+  "LegalNoticePopup": {
+    "title": "Avis juridique",
+    "p1": "FigmaEdu fournit uniquement des services de vente au détail / d'assistance pour les comptes Figma Education à la demande du client. FigmaEdu n'est pas un revendeur, un distributeur ni un représentant officiel de tout titulaire de marque. Les noms de marque, logos et noms de produits mentionnés le sont uniquement à des fins descriptives des produits/services et restent la propriété exclusive de leurs détenteurs respectifs. L'étendue du service et les limitations de responsabilité sont régies par les Conditions Générales.",
+    "p2": "Remarque importante pour les clients : dès que nous vous livrons le compte, celui-ci devient votre propriété et vous devez modifier vous-même les informations de sécurité : adresse e-mail, mot de passe, A2F, e-mail de récupération et protéger vos propres accès. Nous ne serons pas en mesure de vous assister si, après un certain temps, vous ne pouvez plus accéder au compte en raison d'un oubli d'identifiants, de mot de passe, de perte d'A2F, etc. Veuillez donc modifier vos informations immédiatement après l'achat afin d'assurer la sécurité de votre compte et de vos biens.",
+    "p3": "Merci de soutenir FigmaEdu.",
+    "termsLink": "Conditions Générales",
+    "close": "Fermer"
+  }
+}

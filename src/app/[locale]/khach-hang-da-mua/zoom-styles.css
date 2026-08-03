@@ -1,0 +1,40 @@
+/* custom zoom styles for proof gallery */
+.proof-image-zoom-container {
+  position: relative;
+  overflow: hidden;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+.proof-image-zoom-container img {
+  transition: transform 0.2s ease-out;
+  will-change: transform;
+}
+
+.proof-image-zoom-container.zoomed img {
+  cursor: grab;
+}
+
+.proof-image-zoom-container.zoomed.panning img {
+  cursor: grabbing;
+}
+
+/* smooth zoom animation */
+@keyframes zoomIn {
+  from {
+    transform: scale(1);
+  }
+  to {
+    transform: scale(1.5);
+  }
+}
+
+@keyframes zoomOut {
+  from {
+    transform: scale(1.5);
+  }
+  to {
+    transform: scale(1);
+  }
+}
+

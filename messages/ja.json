@@ -1,0 +1,2731 @@
+{
+  "IntroPage": {
+    "seo": {
+      "title": "FigmaEduについて — Figma Educationアカウントの正規リセラー",
+      "description": "FigmaEduはFigma Educationアカウントの独立系リセラーです。ミッション、メールでのログイン情報発送プロセス、Figma eduアカウント購入時のサポート保証についてご紹介します。",
+      "keywords": "FigmaEdu, Figma Education, Figmaアカウント購入, Figma edu, Figmaリセラー, figmaedu.shop, FigmaEduについて"
+    },
+    "hero": {
+      "title": "FigmaEduとは",
+      "subtitle": "Figma Educationアカウントの独立系リセラー — デザイン学生やUIフリーランスに手頃な価格で提供。Figma eduアカウントを購入し、国内決済、メールでログイン情報を受け取れます。",
+      "ctaConfig": "料金プランを見る",
+      "ctaBuy": "Figma Eduを購入",
+      "badge": "手頃な価格",
+      "trustBadges": {
+        "authentic": "信頼できるリセラー",
+        "fast": "メール納品 約5分",
+        "warranty": "1対1の交換保証"
+      }
+    },
+    "about": {
+      "title": "figmaedu.shopについて",
+      "description": "FigmaEduはFigma Educationアカウントのサードパーティリセラー（独立系販売店）です。当社はFigma, Inc.とは提携していません。私たちのミッションは、国内決済と現地サポートを通じて、学生やプロジェクトチームがFigma eduに手軽にアクセスできるようにすることです。",
+      "features": {
+        "price": "市場最安級の価格",
+        "support": "24/7テクニカルサポート",
+        "warranty": "ショップ起因の不具合は1対1交換"
+      },
+      "sectionLabel": "私たちについて"
+    },
+    "whyChoose": {
+      "title": "選ばれる理由",
+      "items": {
+        "authentic": {
+          "title": "透明性の高いリセラー",
+          "description": "サブスクリプションは正当なルートから購入され、検証済みの決済方法で処理されます。クラック品や不正行為は一切ありません。"
+        },
+        "fast": {
+          "title": "迅速な納品",
+          "description": "お支払い後、約5〜10分でメールにてログイン情報をお届けします。高度に自動化されたプロセスです。"
+        },
+        "cheap": {
+          "title": "コストの最適化",
+          "description": "公式サイトでの直接購入と比べて大幅に節約可能。学生やUIフリーランス向けの柔軟なプランをご用意しています。"
+        },
+        "privacy": {
+          "title": "万全のセキュリティ",
+          "description": "すべてのお客様情報は暗号化され安全に保護されます。第三者と共有されることはありません。"
+        },
+        "support": {
+          "title": "手厚いサポート",
+          "description": "経験豊富なチームが、Figmaへのログイン手順やトラブルシューティングを24/7体制でサポートします。"
+        }
+      },
+      "sectionLabel": "選ばれる理由"
+    },
+    "products": {
+      "title": "販売中のプラン",
+      "trial": {
+        "name": "Figma Edu 短期お試しプラン",
+        "description": "Figma Educationを短期間お試しいただけます。初心者におすすめです。",
+        "label": "お試し"
+      },
+      "shared": {
+        "name": "人気学習プラン",
+        "description": "最大限にコストを節約。学生や基本的な課題・プロジェクトに最適です。",
+        "label": "お得",
+        "badge": "🔥 一番人気"
+      },
+      "private": {
+        "name": "長期 / 個人向けプラン",
+        "description": "長期的で安定した利用が可能。UIフリーランスや本格的な学習に十分なedu権限が付与されます。",
+        "label": "プレミアム"
+      },
+      "sectionLabel": "サービス"
+    },
+    "payment": {
+      "title": "お支払い方法",
+      "subtitle": "多様で柔軟、安全な決済",
+      "methods": {
+        "bank": "銀行振込 (VietQR)",
+        "crypto": "Binance Pay（暗号資産）",
+        "momo": "MoMoウォレット"
+      },
+      "support": "ホットライン/Zaloにて24/7体制で取引をサポート",
+      "sectionLabel": "お支払い"
+    },
+    "contact": {
+      "title": "サポート・お問い合わせ",
+      "website": "ウェブサイト: https://figmaedu.shop",
+      "telegram": "Telegram: FigmaEduサポート",
+      "fanpage": "ファンページ: FigmaEdu",
+      "cta": "お急ぎですか？今すぐチャットでお問い合わせください！"
+    },
+    "commitment": {
+      "title": "私たちの約束",
+      "items": {
+        "1": "100%説明通りのアカウントを提供",
+        "2": "ショップ起因の不具合は新品交換（利用規約に基づく）",
+        "3": "クラック品や不正スキャン品は一切不使用",
+        "4": "すべての取引における透明性を確保"
+      },
+      "sectionLabel": "約束"
+    },
+    "ctaSection": {
+      "title": "今すぐFigma Educationアカウントを購入",
+      "subtitle": "コストを理由にデザインプロジェクトを諦める必要はありません。FigmaEduで手頃な価格のFigma eduを手に入れ、メールでログイン情報を受信しましょう。",
+      "buyNow": "料金プランを見る",
+      "contact": "相談・問い合わせ"
+    }
+  },
+  "DashboardProfile": {
+    "title": "プロフィール",
+    "description": "アカウント情報を管理します",
+    "avatar": {
+      "title": "プロフィール画像",
+      "change": "変更",
+      "remove": "削除",
+      "uploading": "アップロード中...",
+      "success": "プロフィール画像を更新しました",
+      "error": "プロフィール画像の更新に失敗しました"
+    },
+    "form": {
+      "name": "氏名",
+      "email": "メールアドレス",
+      "save": "変更を保存",
+      "saving": "保存中...",
+      "success": "情報を更新しました",
+      "error": "情報の更新に失敗しました"
+    }
+  },
+  "DashboardSettings": {
+    "title": "設定",
+    "description": "アカウント設定とオプションの管理",
+    "tabs": {
+      "profile": "プロフィール",
+      "security": "セキュリティ"
+    },
+    "profile": {
+      "title": "プロフィール情報",
+      "name": "名前",
+      "namePlaceholder": "名前を入力してください",
+      "email": "メールアドレス",
+      "emailPlaceholder": "メールアドレスを入力してください",
+      "save": "変更を保存",
+      "saving": "保存中...",
+      "success": "情報を更新しました",
+      "error": "情報の更新に失敗しました"
+    },
+    "security": {
+      "title": "セキュリティ設定",
+      "currentPassword": "現在のパスワード",
+      "currentPasswordPlaceholder": "現在のパスワードを入力",
+      "newPassword": "新しいパスワード",
+      "newPasswordPlaceholder": "新しいパスワードを入力",
+      "confirmPassword": "新しいパスワード（確認）",
+      "confirmPasswordPlaceholder": "新しいパスワードを再入力",
+      "update": "パスワードを変更",
+      "updating": "更新中...",
+      "success": "パスワードを変更しました",
+      "error": "パスワードの変更に失敗しました",
+      "errorMatch": "確認用パスワードが一致しません",
+      "errorLength": "新しいパスワードは8文字以上で入力してください"
+    }
+  },
+  "RecentPurchases": {
+    "title": "最近の購入履歴",
+    "justBought": "たった今購入されました",
+    "recently": "最近",
+    "ago": "前",
+    "hours": "時間",
+    "hour": "時間",
+    "minutes": "分",
+    "minute": "分",
+    "days": "日",
+    "day": "日",
+    "seconds": "秒"
+  },
+  "DashboardOrders": {
+    "title": "注文履歴",
+    "subtitle": "注文状況の確認と追跡",
+    "refresh": "更新",
+    "loginRequired": "ログインしてください",
+    "loginDescription": "注文履歴を確認するにはログインが必要です。",
+    "errorTitle": "データ読込エラー",
+    "errorDescription": "注文リストを読み込めませんでした。後でもう一度お試しください。",
+    "stats": {
+      "totalOrders": "総注文数",
+      "paidOrders": "支払い済み",
+      "pendingPayment": "未払い",
+      "totalSpent": "総支出額"
+    },
+    "filters": {
+      "statusPlaceholder": "注文ステータス",
+      "paymentPlaceholder": "支払いステータス",
+      "allStatus": "すべてのステータス",
+      "allPayment": "すべての支払い"
+    },
+    "status": {
+      "pending": "処理待ち",
+      "processing": "処理中",
+      "completed": "完了",
+      "cancelled": "キャンセル済み"
+    },
+    "paymentStatus": {
+      "pending": "支払い待ち",
+      "paid": "支払い済み",
+      "failed": "支払い失敗"
+    },
+    "table": {
+      "orderNumber": "注文番号",
+      "products": "商品",
+      "otherProducts": "他 {count} 点の商品",
+      "total": "合計金額",
+      "status": "ステータス",
+      "payment": "支払い",
+      "date": "注文日",
+      "actions": "操作",
+      "viewDetails": "詳細",
+      "payNow": "今すぐ支払う"
+    },
+    "pagination": "ページ {current}/{total}",
+    "empty": {
+      "title": "注文履歴がありません",
+      "description": "まだ注文がありません。さっそくお買い物を始めましょう！",
+      "cta": "商品を見る"
+    },
+    "toast": {
+      "loadError": "注文データの読み込みエラー",
+      "connectionError": "接続エラー"
+    }
+  },
+  "Pricing": {
+    "title": "あなたに最適なプランを選択",
+    "description": "すべてのプランにFigma Educationの登録サポート、有効化の追跡、および透明性のあるアフターケアが含まれています。",
+    "popular": "一番人気",
+    "perMonth": "₫/月",
+    "guarantees": {
+      "oneTime": "一括払い",
+      "noRenew": "自動更新なし",
+      "refund": "ショップ起因のエラーに対する1対1交換保証"
+    },
+    "plans": {
+      "1-month": {
+        "name": "1ヶ月",
+        "description": "初心者向けのクイック相談",
+        "button": "1ヶ月プランをリクエスト",
+        "features": {
+          "0": "Figma Educationのオンライン購入ガイド",
+          "1": "設定と有効化のステップバイステップ動画",
+          "2": "支払い方法の選択に関するアドバイス",
+          "3": "有効化後の確認チェックリスト",
+          "4": "24時間365日サポート",
+          "5": "1対1交換保証"
+        }
+      },
+      "3-months": {
+        "name": "3ヶ月",
+        "description": "フリーランサーに人気プラン",
+        "button": "3ヶ月プランを選択",
+        "features": {
+          "0": "1ヶ月プランの全サービス",
+          "1": "長期利用のニーズに合わせたFigma Educationプランの選定アドバイス",
+          "2": "認証が必要な場合の優先サポート",
+          "3": "ガイド付きの更新リマインダー",
+          "4": "Figmaでのワークフロー最適化リソース",
+          "5": "専用カスタマーサポートグループ"
+        }
+      },
+      "6-months": {
+        "name": "6ヶ月",
+        "description": "デザイン専攻の学生に最適",
+        "button": "6ヶ月プランを注文",
+        "features": {
+          "0": "3ヶ月プランの全サービス",
+          "1": "有効化時のマンツーマンビデオ通話サポート",
+          "2": "アカウント状態の定期モニタリング",
+          "3": "Figmaの最新ポリシーのアップデート案内",
+          "4": "高度なワークフロー資料",
+          "5": "おすすめ拡張機能ライブラリ"
+        }
+      },
+      "12-months": {
+        "name": "12ヶ月",
+        "description": "チームや企業に最適",
+        "button": "12ヶ月プランのお問い合わせ",
+        "features": {
+          "0": "6ヶ月プランの全サービス",
+          "1": "複数メンバーのアカウント設定に関するアドバイス",
+          "2": "セキュリティと権限設定のチェックリスト",
+          "3": "Figmaに関する問題発生時の対応サポート",
+          "4": "一括更新の調整サポート",
+          "5": "新メンバー向けオンボーディング資料"
+        }
+      }
+    }
+  },
+  "MockData": {
+    "fallbackProducts": {
+      "mock-1": {
+        "name": "Figma Education アカウント - 1ヶ月",
+        "description": "Figma edu 1ヶ月プラン — お試し利用に最適。お支払い後、ログイン情報とログインガイドをメールでお送りします。",
+        "shortDescription": "お試し利用に最適"
+      },
+      "mock-2": {
+        "name": "Figma Education アカウント - 3ヶ月",
+        "description": "Figma Education 3ヶ月プラン — 学期のプロジェクトに人気。プラン選びのアドバイスとローカル決済に対応。",
+        "shortDescription": "学期プロジェクトに一番人気のプラン"
+      },
+      "mock-3": {
+        "name": "Figma Education アカウント - 6ヶ月",
+        "description": "Figma edu 6ヶ月プラン — 継続して利用するデザイン専攻の学生やUIフリーランサー向けの長期割引プラン。",
+        "shortDescription": "日常的に使う方に最適な長期節約プラン"
+      },
+      "mock-4": {
+        "name": "Figma Education アカウント - 12ヶ月",
+        "description": "Figma Education 12ヶ月プラン — グループ課題や継続的な学習に最適な年間コスト削減プラン。",
+        "shortDescription": "学年を通した利用に最適な1年プラン"
+      }
+    }
+  },
+  "UserOrderDetails": {
+    "title": "注文詳細 {orderNumber}",
+    "payNow": "今すぐ支払う",
+    "status": {
+      "completed": "完了",
+      "processing": "処理中",
+      "pending": "保留中",
+      "cancelled": "キャンセル済み"
+    },
+    "paymentStatus": {
+      "paid": "支払い済み",
+      "failed": "決済エラー",
+      "pending": "支払い待ち"
+    },
+    "info": {
+      "title": "注文情報",
+      "orderNumber": "注文番号",
+      "orderDate": "注文日",
+      "customer": "お客様",
+      "email": "メールアドレス"
+    },
+    "items": {
+      "title": "購入済み商品 ({count})",
+      "quantity": "数量: {quantity}",
+      "empty": "商品はありません"
+    },
+    "payment": {
+      "title": "お支払い詳細",
+      "subtotal": "小計",
+      "discount": "割引",
+      "total": "合計",
+      "paidAt": "決済完了日時"
+    },
+    "notes": {
+      "title": "注文メモ"
+    },
+    "support": {
+      "title": "サポートが必要ですか？",
+      "description": "ご注文についてご質問がある場合は、お気軽にお問い合わせください。",
+      "contact": "サポートにお問い合わせ"
+    },
+    "statusLabels": {
+      "order": "注文:",
+      "payment": "お支払い:"
+    },
+    "loginLinkInstructions": {
+      "title": "🔗 アカウント受け取り手順（手動）",
+      "lead": "アカウントを受け取るには、以下の手順に従ってください：",
+      "step1": "お使いの機器で<b>Figma IDE</b>（アプリ）を開き、現在のアカウントからログアウトします",
+      "step2": "アプリ内の<b>「Sign in」</b>をクリックします",
+      "step3": "Figmaがブラウザを開き、次のようなログインリンクが表示されます：",
+      "linkExample": "https://www.figma.com/loginDeepControl?challenge=xxxxx&uuid=xxxxx&mode=login",
+      "step4": "<b>このリンクを今すぐコピーして</b>ショップに送信してください",
+      "noteTitle": "⚠️ 重要な注意事項：",
+      "note1": "ウェブブラウザ上でログインボタンを押さないでください",
+      "note2": "authenticator.cursor.shにリダイレクトされた後のリンクは取得しないでください",
+      "note3": "リンクをコピーしてショップに送信するだけで完了です ✅",
+      "videoBtn": "▶️ 動画ガイド",
+      "fbBtn": "📘 Facebook",
+      "tgBtn": "✈️ Telegram",
+      "footer": "アカウントを受け取るには、ログインリンクと注文番号 <b>#{orderNumber}</b> を送信してください。"
+    }
+  },
+  "PrivacyPage": {
+    "seo": {
+      "title": "プライバシーポリシー",
+      "description": "FigmaEduの顧客情報プライバシーポリシー。個人データと支払い情報の100%安全な保護をお約束します。"
+    },
+    "hero": {
+      "title": "プライバシー",
+      "highlight": "ポリシー",
+      "description": "FigmaEduは、最新のセキュリティ対策と完全な透明性をもって、お客様の個人情報を保護することをお約束します。",
+      "update": "最終更新日: 2026年7月7日"
+    },
+    "highlights": {
+      "ssl": {
+        "title": "256ビットSSL暗号化",
+        "desc": "すべてのデータは銀行レベルの基準で暗号化されます"
+      },
+      "noCard": {
+        "title": "カード情報の非保持",
+        "desc": "お客様の支払い情報を保存することはありません"
+      },
+      "transparent": {
+        "title": "完全な透明性",
+        "desc": "データの収集と使用方法を明確に開示しています"
+      },
+      "rights": {
+        "title": "お客様の権利",
+        "desc": "個人情報の閲覧、修正、削除を請求する権利があります"
+      }
+    },
+    "sections": {
+      "collection": {
+        "title": "1. 収集する情報",
+        "basic": "基本個人情報：",
+        "basicItems": {
+          "1": "氏名、メールアドレス、電話番号",
+          "2": "IPアドレス、ブラウザ情報、デバイスフィンガープリント（不正防止用）",
+          "3": "取引履歴、ウォレット残高、暗号資産の参照コード"
+        },
+        "payment": "お支払い情報：",
+        "paymentItems": {
+          "1": "お支払い方法（SePay/VietQR、暗号資産、電子ウォレット）",
+          "2": "取引ID（カード番号は保存されません）",
+          "3": "支払いステータスおよび金額"
+        }
+      },
+      "usage": {
+        "title": "2. データの利用目的",
+        "purpose": "利用目的：",
+        "purposeItems": {
+          "1": "注文の処理およびFigma Educationアカウントの提供",
+          "2": "カスタマーサポートおよび問題解決",
+          "3": "注文に関する重要な通知の送信",
+          "4": "サービス品質の向上",
+          "5": "法的義務の遵守"
+        },
+        "commitment": "当社はデータを販売せず、ターゲティング広告に使用せず、18歳未満の者から意図的にデータを収集することはありません。"
+      },
+      "security": {
+        "title": "3. 情報セキュリティ",
+        "measures": "セキュリティ対策：",
+        "measuresItems": {
+          "1": "転送されるすべてのデータに対する256ビットSSL暗号化",
+          "2": "ファイアウォールおよび侵入検知システム",
+          "3": "定期的なセキュリティ監査",
+          "4": "内部アクセス権限の制限",
+          "5": "安全なデータバックアップ"
+        },
+        "paymentSec": "決済の安全性：",
+        "paymentSecItems": {
+          "1": "決済処理: SePay/VietQR、暗号資産（Binance、Bybit、オンチェーン）、電子ウォレット",
+          "2": "クレジットカード情報の非保存",
+          "3": "bot対策用のCloudflare Turnstile"
+        }
+      },
+      "rights": {
+        "title": "4. お客様の権利",
+        "desc": "お客様はご自身の個人情報に関して以下の権利を有します：",
+        "items": {
+          "access": "アクセス権: 保存されている個人情報の開示請求",
+          "edit": "訂正権: 情報の更新または修正",
+          "delete": "消去権: 個人情報の削除請求",
+          "object": "異議申し立て権: データ処理の拒否",
+          "complain": "苦情申し立て権: セキュリティ違反の報告"
+        },
+        "contact": "上記の権利を行使する場合は、以下までご連絡ください："
+      },
+      "cookies": {
+        "title": "5. クッキーおよびトラッキング",
+        "desc": "当社はユーザー体験向上のためにクッキーを使用しています：",
+        "items": {
+          "1": "必須クッキー: ログイン、ショッピングカート、セキュリティ、同意状態の保存",
+          "2": "分析クッキー（オプトイン）: Microsoft Clarity、Vercel Analytics",
+          "3": "ターゲティング広告用クッキーは不使用"
+        },
+        "note": "ブラウザの設定でクッキーを無効にすることができますが、一部の機能が正常に動作しない場合があります。"
+      },
+      "sharing": {
+        "title": "6. 情報の共有",
+        "desc": "当社は以下の場合にのみ情報を共有します：",
+        "items": {
+          "1": "決済処理: SePay/VietQR、暗号資産（Binance、Bybit、オンチェーン）、電子ウォレット",
+          "2": "インフラストラクチャ: Vercel（ホスティング）、Cloudflare Turnstile、Brevo（メール）",
+          "3": "法的要請がある場合の公的機関",
+          "4": "お客様の明示的な同意がある場合"
+        }
+      },
+      "storage": {
+        "title": "7. データの保持期間",
+        "items": {
+          "1": "アカウント情報: ショップアカウントが有効な期間中保存",
+          "2": "注文/取引履歴: ベトナムの税法/会計法に従い5年間保存",
+          "3": "システムログおよびフィンガープリント: 最長12ヶ月",
+          "4": "マーケティングデータ: 配信解除時に削除"
+        }
+      },
+      "minors": {
+        "title": "8. 未成年者の利用について",
+        "desc": "当サービスは18歳未満の方を対象としていません。当社が意図的に未成年者からデータを収集することはありません。18歳未満の方のデータが収集されたと思われる場合は、削除を要求するためにお問い合わせください。"
+      },
+      "international": {
+        "title": "9. 国際的なデータ転送",
+        "desc": "データは米国およびその他の国のサーバー（Vercel、Brevo、Cloudflare）で処理される場合があります。サービスを利用することで、この転送に同意したことになります。EUのユーザーは、保護レベルがお住まいの国と異なる可能性があることにご注意ください。"
+      },
+      "contact": {
+        "title": "10. お問い合わせおよび苦情",
+        "desc": "本プライバシーポリシーに関するご質問やご不明点がございましたら、以下までお問い合わせください：",
+        "direct": "直接のお問い合わせ：",
+        "company": "会社情報：",
+        "supportTime": "サポート時間: 24時間365日"
+      }
+    },
+    "cta": {
+      "title": "セキュリティに関するご質問はありますか？",
+      "description": "当社のセキュリティチームがお客様のあらゆるご質問にお答えします",
+      "contact": "今すぐお問い合わせ",
+      "terms": "利用規約を見る"
+    }
+  },
+  "PaymentResult": {
+    "title": "注文の支払い",
+    "orderNumber": "注文番号{number}",
+    "status": {
+      "paid": "有料",
+      "pending": "支払いを待ちます"
+    },
+    "progress": {
+      "info": "注文情報",
+      "payment": "支払う",
+      "finish": "完了"
+    },
+    "transfer": {
+      "title": "乗り換え情報",
+      "scan": "QRコードをスキャンして送金します",
+      "generating": "QRコードを作成しています...",
+      "bank": "銀行",
+      "accountNumber": "口座番号",
+      "accountName": "アカウント所有者",
+      "amount": "額",
+      "content": "コンテンツの転送",
+      "contentNote": "⚠️ システムが自動的に確認するため、以下に正しい転送内容を入力してください",
+      "check": "お金を送金しました",
+      "checkManual": "手動チェック",
+      "checking": "チェック中...",
+      "copy": "{label} をコピーしました",
+      "autoVerifyTitle": "⏱️ 転送後、5〜10秒お待ちください。",
+      "autoVerifyDesc": "システムはあなたの取引を自動的に検証します。 30秒経っても更新されない場合は、下の手動チェックボタンを押してください。"
+    },
+    "summary": {
+      "title": "注文の詳細",
+      "customer": "顧客情報",
+      "name": "名前：",
+      "email": "電子メール:",
+      "products": "製品 ({count})",
+      "total": "合計：",
+      "successTitle": "支払いが成功しました！",
+      "successDesc": "アカウントが発行され、以下に表示されます。",
+      "redirect": "🔄 {seconds} 秒以内に注文ページに自動的にリダイレクトされます...",
+      "guestSuccessTitle": "注文が確定しました！",
+      "guestOrderNumber": "注文コード:",
+      "guestEmailNotice": "📧 注文確認メールとアカウント情報は {email} に送信されます。メールボックス（迷惑メールを含む）をご確認ください。",
+      "guestSaveOrder": "📌 上記の注文コードを保存して、必要に応じて検索したり、サポートに連絡したりしてください。",
+      "guestContactTitle": "サポートが必要ですか?今すぐ連絡してください:",
+      "guestRegisterHint": "💡 ウェブサイトでアカウントを作成すると、注文を簡単に管理し、いつでもアカウント情報を確認できます。",
+      "note": "💡 注: 送金を受け取った後、注文は自動的に確認されます。",
+      "support": "問題がある場合は、お問い合わせページまたはサポート チャネル FigmaEdu からサポートにご連絡ください。"
+    },
+    "error": {
+      "notFound": "注文が見つかりません",
+      "fetchError": "注文情報をダウンロードできません",
+      "connection": "接続エラー。もう一度お試しください。",
+      "back": "購入に戻る"
+    },
+    "backButton": "購入に戻る",
+    "qrAlt": "QRコード決済",
+    "binance": {
+      "title": "バイナンスペイ",
+      "desc": "Binance アプリを使用して以下の ID に移動してください"
+    },
+    "crypto": {
+      "selectMethod": "支払い方法を選択してください",
+      "scanQrToPay": "QR をスキャンして支払いを送信します",
+      "scanWithApp": "アプリ {app} でスキャンして支払います",
+      "provider": "サプライヤー",
+      "payId": "ペイID",
+      "accountName": "アカウント名",
+      "asset": "コイン",
+      "network": "ネットワーク",
+      "address": "ウォレットアドレス",
+      "sendOnlyOn": "{network} ネットワーク上でのみ {asset} を送信してください。間違ったネットワークに送信すると、永久にお金が失われます。",
+      "orderRefNote": "注文参照 (オンチェーンメモではない) — 必要に応じてコメント/メモボックスに添付されます。",
+      "manualVerifyTitle": "手動検証",
+      "manualVerifyDesc": "送信後、管理者が確認するまで数分待つか、アプリケーション コードを添えてサポートに連絡してください。",
+      "zoomQr": "QR コード {method} を拡大してください"
+    },
+    "loginLinkInstructions": {
+      "title": "🔗 アカウントを受け取る手順",
+      "lead": "アカウントを取得するには、次の手順に従ってください。",
+      "step1": "コンピューターで <b>Figma IDE</b> を開き、現在のアカウントからログアウトします",
+      "step2": "アプリ内で <b>「サインイン」</b> をクリックします",
+      "step3": "Figma は次のようなログイン リンクでブラウザを開きます。",
+      "linkExample": "https://www.figma.com/loginDeepControl?challenge=xxxxx&uuid=xxxxx&mode=login",
+      "step4": "<b>このリンクを今すぐコピーしてください</b> ショップに送信してください",
+      "noteTitle": "⚠️重要な注意事項:",
+      "note1": "Webブラウザで「ログイン」をクリックしないでください",
+      "note2": "リンクを使用せず、ページをauthenticator.cursor.shに自動的にリダイレクトしないでください。ページを切り替えた場合は、「サインイン」操作を最初からやり直してください。",
+      "note3": "リンクをコピーしてショップに送信するだけで完了です。ショップアカウントログインOK✅",
+      "videoBtn": "▶️ 説明ビデオを見る",
+      "fbBtn": "📘フェイスブック",
+      "tgBtn": "✈️電報",
+      "footer": "アカウントを受け取るには、注文コード <b>#{orderNumber}</b> を含むログイン リンクを送信してください。"
+    }
+  },
+  "HeaderUser": {
+    "menu": {
+      "orders": "私の注文",
+      "wallet": "私の財布",
+      "profile": "個人プロフィール",
+      "settings": "設定",
+      "admin": "管理ページ",
+      "signOut": "サインアウト"
+    },
+    "toast": {
+      "success": "正常にサインアウトしました",
+      "error": "ログアウト中にエラーが発生しました"
+    }
+  },
+  "Header": {
+    "home": "ホームページ",
+    "intro": "導入",
+    "products": "製品",
+    "purchasedCustomers": "お客様が購入したもの",
+    "blog": "ブログ",
+    "affiliate": "協力者",
+    "contact": "接触",
+    "admin": "管理者",
+    "signIn": "ログイン",
+    "signUp": "登録する",
+    "dashboard": "注文",
+    "profile": "ファイル",
+    "settings": "設定",
+    "cart": "ショッピングカート",
+    "orders": "注文",
+    "search": {
+      "placeholder": "製品を検索...",
+      "empty": "製品が見つかりませんでした",
+      "hint": "検索"
+    },
+    "wallet": "私の財布"
+  },
+  "Common": {
+    "language": "言語",
+    "vietnamese": "ベトナム語",
+    "english": "英語"
+  },
+  "HomePage": {
+    "heroTitle": "アカウントを購入 <highlight>Figma Education</highlight> — <highlight>Figma edu</highlight> 良い価格、速い配達",
+    "heroDescription": "FigmaEdu は、アカウント Figma Education の独立した小売業者です。支払い→数分でメールでログインを受け取ります。 1対1の保証、年中無休のサポート。 Figma, Inc. とは無関係です",
+    "ctaRegister": "価格表を見る",
+    "ctaPricing": "📊 価格表を参照",
+    "disclaimer": "FigmaEdu は独立した小売店です。当社は、Figma, Inc. を代表するものではなく、Figma, Inc. によって所有され、スポンサーまたは承認されていません。「Figma」および「Figma Education」は Figma, Inc. の商標です。当社は、合法的に購入したサブスクリプションをデザイン学生やプロジェクト チームに再配布します。",
+    "badges": {
+      "warranty": "保証 1 対 1 の交換",
+      "support": "年中無休のサポート"
+    },
+    "customRequest": {
+      "badge": "熱い",
+      "title": "リクエストに応じてアカウントを受信および検索します",
+      "subtitle": "ウェブサイト</highlight> にリストされているもの以外の別の <highlight>Figma edu パッケージが必要ですか?受信トレイ ショップでは、5 分で検索と見積もりが可能です。",
+      "cta": "今すぐ連絡する"
+    },
+    "productTypes": {
+      "cursor-pro": "Figma Education",
+      "cursor-pro-official-1m": "Figma エドゥ 1 か月",
+      "github-copilot": "Figma 教育 3 か月",
+      "github-edu": "Figma 教育 6 か月",
+      "figma-pro": "Figma Education",
+      "jetbrains-edu": "Figma 教育 12 か月"
+    },
+    "urgency": {
+      "title": "⚡ 限定オファー - 最大 90% 割引",
+      "subtitle": "この特別オファーを受け取るまであと <bold>3 日</bold> のみです"
+    },
+    "liveDemo": "🔴 ライブデモ",
+    "featuresTitle": "Figma アカウントの購入に FigmaEdu を選択する理由は何ですか?",
+    "featuresDescription": "数千人の UI デザインとフリーランスの学生にサービスを提供する独立系小売業者。競争力のある価格、短納期、1対1の保証。",
+    "features": {
+      "transparentConsulting": {
+        "title": "透明性のあるコンサルティング",
+        "description": "コンサルティング チームは、適切な Figma Education パッケージを選択し、明確な情報を提供して Figma edu アカウントの購入を完了できるようお手伝いします。"
+      },
+      "reasonableSavings": {
+        "title": "合理的な節約",
+        "description": "適切な支払い方法 (VietQR、MoMo、ZaloPay) を提案し、Figma Education アカウントを購入する際のコストを最適化します。"
+      },
+      "support247": {
+        "title": "年中無休のサポート",
+        "description": "Telegram による 24 時間年中無休のカスタマー サポート。 Figma edu に関するすべての質問にすぐに答えます。"
+      },
+      "longTermCompanion": {
+        "title": "長年の相棒",
+        "description": "Figma のログイン手順、ベトナム語のドキュメント、アカウント配信後のサポートを提供します。"
+      }
+    },
+    "benefitsTitle": "Figma Education アカウントを購入する必要がある理由",
+    "benefitsDescription": "Figma Education — リアルタイム コラボ、開発モード、デザイン チームの教育権限に基づくライブラリとファイル",
+    "benefits": {
+      "unlimitedCompletion": {
+        "title": "無制限のリアルタイムコラボレーション",
+        "description": "同じ Figma ファイルでチームとして作業し、コメントと編集を同時に行うことができます。プロジェクトやフリーランスの UI に適しています。"
+      },
+      "fastRequests": {
+        "title": "開発モードとハンドオフ",
+        "description": "無料版よりも速くパラメータを表示し、アセットをエクスポートし、設計チームと同期します。"
+      },
+      "maxMode": {
+        "title": "ライブラリとコンポーネントの教育",
+        "description": "Figma Education パッケージ権限に基づいてライブラリ、コンポーネント、プロトタイプを使用します。学習や実際のプロジェクトには十分です。"
+      }
+    },
+    "finalCta": {
+      "title": "Figma edu アカウントを購入する準備はできましたか?",
+      "description": "FigmaEdu を選択した何千人ものデザイン学生に加わりましょう。 Figma Education アカウントの価格リストを今すぐご覧ください。",
+      "register": "価格表を見る",
+      "viewPackages": "価格表を見る"
+    }
+  },
+  "ProofGallery": {
+    "cta": "詳細を見る",
+    "badges": {
+      "featured": "並外れた",
+      "verified": "確認済み",
+      "authentic": ""
+    },
+    "empty": {
+      "title": "まだ証拠はありません",
+      "description": "新しい注文はすぐに更新されます"
+    },
+    "details": {
+      "orderCode": "注文コード",
+      "customer": "クライアント",
+      "value": "価値",
+      "orderDate": "注文日"
+    },
+    "zoom": {
+      "zoomOut": "ズームアウト",
+      "zoomIn": "拡大する",
+      "reset": "リセット",
+      "hint": {
+        "zoom": "クリックして拡大 • スクロールして拡大",
+        "pan": "ドラッグして移動 • スクロールしてズーム"
+      }
+    }
+  },
+  "TrustSocialProof": {
+    "badge": "お客様からの本物の証拠",
+    "titlePart1": "何千もの顧客が信頼しています",
+    "titlePart2": "そして私たちのサービスを利用してください",
+    "description": "成功した注文の実際の証拠をご覧ください。すべての注文は検証され、1対1の保証が付いています。",
+    "stats": {
+      "successOrders": "成功した注文",
+      "avgRating": "平均評価"
+    },
+    "cta": "すべてのお客様の声を見る",
+    "ctaSub": "クリックすると、何千もの成功した注文と実際の顧客からのレビューが表示されます",
+    "empty": {
+      "title": "証拠はすぐに更新されます"
+    },
+    "labels": {
+      "verified": "検証済み",
+      "authentic": "100%",
+      "warranty": "1対1の交換保証",
+      "support": "年中無休のサポート"
+    }
+  },
+  "FeaturedProducts": {
+    "title": "Figma Education アカウント パッケージ",
+    "subtitle": "Figma edu アカウントを購入 — お金を節約 — 1 対 1 の保証",
+    "cta": "すべてのプランを見る",
+    "toast": "{name} がカートに追加されました"
+  },
+  "Footer": {
+    "description": "FigmaEdu — 独立系小売業者 Figma Education アカウント。 Figma, Inc. 1 対 1 の保証、24 時間 365 日のサポートとは提携していません。",
+    "columns": {
+      "products": "製品",
+      "company": "会社",
+      "support": "サポート"
+    },
+    "links": {
+      "allPackages": "すべてのパッケージ",
+      "cursorPro1m": "Figma Education 1 か月",
+      "cursorPro3m": "Figma Education 3 か月",
+      "cursorPro6m": "Figma Education 6 か月",
+      "cursorPro12m": "Figma Education 12 か月",
+      "about": "私たちについて",
+      "careers": "募集",
+      "affiliate": "協力者",
+      "blog": "ブログ",
+      "press": "プレス",
+      "contact": "接触",
+      "customers": "お客様が購入したもの",
+      "help": "サポートセンター",
+      "shipping": "配送と返品",
+      "warranty": "保証",
+      "returnPolicy": "返品規則",
+      "privacy": "プライバシーポリシー",
+      "terms": "利用規約",
+      "disclaimer": "免責事項",
+      "cookies": "クッキー",
+      "sitemap": "サイトマップ"
+    },
+    "copyright": "無断転載を禁じます。",
+    "schedule": {
+      "title": "サポート時間",
+      "mainHours": "08:00～23:00（月曜日～日曜日）",
+      "fastHours": "迅速な対応時間: 月曜～金曜、08:00～12:00。 13:30～17:00",
+      "telegramPriority": "Telegramを優先して応答を速くする",
+      "emergency": "緊急: Telegram/Facebook 経由で年中無休 24 時間対応"
+    },
+    "legal": {
+      "disclaimerTitle": "商標に関する声明",
+      "disclaimerBody": "FigmaEdu は、アカウント Figma Education の独立系小売業者 (サードパーティ再販業者) です。当社は、Figma, Inc. と提携、承認、スポンサーされていません。「Figma」および「Figma Education」は、Figma, Inc. の商標です。当社は、UI ベトナムのフリーランスおよびデザイン学生の便宜を図るために、合法的に購入したアカウント/サブスクリプションを再販しています。商標所有者から直接申請するには、https://www.figma.com. にアクセスしてください。"
+    },
+    "trustBadges": {
+      "authentic": "評判の良いエージェント"
+    }
+  },
+  "SEO": {
+    "defaultDescription": "FigmaEdu は、アカウント Figma Education の独立系小売業者 (サードパーティ再販業者) です。 Figma edu アカウントを手頃な価格で購入し、支払い後の電子メールによるログイン、1 対 1 の保証、24 時間年中無休のサポートをご利用ください。 Figma, Inc. とは無関係です",
+    "defaultTitle": "Figma Edu アカウントをお得な価格で購入 | FigmaEdu",
+    "slogan": "アカウント小売業者 Figma Education",
+    "keywords": "Figma アカウント、Figma edu、Figma Education、Figma edu アカウントを購入、Figma Education、FigmaEdu、figmaedu.shop、Figma アカウントを手頃な価格で購入"
+  },
+  "CompetitorComparison": {
+    "title": "Figma Education を他のツールと比較する",
+    "description": "多くの UI デザインやフリーランスの学生が、無料版や他のツールを使用するのではなく、FigmaEdu 経由で Figma edu アカウントを購入することを選択するのはなぜでしょうか。",
+    "tools": {
+      "cursor": {
+        "description": "Figma Education — コラボ&開発モード",
+        "price": "FigmaEdu 経由でお手頃価格",
+        "originalPrice": "期限までに Figma Education を梱包します"
+      },
+      "vscode": {
+        "name": "Figma 無料",
+        "description": "限定無料版",
+        "price": "無料"
+      },
+      "copilot": {
+        "name": "スケッチ",
+        "description": "macOS中心の設計",
+        "price": "別途お支払い"
+      },
+      "codeium": {
+        "name": "Adobe XD/Canva",
+        "description": "試作＆軽量設計",
+        "price": "各ブランドのパッケージによると"
+      }
+    },
+    "features": {
+      "header": "特徴",
+      "completion": "リアルタイムコラボ",
+      "chat": "ファイルにコメントする",
+      "models": "コンポーネントとライブラリ",
+      "analysis": "開発モード/ハンドオフ",
+      "editing": "マルチプレイヤー編集",
+      "generation": "インタラクティブなプロトタイプ",
+      "debug": "プラグインとコミュニティ",
+      "performance": "プロジェクトのグループワーク",
+      "cost": "FigmaEdu 経由の費用 (参考)"
+    },
+    "values": {
+      "cursor": {
+        "completion": "教育機関の権利に基づいて無制限",
+        "chat": "コメントとメンション全文",
+        "models": "ライブラリとコンポーネントの教育",
+        "analysis": "✓ 開発モード",
+        "editing": "✓ 同時に多くの人が",
+        "generation": "✓ 高度なプロトタイプ",
+        "debug": "✓ 大規模なエコシステム",
+        "performance": "勉強会などに最適",
+        "cost": "お得な月額料金"
+      },
+      "vscode": {
+        "completion": "ファイル/チーム制限",
+        "chat": "基本",
+        "models": "限界",
+        "analysis": "✗ / 非常に限定的",
+        "editing": "席数が限られている",
+        "generation": "基本",
+        "debug": "基本",
+        "performance": "個人使用には十分です",
+        "cost": "無料（制限あり）"
+      },
+      "copilot": {
+        "completion": "ローカル/クラウドのスケッチファイルによる",
+        "chat": "Figmaよりも制限が多い",
+        "models": "シンボル/ライブラリ",
+        "analysis": "プライベート検査",
+        "editing": "弱いマルチプレイヤー",
+        "generation": "プロトタイプはい",
+        "debug": "プラグインの削減",
+        "performance": "主にmacOS",
+        "cost": "スケッチ料金を支払う"
+      },
+      "codeium": {
+        "completion": "コラボはパッケージに依存",
+        "chat": "商品によっては",
+        "models": "利用可能なテンプレート",
+        "analysis": "限定的なハンドオフ",
+        "editing": "パッケージによると",
+        "generation": "ライトプロトタイプ/マーケティング",
+        "debug": "異なる生態系",
+        "performance": "軽量設計に最適",
+        "cost": "Adobe/Canvaによると"
+      }
+    },
+    "cards": {
+      "cursor": {
+        "title": "Figma Education 優れている点は何ですか?",
+        "content": [
+          "• <bold>Collab realtime</bold> UI/UX プロジェクト チーム用",
+          "• <bold>開発モード</bold> パラメータの表示とアセットのエクスポート",
+          "• <bold>コンポーネント / ライブラリ</bold> は教育機関の権利に基づく",
+          "• <bold>Prototype</bold> ファイル上の画面ストリーム"
+        ]
+      },
+      "service": {
+        "title": "FigmaEdu を通じて購入する場合の価値",
+        "content": [
+          "• <bold>Figma アカウントを購入</bold> 国内決済 (VietQR、ウォレット)",
+          "• <bold>学習/フリーランスのニーズに応じてパッケージの選択について相談</bold>",
+          "• <bold>ベトナム語サポート</bold> 年中無休",
+          "• <bold>Transparency</bold> — Figma, Inc. と提携していない独立した小売業者"
+        ]
+      },
+      "commitment": {
+        "title": "FigmaEdu からのコミットメント",
+        "content": [
+          "• <bold>保証 最初の 24 時間以内の </bold> ショップ エラーに対して 1 交換につき 1 件",
+          "• 支払い後、メール</bold>経由で<bold>Giaoログイン",
+          "• <bold>24 時間年中無休サポート </bold> ベトナム語",
+          "• <bold>ログイン手順</bold> (A ～ Z)"
+        ]
+      }
+    },
+    "recommended": "推奨"
+  },
+  "SuccessStories": {
+    "title": "Figma Edu アカウントを購入されたお客様",
+    "description": "FigmaEdu で Figma Education アカウントを購入したデザイン学生、UI フリーランサー、プロジェクト チームからのストーリー",
+    "stats": {
+      "developers": "お客様は Figma edu を購入しました",
+      "speed": "モックアップの完成速度",
+      "debug": "グループ編集時間を短縮する",
+      "rating": "平均評価"
+    },
+    "stories": {
+      "0": {
+        "role": "グラフィックデザインの学生",
+        "story": "FigmaEdu を通じて Figma edu アカウントを購入して以来、プロジェクト チームは同じリアルタイム ファイルで非常にスムーズに作業を行っています。コメントと自動レイアウトにより、無料版よりもはるかに速くレイアウトを完成させることができます。",
+        "results": [
+          "プロジェクトを1週間早く完了しました",
+          "5人でのスムーズなグループコラボレーション",
+          "開発モードによる明示的なハンドオフ"
+        ]
+      },
+      "1": {
+        "role": "フリーランスのUIデザイナー",
+        "story": "顧客向けにプロトタイプとライブラリを作成するには Figma Education が必要です。 FigmaEdu 経由で購入し、VietQR で簡単に支払い、数分でログインメールを受け取り、その日から仕事を始められます。",
+        "results": [
+          "モックアップの提供が 40% 高速化",
+          "プロトタイプの顧客との契約がより簡単に完了",
+          "登録費用を節約する"
+        ]
+      },
+      "2": {
+        "role": "UXプロジェクトチーム",
+        "story": "Free を使用する前は、座席数が限られていました。 Figma edu に切り替えると、グループは同じファイルに対してコメントし、反復処理を行います。メンターによるレビューもさらに便利になります。",
+        "results": [
+          "席を塞がれることはもうありません 無料",
+          "ファイル上でメンターによるフィードバックを行う",
+          "ライブラリコンポーネントは再利用可能です"
+        ]
+      },
+      "3": {
+        "role": "UI/UXの学生",
+        "story": "初めてオンラインで Figma アカウントを購入するのは少し不安でしたが、FigmaEdu は正しい説明を提供し、明確なベトナム語サポートを提供してくれました。開発モードを使用して、ハンドオフを学習する際の間隔を確認します。",
+        "results": [
+          "安定したログイン",
+          "開発モードをより早く学習する",
+          "サポートは 5 分以内に応答します"
+        ]
+      },
+      "4": {
+        "role": "フリーランスのプロダクトデザイナー",
+        "story": "毎月 2 ～ 3 つのブリーフを並行して実行します。 Figma Education は、コンポーネント システムをコンパクトに保つ​​のに役立ちます。 FigmaEdu 経由で長期購入すると、毎月の更新について心配する必要がなくなります。",
+        "results": [
+          "デザインシステムの一貫性を保つ",
+          "期限内に概要を提出する",
+          "コストは四半期ごとに予測されます"
+        ]
+      },
+      "5": {
+        "role": "デザインプロジェクトチームの責任者",
+        "story": "同じ Figma ファイルにリサーチ/UI/プロトタイプの役割を割り当てます。 FigmaEdu 経由でグループ全体の教材を購入します。プロセスは明確で、誰もがマスター ファイルにアクセスできます。",
+        "results": [
+          "グループ全体で 1 つのマスター ファイル",
+          "送受信されるファイルを減らす",
+          "プロジェクトを保護する前にプロトタイプを完成させる"
+        ]
+      }
+    },
+    "cta": {
+      "title": "あなた自身の成功事例が欲しいですか?",
+      "description": "FigmaEdu で Figma edu アカウントを購入した UI デザインとフリーランスの学生のコミュニティに参加してください。次の物語はあなたのものになるかもしれません!",
+      "start": "🚀 Figma Edu の価格表を参照",
+      "follow": "📘 ファンページをフォローする"
+    },
+    "resultsLabel": "達成された結果:"
+  },
+  "Tutorial": {
+    "title": "Figma Edu アカウントの購入と使用の手順",
+    "description": "プラン選択→支払い→メール受信→Figmaログインまで数分で完了",
+    "download": {
+      "title": "Web またはアプリで Figma を開きます",
+      "version": "<bold>browser</bold> またはデスクトップ アプリで Figma を使用する — Windows、macOS、Linux",
+      "button": "Figma を開く",
+      "note": "⚡ 配信メール受信後、Figma Education 権限を使用してログインしてください"
+    },
+    "steps": {
+      "1": {
+        "title": "パッケージ Figma Education を選択してください",
+        "description": "価格表を確認し、ニーズに合った Figma edu アカウント パッケージを選択してください",
+        "details": [
+          "figmaedu.shop の製品ページに移動します。",
+          "適切なパッケージ期間を選択してください (1 か月、3 か月など)。",
+          "カートに追加して注文をもう一度確認してください",
+          "正確な配信メールを準備する"
+        ],
+        "duration": "2分",
+        "difficulty": "簡単"
+      },
+      "2": {
+        "title": "VietQR支払い/電子ウォレット",
+        "description": "VietQR、MoMo、ZaloPay、または銀行振込によるお支払い",
+        "details": [
+          "チェックアウト時に支払い方法を選択してください",
+          "VietQRをスキャンするかウォレットトランザクションを確認する",
+          "確認のために必要な場合は、領収書/トランザクション コードを保管してください。",
+          "システムが支払いの成功を確認するまで待ちます"
+        ],
+        "duration": "3分",
+        "difficulty": "簡単"
+      },
+      "3": {
+        "title": "ログインメールを受信する",
+        "description": "FigmaEdu は電子メールでログイン情報を送信します - パスワードは Web には表示されません",
+        "details": [
+          "メールボックス (およびスパム/迷惑メール) を確認してください",
+          "FigmaEdu からの配信メールを開く",
+          "メールアドレス/ログインパスワードを安全に保存する",
+          "メールに記載されている指示に従ってください"
+        ],
+        "duration": "2分",
+        "difficulty": "簡単"
+      },
+      "4": {
+        "title": "Figma にサインインする",
+        "description": "受け取った認証情報を使用してログインし、教育権限を確認します。",
+        "details": [
+          "figma.com または Figma アプリを開く",
+          "受け取ったメールアドレス/パスワードでログインします",
+          "アカウントの Figma Education 権限を確認してください",
+          "テスト ファイルを作成するか、プロジェクト チームに参加します"
+        ],
+        "duration": "5分",
+        "difficulty": "簡単"
+      },
+      "5": {
+        "title": "チームでデザインを始める",
+        "description": "教育権限に基づいて自動レイアウト、コンポーネント、プロトタイプ、開発モードを使用する",
+        "details": [
+          "フレームを作成して自動レイアウトを適用する",
+          "チームコンポーネント/ライブラリを再利用する",
+          "プロジェクトの画面フロープロトタイプ",
+          "パラメータを引き継ぐ必要がある場合は開発モードをオンにしてください"
+        ],
+        "duration": "15分",
+        "difficulty": "中くらい"
+      }
+    },
+    "tips": {
+      "shortcuts": {
+        "title": "Figma の便利なキーボード ショートカット",
+        "list": [
+          "F: フレームの作成",
+          "Shift + A: 自動レイアウト",
+          "Ctrl/Cmd + Alt + K: コンポーネントの作成",
+          "Shift + E: 開発モード (許可されている場合)"
+        ]
+      },
+      "bestPractices": {
+        "title": "ベストプラクティス",
+        "list": [
+          "グループ全体でレイヤー/フレームに明確な名前を付けます",
+          "手動位置合わせの代わりに自動レイアウトを使用する",
+          "共有コンポーネントをライブラリに分離する",
+          "個別にチャットするのではなく、ファイルに直接コメントします"
+        ]
+      },
+      "useCases": {
+        "title": "一般的な使用例",
+        "list": [
+          "同じファイルにグループ化された UI/UX プロジェクト",
+          "構築する前にアプリ/ウェブのプロトタイプを作成する",
+          "コース向けの小さなデザインシステム",
+          "開発モードメンバーのハンドオフパラメータ"
+        ]
+      }
+    },
+    "support": {
+      "freeSetup": "新規顧客向けに 1 対 1 のログイン手順をサポート",
+      "messenger": "💬 チャットメッセンジャーのサポート",
+      "telegram": "📱 電報サポート"
+    }
+  },
+  "FAQ": {
+    "title": "Figma Edu アカウントの購入に関するよくある質問",
+    "description": "Figma Education および FigmaEdu の小売サービスに関するよくある質問への回答。",
+    "items": {
+      "0": {
+        "question": "Figma edu / Figma Education とは何ですか?",
+        "answer": "Figma Education (Figma edu と呼ばれることが多い) は、Figma で設計された学生および学習環境用のパッケージです。リアルタイム コラボ、開発モード、教育権限に基づくファイル/ライブラリです。 FigmaEdu は、Figma, Inc. と提携せずに、独立した小売業者としてこのサブスクリプションを再販します。"
+      },
+      "1": {
+        "question": "このショップはFigmaの正規代理店ですか？",
+        "answer": "そうではありません。 FigmaEdu は独立系小売業者 (サードパーティ再販業者) です。当社は Figma, Inc. を代表するものではなく、Figma, Inc. によって承認または承認されていません。パッケージの特典には Figma の規約が適用されます。"
+      },
+      "2": {
+        "question": "ここで Figma edu アカウントを購入する方が安いのはなぜですか?",
+        "answer": "FigmaEdu はニーズを収集し、国際決済手数料を最適化し、運営コストを共有します。ベトナム語サポートとショップによる 1 対 1 のエラー保証により、直接登録するよりも大幅に節約できます。"
+      },
+      "3": {
+        "question": "Figma アカウントを購入する場合、保証はありますか?",
+        "answer": "ショップからのエラー (ログインできない、教育権限がないなど) については、最初の 24 時間以内は 1 対 1 の保証があります。証明書（商品番号）の納品後の返金はできません。 Figma が規約違反により一時停止/終了した場合、保証は無効になります。 Telegram を通じて 24 時間年中無休でサポートします。"
+      },
+      "4": {
+        "question": "Figma Education Figma Free 版との違いは何ですか?",
+        "answer": "無料版では、ファイル/チームといくつかの高度な機能が制限されます。 Figma Education は、コラボ、開発モード、ライブラリ、学習/プロジェクトの権限を拡張します。教育環境で UI/UX をよりプロフェッショナルなものにするのに十分です。"
+      },
+      "5": {
+        "question": "Figma アカウントの購入の支払い方法は?",
+        "answer": "MoMo、ZaloPay、VietQR、または銀行振込によるお支払い。 SSL暗号化トランザクション。 1 回限りの支払いで、自己更新はありません。支払い情報はセキュリティのために保存されません。"
+      },
+      "6": {
+        "question": "支払い後にアカウントを受け取るにはどうすればよいですか?",
+        "answer": "支払いが完了すると、約 1 ～ 5 分以内 (営業時間内の平均 2 ～ 3 分) に、Figma のログイン情報が記載された電子メールが届きます。ウェブサイトにはパスワードは表示されず、電子メールでのみ送信されます。"
+      },
+      "7": {
+        "question": "Figma edu にログインするためのガイドはありますか?",
+        "answer": "持っている。各注文にはベトナム語のログイン手順が付属します。 Telegram/Facebook 経由で問題が発生した場合、サポート チームが最初から最後まで Figma にアクセスできるようサポートします。"
+      }
+    },
+    "stillHaveQuestions": "まだ質問がありますか?",
+    "contactSupport": "さまざまなチャネルを通じてお問い合わせください。サポートチームは年中無休でサポートいたします。",
+    "telegram": "今すぐチャット",
+    "messenger": "今すぐチャット",
+    "fanpage": "ファンページ",
+    "email": "電子メール",
+    "zaloGroup": "コミュニティグループ",
+    "facebookGroup": "フェイスブックグループ"
+  },
+  "Community": {
+    "badge": "コミュニティ",
+    "title": "Figma ベトナム コミュニティに参加する",
+    "description": "ベトナムの UI デザインやフリーランスの学生とつながり、Figma Education で経験を共有し、コミュニティから迅速なサポートを受けましょう。",
+    "members": "メンバー",
+    "facebook": {
+      "title": "フェイスブックグループ",
+      "description": "Figma Education を使用して熱心にディスカッションし、経験を共有する最大のコミュニティ。"
+    },
+    "zalo": {
+      "title": "ザログループ",
+      "description": "迅速なコミュニケーション、リアルタイムの技術サポート、最新オファーの更新。"
+    },
+    "telegram": {
+      "title": "電報チャンネル",
+      "description": "Figma Education に関する通知、ヒントとテクニック、学習資料を受け取ります。"
+    },
+    "benefits": {
+      "support": "コミュニティサポート",
+      "network": "ベトナム人デザイナーとのネットワーキング",
+      "exclusive": "特別オファー"
+    }
+  },
+  "WarningMarquee": {
+    "text": "⚠️ 警告: 現在、Figma Fanpage ショップを装った人物が存在します。お客様は、<contact>Shop</contact> の問い合わせページを通じて取引するか、<products>@FigmaEdu@PH4@@ のウェブサイトで直接購入することのみを行ってください。"
+  },
+  "Testimonials": {
+    "title": "Figma Edu アカウントを購入したお客様からのレビュー",
+    "description": "何千人もの UI デザインやフリーランスの学生が FigmaEdu のサービスを信頼しています。",
+    "items": {
+      "0": {
+        "text": "熱心なサポート。5 分以内にログインメールが届きます。 Figma edu アカウントを購入すると、直接登録するよりも価格が安くなり、問題なく動作します。とても満足です！",
+        "author": {
+          "name": "ホアン・ヴァン・ナム",
+          "handle": "@nam.design"
+        }
+      },
+      "1": {
+        "text": "Figma Free を使用する前は、グループ席は狭かったです。 Figma Education を FigmaEdu に切り替え、スムーズなコラボレーション、プロジェクトに十分な自動レイアウト + プロトタイプ。",
+        "author": {
+          "name": "チャン タン トゥ",
+          "handle": "@tu.uiux"
+        }
+      },
+      "2": {
+        "text": "評判。長期パッケージを購入し、時間通りに電子メールでアクティベートしました。フリーランスで短期間使用する場合にのみ、無計画に共有しないでください。",
+        "author": {
+          "name": "ル・ドゥック・タン",
+          "handle": "@thang.figma"
+        }
+      },
+      "3": {
+        "text": "Figma edu を使用すると、一度に複数のブリーフの重量を量ることができます。当店はベトナム語、便利なVietQR決済に対応しております。デザインを学ぶ方にオススメです。",
+        "author": {
+          "name": "ファム・ミン・タム",
+          "handle": "@tam.製品"
+        }
+      },
+      "4": {
+        "text": "最初はネットで買うことに少し抵抗がありましたが、よく調べて1ヶ月試してみました。延長時間が長くなると料金が安くなります。 FigmaEdu は 10 ポイントです。",
+        "author": {
+          "name": "グエン・コック・バオ",
+          "handle": "@bao.ux"
+        }
+      },
+      "5": {
+        "text": "5人グループで一緒に購入します。明確な説明書、明確な保証。 Figma アカウントを販売するショップに 5 つ星を投票してください。",
+        "author": {
+          "name": "ブー・ティ・ハン",
+          "handle": "@hang.studio"
+        }
+      }
+    }
+  },
+  "ProductsPage": {
+    "breadcrumbs": {
+      "home": "ホームページ",
+      "products": "Figma Edu アカウント"
+    },
+    "title": "アカウント Figma Education",
+    "subtitle": "Figma edu アカウントを購入 - コストを節約 - 1 対 1 の保証 - メール配信 5 分以内",
+    "allCategories": "全て",
+    "newBadge": "新しい",
+    "filterTitle": "{name}でフィルタリング",
+    "emptyState": {
+      "title": "製品が見つかりませんでした",
+      "categoryEmpty": "カテゴリ「{category}」には商品がありません",
+      "genericEmpty": "現在製品はありません - 後で戻ってくるか、サポートにお問い合わせください"
+    },
+    "pagination": {
+      "prev": "前に",
+      "next": "後"
+    },
+    "toast": {
+      "added": "{name} がカートに追加されました"
+    },
+    "search": {
+      "placeholder": "Figma edu パッケージを検索...",
+      "noResults": "「{query}」の結果は見つかりませんでした",
+      "noResultsHint": "別のキーワードを試すか、カテゴリ別に参照してください"
+    },
+    "sort": {
+      "label": "整える",
+      "default": "デフォルト",
+      "priceLowToHigh": "価格：安い→高い",
+      "priceHighToLow": "価格：高→低",
+      "newest": "最新",
+      "topRated": "最高評価"
+    },
+    "priceFilter": {
+      "label": "価格帯",
+      "apply": "適用する",
+      "clear": "クリアフィルター"
+    },
+    "seo": {
+      "title": "Figma Edu アカウント — パッケージが販売中",
+      "description": "FigmaEdu で販売されている Figma Education アカウント パッケージのリスト。 Figma edu アカウントをお得な価格で購入し、メールでログインし、1 対 1 の交換保証をご利用ください。",
+      "keywords": "Figma edu アカウント、Figma アカウントの購入、Figma Education、Figma edu パッケージ、価格表 Figma Education、FigmaEdu"
+    },
+    "breadcrumb": {
+      "home": "ホームページ",
+      "products": "製品"
+    }
+  },
+  "ProductCard": {
+    "popular": "人気のある",
+    "soldCount": "{count}+ を購入しました",
+    "save": "{amount}VND を保存",
+    "warranty": "保証 1 対 1 の交換",
+    "support": "年中無休のサポート",
+    "buyNow": "今すぐ購入",
+    "addToCart": "カートに追加",
+    "outOfStock": "在庫切れ",
+    "toast": {
+      "added": "{name} がカートに追加されました"
+    },
+    "aria": {
+      "addToWishlist": "お気に入りに追加"
+    },
+    "quickView": {
+      "button": "クイックビュー",
+      "features": "優れた機能",
+      "viewDetail": "詳細を見る"
+    }
+  },
+  "SocialShare": {
+    "share": "共有",
+    "facebook": "Facebook でシェアする",
+    "telegram": "テレグラムで共有する",
+    "copyLink": "リンクをコピー",
+    "copied": "コピーしました！",
+    "linkCopied": "製品リンクがコピーされました",
+    "copyFailed": "リンクをコピーできません",
+    "shareText": "{productName} を今すぐ FigmaEdu で見てください!"
+  },
+  "SocialProofPreview": {
+    "badge": "お客様からの本物の証拠",
+    "title": "お客様が購入されました",
+    "highlight": "何千もの成功した注文",
+    "description": "当社のサービスを信頼してご利用いただいたお客様からの注文による実際の証拠をご覧ください",
+    "featured": "並外れた",
+    "empty": "まだ証拠はありません",
+    "viewAll": "すべてのデモンストレーションを見る",
+    "productTypes": {
+      "cursor-pro": "Figma Education",
+      "cursor-pro-official-1m": "Figma Education 1 か月",
+      "github-copilot": "GitHub コパイロット",
+      "github-edu": "GitHub EDU",
+      "figma-pro": "figma プロ",
+      "jetbrains-edu": "ジェットブレインズ"
+    },
+    "badges": {
+      "authentic": "評判の良いエージェント"
+    },
+    "labels": {
+      "authentic": "評判の良いエージェント"
+    }
+  },
+  "SocialProofPage": {
+    "seo": {
+      "title": "お客様は FigmaEdu で Figma Edu アカウントを購入しました",
+      "description": "お客様が FigmaEdu で Figma Education アカウントを購入したという証拠を確認してください。実際の注文 – ベトナムで信頼できる Figma edu アカウントを購入します。",
+      "keywords": "Figma アカウントの購入、Figma edu の顧客、注文 Figma Education、FigmaEdu、購入証明書 Figma edu"
+    },
+    "hero": {
+      "badge": "本物の注文の証明",
+      "title": "お客様が購入されました",
+      "highlight": "アカウント Figma Education",
+      "description": "何千もの顧客が Figma edu アカウントを購入する際に FigmaEdu を信頼してきました。成功した注文からの本当の証拠をご覧ください!",
+      "stats": {
+        "orders": "注文",
+        "cursor": "Figma エデュ",
+        "github": "TK学生",
+        "reviews": "評価する",
+        "figma": "Figma エデュ",
+        "delivery": "短納期"
+      }
+    },
+    "proofs": {
+      "title": "お客様からの実際の証拠",
+      "description": "各デモをクリックすると詳細が表示され、画像が拡大されます",
+      "badges": {
+        "authentic": "評判の良い小売店"
+      },
+      "labels": {
+        "authentic": "評判の良い小売店"
+      },
+      "verifiedBadge": "信頼性の証明"
+    },
+    "trust": {
+      "title": "なぜ私たちを選ぶのですか?",
+      "items": {
+        "0": {
+          "title": "100%",
+          "description": "正しいパッケージ説明を使用して、Figma Education アカウントの透明性のある購入をサポートすることに尽力します。"
+        },
+        "1": {
+          "title": "保証 1 対 1 の交換",
+          "description": "ショップ側のエラーの場合は直ちに交換（ポリシーに従って）"
+        },
+        "2": {
+          "title": "年中無休のサポート",
+          "description": "熱心なサポートチームがいつでもお手伝いします"
+        }
+      }
+    },
+    "productTypes": {
+      "figmaEdu": "Figma Education"
+    },
+    "commitment": {
+      "bannerTitle": "🛡️ 本物のご注文を100%お約束します",
+      "bannerSubtitle": "偽注文が判明した場合は200％返金",
+      "ssl": "SSLセキュリティ",
+      "verified": "確認済み",
+      "trusted": "最高の評判"
+    },
+    "whyTrust": {
+      "badge": "顧客が当社を信頼する理由",
+      "title": "評判への取り組み - 100% の透明性",
+      "description": "私たちは、何千もの満足した顧客を持つ Figma Education アカウントを専門とする独立系小売業者であることを誇りに思っています。",
+      "realOrdersTitle": "100% 本物の注文",
+      "realOrdersDesc": "表示される注文はすべて、介入なしで支払いシステムから直接取得されます。",
+      "dataSecurityTitle": "情報セキュリティ",
+      "dataSecurityDesc": "お客様の情報は256ビットSSLにより完全に保護されます。プライバシー保護のため、お客様のお名前は一部伏せさせていただいております。",
+      "instantDeliveryTitle": "即時配達",
+      "instantDeliveryDesc": "支払いが完了したらすぐにメールでアカウント Figma Education を受け取ります。 24時間年中無休のサポート。",
+      "refundTitle": "200%返金",
+      "refundDesc": "偽の注文が検出された場合は 200% 返金保証。これが私たちの自信です。",
+      "quote": "より多くの {count}+ の顧客が FigmaEdu の Figma Education アカウントを信頼して購入しています。ご協力ありがとうございます！",
+      "satisfied": "顧客は満足しています"
+    },
+    "promise": {
+      "badge": "私たちの約束"
+    },
+    "cta": {
+      "title": "🎯 何を待っていますか?",
+      "description": "何千もの顧客が FigmaEdu で Figma Education アカウントを購入しています。あなたの番です！",
+      "buyNow": "今すぐ購入",
+      "contact": "サポートに連絡する"
+    }
+  },
+  "BlogPage": {
+    "seo": {
+      "title": "ブログ Figma Education — チュートリアルとヒント",
+      "description": "ブログ FigmaEdu — Figma edu アカウントの購入手順、自動レイアウトのヒント、プロトタイプ、グループ コラボレーション。 Figma Education ベトナムのデザイン学生向けの知識。",
+      "keywords": "Figma Education ブログ、Figma 教育、Figma アカウントの購入、Figma のヒント、Figma Education チュートリアル、FigmaEdu ブログ"
+    },
+    "hero": {
+      "title": "ブログ",
+      "highlight": "Figma Education",
+      "description": "Figma edu アカウントの購入から自動レイアウト、プロトタイピング、プロジェクト チームのコラボレーションまで、Figma Education を使用するための手順とヒントを共有します。"
+    },
+    "categories": {
+      "all": "全て",
+      "tutorial": "チュートリアル",
+      "news": "ニュース",
+      "tips": "ヒント"
+    },
+    "featured": {
+      "title": "注目の記事",
+      "readMore": "記事を読む",
+      "defaultTitle": "注目の投稿",
+      "readTime": "{minutes} 分の読書時間",
+      "author": "管理者"
+    },
+    "posts": {
+      "title": "最新の記事",
+      "readMore": "次を読む",
+      "defaultImage": "ブログ画像",
+      "empty": "まだ投稿はありません。チュートリアルは近日公開予定です Figma Education — すぐに戻ってきてください!",
+      "loadMore": "もっと記事を見る"
+    },
+    "newsletter": {
+      "title": "サインアップして新しいニュースを受け取る",
+      "description": "Figma Education のヒント、Figma 教育パッケージのアップデート、購読者限定のチュートリアルを含むニュースレターを受け取ります。",
+      "placeholder": "your.email@example.com",
+      "button": "登録する",
+      "privacy": "私たちはあなたのプライバシーを尊重します。いつでも購読を解除してください。"
+    },
+    "cta": {
+      "title": "Figma Edu アカウントを購入する準備はできましたか?",
+      "description": "今すぐブログのヒントを適用して、Figma Education と一緒にデザインを始めましょう",
+      "buyNow": "Figma Edu を今すぐ購入",
+      "guide": "手順を参照してください"
+    }
+  },
+  "ContactPage": {
+    "seo": {
+      "title": "Figma Edu アカウントを購入するにはお問い合わせください — 24 時間年中無休のサポート",
+      "description": "Figma Education アカウントを購入するには、FigmaEdu にお問い合わせください。 Telegram、Facebook による年中無休のサポート。 Figma edu アカウントをすぐに購入するためのアドバイス。",
+      "keywords": "FigmaEdu への連絡、Figma アカウントの購入、Figma edu のサポート、Figma Education Vietnam、figmaedu.shop"
+    },
+    "hero": {
+      "badge": "いつでもお手伝いいたします",
+      "title": "接触",
+      "highlight": "FigmaEdu",
+      "description": "専門のサポートチームがいつでもお手伝いいたします",
+      "subDescription": "Figma Education アカウントの購入に関する無料のアドバイスが必要な場合は、今すぐお問い合わせください。",
+      "stats": {
+        "response": "5分以内に返答",
+        "customers": "何千人もの顧客からの信頼",
+        "support": "24時間365日の即時サポート"
+      }
+    },
+    "methods": {
+      "title": "連絡方法の選択",
+      "highlight": "あなたにぴったり",
+      "description": "素早いサポートを受けるには、Facebook ファンページまたはテレグラム経由でお問い合わせください。",
+      "facebook": {
+        "title": "Facebookのファンページ",
+        "description": "フォローしてファンページ経由で連絡する",
+        "action": "ファンページにアクセス"
+      },
+      "telegram": {
+        "title": "電報",
+        "description": "Telegram 経由でサポートに問い合わせる",
+        "action": "連絡先電報"
+      },
+      "available": "24時間365日"
+    },
+    "quickBanner": {
+      "title": "💬できるだけ早くご連絡ください",
+      "facebook": "Facebookのファンページ",
+      "or": "または",
+      "telegram": "電報",
+      "description": "Figma edu アカウントの購入に関する即時のフィードバックと詳細なアドバイスについては、Facebook ファンページまたはテレグラム経由でお問い合わせください。 5 分以内に返信することをお約束します。",
+      "buttons": {
+        "facebook": "Facebookのファンページ",
+        "telegram": "電報 FigmaEdu"
+      }
+    },
+    "info": {
+      "title": "お問い合わせ",
+      "description": "素早いサポートが必要な場合は、Facebook ファンページまたはテレグラム経由でご連絡ください。",
+      "note": "💡 注: Facebook ファンページとテレグラムの 2 つの主要チャネルを通じてのみサポートします。最速の応答を得るには、これら 2 つのチャネルのいずれかを介してご連絡ください。",
+      "company": {
+        "title": "店舗情報",
+        "name": "FigmaEdu",
+        "description": "独立系小売業者の Figma Education アカウント — Figma, Inc. とは提携していません。",
+        "addressTitle": "住所",
+        "address": "ホーチミン市、ベトナム",
+        "hoursTitle": "営業時間",
+        "hours": "• 月曜～日曜：08:00～23:00\n• 夜間や週末は返信が遅くなる場合があります\n• 迅速な対応時間: 月曜～金曜、08:00～12:00。 13:30～17:00\n• 昼休みは 12:00 から 13:30 までです。応答が遅れるか午後遅くになる場合があります。\n• Telegram メッセージに優先順位を付けて Facebook よりも早く応答を得る\n• 緊急時: Telegram/Facebook 経由で 24 時間 365 日対応",
+        "responseTitle": "応答時間",
+        "response": "• テレグラム (推奨): 通常は高速です。\n• Facebook ファンページ: 夜や週末は遅くなる場合があります"
+      },
+      "faq": {
+        "title": "よくある質問",
+        "viewAll": "すべての FAQ を表示",
+        "items": {
+          "0": {
+            "question": "アカウントはすぐに使用できますか?",
+            "answer": "持っている！支払い後、ログインメールが届きますので、すぐに Figma にログインできます。"
+          },
+          "1": {
+            "question": "ログイン手順のサポートはありますか?",
+            "answer": "持っている！ Figma edu のログイン手順を A ～ Z まで完全に無料でサポートします。"
+          },
+          "2": {
+            "question": "支払いは安全ですか?",
+            "answer": "MoMo、バンキング、ZaloPay、VietQR など、多くの方法で完全に安全です。"
+          }
+        }
+      }
+    },
+    "emergency": {
+      "badge": "🚨",
+      "title": "緊急のサポートが必要ですか?",
+      "description": "Figma edu アカウントに問題がある場合、または緊急のサポートが必要な場合は、Facebook ファンページまたはテレグラム経由ですぐにご連絡ください。私たちは24時間365日常にオンラインです。",
+      "note": "⚡ 緊急の場合は 2 分以内に応答します"
+    },
+    "social": {
+      "title": "サポートチャネルを通じてお問い合わせください"
+    }
+  },
+  "Cart": {
+    "trigger": {
+      "ariaLabel": "ショッピングカートを開く"
+    },
+    "title": "ショッピングカート",
+    "empty": {
+      "message": "ショッピングカートは空です",
+      "count": "カートには {count} 個の商品があります",
+      "title": "カートは空です",
+      "description": "カートに商品がまだ追加されていません。",
+      "viewProducts": "製品を見る"
+    },
+    "item": {
+      "remove": "製品の削除",
+      "decrease": "量を減らす",
+      "increase": "数量を増やす"
+    },
+    "summary": {
+      "subtotal": "仮計算",
+      "discountCode": "CTV クーポンコード",
+      "placeholder": "バウチャーコードを入力してください",
+      "apply": "適用する",
+      "applying": "チェック中...",
+      "discount": "割引",
+      "total": "合計",
+      "checkout": "支払う",
+      "continue": "買い物を続ける",
+      "clear": "カートを削除"
+    },
+    "voucher": {
+      "appliedLabel": "クーポンが適用されました",
+      "applied": "クーポン適用されました！",
+      "removed": "クーポンが削除されました",
+      "remove": "取り除く",
+      "invalid": "クーポンコードが無効です",
+      "networkError": "接続できません。もう一度お試しください"
+    },
+    "priceChanged": {
+      "title": "商品価格を更新しました",
+      "dismiss": "理解した"
+    }
+  },
+  "Checkout": {
+    "title": "支払う",
+    "back": "購入に戻る",
+    "greeting": {
+      "user": "こんにちは、{名前}!注文するための完全な情報",
+      "guest": "注文するための完全な情報"
+    },
+    "loginHint": {
+      "text": "情報を自動的に入力し、注文を追跡するため",
+      "link": "ログイン"
+    },
+    "walletBanner": "ウォレットに一度チャージするだけで、何度も購入できるため、銀行取引が少なくなります",
+    "loginRequired": {
+      "title": "お支払いするにはログインしてください",
+      "desc": "ウォレット経由で支払うと、一度入金すれば何度でも購入できます"
+    },
+    "steps": {
+      "info": "注文情報",
+      "payment": "支払う",
+      "finish": "完了"
+    },
+    "form": {
+      "customerInfo": "顧客情報",
+      "name": "フルネーム",
+      "email": "電子メール",
+      "phone": "電話番号",
+      "note": "注文メモ",
+      "notePlaceholder": "ご注文時の注意事項（任意）",
+      "autoFill": "✓ アカウントから入力"
+    },
+    "payment": {
+      "title": "支払い方法",
+      "bankTransfer": "銀行振込",
+      "bankTransferDesc": "QR コードによる支払い - 自動確認",
+      "wallet": "ウォレット残高で支払う",
+      "walletDesc": "ウォレットから直接引き落とされます — 注文はすぐに処理され、QR は必要ありません。",
+      "walletBalance": "バランス",
+      "recommended": "推奨",
+      "shortfall": "{金額}がありません",
+      "topupCta": "デポジット {amount} を支払う",
+      "walletInsufficientHint": "残高が不足しています - 補充してください",
+      "walletInsufficient": "残高がこのアプリケーションの支払いに十分ではありません",
+      "walletLoginHint": "そのため、ウォレットの残高を使ってすぐに支払うことができます（注文ごとに転送する必要はありません）。",
+      "payWithWalletBtn": "今すぐウォレットでお支払いください"
+    },
+    "summary": {
+      "title": "注文 ({count} 製品)",
+      "subtotal": "仮計算",
+      "processingFee": "手数料",
+      "free": "無料",
+      "voucher": "クーポン ({コード})",
+      "total": "合計",
+      "submit": "今すぐ注文",
+      "submitting": "処理...",
+      "termsHint": "注文する前に、上記の確認ボックスをすべてチェックする必要があります。"
+    },
+    "consent": {
+      "title": "要確認",
+      "over18": "私は18歳です。",
+      "termsPrivacy": "<terms>利用規約</terms>と<プライバシー>プライバシー ポリシー</プライバシー>に同意します。",
+      "reseller": "FigmaEdu は独立した小売業者であり、Figma, Inc. とは提携していないことを理解しています。",
+      "cursorTos": "Figma 利用規約 (<link>www.figma.com/legal</link>) に従うことに同意します。"
+    },
+    "toast": {
+      "cartEmpty": "ショッピングカートは空です。製品を選択してください",
+      "missingInfo": "フルネームとメールアドレスを入力してください",
+      "missingConsent": "必須の確認ボックスをすべてチェックしてください",
+      "missingUpgradeInfo": "アップグレードするには完全なアカウント情報を入力してください",
+      "success": "注文が正常に作成されました。",
+      "error": "エラーが発生しました。もう一度お試しください"
+    },
+    "upgradeInfo": {
+      "title": "アカウント情報をアップグレードする必要があります",
+      "description": "アップグレードするアカウントのメールアドレスとパスワードを入力してください。この情報はアカウントをアップグレードするためにのみ使用されます。",
+      "email": "アカウントのメールアドレス",
+      "emailPlaceholder": "アップグレードする電子メール アカウントを入力してください",
+      "password": "アカウントのパスワード",
+      "passwordPlaceholder": "アカウントのパスワードを入力してください",
+      "contactInfo": "電報/フェイスブック",
+      "contactPlaceholder": "Telegram のユーザー名または Facebook リンクを入力して連絡します"
+    }
+  },
+  "CookiesPage": {
+    "seo": {
+      "title": "クッキーポリシー",
+      "description": "FigmaEdu の Cookie ポリシー。ユーザー エクスペリエンスを向上させ、個人情報を保護するために Cookie がどのように使用されるかをご覧ください。",
+      "keywords": "figmaedu Cookie ポリシー、ベトナム Cookie ポリシー、情報セキュリティ"
+    },
+    "hero": {
+      "title": "ポリシー",
+      "highlight": "クッキー",
+      "description": "FigmaEdu がエクスペリエンスを向上させ、透明性のある方法で個人情報を保護するために Cookie を使用する方法を学びましょう。",
+      "update": "更新日: 2025 年 1 月 15 日"
+    },
+    "definition": {
+      "title": "クッキーとは何ですか?",
+      "description": "Cookie は、Web サイトにアクセスしたときにデバイスに保存される小さなファイルです。これらは、ウェブサイトがあなたの訪問に関する情報を記憶するのに役立ち、次回のエクスペリエンスをより便利にします。",
+      "whyTitle": "なぜクッキーを使用するのでしょうか?",
+      "reasons": {
+        "1": "ウェブサイトが正常かつ安全に動作することを確認する",
+        "2": "ログインとショッピングカートを記憶してください",
+        "3": "パフォーマンスとページの読み込み速度の向上",
+        "4": "エクスペリエンスを最適化するためにウェブサイトをどのように使用するかを理解する",
+        "5": "関連するコンテンツと広告を提供する"
+      },
+      "commitment": "コミットメント: パスワードやクレジット カード情報などの機密情報を Cookie に保存することはありません。"
+    },
+    "types": {
+      "title": "当社が使用する Cookie の種類",
+      "description": "Cookieの種類とその使用目的を理解する",
+      "purpose": "目的：",
+      "examples": "例えば：",
+      "canDisable": "オフにすることができます:",
+      "yes": "✅ はい",
+      "no": "❌ いいえ",
+      "settings": "設定",
+      "items": {
+        "essential": {
+          "title": "必須のクッキー",
+          "description": "基本的な操作に必須",
+          "purpose": "ウェブサイトが正常に動作することを確認してください"
+        },
+        "analytics": {
+          "title": "分析クッキー",
+          "description": "Webサイトの使用状況データを収集する",
+          "purpose": "ユーザーがウェブサイトとどのようにやり取りするかを理解する"
+        },
+        "marketing": {
+          "title": "マーケティングクッキー",
+          "description": "関連性のある広告を配信するために使用されます",
+          "purpose": "広告の効果を追跡する"
+        },
+        "functional": {
+          "title": "ファンクショナルクッキー",
+          "description": "自分の好みを覚えておいてください",
+          "purpose": "言語とインターフェースの設定を保存する"
+        }
+      }
+    },
+    "details": {
+      "title": "クッキーの詳細",
+      "description": "Web サイトで使用される Cookie の完全なリスト",
+      "headers": {
+        "name": "クッキー名",
+        "provider": "サプライヤー",
+        "purpose": "目的",
+        "duration": "間隔",
+        "type": "タイプ"
+      }
+    },
+    "manage": {
+      "title": "Cookieの管理",
+      "description": "必要に応じて Cookie を制御したり削除したりできます。",
+      "browser": "ブラウザの設定",
+      "options": "利用可能なオプション",
+      "warning": "警告",
+      "warningItems": {
+        "1": "必須 Cookie を無効にすると、Web サイトの機能が損傷する可能性があります",
+        "2": "個人設定は保存されません",
+        "3": "再度サインインする必要がある場合があります"
+      },
+      "buttons": {
+        "settings": "設定を変更する",
+        "view": "詳細を見る"
+      }
+    },
+    "thirdParty": {
+      "title": "サードパーティCookie",
+      "description": "当社は信頼できるサードパーティのサービスを使用しており、お客様のデバイスに Cookie を配置する場合があります。"
+    },
+    "contact": {
+      "title": "連絡先と最新情報",
+      "changes": "ポリシーの変更",
+      "info": "連絡先"
+    },
+    "cta": {
+      "title": "ご質問がありますか?",
+      "description": "当社のチームは、お客様のデータの処理方法に関するご質問にお答えします。",
+      "contact": "今すぐ連絡する",
+      "privacy": "プライバシーポリシー"
+    }
+  },
+  "TermsPage": {
+    "seo": {
+      "title": "利用規約",
+      "description": "FigmaEdu 利用規約 (figmaedu.shop)。セットアップ、アップグレード、アクティベーションのテクニカル サポート サービス — Figma, Inc. の代理店または販売代理店ではありません。保証、支払い、および責任の制限。",
+      "keywords": "FigmaEdu 利用規約、利用規約、Figma Education、figmaedu.shop"
+    },
+    "hero": {
+      "title": "利用規約",
+      "highlight": "状態",
+      "description": "FigmaEdu を使用する前に、これらの規約をよくお読みください。ウェブサイトにアクセスし、サービスを注文または支払うことにより、以下の条件を読み、理解し、それに拘束されることに同意したものとみなされます。",
+      "effective": "発効日: 2026 年 7 月 11 日 (バージョン 2026-07-11)"
+    },
+    "highlights": {
+      "transparent": {
+        "title": "透明",
+        "desc": "技術サポートの範囲が明確である"
+      },
+      "fair": {
+        "title": "公平",
+        "desc": "双方の利益を守る"
+      },
+      "flexible": {
+        "title": "明確な保証",
+        "desc": "ショップエラーの場合は24時間以内に1対1の交換"
+      },
+      "updated": {
+        "title": "アップデート",
+        "desc": "現在の運用に適した"
+      }
+    },
+    "sections": {
+      "1": {
+        "title": "1. サービスの範囲",
+        "intro": "FigmaEdu (figmaedu.shop) は、顧客の特定の要件に応じて、ソフトウェア、アカウント、またはデジタル サービスに関連するセットアップ、アップグレード、アクティブ化、構成、または技術的ニーズの処理に関するカスタマー サポート サービスを提供します。",
+        "items": [
+          "「FigmaEdu」、「FigmaEdu」、または「当社」: 独立した技術サポート組織であり、ブランド所有者によって書面で明示的に記載されていない限り、Figma, Inc.、Figma またはその他のブランドの公式ディーラー、販売代理店、ライセンシー、代表者またはパートナーではありません。",
+          "「顧客」または「あなた」: 当社のサポート サービスを要求し、使用する人。",
+          "「サービス」: 公開された範囲内のセットアップ、アップグレード、アクティベーション、構成手順、支払いサポート (該当する場合)、および引き渡し後のケア。",
+          "「アカウント/アクセス」: 要求されたサポートの完了後に提供される Figma (または説明されている製品) に関連するログインまたはアクセス情報。",
+          "「ウェブサイト」: figmaedu.shop ウェブサイトおよびサブドメイン。"
+        ],
+        "trademarkNote": "ブランド名、ロゴ、ソフトウェア名、または製品名がウェブサイトに記載されている場合、それらは互換性、技術サポートのニーズ、またはお客様が要求するサービス内容を説明することのみを目的としています。すべての商標はそれぞれの所有者の財産です。"
+      },
+      "2": {
+        "title": "2. 規約への同意",
+        "content": "Web サイトにアクセスし、登録し、サポート リクエストを送信し、注文し、支払い (SePay/VietQR、仮想通貨、ウォレット残高、またはその他の公開された方法) を実行するか、または当社が提供するサービスを利用することにより、お客様は、本規約およびプライバシー ポリシーを読み、理解し、遵守することに同意したものとみなされます。",
+        "note": "注: 規約のいずれかに同意できない場合は、サービスの使用を直ちに中止し、注文や支払いを行わないでください。",
+        "paymentMeans": "お支払いは、サポート リクエストが正当であること、提供された情報がお客様の法的使用権の下にあること、および当社がサービスを実行するために必要な情報を提供することに同意することを確認したものとみなされます。"
+      },
+      "3": {
+        "title": "3. サービスの性質と第三者要因",
+        "package": "サポート サービスには次のものが含まれます (ただし、これらに限定されません)。",
+        "packageItems": [
+          "アカウントのセットアップまたはソフトウェア構成のサポート",
+          "サービス パック、機能、または構成のアップグレードをサポート",
+          "顧客の有効なニーズに応じて、ソフトウェア、アカウント、デジタル サービスのアクティベーションをサポートします",
+          "当社の技術的知識の範囲内でのインストール、構成、テスト、またはユーザー ガイダンスのサポート",
+          "当社がお客様に対して行ったサービス利用中に発生したトラブルへの対応サポート"
+        ],
+        "commitment": "重要な説明:",
+        "commitmentItems": [
+          "当社は、法律、プラットフォーム/ソフトウェア プロバイダーの規約、FigmaEdu のサービス ポリシーに準拠したリクエストのみを行います。",
+          "リクエストが法律違反、知的財産権の侵害、詐欺、乱用、または第三者の法的権利に影響を及ぼす兆候を示した場合、当社はサービスの提供を拒否する権利を有します。",
+          "当社は Figma, Inc. の代理店または販売代理店ではありません。製品名は説明のみです。",
+          "公開されている保証範囲内で、支払いまたはアクティベーションに関連するエラーの処理をサポートします。"
+        ],
+        "note": "注: FigmaEdu は独立したテクニカル サポート サービスであり、Figma, Inc. の一部ではありません。Figma 製品に関するすべての知的財産権および管轄権は Figma, Inc. に帰属します。",
+        "durationTitle": "保存期間、サポート、および制御できない要因",
+        "durationIntro": "各サービスには、有効期限、サポート期間、または条件が異なる場合があります。お客様は支払う前に説明をよく読む必要があります。サービスを維持する当社の能力は、以下のような当社の制御できない要因によって影響を受ける可能性があります。",
+        "durationItems": [
+          "ソフトウェア開発者、プラットフォーム、またはオリジネーター (Figma, Inc. を含む) のポリシー",
+          "サードパーティの利用規約、アクティベーションポリシー、アカウントまたはセキュリティポリシーを変更する",
+          "サードパーティは機能を中止、変更、制限、または廃止します。",
+          "システムエラー、技術的変更、または第三者によるその他の客観的原因",
+          "法的規制に基づく不可抗力の場合"
+        ],
+        "durationNote": "当社は、合理的な範囲内でサポートを提供するよう努めますが、原因が当社の制御を超えている場合、完全な機能、アクセス、またはサービスの状態を復元することは約束しません。",
+        "cursorTitle": "Figma 用語",
+        "cursorItems": [
+          "Figma 利用規約 (www.figma.com/legal) およびプライバシー ポリシー (www.figma.com/legal) を遵守する必要があります。",
+          "当社は、Figma, Inc. の価格、機能、稼働時間、またはアカウント閉鎖の決定を管理しません。",
+          "すべてのプロモーション/紹介特典 (存在する場合) には、Figma, Inc. のポリシーが適用されます。変更または中止される場合があります。"
+        ]
+      },
+      "4": {
+        "title": "4. アカウント情報、セキュリティ、引き継ぎ後の責任",
+        "intro": "お客様は、提供された情報が正確かつ合法であり、法的使用権の範囲内であることを確認する責任を負います。サービスが完了/提供されると、アカウント (またはアクセス) は顧客の所有物となり、顧客はそれを安全に保管する必要があります。",
+        "items": [
+          "推奨または該当する場合は、資格情報を受け取ったらすぐに電子メール、パスワード、2FA、および回復用電子メールを変更します。",
+          "ログイン情報、アクティベーション コード、構成データを安全な場所に自己保存します。権限のない人と共有しないでください。",
+          "アクセス喪失、情報漏洩、第三者による不正使用のリスクからアカウントとデバイスをプロアクティブに保護します。",
+          "セキュリティ上の理由から、一部の情報は引き渡された後に保管したり、提供したりできない場合があります。お客様はご自身で保管する必要があります。",
+          "アカウント情報を忘れた場合、パスワードを忘れた場合、ログイン情報を忘れた場合、または 2FA を紛失した場合に、お客様が一定期間後にアクセスできなくなる場合はサポートされません。",
+          "スパム行為、リバースエンジニアリング、ベトナム法/国際法の違法使用は禁止されています。",
+          "違反した場合は、払い戻しなしでサービスが即時に終了される場合があります。",
+          "あなたは、受け取ったアカウントから生じるすべての活動に対して単独で責任を負います。"
+        ]
+      },
+      "5": {
+        "title": "5. 注文と支払い",
+        "order": "注文：",
+        "orderItems": [
+          "希望するFigma期間に対応するサポートサービスパッケージを選択してください",
+          "カートに追加してチェックアウト",
+          "連絡先情報と Figma アカウント (存在する場合) を正しく入力してください",
+          "適切な支払い方法を選択してください",
+          "サポートリクエストを確認し、サービスの予約を完了します"
+        ],
+        "payment": "支払う：",
+        "paymentItems": [
+          "SePay / VietQR (送金)、暗号通貨 (Binance、Bybit、オンチェーン)、ウォレット残高 (ある場合)",
+          "お客様はサポートを提供する前にサービス料金の 100% を支払います。",
+          "領収書は電子メールまたは注文管理システム経由で送信されます",
+          "サービス料金は明確に表示されており、発行者の税金は含まれていません Figma"
+        ],
+        "time": "処理時間: 通常の場合、支払いが完了してから 1 ～ 5 分以内にサポートを開始します。"
+      },
+      "6": {
+        "title": "6. 保証、交換、返金",
+        "noRefundNote": "弊社側の理由によりサービスを実行できない場合、または公式サポート チャネルを通じて別途書面による契約がある場合を除き、認証情報の配信/アカウントのアクティベーション (注文番号) 後は返金されません。",
+        "replacement": "1対1保証（ショップエラー、最初の24時間）：",
+        "replacementItems": [
+          "認証情報を受け取った後すぐにログインできない（ショップエラー）",
+          "ログイン後最初の 24 時間以内に教育機能が表示されない (ショップエラー)",
+          "有効期限が購入したパッケージと一致しません（ショップエラー）"
+        ],
+        "warranty": "保証サポート:",
+        "warrantyItems": [
+          "パッケージの公開範囲内でのテクニカル サポート",
+          "24時間以内にショップから配送ミスを確認後、確認と1対1交換",
+          "有効な保証請求については 24 時間以内に対応します"
+        ],
+        "exclusion": "以下の場合、保証なし、払い戻しなし、またはさらなるサポートはありません。",
+        "exclusionItems": [
+          "認証情報が配信され、アカウントが正常にアクティブ化されました",
+          "パスワードを忘れた場合、2FA を紛失した場合、ログイン情報を忘れた場合、または使用期間後にアクセスできなくなった場合",
+          "お客様は引き渡し後に構成、電子メール、パスワード、プロファイル、またはセキュリティ設定を自分で変更します。",
+          "Figma, Inc.は利用規約またはそのポリシーに従ってアカウントを一時停止/終了します",
+          "Figma 規約の誤用または違反",
+          "アカウントの共有、転売、または違法な商業的悪用",
+          "購入後に考えを変える",
+          "お客様のデバイス、ネットワーク、マルウェア、またはサービス範囲外の要因によってエラーが発生した場合",
+          "サーバーダウン、メンテナンス、Figma, Inc. からのポリシー変更。"
+        ]
+      },
+      "7": {
+        "title": "7. 顧客の義務",
+        "commit": "あなたは次のことを約束します:",
+        "commitItems": [
+          "ベトナムの法律および関連規制を遵守します",
+          "正確かつ完全な連絡先およびアカウント情報を提供する",
+          "引き継ぎ後すぐにセキュリティ情報を変更し、資格情報を自分で保存します",
+          "アカウントは法的な個人目的で、Figma の規約に従って使用してください。",
+          "サポートを完了するために必要な情報の提供にご協力ください"
+        ],
+        "forbid": "次のことを行ってはなりません:",
+        "forbidItems": [
+          "違法行為の実行、アクセス権の回避、パスワードのクラック、ジェイルブレイク、または第三者の規約への違反のリクエスト",
+          "詐欺、知的財産権の侵害、第三者への損害を目的としたサービスの利用",
+          "FigmaEdu、他の顧客、または第三者に影響を与える違法な購入、転売、共有または譲渡",
+          "虚偽の情報や違法に使用されている情報を提供する行為",
+          "スパム、リクエスト制限の悪用、オファーを利用するための複数のアカウントの作成、または違法な支払い方法の使用",
+          "アカウントを使用して競合製品を開発することは、適用される規約に違反します"
+        ]
+      },
+      "8": {
+        "title": "8. 当社の義務と責任の制限",
+        "commit": "私たちは次のことを約束します:",
+        "commitItems": [
+          "サポート サービスの範囲と関連料金について透明性を保つ",
+          "約束どおりにサポートを提供します (通常、通常のシフトの場合は支払い後 1 ～ 5 分)",
+          "公開された保証/サポート フレームワーク内での技術的な提携",
+          "プライバシーポリシーに基づいてお客様の情報を保護します",
+          "公開されている保証および返金ポリシーに準拠する"
+        ],
+        "limit": "責任の制限:",
+        "limitItems": [
+          "Figma, Inc. のポリシー、機能、稼働時間、またはアカウントの決定を支配するものではありません。",
+          "Figma サービスの 100% の継続性は保証されません",
+          "顧客の誤用、サードパーティのポリシー変更、顧客側のセキュリティ エラー (パスワードの紛失/2FA)、または不可抗力に起因する間接的、付随的、付随的損害、データ損失、収益損失、利益の損失、作業の中断またはアクセスの損失については責任を負いません。",
+          "当社側に直接の過失があり、修復できない場合、特定のサービスに対する最高責任は、顧客がそのサービス自体に対して支払った金額を超えません。"
+        ]
+      },
+      "9": {
+        "title": "9. 知的財産と商標",
+        "items": [
+          "ウェブサイトのコンテンツ (テキスト、レイアウト、インターフェース、画像、当社が編集した説明書) は、FigmaEdu が所有または合法的に使用しています。",
+          "Figma および Figma Education は Figma, Inc. の商標です。その他の名前/ロゴはそれぞれの所有者に帰属します。",
+          "これらのブランドへの言及は、そのようなブランドのスポンサーシップ、推奨、認可、配布、または公式の表明を意味するものではありません。",
+          "お客様は、FigmaEdu または法的所有者からの書面による同意なしに、Web サイトのコンテンツをコピー、編集、配布、または違法に利用することはできません。"
+        ]
+      },
+      "10": {
+        "title": "10. サービスの停止または終了",
+        "intro": "当社は、以下の場合にサービスの提供を一時停止または終了する権利を留保します。",
+        "items": [
+          "顧客が本規約に違反した場合",
+          "詐欺、悪用、混乱を引き起こしたり、他のシステムや顧客に影響を与えたりする顧客",
+          "顧客が違法または第三者の権利を侵害していると思われるコンテンツをリクエストした場合",
+          "顧客がサービスの実行に必要な十分な情報を提供していない",
+          "サービスの提供を継続すると、FigmaEdu、他の顧客、または第三者に法的、技術的、またはセキュリティ上のリスクが生じる可能性があります。"
+        ],
+        "note": "停止または終了が顧客側の違反によるものである場合、当社は返金を拒否し、サポートの継続を拒否する権利を有します。"
+      },
+      "11": {
+        "title": "11. 規約の変更",
+        "content": "当社は、当社のビジネス モデル、法的規制、第三者のポリシー、または運営上のニーズに合わせて、いつでも本規約を更新、修正、または変更する権利を留保します。",
+        "reasonItems": [
+          "事業やサービスの変化",
+          "新しい法的要件",
+          "サードパーティポリシーの変更",
+          "顧客体験の向上"
+        ],
+        "note": "更新されたバージョンは figmaedu.shop で公開され、別途通知がない限り、投稿された時点から有効になります。更新後にサービスを継続して使用すると、変更を受け入れたものとみなされます。マテリアルの変更は、チェックアウト時の TERMS_VERSION にも反映される場合があります。"
+      },
+      "12": {
+        "title": "12. 紛争の解決",
+        "process": "解決プロセス:",
+        "processItems": [
+          "メッセンジャー、電報、メールで直接お問い合わせください",
+          "24 時間以内にコミュニケーションをとり、解決策を見つける",
+          "合意に達しない場合は、管理者にエスカレーションします",
+          "最終的には、ベトナムの法律に従って市の管轄当局において解決されます。ホーチミン"
+        ],
+        "law": "適用法: これらの条件はベトナムの法律に準拠します。すべての紛争は市の管轄裁判所で解決されます。ホーチミン。"
+      },
+      "13": {
+        "title": "13. 連絡先",
+        "brand": "FigmaEdu",
+        "support": "サポート時間",
+        "time": "サポート: 年中無休",
+        "resp": "対応：5分以内（通常勤務）",
+        "web": "ウェブサイト：figmaedu.shop",
+        "email": "メール：support@figmaedu.shop",
+        "messenger": "メッセンジャー: figmaedu.shop/contact",
+        "telegram": "電報: figmaedu.shop/contact"
+      }
+    },
+    "legalSafety": {
+      "title": "フェアユースポリシーと免責事項",
+      "highlight": "サービスを購入して使用すると、以下の規定を読み、理解し、同意したことになります。",
+      "prohibitedTitle": "以下の行為は固く禁止されております。",
+      "prohibited": [
+        "違法な目的で提供されたアカウント、電子メール、およびリソースを使用することは固く禁止されています。",
+        "詐欺、詐欺、横領、マネーロンダリング、または違法行為への資金提供。",
+        "スパムの送信、マルウェアの拡散、フィッシング、サイバー攻撃、またはシステムへの不正アクセス。",
+        "なりすまし、身分を偽造、または書類や文書を偽造すること。",
+        "知的財産権を侵害したり、法律で禁止されているコンテンツを配布したりする。",
+        "お客様の居住国の法律及びベトナムの法律に違反する行為。"
+      ],
+      "disclaimerTitle": "免責事項:",
+      "disclaimer": [
+        "アカウント/アクセスは現状のまま提供され、利用可能な状態で提供されます。当社は、記載されたサポートの範囲内での通常の法的使用以外の特定の目的への適合性を保証しません。",
+        "当社はリソースの悪用については責任を負いません。",
+        "引き渡し後、顧客はアカウントから生じるすべての活動に対して完全な法的責任を負います。",
+        "お客様には自らを教育し、居住国の法律を遵守する義務があります。法律を遵守する責任はお客様にあります。",
+        "いかなる請求に対する当社の最大責任は、当該注文の金額に限定されます。"
+      ],
+      "indemnityTitle": "補償と使用条件:",
+      "indemnity": [
+        "顧客は、顧客による規約違反または誤用から生じるすべての請求、損失、費用 (法的費用を含む) から FigmaEdu を補償し、防御し、免責することに同意します。",
+        "顧客は、サービスを使用する際に、18 歳であり、完全な公用能力を備えていることを確認します。",
+        "違法な目的での使用の兆候が検出された場合、当社はサービスを直ちに拒否または終了する権利を有します (返金はありません)。",
+        "当局から法的要請があった場合には、法に基づき情報提供に協力します。",
+        "総責任は、関連する注文に対して支払った金額に限定されます。"
+      ]
+    },
+    "cta": {
+      "title": "規約を理解していますか?",
+      "description": "明確な権利と責任を持って FigmaEdu から Figma サポートの使用を開始します",
+      "buy": "今すぐ購入 - 同意します",
+      "contact": "質疑応答"
+    }
+  },
+  "ProductDetail": {
+    "back": "製品に戻る",
+    "notFound": {
+      "title": "製品が見つかりませんでした",
+      "description": "お探しの商品は存在しません。",
+      "button": "製品に戻る"
+    },
+    "badges": {
+      "popular": "人気のある",
+      "discount": "{パーセント}％"
+    },
+    "purchaseMode": {
+      "account": "新しいアカウントを購入する",
+      "upgrade": "メインアップグレード"
+    },
+    "status": {
+      "inStock": "在庫あり",
+      "outOfStock": "在庫切れ",
+      "available": "{count} 個の利用可能なアカウント"
+    },
+    "actions": {
+      "addToCart": "カートに追加",
+      "buyNow": "今すぐ購入",
+      "adding": "追加中…",
+      "added": "{名前} がカートに追加されました"
+    },
+    "item": {
+      "decrease": "量を減らす",
+      "increase": "数量を増やす"
+    },
+    "sections": {
+      "description": "詳細な説明",
+      "features": "優れた機能",
+      "specs": "仕様",
+      "reviews": "製品レビュー"
+    },
+    "breadcrumbs": {
+      "home": "ホームページ",
+      "products": "製品"
+    },
+    "quantity": "量",
+    "reviews": "評価する",
+    "soldCount": "{count}以上売れました",
+    "save": "{金額} を節約",
+    "noDescription": "この商品にはまだ説明がありません。",
+    "trust": {
+      "warranty": "保証",
+      "warrantyDesc": "1対1は一生",
+      "delivery": "配達",
+      "deliveryDesc": "自動的に5分",
+      "support": "サポート",
+      "supportDesc": "24時間365日いつでも"
+    },
+    "relatedProducts": {
+      "title": "関連商品",
+      "viewAll": "全て見る",
+      "added": "{名前} がカートに追加されました"
+    },
+    "restockAlert": {
+      "title": "再入荷時に通知を受け取る",
+      "description": "メールアドレスを入力してください。商品が再入荷したらすぐにお知らせします。",
+      "emailLabel": "電子メール",
+      "emailPlaceholder": "email@example.com",
+      "submit": "通知を受け取る",
+      "submitting": "登録中…",
+      "success": "登録済み！商品が再入荷しましたらメールでお知らせいたします。",
+      "error": "登録できません。もう一度試してください。",
+      "alreadyInStock": "商品は現在在庫ございます。",
+      "rateLimited": "リクエストが多すぎます。後でもう一度試してください。"
+    }
+  },
+  "ProductReviews": {
+    "title": "お客様のレビュー ({count})",
+    "writeReview": {
+      "title": "レビューを書く",
+      "description": "この製品についてのあなたの経験を共有してください",
+      "loginRequired": "レビューを書くにはログインしてください",
+      "loginButton": "今すぐサインイン",
+      "yourRating": "あなたのレビュー",
+      "quickTags": "レビューをすばやく選択する",
+      "commentLabel": "コメント",
+      "placeholder": "素晴らしい製品です...",
+      "submit": "レビューを送信する",
+      "submitting": "送信中..."
+    },
+    "list": {
+      "empty": "まだレビューはありません。",
+      "loading": "レビューを読み込み中...",
+      "adminReply": "ストアの返答:"
+    },
+    "toast": {
+      "loginRequired": "評価するにはログインしてください",
+      "success": "レビューが送信されました。",
+      "error": "エラーが発生しました"
+    },
+    "tags": {
+      "quality": "品質の高い標準品。",
+      "support": "熱心なサポート。",
+      "reliable": "サポートも迅速で評判が良いので、安心してご利用ください。",
+      "professional": "お店はとてもプロフェッショナルに仕事をしています。",
+      "fast": "素早い配送、良いアカウント。",
+      "recommend": "末永くこのお店を支えていきます。"
+    }
+  },
+  "CookiesPageV2": {
+    "types": {
+      "items": {
+        "analytics": {
+          "title": "分析クッキー",
+          "description": "Webサイトの使用状況データを収集する",
+          "purpose": "ユーザーがウェブサイトとどのようにやり取りするかを理解する"
+        },
+        "marketing": {
+          "title": "マーケティングクッキー",
+          "description": "広告とコンテンツをパーソナライズする",
+          "purpose": "あなたの興味に合ったコンテンツを表示する"
+        },
+        "functional": {
+          "title": "ファンクショナルクッキー",
+          "description": "オプションと設定を保存します",
+          "purpose": "設定と好みを記憶する"
+        }
+      }
+    },
+    "details": {
+      "title": "クッキーの詳細",
+      "description": "Web サイトで使用される Cookie の完全なリスト",
+      "headers": {
+        "name": "クッキー名",
+        "provider": "サプライヤー",
+        "purpose": "目的",
+        "duration": "間隔",
+        "type": "タイプ"
+      }
+    },
+    "manage": {
+      "title": "Cookieの管理",
+      "description": "あなたには、当社の Web サイトでの Cookie の使用を制御する権利があります。",
+      "browser": "ブラウザ経由:",
+      "options": "利用可能なオプション:",
+      "warning": "⚠️重要な注意事項:",
+      "warningItems": {
+        "1": "• Cookie を無効にすると、Web サイトのエクスペリエンスに影響を与える可能性があります",
+        "2": "• 一部の機能が正しく動作しない可能性があります",
+        "3": "• Cookieをオフにした後、再度ログインする必要があります"
+      },
+      "buttons": {
+        "settings": "Cookie 設定の基本設定",
+        "view": "現在の Cookie を表示する"
+      }
+    },
+    "thirdParty": {
+      "title": "サードパーティCookie",
+      "description": "当社の Web サイトには、独自の Cookie を設定する可能性のある第三者からのコンテンツ (YouTube ビデオ、地図、ソーシャル メディア ウィジェットなど) が含まれる場合があります。"
+    },
+    "contact": {
+      "title": "最新情報と連絡先",
+      "changes": "ポリシーの変更:",
+      "info": "クッキーに関するお問い合わせ先："
+    },
+    "cta": {
+      "title": "Cookie について質問がありますか?",
+      "description": "プライバシーとセキュリティのチームがあらゆるご質問にお答えします",
+      "contact": "サポートに連絡する",
+      "privacy": "プライバシーポリシーを見る"
+    }
+  },
+  "Auth": {
+    "signIn": {
+      "title": "ログイン",
+      "subtitle": "メールアドレスとパスワードを入力してログインします",
+      "emailLabel": "電子メール",
+      "emailPlaceholder": "email@example.com",
+      "passwordLabel": "パスワード",
+      "passwordPlaceholder": "パスワードを入力してください",
+      "forgotPassword": "パスワードをお忘れですか？",
+      "submit": "ログイン",
+      "submitting": "サインイン中...",
+      "orContinueWith": "または続行してください",
+      "noAccount": "まだアカウントをお持ちでない場合は、",
+      "signUpLink": "今すぐ登録してください"
+    },
+    "banner": {
+      "title": "FigmaEdu",
+      "slogan": "Figma Education アカウントをお得な価格で購入しましょう",
+      "imageAlt": "FigmaEdu - Figma Education アカウントを購入する"
+    },
+    "signUp": {
+      "title": "アカウントを作成する",
+      "subtitle": "情報を入力してアカウントを作成します",
+      "nameLabel": "フルネーム",
+      "namePlaceholder": "グエン・ヴァン・A",
+      "emailLabel": "電子メール",
+      "emailPlaceholder": "email@example.com",
+      "passwordLabel": "パスワード",
+      "passwordPlaceholder": "強力なパスワードを入力してください",
+      "passwordHint": "パスワードは8文字以上である必要があります",
+      "over18Label": "私は18歳であることを確認します。",
+      "over18Required": "登録するには、18 歳であることを確認する必要があります。",
+      "submit": "アカウントを作成する",
+      "submitting": "アカウントを作成しています...",
+      "hasAccount": "すでにアカウントをお持ちですか?",
+      "signInLink": "ログイン"
+    },
+    "errors": {
+      "invalidEmailOrPassword": "アカウントまたはパスワードが間違っています!",
+      "invalidPassword": "パスワードが間違っています。もう一度試してください。",
+      "userNotFound": "アカウントが存在しません。事前にご登録ください。",
+      "accountNotVerified": "アカウントが認証されていません。メールをご確認ください。",
+      "accountDisabled": "アカウントが無効になりました。サポートにお問い合わせください。",
+      "tooManyAttempts": "試行回数が多すぎます。しばらく待ってから、もう一度試してください。",
+      "networkError": "ネットワーク接続エラー。もう一度試してください。",
+      "serverError": "サーバーエラー。後でもう一度試してください。",
+      "defaultSignIn": "ログインに失敗しました。メールアドレスとパスワードをもう一度ご確認ください。",
+      "defaultSignUp": "登録に失敗しました。もう一度試すか、サポートにお問い合わせください。",
+      "userAlreadyExists": "このメールは登録されています。別のメールアドレスを使用するか、ログインしてください。",
+      "weakPassword": "パスワードが弱すぎます。より強力なパスワードを作成してください。",
+      "passwordTooShort": "パスワードが短すぎます。 8文字以上入力してください。",
+      "invalidEmail": "無効なメールです。もう一度ご確認ください。",
+      "social": {
+        "github": "GitHub でのログインに失敗しました",
+        "google": "Google でのサインインに失敗しました"
+      }
+    },
+    "success": {
+      "signIn": "ログインに成功しました！おかえり。",
+      "signUp": "無事に登録されました！ FigmaEdu へようこそ。"
+    }
+  },
+  "LiveOrderToast": {
+    "badge": "買ったばかり",
+    "verified": "確認済み",
+    "justPurchased": "無事に購入できました"
+  },
+  "InteractiveCodeDemo": {
+    "badge": "デモ体験",
+    "title": "Figma でのエクスペリエンス デザイン",
+    "subtitle": "手動レイアウトの作成と、Figma Education の自動レイアウトとコンポーネントを使用したワークフローを比較してください。より速く、よりチームと同期できます。",
+    "playDemo": "デモの実行",
+    "reset": "リセット",
+    "withoutAI": "マニュアルベース",
+    "withCursorPro": "Figma 教育あり",
+    "timeSaved": "時間の節約",
+    "feature1Title": "スマート自動レイアウト",
+    "feature1Desc": "制約を一度設定すると、コンテンツに応じてフレームが自動的に拡張され、手動で調整する必要がなくなります。",
+    "feature2Title": "モックアップ作成速度",
+    "feature2Desc": "コンポーネントを再利用して、数時間ではなく数分で画面を構築します",
+    "feature3Title": "クリーンなプロトタイプ",
+    "feature3Desc": "画面フローを明確かつ簡単にメンターや顧客とのデモに接続します"
+  },
+  "ChatWidget": {
+    "title": "AIサポート",
+    "open": "サポートチャットを開く",
+    "close": "近い",
+    "minimize": "ズームアウト",
+    "expand": "伸ばす",
+    "placeholder": "メッセージを入力してください...",
+    "error": "申し訳ありませんが、エラーが発生しました。もう一度試すか、Telegram 経由でサポートにお問い合わせください。",
+    "clearHistory": "履歴の削除",
+    "notificationTitle": "🤖 AI サポート 24 時間年中無休",
+    "notificationDescription": "Figma 教育パッケージに関するアドバイスが必要ですか? AIと今すぐチャットしましょう！",
+    "notificationAction": "今すぐチャット",
+    "bubbleMessage": "こんにちは！ AIサポートです。何か助けが必要ですか? 👋",
+    "quickActions": {
+      "pricing": "価格表を見る",
+      "packages": "パッケージコンサルティング",
+      "payment": "支払方法",
+      "warranty": "保証ポリシー"
+    }
+  },
+  "Email": {
+    "common": {
+      "shopName": "FigmaEdu",
+      "shopSubtitle": "FigmaEdu でお買い物いただきありがとうございます",
+      "greeting": "こんにちは、{名前}",
+      "supportTitle": "💬 サポートが必要ですか?",
+      "supportIntro": "問題がある場合、またはサポートが必要な場合は、弊社までご連絡ください。",
+      "supportContactLabel": "📞 サポートにお問い合わせください:",
+      "supportFb": "Facebookのファンページ",
+      "supportTg": "電報",
+      "supportTgHandle": "Telegram が FigmaEdu をサポート",
+      "supportEmailLabel": "✉️メール:",
+      "supportOr": "または",
+      "footerThanks": "FigmaEdu を信頼していただきありがとうございます。 🎉",
+      "footerAuto": "システムからの自動メール - このメールには返信しないでください",
+      "footerTimePrefix": "時間：",
+      "footerSupport24x7": "FigmaEdu - 24 時間年中無休のカスタマー サポート",
+      "footerAutoShort": "システムからの自動メール",
+      "fields": {
+        "orderNumber": "注文コード:",
+        "total": "合計金額：",
+        "paidAt": "支払い先:",
+        "product": "製品：",
+        "username": "ログイン名:",
+        "password": "パスワード：",
+        "licenseKey": "ライセンスキー:",
+        "expiresAt": "有効期限:",
+        "upgradeEmail": "アップグレードメール:"
+      }
+    },
+    "subjects": {
+      "customerOrderConfirmation": "✅ 注文確認 #{orderNumber} - FigmaEdu",
+      "activationSuccess": "✅ 注文 #{orderNumber} が正常に有効化されました - Figma Education",
+      "subscriptionReminderUrgent": "🚨 緊急アカウント {productName} はあと {daysLeft} 日で期限切れになります。",
+      "subscriptionReminderWarning": "⚠️ アカウント {productName} の有効期限が {daysLeft} 日以内に切れることにご注意ください。",
+      "accountContact": "📞 アカウントを受け取るための連絡先 - 注文番号{orderNumber}",
+      "upgradeCompleted": "✅ アカウントは正常にアップグレードされました - 注文番号 {orderNumber}",
+      "upgradeIssue": "⚠️ 情報を確認する必要があります - 注文番号{orderNumber}",
+      "walletTopupSuccess": "✅ ウォレット {金額} が正常にロードされました - FigmaEdu",
+      "walletTopupRejected": "❌ ウォレット デポジット リクエスト {金額} が拒否されました",
+      "restockAlert": "🎉 {productName} が再入荷しました!"
+    },
+    "customerOrderConfirmation": {
+      "headerTitle": "✅ 注文が成功しました!",
+      "intro": "ご注文 #{orderNumber} は正常にお支払いされました。以下はご注文とアカウントの詳細です。",
+      "orderTitle": "📦注文情報",
+      "productsTitle": "🛒購入した商品",
+      "productItemQty": "数量: {qty}x - 価格: {price}",
+      "credsTitle": "🔑あなたのアカウント情報",
+      "credsWarning": "⚠️この情報は大切に保存してください。これはあなたのアカウントのログイン情報です。",
+      "credsNote": "💡 注: この情報は、注文管理ページでいつでも確認できます。",
+      "otpTitle": "🔐 OTP コードの入手方法 Figma",
+      "otpLead": "Figma が認証コードを要求したら、以下のリンクを開きます (Outlook の受信トレイに移動する必要はありません)。",
+      "otpStep1": "上記で指定したメールアドレス/パスワードを使用して Figma にログインします",
+      "otpStep2": "Figma が OTP コードを要求したら、以下のリンクを開きます",
+      "otpStep3": "購入メールに送信された 6 桁のコードで確認します",
+      "otpStep4": "Figma OTP コードを取得し、Figma に貼り付けます。",
+      "otpBtn": "{email} の OTP コードを取得する",
+      "otpNote": "💡 購入メールに送信された 6 桁のコードで確認し、OTP Figma を取得します。",
+      "viewOrderBtn": "📋 注文の詳細を表示する"
+    },
+    "activationSuccess": {
+      "headerTitle": "✅ 無事にアクティブになりました！",
+      "headerSubtitle": "Figma Education アカウントはデバイス上で準備ができています",
+      "intro": "こんにちは、ご注文 #{orderNumber} が有効になりました。",
+      "accountTitle": "🔐 Figma アカウントが付与されました",
+      "accountEmailLabel": "Figma にメールで送信:",
+      "durationLabel": "間隔：",
+      "daysSuffix": "日",
+      "expiresLabel": "期限切れ：",
+      "note": "👉 コンピューターで Figma IDE を開きます - アカウントはすでにログインしているため、すぐに使用できます。問題がある場合は、このメールに返信するか、Telegram までご連絡ください。"
+    },
+    "subscriptionReminder": {
+      "headerTitleUrgent": "🚨 アカウントの有効期限が近づいています!",
+      "headerTitleWarning": "⏰ アカウントの有効期限が近づいています!",
+      "headerSubtitle": "有効期限まであと {daysLeft} 日あります",
+      "urgencyEmergency": "🚨緊急事態",
+      "urgencyWarning": "⚠️注意事項",
+      "warningBody": "{urgency}: アカウントの有効期限は {daysLeft} 日以内に切れます。",
+      "accountTitle": "📋 アカウント情報",
+      "cta": {
+        "title": "🔄 今すぐ更新してください！",
+        "body": "サービスを中断せずに使用し続けるには、有効期限が切れる前にアカウントを更新してください。",
+        "btn": "🛒 今すぐ更新"
+      },
+      "benefits": {
+        "title": "✨ 素晴らしい機能をお見逃しなく!",
+        "item1": "Pro 機能への無制限のアクセス",
+        "item2": "24時間365日の優先サポート",
+        "item3": "最新機能をアップデートする",
+        "item4": "進行状況とデータをそのまま維持する"
+      }
+    },
+    "accountContact": {
+      "headerTitle": "📞 アカウントを受け取るには連絡してください",
+      "headerSubtitle": "お問い合わせください",
+      "orderTitle": "📋 注文情報",
+      "messageTitle": "📝通知内容",
+      "cta": {
+        "title": "📞 アカウントを取得するには今すぐお問い合わせください",
+        "lead": "情報を交換し、アカウントを取得するには、次のいずれかのチャネルを通じて連絡してください。",
+        "fb": "📘 Facebook ファンページ",
+        "tg": "✈️ Telegram は FigmaEdu をサポートしています",
+        "emailIntro": "または次の電子メールを送信してください:"
+      },
+      "note": "⚠️ 注: 最速のサポートをお問い合わせいただく際は、注文コード #{orderNumber} をお知らせください。"
+    },
+    "upgradeCompleted": {
+      "headerTitle": "🎉 アップグレードに成功しました!",
+      "headerSubtitle": "アカウントがアップグレードされました",
+      "intro": "ご注文 #{orderNumber} が正常に処理されたことをお知らせいたします。",
+      "successTitle": "アップグレード完了！",
+      "successBody": "アカウント {upgradeEmail} は {productName} にアップグレードされました",
+      "nextSteps": {
+        "title": "📌 次のステップ",
+        "item1": "アカウントにログインして確認してください",
+        "item2": "新しい Pro 機能をお楽しみください",
+        "item3": "サポートが必要な場合は、お気軽にお問い合わせください"
+      }
+    },
+    "upgradeIssue": {
+      "headerTitle": "⚠️情報の確認が必要です",
+      "headerSubtitle": "お問い合わせください",
+      "orderTitle": "📋 注文情報",
+      "messageTitle": "📝通知内容",
+      "cta": {
+        "title": "📞 今すぐお問い合わせください",
+        "lead": "最速のサポートが必要な場合は、次のいずれかのチャネルを通じてお問い合わせください。",
+        "fb": "📘フェイスブック",
+        "tg": "✈️電報",
+        "emailIntro": "または次の電子メールを送信してください:"
+      }
+    },
+    "walletTopupSuccess": {
+      "headerTitle": "✅ ウォレットが正常にロードされました",
+      "intro": "{amount} を FigmaEdu ウォレットに正常に入金しました。",
+      "amountLabel": "入金額:",
+      "balanceLabel": "ニューバランス：",
+      "paidAtLabel": "時間：",
+      "viewWalletBtn": "📊 私の財布を見てください"
+    },
+    "walletTopupRejected": {
+      "headerTitle": "❌ ウォレット入金リクエストが拒否されました",
+      "intro": "{amount} の入金リクエストは拒否されました。",
+      "reasonLabel": "理由：",
+      "viewWalletBtn": "📊 私の財布を見てください"
+    },
+    "restockAlert": {
+      "headerTitle": "🎉 商品が再入荷しました！",
+      "intro": "良いニュース — {productName} が再入荷しました!無くなる前に急いで注文してください。",
+      "productLabel": "製品",
+      "priceLabel": "価格",
+      "viewProductBtn": "🛒 製品を見て今すぐ購入"
+    }
+  },
+  "AboutPage": {
+    "metaTitle": "FigmaEdu について — Figma Education アカウントの小売店",
+    "metaDescription": "FigmaEdu は、Figma Education アカウントの独立したサードパーティ再販業者です。 UI デザインやフリーランスの学生が競争力のある価格で Figma edu にアクセスできるようにします。株式会社Figmaとは一切関係ありません。",
+    "metaKeywords": "FigmaEdu について、Figma Education、Figma アカウントの購入、Figma edu、Figma 販売店、figmaedu.shop",
+    "breadcrumbs": {
+      "home": "ホームページ",
+      "about": "私たちについて"
+    },
+    "hero": {
+      "titlePrefix": "について",
+      "subtitle": "FigmaEdu は、Figma Education アカウントの独立した再販業者です。私たちは、合法的に購入したサブスクリプションの再配布を通じて、UI デザインやフリーランスの学生が競争力のある価格で Figma edu にアクセスできるよう支援します。",
+      "disclaimerLabel": "注記",
+      "disclaimer": "FigmaEdu は、Figma, Inc. と提携、承認、後援されていません。「Figma」および「Figma Education」は Figma, Inc. の商標です。当社は、合法的に購入されたパックの独立した小売業者です。",
+      "ctaProducts": "製品を見る",
+      "ctaContact": "今すぐ連絡する"
+    },
+    "stats": {
+      "customers": {
+        "number": "5,000+",
+        "label": "顧客対応"
+      },
+      "years": {
+        "number": "2+",
+        "label": "運営年"
+      },
+      "satisfaction": {
+        "number": "99%",
+        "label": "満足度"
+      },
+      "support": {
+        "number": "24時間365日",
+        "label": "継続的なサポート"
+      }
+    },
+    "mission": {
+      "title": "私たちの使命",
+      "paragraph1": "FigmaEdu では、地域や予算に関係なく、すべてのデザイン学生が Figma Education に手頃な価格でアクセスできる権利があると信じています。",
+      "paragraph2": "Figma Education アカウントを簡単かつ安全に購入できるよう、電子メールによる相談、支払いサポート、ログインを提供します。",
+      "independenceTitle": "独立系配信サービス",
+      "independenceDescription": "当社は Figma, Inc. を代表するものではありません。当社の使命は、プロセスを説明し、お客様が Figma edu アカウントを購入できるよう支援することです。",
+      "cards": {
+        "process": {
+          "title": "クリアプロセス",
+          "description": "デザイン ツールのサブスクリプションに登録するための段階的なチェックリストを提供します。"
+        },
+        "warranty": {
+          "title": "透明性のある保証",
+          "description": "サポート期間中に発生した問題には全力で対応します。"
+        },
+        "delivery": {
+          "title": "即時配達",
+          "description": "1 ～ 5 分で支払いとアクティベーションをサポートします。"
+        },
+        "support": {
+          "title": "年中無休のサポート",
+          "description": "いつでも電報、電子メールでご同行いただけます。"
+        }
+      }
+    },
+    "values": {
+      "title": "コアバリュー",
+      "subtitle": "FigmaEdu の運営と開発の指針となる原則。",
+      "transparency": {
+        "title": "評判と透明性",
+        "description": "デザインツールのサブスクリプションへの登録と顧客情報の保護の各ステップをわかりやすく説明します。"
+      },
+      "efficiency": {
+        "title": "高速かつ効率的",
+        "description": "わずか数分で国際支払い、アカウントの確認、アクティベーションをサポートします。"
+      },
+      "customerFirst": {
+        "title": "顧客中心",
+        "description": "ライフサイクル全体を通じて、透明性のある保証と返金ポリシーを提供します。"
+      },
+      "sustainability": {
+        "title": "持続可能な発展",
+        "description": "知識とリソースを共有することで、学生コミュニティが AI を効果的に設計し、活用することができます。"
+      }
+    },
+    "cta": {
+      "title": "Figma Education アカウントを購入する必要がありますか?",
+      "subtitle": "FigmaEdu を信頼して Figma edu アカウントを購入し、アクティベーション サポートを受けている何千人ものデザイン学生に加わってください。",
+      "ctaPrimary": "サービスを見る",
+      "ctaSecondary": "無料相談"
+    }
+  },
+  "DisclaimerBanner": {
+    "message": "FigmaEdu は、Figma Education の小売/アカウント サポート サービスのみを提供しており、Figma, Inc. の再販業者や販売代理店ではありません。ブランド名は製品を説明することのみを目的としています。",
+    "dismiss": "理解した"
+  },
+  "ProductPage": {
+    "actions": {
+      "resellerNoticeTitle": "テクニカル サポートに関する通知 - 購入前にお読みください",
+      "resellerNoticeBody": "FigmaEdu は、お客様のニーズに応じて Figma Education アカウント/アップグレードのサポートを提供します。当社は Figma, Inc. の代理店、販売代理店、または代表者ではありません。引き渡し後、アカウントはお客様の所有物となります。電子メール、パスワード、2FA、および回復用電子メールを直ちに変更してください。パスワードを忘れた場合や 2FA を紛失した場合は、後からサポートされません。特典と期間は Figma のポリシーによって異なる場合があります。"
+    }
+  },
+  "DisclaimerPage": {
+    "seo": {
+      "title": "免責事項",
+      "description": "法的声明 FigmaEdu — Figma に関連するセットアップ/アクティブ化テクニカル サポート サービス。 Figma, Inc. の代理店または代理店ではありません。",
+      "keywords": "免責事項 FigmaEdu、Figma Education の免責事項、Figma Inc とは関係ありません"
+    },
+    "hero": {
+      "title": "宣言する",
+      "highlight": "権利放棄",
+      "description": "Figma, Inc. のテクニカル サポートの役割および関連する責任の制限に関する重要な情報。"
+    },
+    "sections": {
+      "reseller": {
+        "title": "独立した技術サポート",
+        "body": "FigmaEdu は、お客様のニーズに応じて、セットアップ、アップグレード、アクティベーションのサポート サービスを提供します。当社は、Figma, Inc. (Figma) の正規代理店、代理店、認定ユニット、またはパートナーではありません。",
+        "referral": "Web サイト上のブランド名と製品名は、互換性またはサポートのニーズを説明することのみを目的としています。 Figma, Inc. によって提供されるプロモーション/プラットフォーム特典 (存在する場合) は管理されており、変更または中止される場合があります。"
+      },
+      "trademark": {
+        "title": "ブランド",
+        "body": "「Figma」および「Figma Education」は Figma, Inc. の商標です。その他の製品名はそれぞれの所有者に帰属します。互換性やサポートのニーズを説明するためにのみ使用します。"
+      },
+      "risks": {
+        "title": "理解すべきリスク",
+        "items": [
+          "Figma, Inc. は、いつでも価格、機能を変更したり、サブスクリプションを終了したりすることがあります。",
+          "Figma, Inc. は、利用規約に違反したアカウントを一時停止/終了することができます。",
+          "引き継ぎ後は、電子メール、パスワード、2FA、回復用電子メールの変更など、セキュリティについてはお客様が単独で責任を負います。後で資格情報を紛失した場合、復元することはできません。",
+          "当社は、継続的なアクセスや永続的なサードパーティのプロモーション特典を保証するものではありません。",
+          "ブランド所有者から公式にご購入ください: www.figma.com。"
+        ]
+      },
+      "official": {
+        "title": "公式購入チャネル",
+        "body": "Figma, Inc. から直接 Figma サブスクリプションを購入するには:"
+      }
+    },
+    "cta": {
+      "title": "規約全文を読む",
+      "description": "ご購入前に利用規約とプライバシーポリシーをお読みください。",
+      "terms": "利用規約",
+      "shop": "製品を見る"
+    }
+  },
+  "CookieConsent": {
+    "title": "クッキーの設定",
+    "description": "ログイン、ショッピングカート、セキュリティに必要なCookie。分析 Cookie (Microsoft Clarity) はオプションです。以下から選択してください。",
+    "learnMore": "クッキーポリシーを参照",
+    "essentialOnly": "必要なだけ",
+    "acceptAll": "すべてを受け入れる"
+  },
+  "Wallet": {
+    "title": "私の財布",
+    "vndBalance": "ベトナムドン残高",
+    "usdBalance": "米ドル残高",
+    "topup": "お金を預ける",
+    "topupVnd": "デポジット VND",
+    "topupUsd": "米ドルを入金",
+    "topupAgain": "新しい入金リクエストを作成する",
+    "refresh": "リロード",
+    "backToWallet": "ウォレットに戻る",
+    "returnToCheckout": "支払いに戻る",
+    "currency": "通貨の種類",
+    "vnd": "ベトナムドン",
+    "usd": "米ドル",
+    "vndDescription": "QR 銀行振込による入金 - 数分で自動確認。",
+    "usdDescription": "暗号通貨 (Binance/Bybit/USDT/BTC/ETH/LTC) による入金 — 領収書をアップロードした後、管理者が確認します。",
+    "selectAmount": "宗派を選択してください",
+    "customAmount": "別の金額を入力してください",
+    "selectMethod": "積載方法",
+    "selectCryptoMethod": "暗号化タイプを選択してください",
+    "youWillTopup": "ロードします",
+    "continueToPay": "支払いを続ける",
+    "topupTitle": "ウォレットにチャージする",
+    "topupDetailTitle": "入金リクエストの詳細",
+    "amount": "額",
+    "expiresAt": "有効期限は次のとおりです",
+    "bank": "銀行",
+    "accountNumber": "口座番号",
+    "accountName": "口座名義人名",
+    "transferContentLabel": "転送コンテンツ (正確であることが必須)",
+    "transferContentWarning": "以下に正しいコンテンツを入力してください。間違ったコンテンツは自動的にウォレットに入金されません。管理者に連絡する必要があります。",
+    "payId": "ペイID",
+    "network": "ネットワーク",
+    "walletAddress": "ウォレットアドレス",
+    "onchainWarning": "{ネットワーク}経由でのみ送信してください。ネットワークが間違っていると、お金が失われ、取り戻すことができなくなります。",
+    "submitProofTitle": "領収書添付（必須ではありません）",
+    "submitProofDescription": "暗号通貨を転送したら、管理者の承認を迅速化するために領収書の画像 URL (Imgur/Cloudinary など) を貼り付けるか、空白のままにして「転送しました」をクリックします。",
+    "submitProof": "領収書の送信",
+    "submitWithoutProof": "お金を送金しました",
+    "proofSubmitted": "領収書を送信しました。管理者は数時間以内に承認します。",
+    "pendingReviewMessage": "領収書を提出しました。システムは管理者の確認を待っています。承認が完了すると残高は自動的に更新されます。",
+    "viewProof": "送信された領収書を表示する",
+    "autoConfirmNote": "✅ 銀行が送金を確認するとすぐに（通常は 1 ～ 3 分）、残高が自動的にウォレットに追加されます。",
+    "topupPaidTitle": "入金成功",
+    "topupPaidDescription": "ウォレットに {amount} を追加しました。",
+    "topupRejectedTitle": "リチャージリクエストが拒否されました",
+    "topupExpiredTitle": "入金リクエストの有効期限が切れました",
+    "topupExpiredDescription": "この入金リクエストは 30 分で期限切れになりました。新しいリクエストを作成してください。",
+    "paidToast": "入金が成功し、ウォレットが更新されました。",
+    "rejectedToast": "リチャージリクエストが拒否されました",
+    "expiredToast": "入金リクエストの有効期限が切れました",
+    "transactionHistory": "取引履歴",
+    "balanceAfter": "バランスは続く",
+    "noTransactions": "まだ取引はありません",
+    "copied": "{ラベル}をコピー",
+    "copyFailed": "コピーに失敗しました",
+    "qrZoom": "QR拡大",
+    "bankQrAlt": "QR {銀行}",
+    "notFound": "入金リクエストが見つかりませんでした",
+    "status": {
+      "pending": "支払いを待ちます",
+      "pendingReview": "承認待ち"
+    },
+    "txType": {
+      "topup": "お金を預ける",
+      "debit": "控除ウォレット（購入）",
+      "refund": "返金",
+      "admin_adjust": "管理者が調整しました"
+    },
+    "errors": {
+      "generic": "エラーが発生しました。もう一度お試しください",
+      "INVALID_PROOF_URL": "無効な領収書 URL (http/https が必要)",
+      "INVALID_AMOUNT": "無効な金額です",
+      "AMOUNT_TOO_SMALL": "最低金額に達していません",
+      "AMOUNT_TOO_LARGE": "1回の入金制限を超えました",
+      "AMOUNT_NOT_ROUND": "VND の金額は 1,000 の倍数である必要があります",
+      "INVALID_CURRENCY": "無効な通貨",
+      "INVALID_METHOD": "無効な入金方法です",
+      "SEPAY_REQUIRES_VND": "銀行振込による VND の入金のみをサポートします",
+      "CRYPTO_REQUIRES_USD": "暗号通貨は米ドルでの入金のみをサポートします",
+      "INVALID_CRYPTO_METHOD": "無効な暗号タイプ",
+      "WALLET_INSUFFICIENT_BALANCE": "残高不足"
+    }
+  },
+  "LegalNoticePopup": {
+    "title": "通知",
+    "p1": "FigmaEdu は、顧客のニーズに応じて小売サービス/Figma Education アカウントのサポートのみを提供します。 FigmaEdu は、ブランド所有者の代理店、販売代理店、または代表者ではありません。ブランド名、ロゴ、および製品名が言及されている場合、これらは製品/サービスを説明することのみを目的としており、それぞれの所有者の財産です。サービスの範囲および責任の制限は、利用規約に規定されています。",
+    "p2": "お客様への注意事項: 当社がお客様のアカウントをお客様に引き渡すとき、そのアカウントはすでにお客様の所有物であるため、電子メール、パスワード、2FA、回復用電子メールなどのセキュリティ情報をお客様ご自身で変更し、お客様自身で資産を保存する必要があります。アカウント情報を忘れたり、パスワードを忘れたり、ログイン情報を忘れたり、2FA を紛失したりするなどの理由で、お客様が購入後一定期間アカウントにアクセスできない場合はサポートできません。したがって、アカウントと資産の安全を確保するために、購入後すぐに情報を変更してください。",
+    "p3": "FigmaEdu をサポートしていただきありがとうございます。",
+    "termsLink": "利用規約",
+    "close": "近い"
+  }
+}

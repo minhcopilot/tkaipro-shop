@@ -1,0 +1,2731 @@
+{
+  "IntroPage": {
+    "seo": {
+      "title": "Về TKAIPro — nhà bán lẻ tài khoản Google AI",
+      "description": "TKAIPro là nhà bán lẻ độc lập tài khoản Google AI. Tìm hiểu sứ mệnh, quy trình giao login qua email và cam kết hỗ trợ khi mua tài khoản Google AI.",
+      "keywords": "TKAIPro, Google AI, mua tài khoản Google AI, Google AI, nhà bán lẻ Google AI, tkaipro.shop, về TKAIPro"
+    },
+    "hero": {
+      "title": "TKAIPro là ai",
+      "subtitle": "Nhà bán lẻ độc lập tài khoản Google AI — giá hợp lý cho người dùng AI và người dùng Gemini. Mua tài khoản Google AI, thanh toán nội địa, nhận login qua email.",
+      "ctaConfig": "Xem bảng giá",
+      "ctaBuy": "Mua Google AI",
+      "badge": "Giá hợp lý",
+      "trustBadges": {
+        "authentic": "Nhà Bán Lẻ Uy Tín",
+        "fast": "Giao email ~5 phút",
+        "warranty": "Bảo hành 1 đổi 1"
+      }
+    },
+    "about": {
+      "title": "Về tkaipro.shop",
+      "description": "TKAIPro là nhà bán lẻ độc lập (third-party reseller) tài khoản Google AI. Chúng tôi không liên kết với Google LLC Sứ mệnh của chúng tôi là giúp sinh viên và nhóm đồ án tiếp cận Google AI dễ dàng hơn qua thanh toán nội địa và hỗ trợ tiếng Việt.",
+      "features": {
+        "price": "Giá tốt trên thị trường",
+        "support": "Hỗ trợ kỹ thuật 24/7",
+        "warranty": "Bảo hành 1 đổi 1 lỗi shop"
+      },
+      "sectionLabel": "Về chúng tôi"
+    },
+    "whyChoose": {
+      "title": "Tại Sao Nên Chọn Chúng Tôi?",
+      "items": {
+        "authentic": {
+          "title": "Nhà Bán Lẻ Minh Bạch",
+          "description": "Subscription được mua từ kênh hợp pháp, thanh toán qua phương thức được xác minh. Không crack, không gian lận."
+        },
+        "fast": {
+          "title": "Giao Hàng Nhanh",
+          "description": "Nhận thông tin đăng nhập qua email trong khoảng 5–10 phút sau thanh toán. Quy trình tự động hóa cao."
+        },
+        "cheap": {
+          "title": "Chi Phí Tối Ưu",
+          "description": "Tiết kiệm đáng kể so với đăng ký trực tiếp. Nhiều gói linh hoạt cho sinh viên và người dùng Gemini."
+        },
+        "privacy": {
+          "title": "Bảo Mật Tuyệt Đối",
+          "description": "Toàn bộ thông tin khách hàng được mã hóa và bảo mật. Không chia sẻ với bên thứ 3."
+        },
+        "support": {
+          "title": "Hỗ Trợ Tận Tâm",
+          "description": "Đội ngũ giàu kinh nghiệm sẵn sàng hướng dẫn đăng nhập Google AI và xử lý sự cố 24/7."
+        }
+      },
+      "sectionLabel": "Tại sao chọn chúng tôi"
+    },
+    "products": {
+      "title": "Các Gói Đang Bán",
+      "trial": {
+        "name": "Google AI dùng thử ngắn",
+        "description": "Trải nghiệm Google AI thời hạn ngắn. Thích hợp người mới bắt đầu.",
+        "label": "Trải nghiệm"
+      },
+      "shared": {
+        "name": "Gói Học Tập Phổ Biến",
+        "description": "Tiết kiệm tối đa. Phù hợp sinh viên và nhu cầu đồ án cơ bản.",
+        "label": "Tiết kiệm",
+        "badge": "🔥 PHỔ BIẾN NHẤT"
+      },
+      "private": {
+        "name": "Gói Dài Hạn / Cá Nhân",
+        "description": "Ổn định lâu dài. Đủ quyền edu cho người dùng Gemini và học tập chuyên sâu.",
+        "label": "Premium"
+      },
+      "sectionLabel": "Dịch vụ"
+    },
+    "payment": {
+      "title": "Phương Thức Thanh Toán",
+      "subtitle": "Đa dạng, linh hoạt và an toàn",
+      "methods": {
+        "bank": "Chuyển khoản Ngân hàng (VietQR)",
+        "crypto": "Binance Pay (Crypto)",
+        "momo": "Ví MoMo"
+      },
+      "support": "Hỗ trợ xử lý giao dịch 24/7 qua Hotline/Zalo",
+      "sectionLabel": "Thanh toán"
+    },
+    "contact": {
+      "title": "Liên Hệ Hỗ Trợ",
+      "website": "Website: https://tkaipro.shop",
+      "telegram": "Telegram: hỗ trợ TKAIPro",
+      "fanpage": "Fanpage: TKAIPro",
+      "cta": "Cần hỗ trợ gấp? Chat ngay với chúng tôi!"
+    },
+    "commitment": {
+      "title": "Cam Kết Của Chúng Tôi",
+      "items": {
+        "1": "Tài khoản đúng mô tả 100%",
+        "2": "Đổi mới nếu lỗi từ phía shop (theo chính sách)",
+        "3": "Nói không với hàng crack, scan",
+        "4": "Minh bạch trong mọi giao dịch"
+      },
+      "sectionLabel": "Cam kết"
+    },
+    "ctaSection": {
+      "title": "Mua Tài Khoản Google AI Ngay Hôm Nay",
+      "subtitle": "Đừng để chi phí cản trở đồ án thiết kế. Sở hữu Google AI qua TKAIPro với giá cạnh tranh, giao login qua email.",
+      "buyNow": "Xem Bảng Giá",
+      "contact": "Liên Hệ Tư Vấn"
+    }
+  },
+  "DashboardProfile": {
+    "title": "Hồ sơ cá nhân",
+    "description": "Quản lý thông tin tài khoản của bạn",
+    "avatar": {
+      "title": "Ảnh đại diện",
+      "change": "Thay đổi",
+      "remove": "Xóa",
+      "uploading": "Đang tải lên...",
+      "success": "Cập nhật ảnh đại diện thành công",
+      "error": "Lỗi cập nhật ảnh đại diện"
+    },
+    "form": {
+      "name": "Họ và tên",
+      "email": "Email",
+      "save": "Lưu thay đổi",
+      "saving": "Đang lưu...",
+      "success": "Cập nhật thông tin thành công",
+      "error": "Lỗi cập nhật thông tin"
+    }
+  },
+  "DashboardSettings": {
+    "title": "Cài đặt",
+    "description": "Quản lý cài đặt tài khoản và tùy chọn của bạn",
+    "tabs": {
+      "profile": "Hồ sơ",
+      "security": "Bảo mật"
+    },
+    "profile": {
+      "title": "Thông tin hồ sơ",
+      "name": "Tên",
+      "namePlaceholder": "Nhập tên của bạn",
+      "email": "Email",
+      "emailPlaceholder": "Nhập email của bạn",
+      "save": "Lưu thay đổi",
+      "saving": "Đang lưu...",
+      "success": "Cập nhật thông tin thành công",
+      "error": "Lỗi cập nhật thông tin"
+    },
+    "security": {
+      "title": "Cài đặt bảo mật",
+      "currentPassword": "Mật khẩu hiện tại",
+      "currentPasswordPlaceholder": "Nhập mật khẩu hiện tại",
+      "newPassword": "Mật khẩu mới",
+      "newPasswordPlaceholder": "Nhập mật khẩu mới",
+      "confirmPassword": "Xác nhận mật khẩu mới",
+      "confirmPasswordPlaceholder": "Xác nhận mật khẩu mới",
+      "update": "Cập nhật mật khẩu",
+      "updating": "Đang cập nhật...",
+      "success": "Đổi mật khẩu thành công",
+      "error": "Lỗi đổi mật khẩu",
+      "errorMatch": "Mật khẩu xác nhận không khớp",
+      "errorLength": "Mật khẩu mới phải có ít nhất 8 ký tự"
+    }
+  },
+  "RecentPurchases": {
+    "title": "Khách Vừa Mua",
+    "justBought": "Vừa mua xong",
+    "recently": "Gần đây",
+    "ago": "trước",
+    "hours": "giờ",
+    "hour": "giờ",
+    "minutes": "phút",
+    "minute": "phút",
+    "days": "ngày",
+    "day": "ngày",
+    "seconds": "giây"
+  },
+  "DashboardOrders": {
+    "title": "Đơn hàng của tôi",
+    "subtitle": "Xem và theo dõi tình trạng đơn hàng",
+    "refresh": "Làm mới",
+    "loginRequired": "Vui lòng đăng nhập",
+    "loginDescription": "Bạn cần đăng nhập để xem đơn hàng của mình.",
+    "errorTitle": "Lỗi tải dữ liệu",
+    "errorDescription": "Không thể tải danh sách đơn hàng. Vui lòng thử lại sau.",
+    "stats": {
+      "totalOrders": "Tổng đơn hàng",
+      "paidOrders": "Đã thanh toán",
+      "pendingPayment": "Chờ thanh toán",
+      "totalSpent": "Tổng chi tiêu"
+    },
+    "filters": {
+      "statusPlaceholder": "Trạng thái đơn hàng",
+      "paymentPlaceholder": "Trạng thái thanh toán",
+      "allStatus": "Tất cả trạng thái",
+      "allPayment": "Tất cả thanh toán"
+    },
+    "status": {
+      "pending": "Chờ xử lý",
+      "processing": "Đang xử lý",
+      "completed": "Hoàn thành",
+      "cancelled": "Đã hủy"
+    },
+    "paymentStatus": {
+      "pending": "Chờ thanh toán",
+      "paid": "Đã thanh toán",
+      "failed": "Thanh toán lỗi"
+    },
+    "table": {
+      "orderNumber": "Mã đơn hàng",
+      "products": "Sản phẩm",
+      "otherProducts": "+{count} sản phẩm khác",
+      "total": "Tổng tiền",
+      "status": "Trạng thái",
+      "payment": "Thanh toán",
+      "date": "Ngày đặt",
+      "actions": "Thao tác",
+      "viewDetails": "Chi tiết",
+      "payNow": "Thanh toán"
+    },
+    "pagination": "Trang {current}/{total}",
+    "empty": {
+      "title": "Chưa có đơn hàng nào",
+      "description": "Bạn chưa có đơn hàng nào. Hãy bắt đầu mua sắm ngay!",
+      "cta": "Khám phá sản phẩm"
+    },
+    "toast": {
+      "loadError": "Lỗi tải dữ liệu đơn hàng",
+      "connectionError": "Lỗi kết nối"
+    }
+  },
+  "Pricing": {
+    "title": "Chọn Gói Phù Hợp Với Bạn",
+    "description": "Tất cả gói đều bao gồm dịch vụ hỗ trợ đăng ký Google AI, theo dõi kích hoạt và chăm sóc sau bán minh bạch.",
+    "popular": "PHỔ BIẾN NHẤT",
+    "perMonth": "₫/tháng",
+    "guarantees": {
+      "oneTime": "Thanh toán 1 lần",
+      "noRenew": "Không auto-renew",
+      "refund": "Bảo hành 1-đổi-1 lỗi shop"
+    },
+    "plans": {
+      "1-month": {
+        "name": "1 Tháng",
+        "description": "Tư vấn nhanh cho người mới",
+        "button": "Yêu Cầu Gói 1 Tháng",
+        "features": {
+          "0": "Hướng dẫn mua Google AI trực tuyến",
+          "1": "Video chi tiết cài đặt và kích hoạt",
+          "2": "Tư vấn chọn phương thức thanh toán",
+          "3": "Checklist kiểm tra sau kích hoạt",
+          "4": "Hỗ trợ 24/7",
+          "5": "Bảo hành 1 đổi 1"
+        }
+      },
+      "3-months": {
+        "name": "3 Tháng",
+        "description": "Gói phổ biến cho freelancer",
+        "button": "Chọn Gói 3 Tháng",
+        "features": {
+          "0": "Tất cả dịch vụ trong gói 1 tháng",
+          "1": "Tư vấn chọn gói Google AI phù hợp nhu cầu dài hơn",
+          "2": "Ưu tiên hỗ trợ khi cần xác minh",
+          "3": "Nhắc lịch gia hạn có hướng dẫn",
+          "4": "Tài nguyên tối ưu workflow với Google AI",
+          "5": "Group chăm sóc khách hàng riêng"
+        }
+      },
+      "6-months": {
+        "name": "6 Tháng",
+        "description": "Tối ưu cho người dùng AI chuyên nghiệp",
+        "button": "Đặt Gói 6 Tháng",
+        "features": {
+          "0": "Tất cả dịch vụ trong gói 3 tháng",
+          "1": "Hỗ trợ 1-on-1 qua video call khi kích hoạt",
+          "2": "Theo dõi tình trạng tài khoản định kỳ",
+          "3": "Cập nhật chính sách Google AI mới nhất",
+          "4": "Tài liệu workflow nâng cao",
+          "5": "Thư viện extension đề xuất"
+        }
+      },
+      "12-months": {
+        "name": "12 Tháng",
+        "description": "Phù hợp cho team và doanh nghiệp",
+        "button": "Liên Hệ Gói 12 Tháng",
+        "features": {
+          "0": "Tất cả dịch vụ trong gói 6 tháng",
+          "1": "Tư vấn thiết lập tài khoản cho nhiều thành viên",
+          "2": "Checklist bảo mật và phân quyền",
+          "3": "Hỗ trợ xử lý phát sinh với Google AI",
+          "4": "Điều phối gia hạn theo đợt",
+          "5": "Tài liệu onboarding cho thành viên mới"
+        }
+      }
+    }
+  },
+  "MockData": {
+    "fallbackProducts": {
+      "mock-1": {
+        "name": "Tài khoản Google AI - 1 Tháng",
+        "description": "Gói Google AI 1 tháng — phù hợp trải nghiệm nhanh. Giao login qua email sau thanh toán, kèm hướng dẫn đăng nhập.",
+        "shortDescription": "Phù hợp trải nghiệm nhanh"
+      },
+      "mock-2": {
+        "name": "Tài khoản Google AI - 3 Tháng",
+        "description": "Gói Google AI 3 tháng — phổ biến cho đồ án học kỳ. Tư vấn chọn gói và hỗ trợ thanh toán nội địa.",
+        "shortDescription": "Gói phổ biến cho đồ án"
+      },
+      "mock-3": {
+        "name": "Tài khoản Google AI - 6 Tháng",
+        "description": "Gói Google AI 6 tháng — tiết kiệm dài hạn cho người dùng AI và người dùng Gemini dùng đều.",
+        "shortDescription": "Tiết kiệm dài hạn cho người dùng thường xuyên"
+      },
+      "mock-4": {
+        "name": "Tài khoản Google AI - 12 Tháng",
+        "description": "Gói Google AI 12 tháng — tối ưu chi phí cả năm cho nhóm đồ án hoặc học tập liên tục.",
+        "shortDescription": "Gói 1 năm, tối ưu cho cả năm học"
+      }
+    }
+  },
+  "UserOrderDetails": {
+    "title": "Chi tiết đơn hàng {orderNumber}",
+    "payNow": "Thanh toán ngay",
+    "status": {
+      "completed": "Hoàn thành",
+      "processing": "Đang xử lý",
+      "pending": "Chờ xử lý",
+      "cancelled": "Đã hủy"
+    },
+    "paymentStatus": {
+      "paid": "Đã thanh toán",
+      "failed": "Thanh toán lỗi",
+      "pending": "Chờ thanh toán"
+    },
+    "info": {
+      "title": "Thông tin đơn hàng",
+      "orderNumber": "Mã đơn hàng",
+      "orderDate": "Ngày đặt hàng",
+      "customer": "Khách hàng",
+      "email": "Email"
+    },
+    "items": {
+      "title": "Sản phẩm đã mua ({count})",
+      "quantity": "Số lượng: {quantity}",
+      "empty": "Không có sản phẩm"
+    },
+    "payment": {
+      "title": "Chi tiết thanh toán",
+      "subtotal": "Tạm tính",
+      "discount": "Giảm giá",
+      "total": "Tổng cộng",
+      "paidAt": "Đã thanh toán"
+    },
+    "notes": {
+      "title": "Ghi chú đơn hàng"
+    },
+    "support": {
+      "title": "Cần hỗ trợ?",
+      "description": "Liên hệ với chúng tôi nếu bạn có thắc mắc về đơn hàng",
+      "contact": "Liên hệ hỗ trợ"
+    },
+    "statusLabels": {
+      "order": "Đơn hàng:",
+      "payment": "Thanh toán:"
+    },
+    "loginLinkInstructions": {
+      "title": "🔗 Hướng dẫn nhận tài khoản (thủ công)",
+      "lead": "Để nhận tài khoản, vui lòng thực hiện các bước sau:",
+      "step1": "Mở <b>Gemini / Google AI</b> trên máy, logout tài khoản hiện tại",
+      "step2": "Bấm <b>\"Sign in\"</b> trong app",
+      "step3": "Google sẽ mở trình duyệt với link đăng nhập dạng:",
+      "linkExample": "https://gemini.google.com/loginDeepControl?challenge=xxxxx&uuid=xxxxx&mode=login",
+      "step4": "<b>Copy NGAY link này</b> gửi cho shop",
+      "noteTitle": "⚠️ Lưu ý quan trọng:",
+      "note1": "Không bấm đăng nhập trên trình duyệt web",
+      "note2": "Không lấy link đã chuyển trang sang authenticator.cursor.sh",
+      "note3": "Chỉ cần copy link và gửi cho shop là xong ✅",
+      "videoBtn": "▶️ Video hướng dẫn",
+      "fbBtn": "📘 Facebook",
+      "tgBtn": "✈️ Telegram",
+      "footer": "Gửi link login kèm mã đơn hàng <b>#{orderNumber}</b> để nhận tài khoản."
+    }
+  },
+  "PrivacyPage": {
+    "seo": {
+      "title": "Chính Sách Bảo Mật",
+      "description": "Chính sách bảo mật thông tin khách hàng của TKAIPro. Cam kết bảo vệ dữ liệu cá nhân và thông tin thanh toán an toàn 100%."
+    },
+    "hero": {
+      "title": "Chính Sách",
+      "highlight": "Bảo Mật",
+      "description": "TKAIPro cam kết bảo vệ thông tin cá nhân của bạn với các biện pháp bảo mật tối tân và minh bạch hoàn toàn trong việc sử dụng dữ liệu.",
+      "update": "Cập nhật lần cuối: 07/07/2026"
+    },
+    "highlights": {
+      "ssl": {
+        "title": "Mã Hóa SSL 256-bit",
+        "desc": "Toàn bộ dữ liệu được mã hóa với tiêu chuẩn ngân hàng"
+      },
+      "noCard": {
+        "title": "Không Lưu Thông Tin Thẻ",
+        "desc": "Chúng tôi không lưu trữ thông tin thanh toán của bạn"
+      },
+      "transparent": {
+        "title": "Minh Bạch Hoàn Toàn",
+        "desc": "Rõ ràng về cách thu thập và sử dụng dữ liệu"
+      },
+      "rights": {
+        "title": "Quyền Của Bạn",
+        "desc": "Bạn có quyền xem, sửa, xóa thông tin cá nhân"
+      }
+    },
+    "sections": {
+      "collection": {
+        "title": "1. Thông Tin Chúng Tôi Thu Thập",
+        "basic": "Thông tin cá nhân cơ bản:",
+        "basicItems": {
+          "1": "Họ tên, email, số điện thoại",
+          "2": "Địa chỉ IP, thông tin trình duyệt, fingerprint thiết bị (chống gian lận)",
+          "3": "Lịch sử giao dịch, số dư ví, mã tham chiếu crypto"
+        },
+        "payment": "Thông tin thanh toán:",
+        "paymentItems": {
+          "1": "Phương thức thanh toán (SePay/VietQR, crypto, ví)",
+          "2": "Mã giao dịch (không lưu số thẻ)",
+          "3": "Trạng thái và số tiền thanh toán"
+        }
+      },
+      "usage": {
+        "title": "2. Cách Chúng Tôi Sử Dụng Thông Tin",
+        "purpose": "Mục đích sử dụng:",
+        "purposeItems": {
+          "1": "Xử lý đơn hàng và giao tài khoản Google AI",
+          "2": "Hỗ trợ khách hàng và giải quyết vấn đề",
+          "3": "Gửi thông báo quan trọng về đơn hàng",
+          "4": "Cải thiện chất lượng dịch vụ",
+          "5": "Tuân thủ các quy định pháp luật"
+        },
+        "commitment": "Chúng tôi KHÔNG bán dữ liệu, KHÔNG dùng cho quảng cáo nhắm mục tiêu, và KHÔNG cố ý thu thập từ người dưới 18 tuổi."
+      },
+      "security": {
+        "title": "3. Bảo Mật Thông Tin",
+        "measures": "Biện pháp bảo mật:",
+        "measuresItems": {
+          "1": "Mã hóa SSL 256-bit cho tất cả dữ liệu truyền tải",
+          "2": "Firewall và hệ thống chống xâm nhập",
+          "3": "Kiểm tra bảo mật định kỳ",
+          "4": "Giới hạn quyền truy cập nội bộ",
+          "5": "Sao lưu dữ liệu an toàn"
+        },
+        "paymentSec": "Bảo mật thanh toán:",
+        "paymentSecItems": {
+          "1": "Xử lý thanh toán: SePay/VietQR, crypto (Binance, Bybit, on-chain), ví",
+          "2": "Không lưu trữ thông tin thẻ tín dụng",
+          "3": "Cloudflare Turnstile chống bot"
+        }
+      },
+      "rights": {
+        "title": "4. Quyền Của Bạn",
+        "desc": "Bạn có đầy đủ quyền kiểm soát thông tin cá nhân của mình:",
+        "items": {
+          "access": "Quyền truy cập: Yêu cầu xem thông tin cá nhân được lưu trữ",
+          "edit": "Quyền chỉnh sửa: Cập nhật hoặc sửa đổi thông tin",
+          "delete": "Quyền xóa: Yêu cầu xóa thông tin cá nhân",
+          "object": "Quyền phản đối: Từ chối việc xử lý dữ liệu",
+          "complain": "Quyền khiếu nại: Báo cáo vi phạm bảo mật"
+        },
+        "contact": "Để thực hiện các quyền trên, vui lòng liên hệ:"
+      },
+      "cookies": {
+        "title": "5. Cookies và Tracking",
+        "desc": "Chúng tôi sử dụng cookies để cải thiện trải nghiệm người dùng:",
+        "items": {
+          "1": "Cookies cần thiết: đăng nhập, giỏ hàng, bảo mật, lưu consent",
+          "2": "Cookies phân tích (opt-in): Microsoft Clarity, Vercel Analytics",
+          "3": "Không dùng cookies quảng cáo nhắm mục tiêu"
+        },
+        "note": "Bạn có thể tắt cookies trong cài đặt trình duyệt, nhưng một số tính năng có thể không hoạt động bình thường."
+      },
+      "sharing": {
+        "title": "6. Chia Sẻ Thông Tin",
+        "desc": "Chúng tôi chỉ chia sẻ thông tin trong các trường hợp sau:",
+        "items": {
+          "1": "Thanh toán: SePay/VietQR, crypto (Binance, Bybit, on-chain), ví",
+          "2": "Hạ tầng: Vercel (hosting), Cloudflare Turnstile, Brevo (email)",
+          "3": "Cơ quan chức năng khi có yêu cầu pháp lý",
+          "4": "Với sự đồng ý rõ ràng của bạn"
+        }
+      },
+      "storage": {
+        "title": "7. Lưu Trữ Dữ Liệu",
+        "items": {
+          "1": "Thông tin tài khoản: lưu trong suốt thời gian tài khoản shop còn hoạt động",
+          "2": "Lịch sử đơn/giao dịch: 5 năm theo luật thuế/kế toán VN",
+          "3": "Logs hệ thống và fingerprint: tối đa 12 tháng",
+          "4": "Dữ liệu marketing: xóa khi bạn hủy đăng ký"
+        }
+      },
+      "minors": {
+        "title": "8. Người Dưới 18 Tuổi",
+        "desc": "Dịch vụ không hướng tới người dưới 18 tuổi. Chúng tôi không cố ý thu thập dữ liệu từ trẻ em. Nếu bạn cho rằng chúng tôi đã thu thập dữ liệu từ người dưới 18, hãy liên hệ để yêu cầu xóa."
+      },
+      "international": {
+        "title": "9. Chuyển Dữ Liệu Quốc Tế",
+        "desc": "Dữ liệu có thể được xử lý trên máy chủ tại Mỹ và các quốc gia khác (Vercel, Brevo, Cloudflare). Khi sử dụng dịch vụ, bạn đồng ý với việc chuyển này. Người dùng EU lưu ý mức bảo vệ có thể khác quốc gia bạn."
+      },
+      "contact": {
+        "title": "10. Liên Hệ & Khiếu Nại",
+        "desc": "Nếu bạn có bất kỳ câu hỏi nào về chính sách bảo mật này, vui lòng liên hệ:",
+        "direct": "Liên hệ trực tiếp:",
+        "company": "Thông tin công ty:",
+        "supportTime": "Thời gian hỗ trợ: 24/7"
+      }
+    },
+    "cta": {
+      "title": "Có Câu Hỏi Về Bảo Mật?",
+      "description": "Đội ngũ bảo mật của chúng tôi sẵn sàng giải đáp mọi thắc mắc của bạn",
+      "contact": "Liên Hệ Ngay",
+      "terms": "Xem Điều Khoản Dịch Vụ"
+    }
+  },
+  "PaymentResult": {
+    "title": "Thanh Toán Đơn Hàng",
+    "orderNumber": "Đơn hàng #{number}",
+    "status": {
+      "paid": "Đã thanh toán",
+      "pending": "Chờ thanh toán"
+    },
+    "progress": {
+      "info": "Thông tin đơn hàng",
+      "payment": "Thanh toán",
+      "finish": "Hoàn tất"
+    },
+    "transfer": {
+      "title": "Thông Tin Chuyển Khoản",
+      "scan": "Quét mã QR để chuyển khoản",
+      "generating": "Đang tạo QR Code...",
+      "bank": "Ngân hàng",
+      "accountNumber": "Số tài khoản",
+      "accountName": "Chủ tài khoản",
+      "amount": "Số tiền",
+      "content": "Nội dung chuyển khoản",
+      "contentNote": "⚠️ Nhập đúng nội dung chuyển khoản bên dưới để hệ thống tự xác nhận",
+      "check": "Tôi đã chuyển khoản",
+      "checkManual": "Kiểm tra thủ công",
+      "checking": "Đang kiểm tra...",
+      "copy": "Đã sao chép {label}",
+      "autoVerifyTitle": "⏱️ Sau khi chuyển khoản, vui lòng chờ 5-10 giây",
+      "autoVerifyDesc": "Hệ thống sẽ TỰ ĐỘNG xác minh giao dịch của bạn. Nếu sau 30 giây chưa cập nhật, hãy nhấn nút kiểm tra thủ công bên dưới."
+    },
+    "summary": {
+      "title": "Chi Tiết Đơn Hàng",
+      "customer": "Thông tin khách hàng",
+      "name": "Tên:",
+      "email": "Email:",
+      "products": "Sản phẩm ({count})",
+      "total": "Tổng cộng:",
+      "successTitle": "Thanh toán thành công!",
+      "successDesc": "Tài khoản của bạn đã được cấp và hiển thị bên dưới.",
+      "redirect": "🔄 Tự động chuyển đến trang đơn hàng trong {seconds} giây...",
+      "guestSuccessTitle": "Đơn hàng đã được xác nhận!",
+      "guestOrderNumber": "Mã đơn hàng:",
+      "guestEmailNotice": "📧 Email xác nhận đơn hàng cùng thông tin tài khoản sẽ được gửi đến {email}. Vui lòng kiểm tra hộp thư (bao gồm cả thư rác/spam).",
+      "guestSaveOrder": "📌 Hãy lưu lại mã đơn hàng phía trên để tra cứu hoặc liên hệ hỗ trợ khi cần.",
+      "guestContactTitle": "Cần hỗ trợ? Liên hệ ngay:",
+      "guestRegisterHint": "💡 Tạo tài khoản trên website để dễ dàng quản lý đơn hàng và xem lại thông tin tài khoản bất cứ lúc nào.",
+      "note": "💡 Lưu ý: Đơn hàng sẽ được tự động xác nhận sau khi chúng tôi nhận được chuyển khoản.",
+      "support": "Nếu có vấn đề, vui lòng liên hệ hỗ trợ qua trang liên hệ hoặc kênh hỗ trợ TKAIPro"
+    },
+    "error": {
+      "notFound": "Không tìm thấy đơn hàng",
+      "fetchError": "Không thể tải thông tin đơn hàng",
+      "connection": "Lỗi kết nối, vui lòng thử lại",
+      "back": "Quay lại mua hàng"
+    },
+    "backButton": "Quay lại mua hàng",
+    "qrAlt": "QR Code thanh toán",
+    "binance": {
+      "title": "Binance Pay",
+      "desc": "Vui lòng dùng app Binance để chuyển đến ID bên dưới"
+    },
+    "crypto": {
+      "selectMethod": "Chọn phương thức thanh toán",
+      "scanQrToPay": "Quét QR để gửi thanh toán",
+      "scanWithApp": "Quét bằng app {app} để thanh toán",
+      "provider": "Nhà cung cấp",
+      "payId": "Pay-ID",
+      "accountName": "Tên tài khoản",
+      "asset": "Đồng tiền",
+      "network": "Mạng lưới",
+      "address": "Địa chỉ ví",
+      "sendOnlyOn": "Chỉ gửi {asset} trên mạng {network}. Gửi sai mạng sẽ mất tiền vĩnh viễn.",
+      "orderRefNote": "Tham khảo đơn hàng (không phải memo on-chain) — đính kèm vào ô remark/note nếu sàn yêu cầu.",
+      "manualVerifyTitle": "Xác minh thủ công",
+      "manualVerifyDesc": "Sau khi gửi, vui lòng đợi vài phút để admin xác nhận, hoặc liên hệ hỗ trợ kèm mã đơn.",
+      "zoomQr": "Phóng to mã QR {method}"
+    },
+    "loginLinkInstructions": {
+      "title": "🔗 Hướng dẫn nhận tài khoản",
+      "lead": "Để nhận tài khoản, vui lòng thực hiện các bước sau:",
+      "step1": "Mở <b>Gemini / Google AI</b> trên máy, logout tài khoản hiện tại",
+      "step2": "Bấm <b>\"Sign in\"</b> trong app",
+      "step3": "Google sẽ mở trình duyệt với link đăng nhập dạng:",
+      "linkExample": "https://gemini.google.com/loginDeepControl?challenge=xxxxx&uuid=xxxxx&mode=login",
+      "step4": "<b>Copy NGAY link này</b> gửi cho shop",
+      "noteTitle": "⚠️ Lưu ý quan trọng:",
+      "note1": "Không bấm đăng nhập trên trình duyệt web",
+      "note2": "Không lấy link đã tự chuyển trang sang authenticator.cursor.sh - nếu chuyển trang thì làm lại thao tác \"Sign in\" từ đầu",
+      "note3": "Chỉ cần copy link và gửi cho shop là xong. Shop login tài khoản là OK ✅",
+      "videoBtn": "▶️ Xem video hướng dẫn",
+      "fbBtn": "📘 Facebook",
+      "tgBtn": "✈️ Telegram",
+      "footer": "Vui lòng gửi link login kèm mã đơn hàng <b>#{orderNumber}</b> để nhận tài khoản."
+    }
+  },
+  "HeaderUser": {
+    "menu": {
+      "orders": "Đơn hàng của tôi",
+      "wallet": "Ví của tôi",
+      "profile": "Hồ sơ cá nhân",
+      "settings": "Cài đặt",
+      "admin": "Trang quản trị",
+      "signOut": "Đăng xuất"
+    },
+    "toast": {
+      "success": "Đăng xuất thành công",
+      "error": "Có lỗi xảy ra khi đăng xuất"
+    }
+  },
+  "Header": {
+    "home": "Trang Chủ",
+    "intro": "Giới Thiệu",
+    "products": "Sản phẩm",
+    "purchasedCustomers": "Khách Đã Mua",
+    "blog": "Blog",
+    "affiliate": "Cộng Tác Viên",
+    "contact": "Liên Hệ",
+    "admin": "Admin",
+    "signIn": "Đăng Nhập",
+    "signUp": "Đăng Ký",
+    "dashboard": "Đơn hàng",
+    "profile": "Hồ Sơ",
+    "settings": "Cài Đặt",
+    "cart": "Giỏ hàng",
+    "orders": "Đơn hàng",
+    "search": {
+      "placeholder": "Tìm kiếm sản phẩm...",
+      "empty": "Không tìm thấy sản phẩm nào",
+      "hint": "Tìm kiếm"
+    },
+    "wallet": "Ví của tôi"
+  },
+  "Common": {
+    "language": "Ngôn ngữ",
+    "vietnamese": "Tiếng Việt",
+    "english": "English"
+  },
+  "HomePage": {
+    "heroTitle": "Mua tài khoản <highlight>Google AI</highlight> — <highlight>Google AI</highlight> giá tốt, giao nhanh",
+    "heroDescription": "TKAIPro là nhà bán lẻ độc lập tài khoản Google AI. Thanh toán → nhận login qua email trong vài phút. Bảo hành 1 đổi 1, hỗ trợ 24/7. Không liên kết với Google LLC",
+    "ctaRegister": "Xem Bảng Giá",
+    "ctaPricing": "📊 Xem Bảng Giá",
+    "disclaimer": "TKAIPro là nhà bán lẻ độc lập. Chúng tôi KHÔNG đại diện, không thuộc sở hữu của, không được tài trợ hay xác nhận bởi Google LLC. \"Google\" và \"Google AI\" là nhãn hiệu của Google LLC. Chúng tôi phân phối lại các gói subscription đã mua hợp pháp cho người dùng AI và nhóm đồ án.",
+    "badges": {
+      "warranty": "Bảo hành 1 đổi 1",
+      "support": "Hỗ trợ 24/7"
+    },
+    "customRequest": {
+      "badge": "HOT",
+      "title": "Nhận tìm tài khoản theo yêu cầu",
+      "subtitle": "Cần <highlight>gói Google AI khác ngoài danh sách trên website</highlight>? Inbox shop, hỗ trợ tìm & báo giá trong 5 phút.",
+      "cta": "Liên hệ ngay"
+    },
+    "productTypes": {
+      "cursor-pro": "Google AI",
+      "cursor-pro-official-1m": "Google AI 1 tháng",
+      "github-copilot": "Google AI 3 tháng",
+      "github-edu": "Google AI 6 tháng",
+      "figma-pro": "Google AI",
+      "jetbrains-edu": "Google AI 12 tháng"
+    },
+    "urgency": {
+      "title": "⚡ Ưu đãi giới hạn - Tiết kiệm đến 90%",
+      "subtitle": "Chỉ còn <bold>3 ngày</bold> để nhận ưu đãi đặc biệt này"
+    },
+    "liveDemo": "🔴 Live Demo",
+    "featuresTitle": "Tại sao chọn TKAIPro để mua tài khoản Google AI?",
+    "featuresDescription": "Nhà bán lẻ độc lập phục vụ hàng nghìn người dùng AI & người dùng Gemini. Giá cạnh tranh, giao hàng nhanh, bảo hành 1 đổi 1.",
+    "features": {
+      "transparentConsulting": {
+        "title": "Tư Vấn Minh Bạch",
+        "description": "Đội ngũ tư vấn giúp bạn chọn gói Google AI phù hợp và hoàn tất mua tài khoản Google AI với thông tin rõ ràng."
+      },
+      "reasonableSavings": {
+        "title": "Tiết Kiệm Hợp Lý",
+        "description": "Gợi ý phương thức thanh toán phù hợp (VietQR, MoMo, ZaloPay), tối ưu chi phí khi mua tài khoản Google AI."
+      },
+      "support247": {
+        "title": "Hỗ Trợ 24/7",
+        "description": "Hỗ trợ khách hàng 24/7 qua Telegram. Giải đáp mọi thắc mắc về Google AI nhanh chóng."
+      },
+      "longTermCompanion": {
+        "title": "Đồng Hành Dài Lâu",
+        "description": "Cung cấp hướng dẫn đăng nhập Google AI, tài liệu tiếng Việt và hỗ trợ sau khi giao tài khoản."
+      }
+    },
+    "benefitsTitle": "Tại Sao Nên Mua Tài Khoản Google AI?",
+    "benefitsDescription": "Google AI — collab realtime, Dev Mode, thư viện & file theo quyền edu cho nhóm thiết kế",
+    "benefits": {
+      "unlimitedCompletion": {
+        "title": "Collab Realtime Không Giới Hạn",
+        "description": "Làm việc cùng nhóm trên cùng file Google AI, comment và chỉnh sửa đồng thời — phù hợp đồ án và người dùng Gemini."
+      },
+      "fastRequests": {
+        "title": "Dev Mode & Handoff",
+        "description": "Xem thông số, export asset và đồng bộ với team thiết kế nhanh hơn so với bản miễn phí."
+      },
+      "maxMode": {
+        "title": "Thư Viện & Component Edu",
+        "description": "Dùng library, component và prototype theo quyền gói Google AI — đủ cho học tập và dự án thực tế."
+      }
+    },
+    "finalCta": {
+      "title": "Sẵn sàng mua tài khoản Google AI?",
+      "description": "Tham gia cùng hàng nghìn người dùng AI đã chọn TKAIPro. Xem bảng giá tài khoản Google AI ngay.",
+      "register": "Xem Bảng Giá",
+      "viewPackages": "Xem Bảng Giá"
+    }
+  },
+  "ProofGallery": {
+    "cta": "Xem chi tiết",
+    "badges": {
+      "featured": "Nổi bật",
+      "verified": "Đã xác minh",
+      "authentic": ""
+    },
+    "empty": {
+      "title": "Chưa có minh chứng nào",
+      "description": "Các đơn hàng mới sẽ được cập nhật sớm"
+    },
+    "details": {
+      "orderCode": "Mã đơn hàng",
+      "customer": "Khách hàng",
+      "value": "Giá trị",
+      "orderDate": "Ngày đặt hàng"
+    },
+    "zoom": {
+      "zoomOut": "Thu nhỏ",
+      "zoomIn": "Phóng to",
+      "reset": "Đặt lại",
+      "hint": {
+        "zoom": "Click để phóng to • Cuộn chuột để zoom",
+        "pan": "Kéo để di chuyển • Cuộn chuột để zoom"
+      }
+    }
+  },
+  "TrustSocialProof": {
+    "badge": "minh chứng thật từ khách hàng",
+    "titlePart1": "hàng nghìn khách hàng đã tin tưởng",
+    "titlePart2": "và sử dụng dịch vụ của chúng tôi",
+    "description": "Xem proof thật từ các đơn hàng thành công. Mọi đơn hàng đều được xác minh và bảo hành 1 đổi 1.",
+    "stats": {
+      "successOrders": "đơn hàng thành công",
+      "avgRating": "đánh giá trung bình"
+    },
+    "cta": "xem tất cả minh chứng từ khách hàng",
+    "ctaSub": "click để xem hàng nghìn đơn hàng thành công và đánh giá từ khách hàng thật",
+    "empty": {
+      "title": "minh chứng sẽ được cập nhật sớm"
+    },
+    "labels": {
+      "verified": "đã xác minh",
+      "authentic": "100%",
+      "warranty": "bảo hành 1 đổi 1",
+      "support": "hỗ trợ 24/7"
+    }
+  },
+  "FeaturedProducts": {
+    "title": "Các gói tài khoản Google AI",
+    "subtitle": "Mua tài khoản Google AI — tiết kiệm chi phí — bảo hành 1 đổi 1",
+    "cta": "Xem tất cả các gói",
+    "toast": "{name} đã được thêm vào giỏ hàng"
+  },
+  "Footer": {
+    "description": "TKAIPro — nhà bán lẻ độc lập tài khoản Google AI. Không liên kết với Google LLC Bảo hành 1 đổi 1, hỗ trợ 24/7.",
+    "columns": {
+      "products": "Sản Phẩm",
+      "company": "Công Ty",
+      "support": "Hỗ Trợ"
+    },
+    "links": {
+      "allPackages": "Tất Cả Gói",
+      "cursorPro1m": "Google AI 1 Tháng",
+      "cursorPro3m": "Google AI 3 Tháng",
+      "cursorPro6m": "Google AI 6 Tháng",
+      "cursorPro12m": "Google AI 12 Tháng",
+      "about": "Về Chúng Tôi",
+      "careers": "Tuyển Dụng",
+      "affiliate": "Cộng Tác Viên",
+      "blog": "Blog",
+      "press": "Báo Chí",
+      "contact": "Liên Hệ",
+      "customers": "Khách Hàng Đã Mua",
+      "help": "Trung Tâm Hỗ Trợ",
+      "shipping": "Giao Hàng & Đổi Trả",
+      "warranty": "Bảo Hành",
+      "returnPolicy": "Chính Sách Đổi Trả",
+      "privacy": "Chính Sách Bảo Mật",
+      "terms": "Điều Khoản Dịch Vụ",
+      "disclaimer": "Tuyên Bố Miễn Trừ",
+      "cookies": "Cookies",
+      "sitemap": "Sitemap"
+    },
+    "copyright": "Tất cả quyền được bảo lưu.",
+    "schedule": {
+      "title": "Giờ hỗ trợ",
+      "mainHours": "08:00-23:00 (Thứ 2 - Chủ nhật)",
+      "fastHours": "Khung giờ phản hồi nhanh: Thứ 2 - Thứ 6, 08:00-12:00; 13:30-17:00",
+      "telegramPriority": "Ưu tiên Telegram để được phản hồi nhanh hơn",
+      "emergency": "Khẩn cấp: 24/7 qua Telegram/Facebook"
+    },
+    "legal": {
+      "disclaimerTitle": "Tuyên bố về nhãn hiệu",
+      "disclaimerBody": "TKAIPro là nhà bán lẻ độc lập (third-party reseller) tài khoản Google AI. Chúng tôi KHÔNG liên kết, không được chứng nhận và không được tài trợ bởi Google LLC. \"Google\" và \"Google AI\" là nhãn hiệu của Google LLC. Chúng tôi bán lại tài khoản/subscription đã mua hợp pháp để thuận tiện cho người dùng AI và người dùng Gemini Việt Nam. Để đăng ký trực tiếp từ chủ sở hữu nhãn hiệu, vui lòng truy cập https://gemini.google.com."
+    },
+    "trustBadges": {
+      "authentic": "Đại lý uy tín"
+    }
+  },
+  "SEO": {
+    "defaultDescription": "TKAIPro là nhà bán lẻ độc lập (third-party reseller) tài khoản Google AI. Mua tài khoản Google AI giá tốt, giao login qua email sau thanh toán, bảo hành 1 đổi 1, hỗ trợ 24/7. Không liên kết với Google LLC",
+    "defaultTitle": "Mua tài khoản Google AI giá tốt | TKAIPro",
+    "slogan": "Nhà bán lẻ tài khoản Google AI",
+    "keywords": "mua tài khoản Google AI, Google AI, Google AI, tài khoản Google AI, mua Google AI, TKAIPro, tkaipro.shop, tài khoản Google AI giá tốt"
+  },
+  "CompetitorComparison": {
+    "title": "So Sánh Google AI Với Công Cụ Khác",
+    "description": "Vì sao nhiều người dùng AI và người dùng Gemini chọn mua tài khoản Google AI qua TKAIPro thay vì chỉ dùng bản Free hoặc công cụ khác.",
+    "tools": {
+      "cursor": {
+        "description": "Google AI — collab & Dev Mode",
+        "price": "Giá tốt qua TKAIPro",
+        "originalPrice": "Gói Google AI theo thời hạn"
+      },
+      "vscode": {
+        "name": "Google AI Free",
+        "description": "Bản miễn phí giới hạn",
+        "price": "Free"
+      },
+      "copilot": {
+        "name": "Sketch",
+        "description": "Thiết kế macOS-centric",
+        "price": "Trả phí riêng"
+      },
+      "codeium": {
+        "name": "Adobe XD / Canva",
+        "description": "Prototype & thiết kế nhẹ",
+        "price": "Theo gói từng hãng"
+      }
+    },
+    "features": {
+      "header": "Tính năng",
+      "completion": "Collab realtime",
+      "chat": "Comment trên file",
+      "models": "Component & library",
+      "analysis": "Dev Mode / handoff",
+      "editing": "Multiplayer editing",
+      "generation": "Prototype tương tác",
+      "debug": "Plugin & cộng đồng",
+      "performance": "Làm việc nhóm đồ án",
+      "cost": "Chi phí qua TKAIPro (tham khảo)"
+    },
+    "values": {
+      "cursor": {
+        "completion": "Không giới hạn theo quyền edu",
+        "chat": "Comment & mention đầy đủ",
+        "models": "Library & component edu",
+        "analysis": "✓ Dev Mode",
+        "editing": "✓ Đồng thời nhiều người",
+        "generation": "✓ Prototype nâng cao",
+        "debug": "✓ Ecosystem lớn",
+        "performance": "Tối ưu cho nhóm học tập",
+        "cost": "Giá tốt / tháng"
+      },
+      "vscode": {
+        "completion": "Giới hạn file/team",
+        "chat": "Cơ bản",
+        "models": "Hạn chế",
+        "analysis": "✗ / rất hạn chế",
+        "editing": "Giới hạn chỗ ngồi",
+        "generation": "Cơ bản",
+        "debug": "Cơ bản",
+        "performance": "Đủ dùng cá nhân",
+        "cost": "Free (giới hạn)"
+      },
+      "copilot": {
+        "completion": "Theo file local / cloud Sketch",
+        "chat": "Hạn chế hơn Google AI",
+        "models": "Symbols / Libraries",
+        "analysis": "Inspect riêng",
+        "editing": "Yếu multiplayer hơn",
+        "generation": "Prototype có",
+        "debug": "Plugin ít hơn",
+        "performance": "Chủ yếu macOS",
+        "cost": "Trả phí Sketch"
+      },
+      "codeium": {
+        "completion": "Collab tùy gói",
+        "chat": "Tùy sản phẩm",
+        "models": "Template sẵn",
+        "analysis": "Handoff hạn chế",
+        "editing": "Theo gói",
+        "generation": "Prototype nhẹ / marketing",
+        "debug": "Khác hệ sinh thái",
+        "performance": "Phù hợp design nhẹ",
+        "cost": "Theo Adobe / Canva"
+      }
+    },
+    "cards": {
+      "cursor": {
+        "title": "Google AI Có Gì Nổi Bật?",
+        "content": [
+          "• <bold>Collab realtime</bold> cho nhóm đồ án UI/UX",
+          "• <bold>Dev Mode</bold> xem thông số & export asset",
+          "• <bold>Component / library</bold> theo quyền edu",
+          "• <bold>Prototype</bold> luồng màn hình ngay trên file"
+        ]
+      },
+      "service": {
+        "title": "Giá Trị Khi Mua Qua TKAIPro",
+        "content": [
+          "• <bold>Mua tài khoản Google AI</bold> thanh toán nội địa (VietQR, ví)",
+          "• <bold>Tư vấn chọn gói</bold> theo nhu cầu học / freelance",
+          "• <bold>Hỗ trợ tiếng Việt</bold> 24/7",
+          "• <bold>Minh bạch</bold> — nhà bán lẻ độc lập, không liên kết Google LLC"
+        ]
+      },
+      "commitment": {
+        "title": "Cam Kết Từ TKAIPro",
+        "content": [
+          "• <bold>Bảo hành 1 đổi 1</bold> lỗi shop trong 24h đầu",
+          "• <bold>Giao login qua email</bold> sau thanh toán",
+          "• <bold>Hỗ trợ 24/7</bold> bằng tiếng Việt",
+          "• <bold>Hướng dẫn đăng nhập</bold> từ A–Z"
+        ]
+      }
+    },
+    "recommended": "KHUYÊN DÙNG"
+  },
+  "SuccessStories": {
+    "title": "Khách Hàng Đã Mua Tài Khoản Google AI",
+    "description": "Câu chuyện từ người dùng AI, người dùng Gemini và nhóm đồ án đã mua tài khoản Google AI tại TKAIPro",
+    "stats": {
+      "developers": "Khách đã mua Google AI",
+      "speed": "Tốc độ hoàn thành mockup",
+      "debug": "Giảm thời gian chỉnh sửa nhóm",
+      "rating": "Đánh giá trung bình"
+    },
+    "stories": {
+      "0": {
+        "role": "Sinh viên Thiết kế Đồ họa",
+        "story": "Từ khi mua tài khoản Google AI qua TKAIPro, nhóm đồ án làm chung một file realtime rất mượt. Comment và Auto Layout giúp chốt layout nhanh hơn hẳn bản Free.",
+        "results": [
+          "Hoàn thành đồ án sớm 1 tuần",
+          "Collab nhóm 5 người mượt",
+          "Handoff rõ ràng với Dev Mode"
+        ]
+      },
+      "1": {
+        "role": "Freelance UI Designer",
+        "story": "Cần Google AI để prototype và library cho khách. Mua qua TKAIPro thanh toán VietQR tiện, nhận email login trong vài phút — bắt tay làm ngay trong ngày.",
+        "results": [
+          "Giao mockup nhanh hơn 40%",
+          "Prototype chốt với khách dễ hơn",
+          "Tiết kiệm chi phí đăng ký"
+        ]
+      },
+      "2": {
+        "role": "Nhóm đồ án UX",
+        "story": "Trước dùng Free bị giới hạn chỗ ngồi. Chuyển sang Google AI, cả nhóm comment và iterate trên cùng file — mentor review cũng tiện hơn.",
+        "results": [
+          "Không còn tắc chỗ ngồi Free",
+          "Feedback mentor ngay trên file",
+          "Library component dùng lại được"
+        ]
+      },
+      "3": {
+        "role": "Sinh viên UI/UX",
+        "story": "Lần đầu mua tài khoản Google AI online hơi e ngại, nhưng TKAIPro giao đúng mô tả, hỗ trợ tiếng Việt rõ ràng. Giờ dùng Dev Mode để xem spacing khi học handoff.",
+        "results": [
+          "Đăng nhập ổn định",
+          "Học Dev Mode nhanh hơn",
+          "Support phản hồi dưới 5 phút"
+        ]
+      },
+      "4": {
+        "role": "Freelance Product Designer",
+        "story": "Làm song song 2–3 brief mỗi tháng. Google AI giúp giữ component system gọn; mua dài hạn qua TKAIPro để khỏi lo gia hạn từng tháng.",
+        "results": [
+          "Giữ design system nhất quán",
+          "Giao brief đúng deadline",
+          "Chi phí dự báo được theo quý"
+        ]
+      },
+      "5": {
+        "role": "Trưởng nhóm đồ án thiết kế",
+        "story": "Phân vai research / UI / prototype trên cùng file Google AI. Mua edu cho cả nhóm qua TKAIPro — quy trình rõ, ai cũng vào được file master.",
+        "results": [
+          "1 file master cho cả nhóm",
+          "Giảm file gửi qua lại",
+          "Chốt prototype trước bảo vệ đồ án"
+        ]
+      }
+    },
+    "cta": {
+      "title": "Bạn Muốn Có Câu Chuyện Thành Công Riêng?",
+      "description": "Tham gia cộng đồng người dùng AI & người dùng Gemini đã mua tài khoản Google AI tại TKAIPro. Câu chuyện tiếp theo có thể là của bạn!",
+      "start": "🚀 Xem Bảng Giá Google AI",
+      "follow": "📘 Theo Dõi Fanpage"
+    },
+    "resultsLabel": "Kết quả đạt được:"
+  },
+  "Tutorial": {
+    "title": "Hướng Dẫn Mua & Dùng Tài Khoản Google AI",
+    "description": "Từ chọn gói → thanh toán → nhận email → đăng nhập Google AI trong vài phút",
+    "download": {
+      "title": "Mở Google AI trên web hoặc app",
+      "version": "Dùng Google AI trên <bold>trình duyệt</bold> hoặc app desktop — Windows, macOS, Linux",
+      "button": "Mở Google AI",
+      "note": "⚡ Sau khi nhận email giao hàng, đăng nhập để dùng quyền Google AI"
+    },
+    "steps": {
+      "1": {
+        "title": "Chọn gói Google AI",
+        "description": "Xem bảng giá và chọn gói tài khoản Google AI phù hợp nhu cầu",
+        "details": [
+          "Vào trang Sản phẩm trên tkaipro.shop",
+          "Chọn thời hạn gói phù hợp (1 tháng, 3 tháng…)",
+          "Thêm vào giỏ và kiểm tra lại đơn",
+          "Chuẩn bị email nhận hàng chính xác"
+        ],
+        "duration": "2 phút",
+        "difficulty": "Dễ"
+      },
+      "2": {
+        "title": "Thanh toán VietQR / ví điện tử",
+        "description": "Thanh toán qua VietQR, MoMo, ZaloPay hoặc chuyển khoản",
+        "details": [
+          "Chọn phương thức thanh toán trong checkout",
+          "Quét VietQR hoặc xác nhận giao dịch ví",
+          "Giữ biên lai / mã giao dịch nếu cần đối soát",
+          "Đợi hệ thống xác nhận thanh toán thành công"
+        ],
+        "duration": "3 phút",
+        "difficulty": "Dễ"
+      },
+      "3": {
+        "title": "Nhận email giao login",
+        "description": "TKAIPro gửi thông tin đăng nhập qua email — không hiện mật khẩu trên web",
+        "details": [
+          "Kiểm tra hộp thư (và Spam/Junk)",
+          "Mở email giao hàng từ TKAIPro",
+          "Lưu email/mật khẩu đăng nhập an toàn",
+          "Làm theo hướng dẫn kèm trong email"
+        ],
+        "duration": "2 phút",
+        "difficulty": "Dễ"
+      },
+      "4": {
+        "title": "Đăng nhập Google AI",
+        "description": "Dùng credential nhận được để đăng nhập và kiểm tra quyền edu",
+        "details": [
+          "Mở gemini.google.com hoặc ứng dụng Google AI",
+          "Đăng nhập bằng email/mật khẩu đã nhận",
+          "Xác minh quyền Google AI trên tài khoản",
+          "Tạo file thử hoặc vào team đồ án"
+        ],
+        "duration": "5 phút",
+        "difficulty": "Dễ"
+      },
+      "5": {
+        "title": "Bắt đầu thiết kế với nhóm",
+        "description": "Dùng Auto Layout, component, prototype và Dev Mode theo quyền edu",
+        "details": [
+          "Tạo frame và áp dụng Auto Layout",
+          "Tái sử dụng component / library của nhóm",
+          "Prototype luồng màn hình cho đồ án",
+          "Bật Dev Mode khi cần handoff thông số"
+        ],
+        "duration": "15 phút",
+        "difficulty": "Trung bình"
+      }
+    },
+    "tips": {
+      "shortcuts": {
+        "title": "Phím tắt hữu ích trên Google AI",
+        "list": [
+          "F: tạo Frame",
+          "Shift + A: Auto Layout",
+          "Ctrl/Cmd + Alt + K: tạo Component",
+          "Shift + E: Dev Mode (khi có quyền)"
+        ]
+      },
+      "bestPractices": {
+        "title": "Best Practices",
+        "list": [
+          "Đặt tên layer/frame rõ ràng cho cả nhóm",
+          "Dùng Auto Layout thay vì căn thủ công",
+          "Tách component dùng chung vào library",
+          "Comment trực tiếp trên file thay vì chat rời"
+        ]
+      },
+      "useCases": {
+        "title": "Trường hợp dùng phổ biến",
+        "list": [
+          "Đồ án UI/UX nhóm trên cùng một file",
+          "Prototype app/web trước khi build",
+          "Design system nhỏ cho khóa học",
+          "Handoff thông số cho thành viên Dev Mode"
+        ]
+      }
+    },
+    "support": {
+      "freeSetup": "Hỗ trợ hướng dẫn đăng nhập 1-on-1 cho khách hàng mới",
+      "messenger": "💬 Chat Messenger Support",
+      "telegram": "📱 Telegram Support"
+    }
+  },
+  "FAQ": {
+    "title": "Câu Hỏi Thường Gặp Về Mua Tài Khoản Google AI",
+    "description": "Giải đáp các câu hỏi thường gặp về Google AI và dịch vụ bán lẻ của TKAIPro.",
+    "items": {
+      "0": {
+        "question": "Google AI / Google AI là gì?",
+        "answer": "Google AI (thường gọi Google AI) là gói dành cho sinh viên và môi trường học tập thiết kế trên Google AI — collab realtime, Dev Mode, file/library theo quyền edu. TKAIPro bán lại subscription này dưới dạng nhà bán lẻ độc lập, không liên kết với Google LLC"
+      },
+      "1": {
+        "question": "Shop có phải đại diện chính thức của Google không?",
+        "answer": "Không. TKAIPro là nhà bán lẻ độc lập (third-party reseller). Chúng tôi không đại diện, không được ủy quyền hay xác nhận bởi Google LLC Quyền lợi gói phụ thuộc điều khoản của Google."
+      },
+      "2": {
+        "question": "Tại sao mua tài khoản Google AI ở đây rẻ hơn?",
+        "answer": "TKAIPro gom nhu cầu, tối ưu phí thanh toán quốc tế và chia sẻ chi phí vận hành. Bạn tiết kiệm đáng kể so với đăng ký trực tiếp, kèm hỗ trợ tiếng Việt và bảo hành 1 đổi 1 lỗi từ phía shop."
+      },
+      "3": {
+        "question": "Mua tài khoản Google AI có bảo hành không?",
+        "answer": "Có bảo hành 1 đổi 1 trong 24 giờ đầu cho lỗi từ phía shop (không đăng nhập được, thiếu quyền edu...). Không hoàn tiền sau khi đã giao credential (hàng số). Không bảo hành nếu Google suspend/terminate do vi phạm điều khoản của họ. Support 24/7 qua Telegram."
+      },
+      "4": {
+        "question": "Google AI khác gì bản Google AI Free?",
+        "answer": "Bản Free giới hạn file/team và một số tính năng nâng cao. Google AI mở rộng collab, Dev Mode, library và quyền phù hợp học tập/đồ án — đủ để làm UI/UX chuyên nghiệp hơn trong môi trường edu."
+      },
+      "5": {
+        "question": "Mua tài khoản Google AI thanh toán thế nào?",
+        "answer": "Thanh toán qua MoMo, ZaloPay, VietQR hoặc chuyển khoản ngân hàng. Giao dịch mã hóa SSL. Thanh toán một lần, không tự gia hạn. Thông tin thanh toán không lưu trữ để bảo mật."
+      },
+      "6": {
+        "question": "Sau thanh toán nhận tài khoản như thế nào?",
+        "answer": "Sau khi thanh toán thành công, bạn nhận email chứa thông tin đăng nhập Google AI trong khoảng 1–5 phút (trung bình 2–3 phút giờ hành chính). Website không hiện mật khẩu — chỉ gửi qua email."
+      },
+      "7": {
+        "question": "Có hướng dẫn đăng nhập Google AI không?",
+        "answer": "Có. Mỗi đơn hàng kèm hướng dẫn đăng nhập tiếng Việt. Đội ngũ hỗ trợ giúp bạn vào Google AI từ A–Z nếu gặp khó khăn qua Telegram/Facebook."
+      }
+    },
+    "stillHaveQuestions": "Vẫn còn thắc mắc?",
+    "contactSupport": "Liên hệ với chúng tôi qua nhiều kênh khác nhau. Đội ngũ support sẵn sàng hỗ trợ 24/7!",
+    "telegram": "Chat ngay",
+    "messenger": "Chat ngay",
+    "fanpage": "Fanpage",
+    "email": "Email",
+    "zaloGroup": "Nhóm cộng đồng",
+    "facebookGroup": "Nhóm Facebook"
+  },
+  "Community": {
+    "badge": "Cộng đồng",
+    "title": "Tham Gia Cộng Đồng Google AI Việt Nam",
+    "description": "Kết nối với người dùng AI và người dùng Gemini Việt Nam, chia sẻ kinh nghiệm Google AI và nhận hỗ trợ nhanh từ cộng đồng.",
+    "members": "thành viên",
+    "facebook": {
+      "title": "Nhóm Facebook",
+      "description": "Cộng đồng lớn nhất, thảo luận sôi nổi và chia sẻ kinh nghiệm dùng Google AI."
+    },
+    "zalo": {
+      "title": "Nhóm Zalo",
+      "description": "Trao đổi nhanh chóng, hỗ trợ kỹ thuật real-time và cập nhật ưu đãi mới nhất."
+    },
+    "telegram": {
+      "title": "Kênh Telegram",
+      "description": "Nhận thông báo, tips & tricks và tài liệu học tập về Google AI."
+    },
+    "benefits": {
+      "support": "Hỗ trợ từ cộng đồng",
+      "network": "Networking với designer Việt",
+      "exclusive": "Ưu đãi độc quyền"
+    }
+  },
+  "WarningMarquee": {
+    "text": "⚠️ CẢNH BÁO: Hiện tại đang có người giả danh Google AI Fanpage shop. Yêu cầu khách hàng chỉ giao dịch thông qua <contact>Trang liên hệ của Shop</contact> hoặc <products>mua hàng trực tiếp trên website của TKAIPro</products> nhé!!!"
+  },
+  "Testimonials": {
+    "title": "Đánh Giá Từ Khách Mua Tài Khoản Google AI",
+    "description": "Hàng nghìn người dùng AI và người dùng Gemini đã tin dùng dịch vụ của TKAIPro",
+    "items": {
+      "0": {
+        "text": "Support nhiệt tình, nhận email login trong 5 phút. Mua tài khoản Google AI giá tốt hơn đăng ký trực tiếp mà dùng ổn. Rất hài lòng!",
+        "author": {
+          "name": "Hoàng Văn Nam",
+          "handle": "@nam.design"
+        }
+      },
+      "1": {
+        "text": "Trước dùng Google AI Free bị chật chỗ ngồi nhóm. Chuyển Google AI qua TKAIPro, collab mượt, Auto Layout + prototype đủ cho đồ án.",
+        "author": {
+          "name": "Trần Thanh Tú",
+          "handle": "@tu.uiux"
+        }
+      },
+      "2": {
+        "text": "Uy tín. Đã mua gói dài hạn, active vào mail đúng giờ. Không phải share lung tung — dùng riêng cho brief freelance.",
+        "author": {
+          "name": "Lê Đức Thắng",
+          "handle": "@thang.figma"
+        }
+      },
+      "3": {
+        "text": "Google AI giúp mình cân vài brief một lúc. Shop hỗ trợ tiếng Việt, thanh toán VietQR tiện. Recommend cho bạn học thiết kế.",
+        "author": {
+          "name": "Phạm Minh Tâm",
+          "handle": "@tam.product"
+        }
+      },
+      "4": {
+        "text": "Mới đầu hơi e ngại mua online nhưng check kỹ rồi mua thử 1 tháng. Giờ gia hạn dài hơn cho rẻ. 10 điểm cho TKAIPro.",
+        "author": {
+          "name": "Nguyễn Quốc Bảo",
+          "handle": "@bao.ux"
+        }
+      },
+      "5": {
+        "text": "Nhóm 5 người cùng mua. Hướng dẫn rõ, bảo hành rõ. Vote 5 sao cho shop bán tài khoản Google AI.",
+        "author": {
+          "name": "Vũ Thị Hằng",
+          "handle": "@hang.studio"
+        }
+      }
+    }
+  },
+  "ProductsPage": {
+    "breadcrumbs": {
+      "home": "Trang Chủ",
+      "products": "Tài khoản Google AI"
+    },
+    "title": "Tài khoản Google AI",
+    "subtitle": "Mua tài khoản Google AI - Tiết kiệm chi phí - Bảo hành 1 đổi 1 - Giao email ~5 phút",
+    "allCategories": "Tất Cả",
+    "newBadge": "New",
+    "filterTitle": "Lọc theo {name}",
+    "emptyState": {
+      "title": "Không tìm thấy sản phẩm nào",
+      "categoryEmpty": "Không có sản phẩm nào trong danh mục \"{category}\"",
+      "genericEmpty": "Hiện tại chưa có sản phẩm nào — vui lòng quay lại sau hoặc liên hệ hỗ trợ"
+    },
+    "pagination": {
+      "prev": "Trước",
+      "next": "Sau"
+    },
+    "toast": {
+      "added": "{name} đã được thêm vào giỏ hàng"
+    },
+    "search": {
+      "placeholder": "Tìm kiếm gói Google AI...",
+      "noResults": "Không tìm thấy kết quả cho \"{query}\"",
+      "noResultsHint": "Thử từ khóa khác hoặc duyệt theo danh mục"
+    },
+    "sort": {
+      "label": "Sắp xếp",
+      "default": "Mặc định",
+      "priceLowToHigh": "Giá: Thấp → Cao",
+      "priceHighToLow": "Giá: Cao → Thấp",
+      "newest": "Mới nhất",
+      "topRated": "Đánh giá cao nhất"
+    },
+    "priceFilter": {
+      "label": "Khoảng giá",
+      "apply": "Áp dụng",
+      "clear": "Xóa bộ lọc"
+    },
+    "seo": {
+      "title": "Tài khoản Google AI — các gói đang bán",
+      "description": "Danh sách gói tài khoản Google AI đang bán tại TKAIPro. Mua tài khoản Google AI giá tốt, giao login qua email, bảo hành 1 đổi 1.",
+      "keywords": "tài khoản Google AI, mua tài khoản Google AI, Google AI, gói Google AI, bảng giá Google AI, TKAIPro"
+    },
+    "breadcrumb": {
+      "home": "Trang Chủ",
+      "products": "Sản phẩm"
+    }
+  },
+  "ProductCard": {
+    "popular": "PHỔ BIẾN",
+    "soldCount": "{count}+ đã mua",
+    "save": "Tiết kiệm {amount}₫",
+    "warranty": "Bảo hành 1 đổi 1",
+    "support": "Hỗ trợ 24/7",
+    "buyNow": "Mua Ngay",
+    "addToCart": "Thêm vào giỏ",
+    "outOfStock": "Hết Hàng",
+    "toast": {
+      "added": "{name} đã được thêm vào giỏ hàng"
+    },
+    "aria": {
+      "addToWishlist": "Thêm vào yêu thích"
+    },
+    "quickView": {
+      "button": "Xem nhanh",
+      "features": "Tính năng nổi bật",
+      "viewDetail": "Xem chi tiết đầy đủ"
+    }
+  },
+  "SocialShare": {
+    "share": "Chia sẻ",
+    "facebook": "Chia sẻ lên Facebook",
+    "telegram": "Chia sẻ lên Telegram",
+    "copyLink": "Sao chép Link",
+    "copied": "Đã sao chép!",
+    "linkCopied": "Đã sao chép link sản phẩm",
+    "copyFailed": "Không thể sao chép link",
+    "shareText": "Xem ngay {productName} tại TKAIPro!"
+  },
+  "SocialProofPreview": {
+    "badge": "Minh chứng thật từ khách hàng",
+    "title": "Khách hàng đã mua",
+    "highlight": "hàng nghìn đơn hàng thành công",
+    "description": "Xem minh chứng thực tế từ các đơn hàng của khách hàng đã tin tưởng và sử dụng dịch vụ của chúng tôi",
+    "featured": "Nổi bật",
+    "empty": "Chưa có minh chứng nào",
+    "viewAll": "Xem tất cả minh chứng",
+    "productTypes": {
+      "cursor-pro": "Google AI",
+      "cursor-pro-official-1m": "Google AI 1 Tháng",
+      "github-copilot": "GitHub Copilot",
+      "github-edu": "GitHub EDU",
+      "figma-pro": "Google AI Pro",
+      "jetbrains-edu": "JetBrains"
+    },
+    "badges": {
+      "authentic": "Đại lý uy tín"
+    },
+    "labels": {
+      "authentic": "Đại lý uy tín"
+    }
+  },
+  "SocialProofPage": {
+    "seo": {
+      "title": "Khách đã mua tài khoản Google AI tại TKAIPro",
+      "description": "Xem minh chứng khách đã mua tài khoản Google AI tại TKAIPro. Đơn hàng thật — mua tài khoản Google AI uy tín tại Việt Nam.",
+      "keywords": "mua tài khoản Google AI, khách hàng Google AI, đơn hàng Google AI, TKAIPro, minh chứng mua Google AI"
+    },
+    "hero": {
+      "badge": "Minh chứng đơn hàng thật",
+      "title": "Khách đã mua",
+      "highlight": "Tài khoản Google AI",
+      "description": "Hàng nghìn khách đã tin tưởng TKAIPro khi mua tài khoản Google AI. Xem minh chứng thực tế từ các đơn hàng thành công!",
+      "stats": {
+        "orders": "Đơn hàng",
+        "cursor": "Google AI",
+        "github": "Sinh viên TK",
+        "reviews": "Đánh giá",
+        "figma": "Google AI",
+        "delivery": "Giao nhanh"
+      }
+    },
+    "proofs": {
+      "title": "Minh chứng thực tế từ khách hàng",
+      "description": "Click vào từng minh chứng để xem chi tiết và phóng to hình ảnh",
+      "badges": {
+        "authentic": "Nhà bán lẻ uy tín"
+      },
+      "labels": {
+        "authentic": "Nhà bán lẻ uy tín"
+      },
+      "verifiedBadge": "BẰNG CHỨNG XÁC THỰC"
+    },
+    "trust": {
+      "title": "Tại sao chọn chúng tôi?",
+      "items": {
+        "0": {
+          "title": "100%",
+          "description": "Cam kết hỗ trợ mua tài khoản Google AI minh bạch, đúng mô tả gói"
+        },
+        "1": {
+          "title": "Bảo hành 1 đổi 1",
+          "description": "Đổi mới ngay nếu lỗi từ phía shop (theo chính sách)"
+        },
+        "2": {
+          "title": "Hỗ trợ 24/7",
+          "description": "Đội ngũ hỗ trợ nhiệt tình, sẵn sàng giúp đỡ"
+        }
+      }
+    },
+    "productTypes": {
+      "figmaEdu": "Google AI"
+    },
+    "commitment": {
+      "bannerTitle": "🛡️ CAM KẾT 100% ĐƠN HÀNG THẬT",
+      "bannerSubtitle": "Hoàn tiền 200% nếu phát hiện đơn hàng giả mạo",
+      "ssl": "Bảo mật SSL",
+      "verified": "Đã xác minh",
+      "trusted": "Uy tín hàng đầu"
+    },
+    "whyTrust": {
+      "badge": "TẠI SAO KHÁCH HÀNG TIN TƯỞNG CHÚNG TÔI",
+      "title": "Cam Kết Uy Tín - Minh Bạch 100%",
+      "description": "Chúng tôi tự hào là nhà bán lẻ độc lập chuyên tài khoản Google AI với hàng nghìn khách hàng hài lòng.",
+      "realOrdersTitle": "Đơn Hàng Thực 100%",
+      "realOrdersDesc": "Tất cả đơn hàng hiển thị đều được lấy trực tiếp từ hệ thống thanh toán, không có bất kỳ sự can thiệp nào.",
+      "dataSecurityTitle": "Bảo Mật Thông Tin",
+      "dataSecurityDesc": "Thông tin khách hàng được bảo vệ tuyệt đối với SSL 256-bit. Tên khách hàng được ẩn một phần để bảo mật.",
+      "instantDeliveryTitle": "Giao Hàng Tức Thì",
+      "instantDeliveryDesc": "Nhận tài khoản Google AI qua email ngay sau khi thanh toán thành công. Hỗ trợ 24/7.",
+      "refundTitle": "Hoàn Tiền 200%",
+      "refundDesc": "Cam kết hoàn tiền 200% nếu phát hiện bất kỳ đơn hàng giả mạo nào. Đây là sự tự tin của chúng tôi.",
+      "quote": "Hơn {count}+ khách hàng đã tin tưởng và mua tài khoản Google AI tại TKAIPro. Cảm ơn quý khách đã đồng hành!",
+      "satisfied": "Khách hàng hài lòng"
+    },
+    "promise": {
+      "badge": "LỜI HỨA CỦA CHÚNG TÔI"
+    },
+    "cta": {
+      "title": "🎯 Bạn còn chần chừ gì nữa?",
+      "description": "Hàng nghìn khách hàng đã mua tài khoản Google AI tại TKAIPro. Đến lượt bạn!",
+      "buyNow": "Mua Ngay",
+      "contact": "Liên Hệ Hỗ Trợ"
+    }
+  },
+  "BlogPage": {
+    "seo": {
+      "title": "Blog Google AI — hướng dẫn & mẹo",
+      "description": "Blog TKAIPro — hướng dẫn mua tài khoản Google AI, mẹo Auto Layout, prototype và collab nhóm. Kiến thức Google AI cho người dùng AI Việt Nam.",
+      "keywords": "blog Google AI, Google AI, mua tài khoản Google AI, mẹo Google AI, hướng dẫn Google AI, TKAIPro blog"
+    },
+    "hero": {
+      "title": "Blog",
+      "highlight": "Google AI",
+      "description": "Chia sẻ hướng dẫn và mẹo dùng Google AI — từ mua tài khoản Google AI đến Auto Layout, prototype và collab nhóm đồ án."
+    },
+    "categories": {
+      "all": "All",
+      "tutorial": "Tutorial",
+      "news": "News",
+      "tips": "Tips"
+    },
+    "featured": {
+      "title": "Bài Viết Nổi Bật",
+      "readMore": "Đọc Bài Viết",
+      "defaultTitle": "Featured Post",
+      "readTime": "{minutes} phút đọc",
+      "author": "Admin"
+    },
+    "posts": {
+      "title": "Bài Viết Mới Nhất",
+      "readMore": "Đọc Tiếp",
+      "defaultImage": "Blog Image",
+      "empty": "Chưa có bài viết nào. Sắp có hướng dẫn Google AI — quay lại sớm!",
+      "loadMore": "Xem Thêm Bài Viết"
+    },
+    "newsletter": {
+      "title": "Đăng Ký Nhận Tin Mới",
+      "description": "Nhận bản tin về mẹo Google AI, cập nhật gói Google AI và bài hướng dẫn độc quyền cho người đăng ký.",
+      "placeholder": "your.email@example.com",
+      "button": "Đăng Ký",
+      "privacy": "Chúng tôi tôn trọng privacy của bạn. Unsubscribe bất cứ lúc nào."
+    },
+    "cta": {
+      "title": "Sẵn Sàng Mua Tài Khoản Google AI?",
+      "description": "Áp dụng ngay mẹo từ blog và bắt đầu thiết kế với Google AI",
+      "buyNow": "Mua Google AI Ngay",
+      "guide": "Xem Hướng Dẫn"
+    }
+  },
+  "ContactPage": {
+    "seo": {
+      "title": "Liên hệ mua tài khoản Google AI — hỗ trợ 24/7",
+      "description": "Liên hệ TKAIPro để mua tài khoản Google AI. Hỗ trợ 24/7 qua Telegram, Facebook. Tư vấn mua tài khoản Google AI nhanh chóng.",
+      "keywords": "liên hệ TKAIPro, mua tài khoản Google AI, hỗ trợ Google AI, Google AI Việt Nam, tkaipro.shop"
+    },
+    "hero": {
+      "badge": "Chúng tôi luôn sẵn sàng hỗ trợ bạn",
+      "title": "Liên Hệ",
+      "highlight": "TKAIPro",
+      "description": "Đội ngũ support chuyên nghiệp sẵn sàng hỗ trợ bạn",
+      "subDescription": "Liên hệ ngay để được tư vấn miễn phí về mua tài khoản Google AI!",
+      "stats": {
+        "response": "Phản hồi trong 5 phút",
+        "customers": "Hàng nghìn khách tin tưởng",
+        "support": "Hỗ trợ tức thì 24/7"
+      }
+    },
+    "methods": {
+      "title": "Chọn Cách Liên Hệ",
+      "highlight": "Phù Hợp Với Bạn",
+      "description": "Liên hệ với chúng tôi qua Fanpage Facebook hoặc Telegram để nhận hỗ trợ nhanh chóng",
+      "facebook": {
+        "title": "Fanpage Facebook",
+        "description": "Theo dõi và liên hệ qua Fanpage",
+        "action": "Truy cập Fanpage"
+      },
+      "telegram": {
+        "title": "Telegram",
+        "description": "Liên hệ hỗ trợ qua Telegram",
+        "action": "Liên hệ Telegram"
+      },
+      "available": "24/7"
+    },
+    "quickBanner": {
+      "title": "💬 Liên hệ nhanh nhất qua",
+      "facebook": "Fanpage Facebook",
+      "or": "hoặc",
+      "telegram": "Telegram",
+      "description": "Để được phản hồi tức thì và nhận tư vấn chi tiết về mua tài khoản Google AI, hãy liên hệ qua Fanpage Facebook hoặc Telegram. Chúng tôi cam kết phản hồi trong vòng 5 phút!",
+      "buttons": {
+        "facebook": "Fanpage Facebook",
+        "telegram": "Telegram TKAIPro"
+      }
+    },
+    "info": {
+      "title": "Liên Hệ Với Chúng Tôi",
+      "description": "Vui lòng liên hệ qua Fanpage Facebook hoặc Telegram để được hỗ trợ nhanh chóng",
+      "note": "💡 Lưu ý: Chúng tôi chỉ hỗ trợ qua 2 kênh chính là Fanpage Facebook và Telegram. Vui lòng liên hệ qua một trong hai kênh này để được phản hồi nhanh nhất.",
+      "company": {
+        "title": "Thông Tin Cửa Hàng",
+        "name": "TKAIPro",
+        "description": "Nhà bán lẻ độc lập tài khoản Google AI — không liên kết với Google LLC",
+        "addressTitle": "Địa chỉ",
+        "address": "Thành phố Hồ Chí Minh, Việt Nam",
+        "hoursTitle": "Giờ hoạt động",
+        "hours": "• Thứ 2 - Chủ nhật: 08:00 - 23:00\n• Buổi tối và cuối tuần có thể phản hồi chậm hơn\n• Khung giờ phản hồi nhanh: Thứ 2 - Thứ 6, 08:00-12:00; 13:30-17:00\n• Nghỉ trưa 12:00-13:30 có thể phản hồi chậm hoặc đến chiều\n• Ưu tiên nhắn Telegram để được phản hồi nhanh hơn Facebook\n• Khẩn cấp: 24/7 qua Telegram/Facebook",
+        "responseTitle": "Thời gian phản hồi",
+        "response": "• Telegram (ưu tiên): thường nhanh hơn\n• Fanpage Facebook: có thể chậm hơn vào buổi tối/cuối tuần"
+      },
+      "faq": {
+        "title": "Câu Hỏi Thường Gặp",
+        "viewAll": "Xem Tất Cả FAQ",
+        "items": {
+          "0": {
+            "question": "Tài khoản có dùng được ngay không?",
+            "answer": "Có! Sau thanh toán bạn nhận email login và có thể đăng nhập Google AI ngay."
+          },
+          "1": {
+            "question": "Có hỗ trợ hướng dẫn đăng nhập không?",
+            "answer": "Có! Chúng tôi hỗ trợ hướng dẫn đăng nhập Google AI từ A–Z hoàn toàn miễn phí."
+          },
+          "2": {
+            "question": "Thanh toán có an toàn không?",
+            "answer": "Hoàn toàn an toàn với nhiều phương thức: MoMo, Banking, ZaloPay, VietQR."
+          }
+        }
+      }
+    },
+    "emergency": {
+      "badge": "🚨",
+      "title": "Cần Hỗ Trợ Khẩn Cấp?",
+      "description": "Nếu tài khoản Google AI gặp sự cố hoặc cần hỗ trợ gấp, liên hệ ngay qua Fanpage Facebook hoặc Telegram! Chúng tôi luôn online 24/7.",
+      "note": "⚡ Phản hồi trong vòng 2 phút khi khẩn cấp"
+    },
+    "social": {
+      "title": "Liên hệ với chúng tôi qua các kênh hỗ trợ"
+    }
+  },
+  "Cart": {
+    "trigger": {
+      "ariaLabel": "Mở giỏ hàng"
+    },
+    "title": "Giỏ Hàng",
+    "empty": {
+      "message": "Giỏ hàng của bạn đang trống",
+      "count": "Bạn có {count} sản phẩm trong giỏ hàng",
+      "title": "Giỏ hàng trống",
+      "description": "Bạn chưa thêm sản phẩm nào vào giỏ hàng.",
+      "viewProducts": "Xem Sản Phẩm"
+    },
+    "item": {
+      "remove": "Xóa sản phẩm",
+      "decrease": "Giảm số lượng",
+      "increase": "Tăng số lượng"
+    },
+    "summary": {
+      "subtotal": "Tạm tính",
+      "discountCode": "Mã voucher CTV",
+      "placeholder": "Nhập mã voucher",
+      "apply": "Áp dụng",
+      "applying": "Đang kiểm tra...",
+      "discount": "Giảm giá",
+      "total": "Tổng cộng",
+      "checkout": "Thanh Toán",
+      "continue": "Tiếp Tục Mua Hàng",
+      "clear": "Xóa Giỏ Hàng"
+    },
+    "voucher": {
+      "appliedLabel": "Đã áp voucher",
+      "applied": "Đã áp dụng voucher!",
+      "removed": "Đã gỡ voucher",
+      "remove": "Gỡ",
+      "invalid": "Mã voucher không hợp lệ",
+      "networkError": "Không kết nối được, vui lòng thử lại"
+    },
+    "priceChanged": {
+      "title": "Giá sản phẩm đã được cập nhật",
+      "dismiss": "Đã hiểu"
+    }
+  },
+  "Checkout": {
+    "title": "Thanh Toán",
+    "back": "Quay lại mua hàng",
+    "greeting": {
+      "user": "Xin chào {name}! Hoàn tất thông tin để đặt hàng",
+      "guest": "Hoàn tất thông tin để đặt hàng"
+    },
+    "loginHint": {
+      "text": "để tự động điền thông tin và theo dõi đơn hàng",
+      "link": "Đăng nhập"
+    },
+    "walletBanner": "Nạp ví 1 lần — mua nhiều lần, ít giao dịch ngân hàng hơn",
+    "loginRequired": {
+      "title": "Vui lòng đăng nhập để thanh toán",
+      "desc": "Thanh toán qua ví giúp bạn CK một lần, mua nhiều lần"
+    },
+    "steps": {
+      "info": "Thông tin đơn hàng",
+      "payment": "Thanh toán",
+      "finish": "Hoàn tất"
+    },
+    "form": {
+      "customerInfo": "Thông tin khách hàng",
+      "name": "Họ và tên",
+      "email": "Email",
+      "phone": "Số điện thoại",
+      "note": "Ghi chú đơn hàng",
+      "notePlaceholder": "Ghi chú cho đơn hàng (tùy chọn)",
+      "autoFill": "✓ Đã điền từ tài khoản của bạn"
+    },
+    "payment": {
+      "title": "Phương Thức Thanh Toán",
+      "bankTransfer": "Chuyển khoản ngân hàng",
+      "bankTransferDesc": "Thanh toán qua QR Code - Tự động xác nhận",
+      "wallet": "Trả bằng số dư ví",
+      "walletDesc": "Trừ trực tiếp từ ví — đơn hàng được xử lý ngay, không cần QR.",
+      "walletBalance": "Số dư",
+      "recommended": "Khuyến nghị",
+      "shortfall": "Còn thiếu {amount}",
+      "topupCta": "Nạp {amount} để thanh toán",
+      "walletInsufficientHint": "Số dư không đủ — vui lòng nạp thêm",
+      "walletInsufficient": "Số dư không đủ để thanh toán đơn này",
+      "walletLoginHint": "để có thể trả nhanh bằng số dư ví (không cần chuyển khoản từng đơn).",
+      "payWithWalletBtn": "Thanh toán bằng ví ngay"
+    },
+    "summary": {
+      "title": "Đơn Hàng ({count} sản phẩm)",
+      "subtotal": "Tạm tính",
+      "processingFee": "Phí xử lý",
+      "free": "Miễn phí",
+      "voucher": "Voucher ({code})",
+      "total": "Tổng cộng",
+      "submit": "Đặt Hàng Ngay",
+      "submitting": "Đang xử lý...",
+      "termsHint": "Bạn phải tick đủ các ô xác nhận phía trên trước khi đặt hàng."
+    },
+    "consent": {
+      "title": "Xác nhận bắt buộc",
+      "over18": "Tôi đủ 18 tuổi.",
+      "termsPrivacy": "Tôi đồng ý <terms>Điều khoản dịch vụ</terms> và <privacy>Chính sách bảo mật</privacy>.",
+      "reseller": "Tôi hiểu TKAIPro là nhà bán lẻ độc lập, không liên kết với Google LLC",
+      "cursorTos": "Tôi đồng ý tuân thủ Điều khoản Google AI (<link>www.gemini.google.com/legal</link>)."
+    },
+    "toast": {
+      "cartEmpty": "Giỏ hàng trống, vui lòng chọn sản phẩm",
+      "missingInfo": "Vui lòng nhập họ tên và email",
+      "missingConsent": "Vui lòng tick đủ các ô xác nhận bắt buộc",
+      "missingUpgradeInfo": "Vui lòng nhập đầy đủ thông tin tài khoản cần nâng cấp",
+      "success": "Đơn hàng đã được tạo thành công!",
+      "error": "Có lỗi xảy ra, vui lòng thử lại"
+    },
+    "upgradeInfo": {
+      "title": "Thông tin tài khoản cần nâng cấp",
+      "description": "Vui lòng nhập email và mật khẩu tài khoản bạn muốn nâng cấp. Thông tin này chỉ được sử dụng để nâng cấp tài khoản của bạn.",
+      "email": "Email tài khoản",
+      "emailPlaceholder": "Nhập email tài khoản cần nâng cấp",
+      "password": "Mật khẩu tài khoản",
+      "passwordPlaceholder": "Nhập mật khẩu tài khoản",
+      "contactInfo": "Telegram / Facebook",
+      "contactPlaceholder": "Nhập username Telegram hoặc link Facebook để liên hệ"
+    }
+  },
+  "CookiesPage": {
+    "seo": {
+      "title": "Chính Sách Cookies",
+      "description": "Chính sách cookies của TKAIPro. Tìm hiểu cách chúng tôi sử dụng cookies để cải thiện trải nghiệm người dùng và bảo vệ thông tin cá nhân.",
+      "keywords": "chính sách cookies tkaipro, chính sách cookie việt nam, bảo mật thông tin"
+    },
+    "hero": {
+      "title": "Chính Sách",
+      "highlight": "Cookies",
+      "description": "Tìm hiểu cách TKAIPro sử dụng cookies để cải thiện trải nghiệm của bạn và bảo vệ thông tin cá nhân một cách minh bạch.",
+      "update": "Cập nhật: 15/01/2025"
+    },
+    "definition": {
+      "title": "Cookies Là Gì?",
+      "description": "Cookies là những tệp tin nhỏ được lưu trữ trên thiết bị của bạn khi bạn truy cập website. Chúng giúp website nhớ thông tin về lần truy cập của bạn, làm cho trải nghiệm tiếp theo trở nên thuận tiện hơn.",
+      "whyTitle": "Tại sao chúng tôi sử dụng cookies?",
+      "reasons": {
+        "1": "Đảm bảo website hoạt động bình thường và an toàn",
+        "2": "Ghi nhớ đăng nhập và giỏ hàng của bạn",
+        "3": "Cải thiện hiệu suất và tốc độ tải trang",
+        "4": "Hiểu cách bạn sử dụng website để tối ưu trải nghiệm",
+        "5": "Cung cấp nội dung và quảng cáo phù hợp"
+      },
+      "commitment": "Cam kết: Chúng tôi không bao giờ lưu trữ thông tin nhạy cảm như mật khẩu, thông tin thẻ tín dụng trong cookies."
+    },
+    "types": {
+      "title": "Loại Cookies Chúng Tôi Sử Dụng",
+      "description": "Hiểu rõ từng loại cookies và mục đích sử dụng",
+      "purpose": "Mục đích:",
+      "examples": "Ví dụ:",
+      "canDisable": "Có thể tắt:",
+      "yes": "✅ Có",
+      "no": "❌ Không",
+      "settings": "Cài Đặt",
+      "items": {
+        "essential": {
+          "title": "Cookies Thiết Yếu",
+          "description": "Cần thiết cho hoạt động cơ bản",
+          "purpose": "Đảm bảo website hoạt động bình thường"
+        },
+        "analytics": {
+          "title": "Cookies Phân Tích",
+          "description": "Thu thập dữ liệu sử dụng website",
+          "purpose": "Hiểu cách người dùng tương tác với website"
+        },
+        "marketing": {
+          "title": "Marketing Cookies",
+          "description": "Dùng để phân phối quảng cáo phù hợp",
+          "purpose": "Theo dõi hiệu quả quảng cáo"
+        },
+        "functional": {
+          "title": "Functional Cookies",
+          "description": "Ghi nhớ tùy chọn của bạn",
+          "purpose": "Lưu cài đặt ngôn ngữ, giao diện"
+        }
+      }
+    },
+    "details": {
+      "title": "Chi Tiết Cookies",
+      "description": "Danh sách đầy đủ các cookies được sử dụng trên website",
+      "headers": {
+        "name": "Tên Cookie",
+        "provider": "Nhà Cung Cấp",
+        "purpose": "Mục Đích",
+        "duration": "Thời Hạn",
+        "type": "Loại"
+      }
+    },
+    "manage": {
+      "title": "Quản Lý Cookies",
+      "description": "Bạn có thể kiểm soát và/hoặc xóa cookies theo mong muốn.",
+      "browser": "Cài đặt Trình duyệt",
+      "options": "Tùy chọn Khả dụng",
+      "warning": "Cảnh báo",
+      "warningItems": {
+        "1": "Tắt cookies thiết yếu có thể làm hỏng chức năng website",
+        "2": "Các tùy chọn cá nhân sẽ không được lưu",
+        "3": "Bạn có thể cần đăng nhập lại"
+      },
+      "buttons": {
+        "settings": "Thay Đổi Cài Đặt",
+        "view": "Xem Chi Tiết"
+      }
+    },
+    "thirdParty": {
+      "title": "Cookies Bên Thứ Ba",
+      "description": "Chúng tôi sử dụng các dịch vụ bên thứ ba tin cậy có thể đặt cookies trên thiết bị của bạn."
+    },
+    "contact": {
+      "title": "Liên Hệ & Cập Nhật",
+      "changes": "Thay đổi Chính sách",
+      "info": "Thông tin Liên hệ"
+    },
+    "cta": {
+      "title": "Có câu hỏi?",
+      "description": "Đội ngũ của chúng tôi sẵn sàng giải đáp thắc mắc về cách chúng tôi xử lý dữ liệu của bạn.",
+      "contact": "Liên Hệ Ngay",
+      "privacy": "Chính Sách Bảo Mật"
+    }
+  },
+  "TermsPage": {
+    "seo": {
+      "title": "Điều Khoản & Điều Kiện",
+      "description": "Điều khoản và điều kiện của TKAIPro (tkaipro.shop). Dịch vụ hỗ trợ kỹ thuật thiết lập, nâng cấp, kích hoạt — không phải đại lý hay nhà phân phối của Google LLC. Bảo hành, thanh toán và giới hạn trách nhiệm.",
+      "keywords": "điều khoản TKAIPro, điều khoản điều kiện, Google AI, tkaipro.shop"
+    },
+    "hero": {
+      "title": "Điều Khoản &",
+      "highlight": "Điều Kiện",
+      "description": "Vui lòng đọc kỹ các Điều khoản này trước khi sử dụng TKAIPro. Bằng việc truy cập website, đặt hàng hoặc thanh toán bất kỳ dịch vụ nào, bạn xác nhận đã đọc, hiểu và đồng ý bị ràng buộc bởi các điều khoản dưới đây.",
+      "effective": "Có hiệu lực từ: 11/07/2026 (phiên bản 2026-07-11)"
+    },
+    "highlights": {
+      "transparent": {
+        "title": "Minh Bạch",
+        "desc": "Phạm vi hỗ trợ kỹ thuật rõ ràng"
+      },
+      "fair": {
+        "title": "Công Bằng",
+        "desc": "Bảo vệ quyền lợi cả hai bên"
+      },
+      "flexible": {
+        "title": "Bảo hành rõ",
+        "desc": "1-đổi-1 trong 24h nếu lỗi shop"
+      },
+      "updated": {
+        "title": "Cập Nhật",
+        "desc": "Phù hợp vận hành hiện tại"
+      }
+    },
+    "sections": {
+      "1": {
+        "title": "1. Phạm Vi Dịch Vụ",
+        "intro": "TKAIPro (tkaipro.shop) cung cấp dịch vụ hỗ trợ khách hàng trong việc thiết lập, nâng cấp, kích hoạt, cấu hình hoặc xử lý các nhu cầu kỹ thuật liên quan đến phần mềm, tài khoản hoặc dịch vụ số theo yêu cầu cụ thể của khách hàng.",
+        "items": [
+          "\"TKAIPro\", \"TKAIPro\" hoặc \"Chúng tôi\": đơn vị hỗ trợ kỹ thuật độc lập — không phải đại lý, nhà phân phối, đơn vị được ủy quyền, đơn vị đại diện hoặc đối tác chính thức của Google LLC, Google AI hay bất kỳ thương hiệu nào khác, trừ khi có thông báo bằng văn bản rõ ràng từ chính chủ sở hữu thương hiệu đó.",
+          "\"Khách hàng\" hoặc \"Bạn\": người yêu cầu và sử dụng dịch vụ hỗ trợ của chúng tôi.",
+          "\"Dịch vụ\": các hoạt động thiết lập, nâng cấp, kích hoạt, hướng dẫn cấu hình, hỗ trợ thanh toán (khi áp dụng) và chăm sóc sau bàn giao trong phạm vi đã công bố.",
+          "\"Tài khoản / quyền truy cập\": thông tin đăng nhập hoặc quyền truy cập liên quan đến Google AI (hoặc sản phẩm được mô tả) được bàn giao sau khi chúng tôi hoàn tất hỗ trợ theo yêu cầu.",
+          "\"Website\": trang web tkaipro.shop và các subdomain."
+        ],
+        "trademarkNote": "Các tên thương hiệu, logo, tên phần mềm hoặc tên sản phẩm nếu được nhắc đến trên website chỉ nhằm mục đích mô tả khả năng tương thích, nhu cầu hỗ trợ kỹ thuật hoặc nội dung dịch vụ mà khách hàng yêu cầu. Tất cả thương hiệu thuộc quyền sở hữu của chủ sở hữu tương ứng."
+      },
+      "2": {
+        "title": "2. Chấp Nhận Điều Khoản",
+        "content": "Bằng việc truy cập website, đăng ký, gửi yêu cầu hỗ trợ, đặt hàng, thanh toán (SePay/VietQR, crypto, số dư ví hoặc phương thức đã công bố khác) hoặc sử dụng bất kỳ dịch vụ nào do chúng tôi cung cấp, bạn xác nhận đã đọc, hiểu và đồng ý tuân thủ các Điều khoản này và Chính sách bảo mật.",
+        "note": "Lưu ý: Nếu bạn không đồng ý với bất kỳ điều khoản nào, vui lòng ngừng sử dụng dịch vụ ngay lập tức và không đặt hàng hoặc thanh toán.",
+        "paymentMeans": "Việc thanh toán được hiểu là bạn xác nhận yêu cầu hỗ trợ là hợp pháp, thông tin cung cấp thuộc quyền sử dụng hợp pháp của bạn, và bạn đồng ý cung cấp thông tin cần thiết để chúng tôi thực hiện dịch vụ."
+      },
+      "3": {
+        "title": "3. Bản Chất Dịch Vụ & Yếu Tố Bên Thứ Ba",
+        "package": "Dịch vụ hỗ trợ có thể bao gồm (nhưng không giới hạn):",
+        "packageItems": [
+          "Hỗ trợ thiết lập tài khoản hoặc cấu hình phần mềm",
+          "Hỗ trợ nâng cấp gói dịch vụ, tính năng hoặc cấu hình",
+          "Hỗ trợ kích hoạt phần mềm, tài khoản hoặc dịch vụ số theo nhu cầu hợp lệ của khách hàng",
+          "Hỗ trợ cài đặt, cấu hình, kiểm tra hoặc hướng dẫn sử dụng trong phạm vi hiểu biết kỹ thuật của chúng tôi",
+          "Hỗ trợ xử lý các vấn đề phát sinh trong quá trình sử dụng dịch vụ mà chúng tôi đã thực hiện cho khách hàng"
+        ],
+        "commitment": "Làm rõ quan trọng:",
+        "commitmentItems": [
+          "Chúng tôi chỉ thực hiện các yêu cầu phù hợp với pháp luật, điều khoản của bên cung cấp nền tảng/phần mềm và chính sách dịch vụ của TKAIPro.",
+          "Chúng tôi có quyền từ chối cung cấp dịch vụ nếu yêu cầu có dấu hiệu vi phạm pháp luật, xâm phạm quyền sở hữu trí tuệ, gian lận, lạm dụng hoặc ảnh hưởng đến quyền lợi hợp pháp của bên thứ ba.",
+          "Chúng tôi không phải đại lý hay nhà phân phối của Google LLC; tên sản phẩm chỉ mang tính mô tả.",
+          "Chúng tôi đồng hành xử lý khi phát sinh lỗi liên quan đến thanh toán hoặc kích hoạt trong phạm vi bảo hành đã công bố."
+        ],
+        "note": "Lưu ý: TKAIPro là dịch vụ hỗ trợ kỹ thuật độc lập và không thuộc Google LLC Mọi quyền sở hữu trí tuệ và thẩm quyền về sản phẩm Google AI thuộc về Google LLC",
+        "durationTitle": "Thời hạn sử dụng, hỗ trợ và yếu tố ngoài kiểm soát",
+        "durationIntro": "Mỗi dịch vụ có thể có thời hạn sử dụng, thời hạn hỗ trợ hoặc điều kiện khác nhau. Khách hàng cần đọc kỹ mô tả trước khi thanh toán. Khả năng duy trì dịch vụ có thể bị ảnh hưởng bởi yếu tố ngoài khả năng kiểm soát của chúng tôi, bao gồm:",
+        "durationItems": [
+          "Chính sách của nhà phát triển phần mềm, nền tảng hoặc bên cung cấp dịch vụ gốc (bao gồm Google LLC)",
+          "Thay đổi điều khoản sử dụng, chính sách kích hoạt, chính sách tài khoản hoặc bảo mật của bên thứ ba",
+          "Bên thứ ba ngừng cung cấp, thay đổi, giới hạn hoặc thu hồi tính năng",
+          "Lỗi hệ thống, thay đổi kỹ thuật hoặc nguyên nhân khách quan khác từ bên thứ ba",
+          "Các trường hợp bất khả kháng theo quy định pháp luật"
+        ],
+        "durationNote": "Chúng tôi sẽ cố gắng hỗ trợ trong phạm vi hợp lý, nhưng không cam kết khôi phục đầy đủ tính năng, quyền truy cập hoặc trạng thái dịch vụ nếu nguyên nhân nằm ngoài quyền kiểm soát của chúng tôi.",
+        "cursorTitle": "Điều khoản Google",
+        "cursorItems": [
+          "Bạn bắt buộc tuân thủ Điều khoản Google AI (www.gemini.google.com/legal) và Chính sách bảo mật (www.gemini.google.com/legal).",
+          "Chúng tôi không kiểm soát giá, tính năng, uptime hay quyết định khóa tài khoản của Google LLC.",
+          "Mọi quyền lợi khuyến mãi/referral (nếu có) phụ thuộc chính sách Google LLC và có thể thay đổi hoặc bị thu hồi."
+        ]
+      },
+      "4": {
+        "title": "4. Thông Tin Tài Khoản, Bảo Mật & Trách Nhiệm Sau Bàn Giao",
+        "intro": "Khách hàng chịu trách nhiệm đảm bảo thông tin cung cấp là chính xác, hợp pháp và thuộc quyền sử dụng hợp pháp của mình. Sau khi dịch vụ hoàn tất / bàn giao, tài khoản (hoặc quyền truy cập) là tài sản của khách hàng và khách hàng phải tự bảo mật.",
+        "items": [
+          "Thay đổi email, mật khẩu, 2FA và email khôi phục ngay sau khi nhận credential nếu được khuyến nghị hoặc áp dụng.",
+          "Tự lưu trữ thông tin đăng nhập, mã kích hoạt và dữ liệu cấu hình ở nơi an toàn; không chia sẻ cho người không có thẩm quyền.",
+          "Chủ động bảo vệ tài khoản và thiết bị khỏi rủi ro mất quyền truy cập, lộ thông tin hoặc bị bên thứ ba sử dụng trái phép.",
+          "Vì lý do bảo mật, chúng tôi có thể không lưu trữ hoặc không thể cung cấp lại một số thông tin sau khi đã bàn giao — khách hàng cần tự lưu giữ.",
+          "Chúng tôi không hỗ trợ các trường hợp sau một thời gian khách hàng không thể truy cập do quên thông tin tài khoản, quên mật khẩu, quên thông tin đăng nhập hoặc mất 2FA.",
+          "Cấm spam, reverse engineer hoặc sử dụng trái pháp luật Việt Nam/quốc tế.",
+          "Vi phạm có thể bị chấm dứt dịch vụ ngay lập tức, không hoàn tiền.",
+          "Bạn tự chịu trách nhiệm mọi hoạt động phát sinh từ tài khoản đã nhận."
+        ]
+      },
+      "5": {
+        "title": "5. Đặt Hàng & Thanh Toán",
+        "order": "Đặt hàng:",
+        "orderItems": [
+          "Chọn gói dịch vụ hỗ trợ tương ứng với thời hạn Google AI mong muốn",
+          "Thêm vào giỏ hàng và checkout",
+          "Điền thông tin liên hệ và tài khoản Google AI (nếu có) chính xác",
+          "Chọn phương thức thanh toán phù hợp",
+          "Xác nhận yêu cầu hỗ trợ và hoàn tất đặt dịch vụ"
+        ],
+        "payment": "Thanh toán:",
+        "paymentItems": [
+          "SePay / VietQR (chuyển khoản), crypto (Binance, Bybit, on-chain) và số dư ví (nếu có)",
+          "Khách hàng thanh toán 100% phí dịch vụ trước khi chúng tôi tiến hành hỗ trợ",
+          "Biên nhận được gửi qua email hoặc hệ thống quản lý đơn hàng",
+          "Phí dịch vụ thể hiện rõ ràng và không bao gồm thuế của nhà phát hành Google"
+        ],
+        "time": "Thời gian xử lý: Chúng tôi thường bắt đầu hỗ trợ trong vòng 1–5 phút sau khi thanh toán thành công đối với ca thông thường."
+      },
+      "6": {
+        "title": "6. Bảo Hành, Đổi & Hoàn Tiền",
+        "noRefundNote": "Không hoàn tiền sau khi credential đã giao / tài khoản đã kích hoạt (hàng số), trừ khi chúng tôi không thể thực hiện dịch vụ vì lý do từ phía chúng tôi, hoặc có thỏa thuận riêng bằng văn bản qua kênh hỗ trợ chính thức.",
+        "replacement": "Bảo hành 1-đổi-1 (lỗi shop, 24 giờ đầu):",
+        "replacementItems": [
+          "Không đăng nhập được ngay sau khi nhận credential (lỗi shop)",
+          "Thiếu tính năng Education trong 24 giờ đầu sau khi đăng nhập (lỗi shop)",
+          "Thời hạn sử dụng không đúng gói đã mua (lỗi shop)"
+        ],
+        "warranty": "Hỗ trợ bảo hành:",
+        "warrantyItems": [
+          "Hỗ trợ kỹ thuật trong phạm vi đã công bố của gói",
+          "Kiểm tra và 1-đổi-1 khi xác nhận lỗi giao hàng từ phía shop trong 24 giờ",
+          "Phản hồi trong 24 giờ cho yêu cầu bảo hành hợp lệ"
+        ],
+        "exclusion": "Không bảo hành / không hoàn tiền / không hỗ trợ thêm khi:",
+        "exclusionItems": [
+          "Credential đã giao và tài khoản kích hoạt thành công",
+          "Quên mật khẩu, mất 2FA, quên thông tin đăng nhập hoặc mất quyền truy cập sau một thời gian sử dụng",
+          "Khách hàng tự thay đổi cấu hình, email, mật khẩu, hồ sơ hoặc thiết lập bảo mật sau bàn giao",
+          "Google LLC suspend/terminate tài khoản theo ToS hoặc chính sách của họ",
+          "Sử dụng sai mục đích hoặc vi phạm Điều khoản Google",
+          "Chia sẻ tài khoản, bán lại hoặc khai thác thương mại trái phép",
+          "Đổi ý sau khi mua",
+          "Lỗi phát sinh từ thiết bị, mạng, phần mềm độc hại của khách hàng hoặc yếu tố ngoài phạm vi dịch vụ",
+          "Server down, bảo trì hoặc thay đổi chính sách từ Google LLC"
+        ]
+      },
+      "7": {
+        "title": "7. Nghĩa Vụ Của Khách Hàng",
+        "commit": "Bạn cam kết:",
+        "commitItems": [
+          "Tuân thủ pháp luật Việt Nam và các quy định có liên quan",
+          "Cung cấp thông tin liên hệ và tài khoản chính xác, đầy đủ",
+          "Đổi thông tin bảo mật ngay sau bàn giao và tự bảo quản credential",
+          "Sử dụng tài khoản cho mục đích cá nhân hợp pháp và tuân thủ điều khoản Google",
+          "Hợp tác cung cấp thông tin cần thiết để hoàn tất hỗ trợ"
+        ],
+        "forbid": "Bạn không được:",
+        "forbidItems": [
+          "Yêu cầu thực hiện hành vi trái pháp luật, vượt quyền truy cập, phá khóa, bẻ khóa hoặc vi phạm điều khoản bên thứ ba",
+          "Sử dụng dịch vụ cho gian lận, xâm phạm sở hữu trí tuệ hoặc gây hại bên thứ ba",
+          "Mua đi bán lại, chia sẻ hoặc chuyển nhượng trái phép gây ảnh hưởng đến TKAIPro, khách hàng khác hoặc bên thứ ba",
+          "Cung cấp thông tin giả mạo hoặc thông tin không thuộc quyền sử dụng hợp pháp",
+          "Spam, lạm dụng giới hạn request, tạo nhiều tài khoản để tận dụng ưu đãi, hoặc dùng phương thức thanh toán bất hợp pháp",
+          "Sử dụng tài khoản để phát triển sản phẩm cạnh tranh trái với điều khoản áp dụng"
+        ]
+      },
+      "8": {
+        "title": "8. Nghĩa Vụ Của Chúng Tôi & Giới Hạn Trách Nhiệm",
+        "commit": "Chúng tôi cam kết:",
+        "commitItems": [
+          "Minh bạch về phạm vi dịch vụ hỗ trợ và các khoản phí liên quan",
+          "Thực hiện hỗ trợ đúng thời gian cam kết (thường 1–5 phút sau thanh toán đối với ca thông thường)",
+          "Đồng hành kỹ thuật trong khung bảo hành/hỗ trợ đã công bố",
+          "Bảo mật thông tin khách hàng theo Chính sách bảo mật",
+          "Tuân thủ chính sách bảo hành và hoàn tiền đã công bố"
+        ],
+        "limit": "Giới hạn trách nhiệm:",
+        "limitItems": [
+          "Không chi phối chính sách, tính năng, uptime hay quyết định tài khoản của Google LLC",
+          "Không đảm bảo tính liên tục 100% của dịch vụ Google AI",
+          "Không chịu trách nhiệm đối với thiệt hại gián tiếp, ngẫu nhiên, phát sinh, mất dữ liệu, mất doanh thu, mất lợi nhuận, gián đoạn công việc hoặc mất quyền truy cập phát sinh từ việc khách hàng sử dụng sai mục đích, thay đổi chính sách bên thứ ba, lỗi bảo mật từ phía khách (mất mật khẩu/2FA) hoặc bất khả kháng",
+          "Trách nhiệm tối đa đối với một dịch vụ cụ thể, nếu có lỗi trực tiếp từ phía chúng tôi và không thể khắc phục, không vượt quá số tiền khách hàng đã thanh toán cho chính dịch vụ đó"
+        ]
+      },
+      "9": {
+        "title": "9. Sở Hữu Trí Tuệ & Nhãn Hiệu",
+        "items": [
+          "Nội dung website (văn bản, bố cục, giao diện, hình ảnh, tài liệu hướng dẫn do chúng tôi biên soạn) thuộc quyền sở hữu hoặc quyền sử dụng hợp pháp của TKAIPro.",
+          "Google và Google AI là thương hiệu của Google LLC. Các tên/logo khác thuộc chủ sở hữu tương ứng.",
+          "Việc nhắc đến các thương hiệu này không có nghĩa là chúng tôi được tài trợ, xác nhận, ủy quyền, phân phối hoặc đại diện chính thức cho các thương hiệu đó.",
+          "Khách hàng không được sao chép, chỉnh sửa, phân phối hoặc khai thác trái phép nội dung website nếu chưa có sự đồng ý bằng văn bản từ TKAIPro hoặc chủ sở hữu hợp pháp."
+        ]
+      },
+      "10": {
+        "title": "10. Tạm Ngưng hoặc Chấm Dứt Dịch Vụ",
+        "intro": "Chúng tôi có quyền tạm ngưng hoặc chấm dứt cung cấp dịch vụ nếu:",
+        "items": [
+          "Khách hàng vi phạm Điều khoản này",
+          "Khách hàng có hành vi gian lận, lạm dụng, gây rối hoặc làm ảnh hưởng đến hệ thống / khách hàng khác",
+          "Khách hàng yêu cầu nội dung có dấu hiệu trái pháp luật hoặc vi phạm quyền của bên thứ ba",
+          "Khách hàng không cung cấp đủ thông tin cần thiết để thực hiện dịch vụ",
+          "Việc tiếp tục cung cấp dịch vụ có thể gây rủi ro pháp lý, kỹ thuật hoặc bảo mật cho TKAIPro, khách hàng khác hoặc bên thứ ba"
+        ],
+        "note": "Nếu tạm ngưng hoặc chấm dứt do lỗi vi phạm từ phía khách hàng, chúng tôi có quyền từ chối hoàn tiền và từ chối tiếp tục hỗ trợ."
+      },
+      "11": {
+        "title": "11. Thay Đổi Điều Khoản",
+        "content": "Chúng tôi có quyền cập nhật, chỉnh sửa hoặc thay đổi Điều khoản này bất cứ lúc nào để phù hợp với mô hình kinh doanh, quy định pháp luật, chính sách bên thứ ba hoặc nhu cầu vận hành.",
+        "reasonItems": [
+          "Thay đổi trong kinh doanh và dịch vụ",
+          "Yêu cầu pháp lý mới",
+          "Thay đổi chính sách bên thứ ba",
+          "Cải thiện trải nghiệm khách hàng"
+        ],
+        "note": "Phiên bản cập nhật được công bố trên tkaipro.shop và có hiệu lực kể từ thời điểm đăng tải, trừ khi có thông báo khác. Việc tiếp tục sử dụng dịch vụ sau khi cập nhật đồng nghĩa với việc chấp nhận thay đổi. Các thay đổi trọng yếu cũng có thể phản ánh qua TERMS_VERSION khi checkout."
+      },
+      "12": {
+        "title": "12. Giải Quyết Tranh Chấp",
+        "process": "Quy trình giải quyết:",
+        "processItems": [
+          "Liên hệ trực tiếp qua Messenger, Telegram hoặc email",
+          "Trao đổi và tìm giải pháp trong vòng 24 giờ",
+          "Nếu không thỏa thuận được, chuyển lên cấp quản lý",
+          "Cuối cùng giải quyết theo pháp luật Việt Nam tại cơ quan có thẩm quyền tại TP. Hồ Chí Minh"
+        ],
+        "law": "Luật áp dụng: Điều khoản này được điều chỉnh bởi pháp luật Việt Nam. Mọi tranh chấp sẽ được giải quyết tại Tòa án có thẩm quyền tại TP. Hồ Chí Minh."
+      },
+      "13": {
+        "title": "13. Liên Hệ",
+        "brand": "TKAIPro",
+        "support": "Thời gian hỗ trợ",
+        "time": "Hỗ trợ: 24/7",
+        "resp": "Phản hồi: Trong 5 phút (ca thông thường)",
+        "web": "Website: tkaipro.shop",
+        "email": "Email: support@tkaipro.shop",
+        "messenger": "Messenger: tkaipro.shop/contact",
+        "telegram": "Telegram: tkaipro.shop/contact"
+      }
+    },
+    "legalSafety": {
+      "title": "Quy Định Sử Dụng Hợp Pháp & Miễn Trừ Trách Nhiệm",
+      "highlight": "Bằng việc mua và sử dụng dịch vụ, bạn xác nhận đã đọc, hiểu và đồng ý với các quy định dưới đây.",
+      "prohibitedTitle": "Nghiêm cấm các hành vi sau:",
+      "prohibited": [
+        "Nghiêm cấm sử dụng tài khoản, email và mọi tài nguyên được cung cấp vào mục đích trái pháp luật.",
+        "Lừa đảo, gian lận, chiếm đoạt tài sản, rửa tiền hoặc tài trợ cho hoạt động bất hợp pháp.",
+        "Gửi thư rác (spam), phát tán phần mềm độc hại, phishing, tấn công mạng hoặc truy cập trái phép hệ thống.",
+        "Mạo danh, giả mạo danh tính hoặc làm giả giấy tờ, tài liệu.",
+        "Vi phạm quyền sở hữu trí tuệ hoặc phát tán nội dung bị pháp luật cấm.",
+        "Mọi hành vi vi phạm pháp luật tại quốc gia nơi khách hàng cư trú và pháp luật Việt Nam."
+      ],
+      "disclaimerTitle": "Miễn trừ trách nhiệm:",
+      "disclaimer": [
+        "Tài khoản/quyền truy cập được cung cấp theo hiện trạng (as-is) và sẵn có (as-available); chúng tôi không bảo đảm phù hợp cho bất kỳ mục đích cụ thể nào ngoài mục đích sử dụng hợp pháp thông thường trong phạm vi hỗ trợ đã công bố.",
+        "Chúng tôi KHÔNG chịu trách nhiệm cho bất kỳ hành vi nào sử dụng tài nguyên sai mục đích.",
+        "Sau khi bàn giao, khách hàng tự chịu hoàn toàn trách nhiệm pháp lý đối với mọi hoạt động phát sinh từ tài khoản.",
+        "Khách hàng có nghĩa vụ tự tìm hiểu và tuân thủ pháp luật tại quốc gia nơi mình cư trú; trách nhiệm tuân thủ pháp luật thuộc về khách hàng.",
+        "Trách nhiệm tối đa của chúng tôi đối với mọi khiếu nại bị giới hạn ở số tiền đơn hàng liên quan."
+      ],
+      "indemnityTitle": "Bồi thường & điều kiện sử dụng:",
+      "indemnity": [
+        "Khách hàng đồng ý bồi thường, bảo vệ và giữ cho TKAIPro vô can khỏi mọi khiếu nại, tổn thất, chi phí (kể cả chi phí pháp lý) phát sinh từ việc khách hàng vi phạm điều khoản hoặc sử dụng sai mục đích.",
+        "Khách hàng xác nhận đủ 18 tuổi và có đầy đủ năng lực hành vi dân sự khi sử dụng dịch vụ.",
+        "Chúng tôi có quyền từ chối hoặc chấm dứt dịch vụ ngay lập tức (không hoàn tiền) nếu phát hiện dấu hiệu sử dụng vào mục đích trái pháp luật.",
+        "Khi có yêu cầu hợp pháp từ cơ quan chức năng, chúng tôi sẽ hợp tác cung cấp thông tin theo quy định pháp luật.",
+        "Trách nhiệm tổng thể bị giới hạn ở số tiền bạn đã thanh toán cho đơn hàng liên quan."
+      ]
+    },
+    "cta": {
+      "title": "Đã Hiểu Rõ Điều Khoản?",
+      "description": "Bắt đầu sử dụng dịch vụ hỗ trợ Google AI từ TKAIPro với quyền và trách nhiệm rõ ràng",
+      "buy": "Mua Ngay - Tôi Đồng Ý",
+      "contact": "Hỏi Đáp Thắc Mắc"
+    }
+  },
+  "ProductDetail": {
+    "back": "Quay Lại Sản Phẩm",
+    "notFound": {
+      "title": "Không Tìm Thấy Sản Phẩm",
+      "description": "Sản phẩm bạn đang tìm kiếm không tồn tại.",
+      "button": "Quay Lại Sản Phẩm"
+    },
+    "badges": {
+      "popular": "PHỔ BIẾN",
+      "discount": "{percent}%"
+    },
+    "purchaseMode": {
+      "account": "Mua tài khoản mới",
+      "upgrade": "Nâng cấp chính chủ"
+    },
+    "status": {
+      "inStock": "Còn Hàng",
+      "outOfStock": "Hết Hàng",
+      "available": "{count} tài khoản có sẵn"
+    },
+    "actions": {
+      "addToCart": "Thêm Vào Giỏ",
+      "buyNow": "Mua Ngay",
+      "adding": "Đang Thêm…",
+      "added": "{name} đã được thêm vào giỏ hàng"
+    },
+    "item": {
+      "decrease": "Giảm số lượng",
+      "increase": "Tăng số lượng"
+    },
+    "sections": {
+      "description": "Mô Tả Chi Tiết",
+      "features": "Tính Năng Nổi Bật",
+      "specs": "Thông Số Kỹ Thuật",
+      "reviews": "Đánh Giá Sản Phẩm"
+    },
+    "breadcrumbs": {
+      "home": "Trang Chủ",
+      "products": "Sản Phẩm"
+    },
+    "quantity": "Số lượng",
+    "reviews": "đánh giá",
+    "soldCount": "Đã bán {count}+",
+    "save": "Tiết kiệm {amount}",
+    "noDescription": "Chưa có mô tả cho sản phẩm này.",
+    "trust": {
+      "warranty": "Bảo Hành",
+      "warrantyDesc": "1 đổi 1 trọn đời",
+      "delivery": "Giao Hàng",
+      "deliveryDesc": "Tự động 5 phút",
+      "support": "Hỗ Trợ",
+      "supportDesc": "24/7 mọi lúc"
+    },
+    "relatedProducts": {
+      "title": "Sản phẩm liên quan",
+      "viewAll": "Xem tất cả",
+      "added": "{name} đã được thêm vào giỏ hàng"
+    },
+    "restockAlert": {
+      "title": "Nhận thông báo khi có hàng lại",
+      "description": "Nhập email của bạn, chúng tôi sẽ báo ngay khi sản phẩm có hàng trở lại.",
+      "emailLabel": "Email",
+      "emailPlaceholder": "email@example.com",
+      "submit": "Nhận thông báo",
+      "submitting": "Đang đăng ký…",
+      "success": "Đã đăng ký! Chúng tôi sẽ gửi email khi sản phẩm có hàng lại.",
+      "error": "Không thể đăng ký. Vui lòng thử lại.",
+      "alreadyInStock": "Sản phẩm hiện đang còn hàng.",
+      "rateLimited": "Quá nhiều yêu cầu. Vui lòng thử lại sau."
+    }
+  },
+  "ProductReviews": {
+    "title": "Đánh giá từ khách hàng ({count})",
+    "writeReview": {
+      "title": "Viết đánh giá",
+      "description": "Chia sẻ trải nghiệm của bạn về sản phẩm này",
+      "loginRequired": "Vui lòng đăng nhập để viết đánh giá",
+      "loginButton": "Đăng nhập ngay",
+      "yourRating": "Đánh giá của bạn",
+      "quickTags": "Chọn nhanh đánh giá",
+      "commentLabel": "Nhận xét",
+      "placeholder": "Sản phẩm tuyệt vời...",
+      "submit": "Gửi đánh giá",
+      "submitting": "Đang gửi..."
+    },
+    "list": {
+      "empty": "Chưa có đánh giá nào.",
+      "loading": "Đang tải đánh giá...",
+      "adminReply": "Cửa hàng phản hồi:"
+    },
+    "toast": {
+      "loginRequired": "Vui lòng đăng nhập để đánh giá",
+      "success": "Đánh giá của bạn đã được gửi!",
+      "error": "Có lỗi xảy ra"
+    },
+    "tags": {
+      "quality": "Sản phẩm chuẩn chất lượng.",
+      "support": "Hỗ trợ nhiệt tình.",
+      "reliable": "Uy tín hỗ trợ nhanh, ae yên tâm sử dụng nhé.",
+      "professional": "Shop làm việc rất chuyên nghiệp.",
+      "fast": "Giao hàng nhanh, tài khoản dùng tốt.",
+      "recommend": "Sẽ ủng hộ shop dài dài."
+    }
+  },
+  "CookiesPageV2": {
+    "types": {
+      "items": {
+        "analytics": {
+          "title": "Analytics Cookies",
+          "description": "Thu thập dữ liệu sử dụng website",
+          "purpose": "Hiểu cách người dùng tương tác với website"
+        },
+        "marketing": {
+          "title": "Marketing Cookies",
+          "description": "Cá nhân hóa quảng cáo và content",
+          "purpose": "Hiển thị nội dung phù hợp với sở thích"
+        },
+        "functional": {
+          "title": "Functional Cookies",
+          "description": "Lưu trữ tùy chọn và preferences",
+          "purpose": "Nhớ cài đặt và tùy chọn của bạn"
+        }
+      }
+    },
+    "details": {
+      "title": "Chi Tiết Cookies",
+      "description": "Danh sách đầy đủ các cookies được sử dụng trên website",
+      "headers": {
+        "name": "Tên Cookie",
+        "provider": "Nhà Cung Cấp",
+        "purpose": "Mục Đích",
+        "duration": "Thời Hạn",
+        "type": "Loại"
+      }
+    },
+    "manage": {
+      "title": "Quản Lý Cookies",
+      "description": "Bạn có quyền kiểm soát việc sử dụng cookies trên website của chúng tôi:",
+      "browser": "Thông qua trình duyệt:",
+      "options": "Tùy chọn available:",
+      "warning": "⚠️ Lưu ý quan trọng:",
+      "warningItems": {
+        "1": "• Tắt cookies có thể ảnh hưởng đến trải nghiệm website",
+        "2": "• Một số tính năng có thể không hoạt động bình thường",
+        "3": "• Bạn sẽ cần đăng nhập lại sau khi tắt cookies"
+      },
+      "buttons": {
+        "settings": "Cài Đặt Cookie Preferences",
+        "view": "Xem Cookies Hiện Tại"
+      }
+    },
+    "thirdParty": {
+      "title": "Third-Party Cookies",
+      "description": "Website chúng tôi có thể chứa nội dung từ bên thứ ba (như video YouTube, maps, social media widgets) có thể đặt cookies riêng của họ."
+    },
+    "contact": {
+      "title": "Cập Nhật & Liên Hệ",
+      "changes": "Thay đổi chính sách:",
+      "info": "Liên hệ về cookies:"
+    },
+    "cta": {
+      "title": "Có Câu Hỏi Về Cookies?",
+      "description": "Đội ngũ privacy & security sẵn sàng giải đáp mọi thắc mắc",
+      "contact": "Liên Hệ Support",
+      "privacy": "Xem Chính Sách Bảo Mật"
+    }
+  },
+  "Auth": {
+    "signIn": {
+      "title": "Đăng Nhập",
+      "subtitle": "Nhập email và mật khẩu để đăng nhập",
+      "emailLabel": "Email",
+      "emailPlaceholder": "email@example.com",
+      "passwordLabel": "Mật Khẩu",
+      "passwordPlaceholder": "Nhập mật khẩu",
+      "forgotPassword": "Quên mật khẩu?",
+      "submit": "Đăng Nhập",
+      "submitting": "Đang đăng nhập...",
+      "orContinueWith": "Hoặc tiếp tục với",
+      "noAccount": "Chưa có tài khoản?",
+      "signUpLink": "Đăng ký ngay"
+    },
+    "banner": {
+      "title": "TKAIPro",
+      "slogan": "Mua tài khoản Google AI giá tốt",
+      "imageAlt": "TKAIPro - Mua tài khoản Google AI"
+    },
+    "signUp": {
+      "title": "Tạo Tài Khoản",
+      "subtitle": "Nhập thông tin để tạo tài khoản của bạn",
+      "nameLabel": "Họ và Tên",
+      "namePlaceholder": "Nguyễn Văn A",
+      "emailLabel": "Email",
+      "emailPlaceholder": "email@example.com",
+      "passwordLabel": "Mật Khẩu",
+      "passwordPlaceholder": "Nhập mật khẩu mạnh",
+      "passwordHint": "Mật khẩu phải có ít nhất 8 ký tự",
+      "over18Label": "Tôi xác nhận đủ 18 tuổi.",
+      "over18Required": "Bạn phải xác nhận đủ 18 tuổi để đăng ký.",
+      "submit": "Tạo Tài Khoản",
+      "submitting": "Đang tạo tài khoản...",
+      "hasAccount": "Đã có tài khoản?",
+      "signInLink": "Đăng nhập"
+    },
+    "errors": {
+      "invalidEmailOrPassword": "Tài khoản hoặc mật khẩu không chính xác!",
+      "invalidPassword": "Mật khẩu không đúng. Vui lòng thử lại.",
+      "userNotFound": "Tài khoản không tồn tại. Vui lòng đăng ký trước.",
+      "accountNotVerified": "Tài khoản chưa được xác thực. Vui lòng kiểm tra email.",
+      "accountDisabled": "Tài khoản đã bị vô hiệu hóa. Vui lòng liên hệ hỗ trợ.",
+      "tooManyAttempts": "Quá nhiều lần thử. Vui lòng đợi một lát rồi thử lại.",
+      "networkError": "Lỗi kết nối mạng. Vui lòng thử lại.",
+      "serverError": "Lỗi server. Vui lòng thử lại sau.",
+      "defaultSignIn": "Đăng nhập thất bại. Vui lòng kiểm tra lại email và mật khẩu.",
+      "defaultSignUp": "Đăng ký thất bại. Vui lòng thử lại hoặc liên hệ hỗ trợ.",
+      "userAlreadyExists": "Email này đã được đăng ký. Vui lòng sử dụng email khác hoặc đăng nhập.",
+      "weakPassword": "Mật khẩu quá yếu. Vui lòng tạo mật khẩu mạnh hơn.",
+      "passwordTooShort": "Mật khẩu quá ngắn. Vui lòng nhập ít nhất 8 ký tự.",
+      "invalidEmail": "Email không hợp lệ. Vui lòng kiểm tra lại.",
+      "social": {
+        "github": "Đăng nhập bằng GitHub thất bại",
+        "google": "Đăng nhập bằng Google thất bại"
+      }
+    },
+    "success": {
+      "signIn": "Đăng nhập thành công! Chào mừng bạn quay lại.",
+      "signUp": "Đăng ký thành công! Chào mừng bạn đến với TKAIPro."
+    }
+  },
+  "LiveOrderToast": {
+    "badge": "Vừa mua",
+    "verified": "Đã xác minh",
+    "justPurchased": "vừa mua thành công"
+  },
+  "InteractiveCodeDemo": {
+    "badge": "Demo Trải Nghiệm",
+    "title": "Trải Nghiệm Google AI / Antigravity",
+    "subtitle": "So sánh làm layout thủ công với workflow dùng Auto Layout & component trên Google AI — nhanh và đồng bộ nhóm hơn!",
+    "playDemo": "Chạy Demo",
+    "reset": "Đặt Lại",
+    "withoutAI": "Căn thủ công",
+    "withCursorPro": "Với Google AI",
+    "timeSaved": "thời gian tiết kiệm",
+    "feature1Title": "Auto Layout Thông Minh",
+    "feature1Desc": "Đặt constraint một lần, frame tự giãn theo nội dung — ít chỉnh tay hơn",
+    "feature2Title": "Tốc Độ Làm Mockup",
+    "feature2Desc": "Tái sử dụng component để dựng màn hình trong vài phút thay vì hàng giờ",
+    "feature3Title": "Prototype Sạch",
+    "feature3Desc": "Nối flow màn hình rõ ràng, dễ demo với mentor hoặc khách hàng"
+  },
+  "ChatWidget": {
+    "title": "Hỗ Trợ AI",
+    "open": "Mở chat hỗ trợ",
+    "close": "Đóng",
+    "minimize": "Thu nhỏ",
+    "expand": "Mở rộng",
+    "placeholder": "Nhập tin nhắn...",
+    "error": "Xin lỗi, có lỗi xảy ra. Vui lòng thử lại hoặc liên hệ support qua Telegram.",
+    "clearHistory": "Xóa lịch sử",
+    "notificationTitle": "🤖 AI Hỗ trợ 24/7",
+    "notificationDescription": "Cần tư vấn gói Google AI? Chat ngay với AI!",
+    "notificationAction": "Chat ngay",
+    "bubbleMessage": "Xin chào! Tôi là AI hỗ trợ. Bạn cần giúp gì không? 👋",
+    "quickActions": {
+      "pricing": "Xem bảng giá",
+      "packages": "Tư vấn gói",
+      "payment": "Cách thanh toán",
+      "warranty": "Chính sách bảo hành"
+    }
+  },
+  "Email": {
+    "common": {
+      "shopName": "TKAIPro",
+      "shopSubtitle": "Cảm ơn bạn đã mua hàng tại TKAIPro",
+      "greeting": "Xin chào {name}",
+      "supportTitle": "💬 Cần hỗ trợ?",
+      "supportIntro": "Nếu bạn gặp vấn đề gì hoặc cần hỗ trợ, vui lòng liên hệ với chúng tôi:",
+      "supportContactLabel": "📞 Liên hệ hỗ trợ:",
+      "supportFb": "Fanpage Facebook",
+      "supportTg": "Telegram",
+      "supportTgHandle": "Telegram hỗ trợ TKAIPro",
+      "supportEmailLabel": "✉️ Email:",
+      "supportOr": "hoặc",
+      "footerThanks": "Cảm ơn bạn đã tin tưởng TKAIPro! 🎉",
+      "footerAuto": "Email tự động từ hệ thống - Vui lòng không trả lời email này",
+      "footerTimePrefix": "Thời gian:",
+      "footerSupport24x7": "TKAIPro - Hỗ trợ khách hàng 24/7",
+      "footerAutoShort": "Email tự động từ hệ thống",
+      "fields": {
+        "orderNumber": "Mã đơn hàng:",
+        "total": "Tổng tiền:",
+        "paidAt": "Thanh toán lúc:",
+        "product": "Sản phẩm:",
+        "username": "Tên đăng nhập:",
+        "password": "Mật khẩu:",
+        "licenseKey": "License Key:",
+        "expiresAt": "Hết hạn lúc:",
+        "upgradeEmail": "Email nâng cấp:"
+      }
+    },
+    "subjects": {
+      "customerOrderConfirmation": "✅ Xác nhận đơn hàng #{orderNumber} - TKAIPro",
+      "activationSuccess": "✅ Đơn #{orderNumber} đã active thành công - Google AI",
+      "subscriptionReminderUrgent": "🚨 KHẨN CẤP Tài khoản {productName} sắp hết hạn trong {daysLeft} ngày!",
+      "subscriptionReminderWarning": "⚠️ Lưu ý Tài khoản {productName} sắp hết hạn trong {daysLeft} ngày!",
+      "accountContact": "📞 Liên hệ nhận tài khoản - Đơn hàng #{orderNumber}",
+      "upgradeCompleted": "✅ Nâng cấp tài khoản thành công - Đơn hàng #{orderNumber}",
+      "upgradeIssue": "⚠️ Cần xác nhận thông tin - Đơn hàng #{orderNumber}",
+      "walletTopupSuccess": "✅ Nạp ví thành công {amount} - TKAIPro",
+      "walletTopupRejected": "❌ Yêu cầu nạp ví bị từ chối {amount}",
+      "restockAlert": "🎉 {productName} đã có hàng lại!"
+    },
+    "customerOrderConfirmation": {
+      "headerTitle": "✅ Đơn hàng thành công!",
+      "intro": "Đơn hàng #{orderNumber} của bạn đã được thanh toán thành công! Dưới đây là thông tin chi tiết đơn hàng và tài khoản của bạn.",
+      "orderTitle": "📦 Thông tin đơn hàng",
+      "productsTitle": "🛒 Sản phẩm đã mua",
+      "productItemQty": "Số lượng: {qty}x - Giá: {price}",
+      "credsTitle": "🔑 Thông tin tài khoản của bạn",
+      "credsWarning": "⚠️ Vui lòng lưu lại thông tin này cẩn thận! Đây là thông tin đăng nhập tài khoản của bạn.",
+      "credsNote": "💡 Lưu ý: Bạn có thể xem lại thông tin này bất cứ lúc nào tại trang quản lý đơn hàng.",
+      "otpTitle": "🔐 Cách lấy MÃ OTP Google AI",
+      "otpLead": "Khi Google AI yêu cầu mã xác thực, mở link bên dưới (không cần vào hộp thư Outlook).",
+      "otpStep1": "Đăng nhập Google AI bằng email/mật khẩu đã cấp ở trên",
+      "otpStep2": "Khi Google AI hỏi mã OTP, mở link bên dưới",
+      "otpStep3": "Xác minh bằng mã 6 số gửi tới email mua hàng",
+      "otpStep4": "Lấy mã OTP Google AI và dán vào Google AI",
+      "otpBtn": "Lấy mã OTP cho {email}",
+      "otpNote": "💡 Xác minh bằng mã 6 số gửi tới email mua hàng, rồi lấy OTP Google AI.",
+      "viewOrderBtn": "📋 Xem chi tiết đơn hàng"
+    },
+    "activationSuccess": {
+      "headerTitle": "✅ Active thành công!",
+      "headerSubtitle": "Tài khoản Google AI đã sẵn sàng trên máy của bạn",
+      "intro": "Xin chào, đơn hàng #{orderNumber} của bạn đã được active xong!",
+      "accountTitle": "🔐 Tài khoản Google AI được cấp",
+      "accountEmailLabel": "Email Google AI:",
+      "durationLabel": "Thời hạn:",
+      "daysSuffix": "ngày",
+      "expiresLabel": "Hết hạn:",
+      "note": "👉 Mở Google AI IDE trên máy - tài khoản đã được login sẵn, bạn có thể dùng ngay. Nếu gặp vấn đề, reply email này hoặc liên hệ Telegram."
+    },
+    "subscriptionReminder": {
+      "headerTitleUrgent": "🚨 Tài khoản sắp hết hạn!",
+      "headerTitleWarning": "⏰ Tài khoản sắp hết hạn!",
+      "headerSubtitle": "Còn {daysLeft} ngày nữa là hết hạn",
+      "urgencyEmergency": "🚨 KHẨN CẤP",
+      "urgencyWarning": "⚠️ Lưu ý",
+      "warningBody": "{urgency}: Tài khoản của bạn sẽ hết hạn trong {daysLeft} ngày nữa!",
+      "accountTitle": "📋 Thông tin tài khoản",
+      "cta": {
+        "title": "🔄 Gia hạn ngay!",
+        "body": "Để tiếp tục sử dụng dịch vụ không gián đoạn, vui lòng gia hạn tài khoản trước khi hết hạn.",
+        "btn": "🛒 Gia hạn ngay"
+      },
+      "benefits": {
+        "title": "✨ Đừng bỏ lỡ những tính năng tuyệt vời!",
+        "item1": "Truy cập không giới hạn các tính năng Pro",
+        "item2": "Hỗ trợ ưu tiên 24/7",
+        "item3": "Cập nhật tính năng mới nhất",
+        "item4": "Giữ nguyên tiến độ và dữ liệu của bạn"
+      }
+    },
+    "accountContact": {
+      "headerTitle": "📞 Liên hệ nhận tài khoản",
+      "headerSubtitle": "Vui lòng liên hệ với chúng tôi",
+      "orderTitle": "📋 Thông tin đơn hàng",
+      "messageTitle": "📝 Nội dung thông báo",
+      "cta": {
+        "title": "📞 Liên hệ ngay để nhận tài khoản",
+        "lead": "Vui lòng liên hệ qua một trong các kênh sau để trao đổi thông tin và nhận tài khoản:",
+        "fb": "📘 Fanpage Facebook",
+        "tg": "✈️ Telegram hỗ trợ TKAIPro",
+        "emailIntro": "Hoặc email:"
+      },
+      "note": "⚠️ Lưu ý: Vui lòng cung cấp mã đơn hàng #{orderNumber} khi liên hệ để được hỗ trợ nhanh nhất."
+    },
+    "upgradeCompleted": {
+      "headerTitle": "🎉 Nâng cấp thành công!",
+      "headerSubtitle": "Tài khoản của bạn đã được nâng cấp",
+      "intro": "Chúng tôi vui mừng thông báo rằng đơn hàng #{orderNumber} của bạn đã được xử lý thành công!",
+      "successTitle": "Nâng cấp hoàn tất!",
+      "successBody": "Tài khoản {upgradeEmail} đã được nâng cấp lên {productName}",
+      "nextSteps": {
+        "title": "📌 Bước tiếp theo",
+        "item1": "Đăng nhập vào tài khoản của bạn để kiểm tra",
+        "item2": "Tận hưởng các tính năng Pro mới",
+        "item3": "Nếu cần hỗ trợ, đừng ngại liên hệ chúng tôi"
+      }
+    },
+    "upgradeIssue": {
+      "headerTitle": "⚠️ Cần xác nhận thông tin",
+      "headerSubtitle": "Vui lòng liên hệ với chúng tôi",
+      "orderTitle": "📋 Thông tin đơn hàng",
+      "messageTitle": "📝 Nội dung thông báo",
+      "cta": {
+        "title": "📞 Liên hệ ngay với chúng tôi",
+        "lead": "Vui lòng liên hệ qua một trong các kênh sau để được hỗ trợ nhanh nhất:",
+        "fb": "📘 Facebook",
+        "tg": "✈️ Telegram",
+        "emailIntro": "Hoặc email:"
+      }
+    },
+    "walletTopupSuccess": {
+      "headerTitle": "✅ Nạp ví thành công",
+      "intro": "Bạn đã nạp thành công {amount} vào ví TKAIPro.",
+      "amountLabel": "Số tiền nạp:",
+      "balanceLabel": "Số dư mới:",
+      "paidAtLabel": "Thời gian:",
+      "viewWalletBtn": "📊 Xem ví của tôi"
+    },
+    "walletTopupRejected": {
+      "headerTitle": "❌ Yêu cầu nạp ví bị từ chối",
+      "intro": "Yêu cầu nạp {amount} của bạn đã bị từ chối.",
+      "reasonLabel": "Lý do:",
+      "viewWalletBtn": "📊 Xem ví của tôi"
+    },
+    "restockAlert": {
+      "headerTitle": "🎉 Sản phẩm đã có hàng lại!",
+      "intro": "Tin vui — {productName} đã có hàng trở lại! Nhanh tay đặt mua trước khi hết.",
+      "productLabel": "Sản phẩm",
+      "priceLabel": "Giá",
+      "viewProductBtn": "🛒 Xem sản phẩm & mua ngay"
+    }
+  },
+  "AboutPage": {
+    "metaTitle": "Về TKAIPro — Nhà bán lẻ tài khoản Google AI",
+    "metaDescription": "TKAIPro là nhà bán lẻ độc lập (third-party reseller) tài khoản Google AI. Giúp người dùng AI và người dùng Gemini tiếp cận Google AI với giá cạnh tranh. Không liên kết với Google LLC",
+    "metaKeywords": "về TKAIPro, Google AI, mua tài khoản Google AI, Google AI, nhà bán lẻ Google AI, tkaipro.shop",
+    "breadcrumbs": {
+      "home": "Trang Chủ",
+      "about": "Về Chúng Tôi"
+    },
+    "hero": {
+      "titlePrefix": "Về",
+      "subtitle": "TKAIPro là nhà bán lẻ độc lập tài khoản Google AI. Chúng tôi giúp người dùng AI và người dùng Gemini tiếp cận Google AI với giá cạnh tranh qua việc phân phối lại subscription đã mua hợp pháp.",
+      "disclaimerLabel": "Lưu ý",
+      "disclaimer": "TKAIPro không liên kết với, không được chứng nhận bởi và không được tài trợ bởi Google LLC. \"Google\" và \"Google AI\" là nhãn hiệu của Google LLC. Chúng tôi là nhà bán lẻ độc lập các gói đã mua hợp pháp.",
+      "ctaProducts": "Xem Sản Phẩm",
+      "ctaContact": "Liên Hệ Ngay"
+    },
+    "stats": {
+      "customers": {
+        "number": "5.000+",
+        "label": "Khách hàng đã phục vụ"
+      },
+      "years": {
+        "number": "2+",
+        "label": "Năm hoạt động"
+      },
+      "satisfaction": {
+        "number": "99%",
+        "label": "Tỷ lệ hài lòng"
+      },
+      "support": {
+        "number": "24/7",
+        "label": "Hỗ trợ liên tục"
+      }
+    },
+    "mission": {
+      "title": "Sứ Mệnh Của Chúng Tôi",
+      "paragraph1": "Tại TKAIPro, chúng tôi tin rằng mọi người dùng AI đều xứng đáng được tiếp cận Google AI với chi phí hợp lý — bất kể khu vực hay ngân sách.",
+      "paragraph2": "Chúng tôi cung cấp tư vấn, hỗ trợ thanh toán và giao login qua email để bạn mua tài khoản Google AI một cách đơn giản và an toàn.",
+      "independenceTitle": "Dịch Vụ Phân Phối Độc Lập",
+      "independenceDescription": "Chúng tôi không đại diện cho Google LLC Nhiệm vụ của chúng tôi là giải thích quy trình và hỗ trợ khách hàng mua tài khoản Google AI.",
+      "cards": {
+        "process": {
+          "title": "Quy Trình Rõ Ràng",
+          "description": "Cung cấp checklist từng bước đăng ký subscription công cụ AI."
+        },
+        "warranty": {
+          "title": "Bảo Hành Minh Bạch",
+          "description": "Cam kết xử lý sự cố phát sinh trong thời gian hỗ trợ."
+        },
+        "delivery": {
+          "title": "Giao Hàng Tức Thì",
+          "description": "Hỗ trợ thanh toán và kích hoạt trong 1-5 phút."
+        },
+        "support": {
+          "title": "Hỗ Trợ 24/7",
+          "description": "Đồng hành qua Telegram, Email bất cứ khi nào."
+        }
+      }
+    },
+    "values": {
+      "title": "Giá Trị Cốt Lõi",
+      "subtitle": "Những nguyên tắc định hướng hoạt động và phát triển của TKAIPro.",
+      "transparency": {
+        "title": "Uy Tín & Minh Bạch",
+        "description": "Giải thích rõ ràng từng bước đăng ký subscription công cụ AI và bảo vệ thông tin khách hàng."
+      },
+      "efficiency": {
+        "title": "Nhanh Chóng & Hiệu Quả",
+        "description": "Hỗ trợ thanh toán quốc tế, xác minh tài khoản và kích hoạt chỉ trong vài phút."
+      },
+      "customerFirst": {
+        "title": "Khách Hàng Là Trung Tâm",
+        "description": "Đồng hành xuyên suốt vòng đời sử dụng với chính sách bảo hành, hoàn tiền minh bạch."
+      },
+      "sustainability": {
+        "title": "Phát Triển Bền Vững",
+        "description": "Chia sẻ kiến thức và tài nguyên giúp cộng đồng người dùng AI khai thác AI hiệu quả."
+      }
+    },
+    "cta": {
+      "title": "Cần mua tài khoản Google AI?",
+      "subtitle": "Tham gia cùng hàng nghìn người dùng AI đã tin tưởng TKAIPro để mua tài khoản Google AI và nhận hỗ trợ kích hoạt.",
+      "ctaPrimary": "Xem Dịch Vụ",
+      "ctaSecondary": "Tư Vấn Miễn Phí"
+    }
+  },
+  "DisclaimerBanner": {
+    "message": "TKAIPro chỉ cung cấp dịch vụ bán lẻ / hỗ trợ tài khoản Google AI — không phải đại lý hay nhà phân phối của Google LLC Tên thương hiệu chỉ nhằm mô tả sản phẩm.",
+    "dismiss": "Đã hiểu"
+  },
+  "ProductPage": {
+    "actions": {
+      "resellerNoticeTitle": "Thông báo hỗ trợ kỹ thuật — đọc trước khi mua",
+      "resellerNoticeBody": "TKAIPro cung cấp tài khoản / hỗ trợ nâng cấp Google AI theo nhu cầu khách hàng. Chúng tôi không phải đại lý, nhà phân phối hay đơn vị đại diện của Google LLC Sau bàn giao, tài khoản là tài sản của bạn — hãy đổi email, mật khẩu, 2FA và email khôi phục ngay. Chúng tôi không hỗ trợ quên mật khẩu/mất 2FA sau này. Quyền lợi và thời hạn có thể phụ thuộc chính sách Google AI."
+    }
+  },
+  "DisclaimerPage": {
+    "seo": {
+      "title": "Tuyên Bố Miễn Trừ",
+      "description": "Tuyên bố pháp lý TKAIPro — dịch vụ hỗ trợ kỹ thuật thiết lập/kích hoạt liên quan Google AI. Không phải đại lý hay nhà phân phối của Google LLC.",
+      "keywords": "tuyên bố miễn trừ TKAIPro, disclaimer Google AI, không liên kết Google AI Inc"
+    },
+    "hero": {
+      "title": "Tuyên Bố",
+      "highlight": "Miễn Trừ",
+      "description": "Thông tin quan trọng về vai trò hỗ trợ kỹ thuật của chúng tôi và giới hạn trách nhiệm liên quan Google LLC."
+    },
+    "sections": {
+      "reseller": {
+        "title": "Hỗ Trợ Kỹ Thuật Độc Lập",
+        "body": "TKAIPro cung cấp dịch vụ hỗ trợ thiết lập, nâng cấp và kích hoạt theo nhu cầu khách hàng. Chúng tôi không phải đại lý, nhà phân phối, đơn vị được ủy quyền hay đối tác chính thức của Google LLC (Google AI).",
+        "referral": "Tên thương hiệu và tên sản phẩm trên website chỉ nhằm mô tả khả năng tương thích hoặc nhu cầu hỗ trợ. Mọi quyền lợi khuyến mãi/nền tảng (nếu có) do Google LLC kiểm soát và có thể thay đổi hoặc bị thu hồi."
+      },
+      "trademark": {
+        "title": "Nhãn Hiệu",
+        "body": "\"Google\" và \"Google AI\" là nhãn hiệu của Google LLC Tên sản phẩm khác thuộc chủ sở hữu tương ứng. Chúng tôi chỉ dùng để mô tả tương thích hoặc nhu cầu hỗ trợ."
+      },
+      "risks": {
+        "title": "Rủi Ro Cần Hiểu",
+        "items": [
+          "Google LLC có thể thay đổi giá, tính năng hoặc chấm dứt subscription bất cứ lúc nào.",
+          "Google LLC có thể suspend/terminate tài khoản vi phạm ToS của họ.",
+          "Sau bàn giao, bạn tự chịu trách nhiệm bảo mật — đổi email, mật khẩu, 2FA, email khôi phục; chúng tôi không thể khôi phục nếu bạn mất credential sau này.",
+          "Chúng tôi không đảm bảo truy cập liên tục hay quyền lợi khuyến mãi bên thứ ba vĩnh viễn.",
+          "Mua chính thức từ chủ nhãn hiệu: www.gemini.google.com."
+        ]
+      },
+      "official": {
+        "title": "Kênh Mua Chính Thức",
+        "body": "Để mua subscription Google AI trực tiếp từ Google LLC:"
+      }
+    },
+    "cta": {
+      "title": "Đọc Đầy Đủ Điều Khoản",
+      "description": "Vui lòng đọc Điều khoản & điều kiện và Chính sách bảo mật trước khi mua.",
+      "terms": "Điều Khoản & Điều Kiện",
+      "shop": "Xem Sản Phẩm"
+    }
+  },
+  "CookieConsent": {
+    "title": "Tùy chọn cookie",
+    "description": "Cookie cần thiết cho đăng nhập, giỏ hàng, bảo mật. Cookie phân tích (Microsoft Clarity) là tùy chọn — chọn bên dưới.",
+    "learnMore": "Xem Chính sách Cookies",
+    "essentialOnly": "Chỉ cần thiết",
+    "acceptAll": "Chấp nhận tất cả"
+  },
+  "Wallet": {
+    "title": "Ví của tôi",
+    "vndBalance": "Số dư VND",
+    "usdBalance": "Số dư USD",
+    "topup": "Nạp tiền",
+    "topupVnd": "Nạp VND",
+    "topupUsd": "Nạp USD",
+    "topupAgain": "Tạo yêu cầu nạp mới",
+    "refresh": "Tải lại",
+    "backToWallet": "Quay lại ví",
+    "returnToCheckout": "Quay lại thanh toán",
+    "currency": "Loại tiền",
+    "vnd": "VND",
+    "usd": "USD",
+    "vndDescription": "Nạp qua QR chuyển khoản ngân hàng — tự động xác nhận trong vài phút.",
+    "usdDescription": "Nạp qua crypto (Binance/Bybit/USDT/BTC/ETH/LTC) — admin xác nhận sau khi bạn upload biên lai.",
+    "selectAmount": "Chọn mệnh giá",
+    "customAmount": "Nhập số tiền khác",
+    "selectMethod": "Phương thức nạp",
+    "selectCryptoMethod": "Chọn loại crypto",
+    "youWillTopup": "Bạn sẽ nạp",
+    "continueToPay": "Tiếp tục thanh toán",
+    "topupTitle": "Nạp tiền vào ví",
+    "topupDetailTitle": "Chi tiết yêu cầu nạp",
+    "amount": "Số tiền",
+    "expiresAt": "Hết hạn lúc",
+    "bank": "Ngân hàng",
+    "accountNumber": "Số tài khoản",
+    "accountName": "Tên chủ tài khoản",
+    "transferContentLabel": "Nội dung chuyển khoản (BẮT BUỘC chính xác)",
+    "transferContentWarning": "Nhập đúng nội dung bên dưới — sai nội dung sẽ KHÔNG tự động credit ví, bạn phải liên hệ admin.",
+    "payId": "Pay-ID",
+    "network": "Mạng (network)",
+    "walletAddress": "Địa chỉ ví",
+    "onchainWarning": "Chỉ gửi qua mạng {network}. Sai mạng tiền sẽ MẤT, không khôi phục được.",
+    "submitProofTitle": "Đính kèm biên lai (không bắt buộc)",
+    "submitProofDescription": "Sau khi đã chuyển crypto, bạn có thể dán URL ảnh biên lai (vd Imgur/Cloudinary) để admin duyệt nhanh hơn, hoặc bỏ trống và bấm 'Tôi đã chuyển khoản'.",
+    "submitProof": "Gửi biên lai",
+    "submitWithoutProof": "Tôi đã chuyển khoản",
+    "proofSubmitted": "Đã gửi biên lai. Admin sẽ duyệt trong vài giờ.",
+    "pendingReviewMessage": "Bạn đã gửi biên lai. Hệ thống đang chờ admin xác nhận. Số dư sẽ tự cập nhật khi duyệt xong.",
+    "viewProof": "Xem biên lai đã gửi",
+    "autoConfirmNote": "✅ Số dư sẽ tự động cộng vào ví ngay khi ngân hàng xác nhận chuyển khoản (thường 1-3 phút).",
+    "topupPaidTitle": "Nạp tiền thành công",
+    "topupPaidDescription": "Đã cộng {amount} vào ví của bạn.",
+    "topupRejectedTitle": "Yêu cầu nạp bị từ chối",
+    "topupExpiredTitle": "Yêu cầu nạp đã hết hạn",
+    "topupExpiredDescription": "Yêu cầu nạp này đã quá thời hạn 30 phút. Vui lòng tạo yêu cầu mới.",
+    "paidToast": "Nạp thành công, ví đã cập nhật!",
+    "rejectedToast": "Yêu cầu nạp bị từ chối",
+    "expiredToast": "Yêu cầu nạp đã hết hạn",
+    "transactionHistory": "Lịch sử giao dịch",
+    "balanceAfter": "Số dư sau",
+    "noTransactions": "Chưa có giao dịch nào",
+    "copied": "Đã copy {label}",
+    "copyFailed": "Copy thất bại",
+    "qrZoom": "QR phóng to",
+    "bankQrAlt": "QR {bank}",
+    "notFound": "Không tìm thấy yêu cầu nạp",
+    "status": {
+      "pending": "Chờ thanh toán",
+      "pendingReview": "Chờ duyệt"
+    },
+    "txType": {
+      "topup": "Nạp tiền",
+      "debit": "Trừ ví (mua hàng)",
+      "refund": "Hoàn tiền",
+      "admin_adjust": "Admin điều chỉnh"
+    },
+    "errors": {
+      "generic": "Có lỗi xảy ra, vui lòng thử lại",
+      "INVALID_PROOF_URL": "URL biên lai không hợp lệ (cần http/https)",
+      "INVALID_AMOUNT": "Số tiền không hợp lệ",
+      "AMOUNT_TOO_SMALL": "Số tiền tối thiểu chưa đạt",
+      "AMOUNT_TOO_LARGE": "Vượt quá hạn mức 1 lần nạp",
+      "AMOUNT_NOT_ROUND": "Số tiền VND phải là bội của 1.000",
+      "INVALID_CURRENCY": "Loại tiền không hợp lệ",
+      "INVALID_METHOD": "Phương thức nạp không hợp lệ",
+      "SEPAY_REQUIRES_VND": "Chỉ hỗ trợ nạp VND qua chuyển khoản ngân hàng",
+      "CRYPTO_REQUIRES_USD": "Crypto chỉ hỗ trợ nạp USD",
+      "INVALID_CRYPTO_METHOD": "Loại crypto không hợp lệ",
+      "WALLET_INSUFFICIENT_BALANCE": "Số dư không đủ"
+    }
+  },
+  "LegalNoticePopup": {
+    "title": "Thông Báo",
+    "p1": "TKAIPro chỉ cung cấp dịch vụ bán lẻ / hỗ trợ tài khoản Google AI theo nhu cầu khách hàng. TKAIPro không phải đại lý, nhà phân phối hoặc đơn vị đại diện của bất kỳ chủ sở hữu thương hiệu nào. Tên thương hiệu, logo và tên sản phẩm nếu được nhắc đến chỉ nhằm mô tả sản phẩm/dịch vụ và thuộc quyền sở hữu của chủ sở hữu tương ứng. Phạm vi dịch vụ và giới hạn trách nhiệm được quy định tại Điều khoản và điều kiện.",
+    "p2": "Khách hàng lưu ý: khi chúng tôi bàn giao tài khoản cho bạn, tài khoản đó đã là tài sản của bạn và bạn cần tự đổi các thông tin bảo mật: Email, mật khẩu, 2FA, email khôi phục và tự bảo quản tài sản của mình. Chúng tôi không thể hỗ trợ trong các trường hợp khách hàng sau khi mua hàng một thời gian thì không thể truy cập tài khoản do quên mất thông tin tài khoản, quên mật khẩu, quên thông tin đăng nhập, mất 2FA. Do đó hãy đổi thông tin ngay sau khi mua hàng để đảm bảo bảo mật cho tài khoản – tài sản của bạn.",
+    "p3": "Xin cảm ơn đã ủng hộ TKAIPro.",
+    "termsLink": "Điều khoản và điều kiện",
+    "close": "Đóng"
+  }
+}

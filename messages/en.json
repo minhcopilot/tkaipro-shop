@@ -1,0 +1,2731 @@
+{
+  "IntroPage": {
+    "seo": {
+      "title": "About TKAIPro — Google AI Reseller",
+      "description": "Learn who TKAIPro is: an independent reseller of Google AI accounts. Ready stock, email delivery, clear warranty. Not affiliated with Google LLC",
+      "keywords": "TKAIPro, Google AI, buy Google AI account, Google AI reseller, about TKAIPro, Google AI shop"
+    },
+    "hero": {
+      "title": "Who Is TKAIPro?",
+      "subtitle": "Independent reseller of Google AI accounts for students and design teams. Buy a Google AI account with ready stock and email delivery — not affiliated with Google LLC",
+      "ctaConfig": "How It Works",
+      "ctaBuy": "Buy Now",
+      "badge": "Google AI",
+      "trustBadges": {
+        "authentic": "Independent Reseller",
+        "fast": "5-min Email Delivery",
+        "warranty": "Clear Warranty"
+      }
+    },
+    "about": {
+      "title": "About tkaipro.shop",
+      "description": "TKAIPro is an independent third-party reseller of Google AI accounts. We are not affiliated with Google LLC Our mission is to make Google AI access more affordable through stocked accounts delivered by email after payment.",
+      "features": {
+        "price": "Competitive market price",
+        "support": "24/7 Support",
+        "warranty": "Clear package warranty"
+      },
+      "sectionLabel": "About Us"
+    },
+    "whyChoose": {
+      "title": "Why Choose Us?",
+      "items": {
+        "authentic": {
+          "title": "Independent Reseller",
+          "description": "We sell Google AI accounts from stock with transparent policies. No cracked tools, no fake affiliation claims."
+        },
+        "fast": {
+          "title": "Fast Email Delivery",
+          "description": "Receive login details within minutes of payment during support hours. Automated stock checkout."
+        },
+        "cheap": {
+          "title": "Optimized Cost",
+          "description": "Save versus typical retail paths. Flexible durations for students and freelancers."
+        },
+        "privacy": {
+          "title": "Privacy Focused",
+          "description": "Customer data is handled carefully. We do not sell your information to others."
+        },
+        "support": {
+          "title": "Dedicated Support",
+          "description": "Human support for login issues, delivery questions, and warranty claims 24/7."
+        }
+      },
+      "sectionLabel": "Why Choose Us"
+    },
+    "products": {
+      "title": "Our Packages",
+      "trial": {
+        "name": "Google AI Trial",
+        "description": "Short Google AI plan to try Education features. Ideal for first-time buyers.",
+        "label": "Experience"
+      },
+      "shared": {
+        "name": "Semester Plan",
+        "description": "Balanced savings for class projects and studio work over a few months.",
+        "label": "Value",
+        "badge": "🔥 MOST POPULAR"
+      },
+      "private": {
+        "name": "Long-term Plan",
+        "description": "Longer Google AI access for portfolio seasons and campus teams.",
+        "label": "Premium"
+      },
+      "sectionLabel": "Services"
+    },
+    "payment": {
+      "title": "Payment Methods",
+      "subtitle": "Diverse, flexible and secure",
+      "methods": {
+        "bank": "Bank Transfer (VietQR)",
+        "crypto": "Binance Pay (Crypto)",
+        "momo": "MoMo Wallet"
+      },
+      "support": "24/7 Transaction Support via Telegram / Facebook",
+      "sectionLabel": "Payment"
+    },
+    "contact": {
+      "title": "Contact Support",
+      "website": "Website: https://tkaipro.shop",
+      "telegram": "Telegram: @tkaipro_support",
+      "fanpage": "Fanpage: tkaipro.shop",
+      "cta": "Need urgent support? Chat with us now!"
+    },
+    "commitment": {
+      "title": "Our Commitment",
+      "items": {
+        "1": "Accounts match the plan description",
+        "2": "Replacement for seller-caused delivery errors",
+        "3": "No cracked or stolen credentials",
+        "4": "Transparency in every transaction"
+      },
+      "sectionLabel": "Commitment"
+    },
+    "ctaSection": {
+      "title": "Buy Your Google AI Account Today",
+      "subtitle": "Don't let budget block your design coursework. Get a Google AI plan from TKAIPro with email delivery and clear warranty terms.",
+      "buyNow": "View Plans",
+      "contact": "Contact for Advice"
+    }
+  },
+  "DashboardProfile": {
+    "title": "My Profile",
+    "description": "Manage your account information",
+    "avatar": {
+      "title": "Profile Picture",
+      "change": "Change",
+      "remove": "Remove",
+      "uploading": "Uploading...",
+      "success": "Profile picture updated successfully",
+      "error": "Error updating profile picture"
+    },
+    "form": {
+      "name": "Full Name",
+      "email": "Email",
+      "save": "Save Changes",
+      "saving": "Saving...",
+      "success": "Profile updated successfully",
+      "error": "Error updating profile"
+    }
+  },
+  "DashboardSettings": {
+    "title": "Settings",
+    "description": "Manage your account settings and preferences",
+    "tabs": {
+      "profile": "Profile",
+      "security": "Security"
+    },
+    "profile": {
+      "title": "Profile Information",
+      "name": "Name",
+      "namePlaceholder": "Enter your name",
+      "email": "Email",
+      "emailPlaceholder": "Enter your email",
+      "save": "Save Changes",
+      "saving": "Saving...",
+      "success": "Profile updated successfully",
+      "error": "Error updating profile"
+    },
+    "security": {
+      "title": "Security Settings",
+      "currentPassword": "Current Password",
+      "currentPasswordPlaceholder": "Enter current password",
+      "newPassword": "New Password",
+      "newPasswordPlaceholder": "Enter new password",
+      "confirmPassword": "Confirm New Password",
+      "confirmPasswordPlaceholder": "Confirm new password",
+      "update": "Update Password",
+      "updating": "Updating...",
+      "success": "Password changed successfully",
+      "error": "Error changing password",
+      "errorMatch": "Passwords do not match",
+      "errorLength": "New password must be at least 8 characters"
+    }
+  },
+  "RecentPurchases": {
+    "title": "Recent Purchases",
+    "justBought": "Just bought",
+    "recently": "Recently",
+    "ago": "ago",
+    "hours": "hours",
+    "hour": "hour",
+    "minutes": "minutes",
+    "minute": "minute",
+    "days": "days",
+    "day": "day",
+    "seconds": "seconds"
+  },
+  "DashboardOrders": {
+    "title": "My Orders",
+    "subtitle": "View and track your order status",
+    "refresh": "Refresh",
+    "loginRequired": "Login Required",
+    "loginDescription": "You need to login to view your orders.",
+    "errorTitle": "Error Loading Data",
+    "errorDescription": "Unable to load order list. Please try again later.",
+    "stats": {
+      "totalOrders": "Total Orders",
+      "paidOrders": "Paid Orders",
+      "pendingPayment": "Pending Payment",
+      "totalSpent": "Total Spent"
+    },
+    "filters": {
+      "statusPlaceholder": "Order Status",
+      "paymentPlaceholder": "Payment Status",
+      "allStatus": "All Status",
+      "allPayment": "All Payments"
+    },
+    "status": {
+      "pending": "Pending",
+      "processing": "Processing",
+      "completed": "Completed",
+      "cancelled": "Cancelled"
+    },
+    "paymentStatus": {
+      "pending": "Pending",
+      "paid": "Paid",
+      "failed": "Failed"
+    },
+    "table": {
+      "orderNumber": "Order ID",
+      "products": "Products",
+      "otherProducts": "+{count} others",
+      "total": "Total",
+      "status": "Status",
+      "payment": "Payment",
+      "date": "Date",
+      "actions": "Actions",
+      "viewDetails": "Details",
+      "payNow": "Pay Now"
+    },
+    "pagination": "Page {current}/{total}",
+    "empty": {
+      "title": "No orders yet",
+      "description": "You haven't placed any orders yet. Start shopping now!",
+      "cta": "Discover Products"
+    },
+    "toast": {
+      "loadError": "Error loading order data",
+      "connectionError": "Connection error"
+    }
+  },
+  "Pricing": {
+    "title": "Choose the Plan That Suits You",
+    "description": "All plans include support for Google AI registration, activation tracking and transparent after-sales care.",
+    "popular": "MOST POPULAR",
+    "perMonth": "₫/month",
+    "guarantees": {
+      "oneTime": "One-time payment",
+      "noRenew": "No auto-renew",
+      "refund": "1-for-1 replacement for shop errors"
+    },
+    "plans": {
+      "1-month": {
+        "name": "1 Month",
+        "description": "Quick setup for beginners",
+        "button": "Request 1 Month Plan",
+        "features": {
+          "0": "Online Google AI purchase guide",
+          "1": "Detailed setup and activation video",
+          "2": "Payment method consultation",
+          "3": "Post-activation checklist",
+          "4": "24/7 Support",
+          "5": "1-to-1 Warranty"
+        }
+      },
+      "3-months": {
+        "name": "3 Months",
+        "description": "Popular for freelancers",
+        "button": "Select 3 Months Plan",
+        "features": {
+          "0": "All 1-month plan services",
+          "1": "Longer-term plan consultation",
+          "2": "Priority support for verification",
+          "3": "Renewal reminder with guide",
+          "4": "Workflow optimization resources",
+          "5": "Private customer care group"
+        }
+      },
+      "6-months": {
+        "name": "6 Months",
+        "description": "Optimized for pros",
+        "button": "Order 6 Months Plan",
+        "features": {
+          "0": "All 3-months plan services",
+          "1": "1-on-1 video call support",
+          "2": "Periodic account status monitoring",
+          "3": "Latest Google AI policy updates",
+          "4": "Advanced workflow docs",
+          "5": "Recommended extensions"
+        }
+      },
+      "12-months": {
+        "name": "12 Months",
+        "description": "For teams and businesses",
+        "button": "Contact for 12 Months Plan",
+        "features": {
+          "0": "All 6-months plan services",
+          "1": "Team account setup consultation",
+          "2": "Security and permission checklist",
+          "3": "Google AI issue handling support",
+          "4": "Batch renewal coordination",
+          "5": "Onboarding docs for new members"
+        }
+      }
+    }
+  },
+  "MockData": {
+    "fallbackProducts": {
+      "mock-1": {
+        "name": "Google AI — 1 Month",
+        "description": "Short Google AI plan for trials and quick class projects. Login delivered by email after payment.",
+        "shortDescription": "Perfect for a quick trial"
+      },
+      "mock-2": {
+        "name": "Google AI — 3 Months",
+        "description": "Popular Google AI duration for a semester sprint — stock delivery plus setup tips from TKAIPro.",
+        "shortDescription": "Popular plan, saves time"
+      },
+      "mock-3": {
+        "name": "Google AI — 6 Months",
+        "description": "Half-year Google AI access for longer studio work and freelance seasons.",
+        "shortDescription": "Long-term savings for design students"
+      },
+      "mock-4": {
+        "name": "Google AI — 12 Months",
+        "description": "Full-year Google AI plan for campus teams and ongoing portfolio work.",
+        "shortDescription": "1-year plan, great for teams"
+      }
+    }
+  },
+  "UserOrderDetails": {
+    "title": "Order Details {orderNumber}",
+    "payNow": "Pay Now",
+    "status": {
+      "completed": "Completed",
+      "processing": "Processing",
+      "pending": "Pending",
+      "cancelled": "Cancelled"
+    },
+    "paymentStatus": {
+      "paid": "Paid",
+      "failed": "Payment Failed",
+      "pending": "Pending Payment"
+    },
+    "info": {
+      "title": "Order Information",
+      "orderNumber": "Order Number",
+      "orderDate": "Order Date",
+      "customer": "Customer",
+      "email": "Email"
+    },
+    "items": {
+      "title": "Purchased Items ({count})",
+      "quantity": "Quantity: {quantity}",
+      "empty": "No items"
+    },
+    "payment": {
+      "title": "Payment Details",
+      "subtotal": "Subtotal",
+      "discount": "Discount",
+      "total": "Total",
+      "paidAt": "Paid"
+    },
+    "notes": {
+      "title": "Order Notes"
+    },
+    "support": {
+      "title": "Need Help?",
+      "description": "Contact us if you have any questions about your order",
+      "contact": "Contact Support"
+    },
+    "statusLabels": {
+      "order": "Order:",
+      "payment": "Payment:"
+    },
+    "loginLinkInstructions": {
+      "title": "🔗 How to receive your account (manual)",
+      "lead": "To receive your account, please follow these steps:",
+      "step1": "Open <b>Gemini / Google AI</b> on your computer and log out the current account",
+      "step2": "Click <b>\"Sign in\"</b> inside the app",
+      "step3": "Google AI will open a browser with a login link like:",
+      "linkExample": "https://gemini.google.com/loginDeepControl?challenge=xxxxx&uuid=xxxxx&mode=login",
+      "step4": "<b>Copy this link IMMEDIATELY</b> and send it to the shop",
+      "noteTitle": "⚠️ Important notes:",
+      "note1": "Do not click sign-in in your web browser",
+      "note2": "Do not use a link that has redirected to authenticator.cursor.sh",
+      "note3": "Just copy the link and send it to the shop ✅",
+      "videoBtn": "▶️ Tutorial video",
+      "fbBtn": "📘 Facebook",
+      "tgBtn": "✈️ Telegram",
+      "footer": "Send the login link together with order number <b>#{orderNumber}</b> to receive your account."
+    }
+  },
+  "PrivacyPage": {
+    "seo": {
+      "title": "Privacy Policy",
+      "description": "Privacy policy of TKAIPro. Commitment to protecting personal data and payment information 100% securely."
+    },
+    "hero": {
+      "title": "Privacy",
+      "highlight": "Policy",
+      "description": "TKAIPro is committed to protecting your personal information with state-of-the-art security measures and complete transparency in data usage.",
+      "update": "Last updated: 07/07/2026"
+    },
+    "highlights": {
+      "ssl": {
+        "title": "256-bit SSL Encryption",
+        "desc": "All data is encrypted with banking standards"
+      },
+      "noCard": {
+        "title": "No Card Info Stored",
+        "desc": "We do not store your payment information"
+      },
+      "transparent": {
+        "title": "Fully Transparent",
+        "desc": "Clear about how data is collected and used"
+      },
+      "rights": {
+        "title": "Your Rights",
+        "desc": "You have the right to view, edit, and delete personal info"
+      }
+    },
+    "sections": {
+      "collection": {
+        "title": "1. Information We Collect",
+        "basic": "Basic personal info:",
+        "basicItems": {
+          "1": "Name, email, phone number",
+          "2": "IP address, browser info, device fingerprint (anti-fraud)",
+          "3": "Transaction and order history, wallet balance, crypto tx references"
+        },
+        "payment": "Payment info:",
+        "paymentItems": {
+          "1": "Selected payment method (SePay/VietQR, crypto, wallet)",
+          "2": "Transaction reference codes (no card numbers stored)",
+          "3": "Payment status and amount"
+        }
+      },
+      "usage": {
+        "title": "2. How We Use Information",
+        "purpose": "Usage purposes:",
+        "purposeItems": {
+          "1": "Process orders and deliver Google AI accounts",
+          "2": "Customer support and issue resolution",
+          "3": "Send important order notifications",
+          "4": "Improve service quality",
+          "5": "Comply with legal regulations"
+        },
+        "commitment": "We do NOT sell your data, do NOT use it for targeted advertising, and do NOT knowingly collect data from anyone under 18."
+      },
+      "security": {
+        "title": "3. Information Security",
+        "measures": "Security measures:",
+        "measuresItems": {
+          "1": "256-bit SSL encryption for all data transmission",
+          "2": "Firewall and intrusion prevention system",
+          "3": "Periodic security checks",
+          "4": "Restricted internal access",
+          "5": "Secure data backup"
+        },
+        "paymentSec": "Payment security:",
+        "paymentSecItems": {
+          "1": "Payment processors: SePay/VietQR, crypto (Binance, Bybit, on-chain), wallet",
+          "2": "No credit card information storage",
+          "3": "Cloudflare Turnstile for bot protection"
+        }
+      },
+      "rights": {
+        "title": "4. Your Rights",
+        "desc": "You have full control over your personal information:",
+        "items": {
+          "access": "Access: Request to view stored personal info",
+          "edit": "Edit: Update or modify info",
+          "delete": "Delete: Request removal of personal info",
+          "object": "Object: Refuse data processing",
+          "complain": "Complain: Report security violations"
+        },
+        "contact": "To exercise these rights, please contact:"
+      },
+      "cookies": {
+        "title": "5. Cookies and Tracking",
+        "desc": "We use cookies to improve user experience:",
+        "items": {
+          "1": "Essential cookies: login, cart, security, consent preferences",
+          "2": "Analytics cookies (opt-in): Microsoft Clarity, Vercel Analytics",
+          "3": "We do not use marketing/targeted advertising cookies"
+        },
+        "note": "You can disable cookies in browser settings, but some features may not work properly."
+      },
+      "sharing": {
+        "title": "6. Information Sharing",
+        "desc": "We only share information in the following cases:",
+        "items": {
+          "1": "Payment: SePay/VietQR, crypto processors (Binance, Bybit, on-chain), wallet",
+          "2": "Infrastructure: Vercel (hosting), Cloudflare Turnstile, Brevo (email)",
+          "3": "Authorities when legally required",
+          "4": "With your explicit consent"
+        }
+      },
+      "storage": {
+        "title": "7. Data Storage",
+        "items": {
+          "1": "Account info: retained while your shop account is active",
+          "2": "Order/transaction history: 5 years per Vietnamese tax/accounting law",
+          "3": "System logs and fingerprints: up to 12 months",
+          "4": "Marketing data: deleted on unsubscribe"
+        }
+      },
+      "minors": {
+        "title": "8. Children Under 18",
+        "desc": "Our services are not directed to anyone under 18. We do not knowingly collect personal data from minors. If you believe we have collected data from someone under 18, contact us to request deletion."
+      },
+      "international": {
+        "title": "9. International Data Transfers",
+        "desc": "Data may be processed on servers in the United States and other countries (e.g., Vercel, Brevo, Cloudflare). By using our service, you consent to such transfers. EU users should note that protections may differ from their home jurisdiction."
+      },
+      "contact": {
+        "title": "10. Contact & Complaints",
+        "desc": "If you have any questions about this privacy policy, please contact:",
+        "direct": "Direct contact:",
+        "company": "Company info:",
+        "supportTime": "Support time: 24/7"
+      }
+    },
+    "cta": {
+      "title": "Questions About Privacy?",
+      "description": "Our security team is ready to answer all your questions",
+      "contact": "Contact Now",
+      "terms": "View Terms of Service"
+    }
+  },
+  "PaymentResult": {
+    "title": "Order Payment",
+    "orderNumber": "Order #{number}",
+    "status": {
+      "paid": "Paid",
+      "pending": "Pending Payment"
+    },
+    "progress": {
+      "info": "Order Info",
+      "payment": "Payment",
+      "finish": "Complete"
+    },
+    "transfer": {
+      "title": "Transfer Information",
+      "scan": "Scan QR code to transfer",
+      "generating": "Generating QR Code...",
+      "bank": "Service",
+      "accountNumber": "Binance ID",
+      "accountName": "Account Name",
+      "amount": "Amount",
+      "content": "Transfer Content",
+      "contentNote": "⚠️ Enter the exact transfer content below for automatic confirmation",
+      "check": "I Have Transferred",
+      "checkManual": "Check Manually",
+      "checking": "Checking...",
+      "copy": "Copied {label}",
+      "autoVerifyTitle": "⏱️ After transfer, please wait 5-10 seconds",
+      "autoVerifyDesc": "The system will AUTOMATICALLY verify your transaction. If not updated after 30 seconds, click the manual check button below."
+    },
+    "summary": {
+      "title": "Order Details",
+      "customer": "Customer Info",
+      "name": "Name:",
+      "email": "Email:",
+      "products": "Products ({count})",
+      "total": "Total:",
+      "successTitle": "Payment Successful!",
+      "successDesc": "Your account has been issued and is shown below.",
+      "redirect": "🔄 Redirecting to orders page in {seconds} seconds...",
+      "guestSuccessTitle": "Your order has been confirmed!",
+      "guestOrderNumber": "Order number:",
+      "guestEmailNotice": "📧 A confirmation email with your account details will be sent to {email}. Please check your inbox (including spam/junk folder).",
+      "guestSaveOrder": "📌 Save the order number above for reference or when contacting support.",
+      "guestContactTitle": "Need help? Contact us:",
+      "guestRegisterHint": "💡 Create an account on our website to easily manage your orders and access your account info anytime.",
+      "note": "💡 Note: Order will be auto-confirmed after we receive the transfer.",
+      "support": "If there are issues, please contact support via the contact page or TKAIPro support channels"
+    },
+    "error": {
+      "notFound": "Order not found",
+      "fetchError": "Cannot load order info",
+      "connection": "Connection error, please try again",
+      "back": "Back to Shopping"
+    },
+    "backButton": "Back to Shopping",
+    "qrAlt": "Payment QR Code",
+    "binance": {
+      "title": "Binance Pay",
+      "desc": "Please use the Binance app to transfer to the ID below"
+    },
+    "crypto": {
+      "selectMethod": "Choose a payment method",
+      "scanQrToPay": "Scan the QR code to send payment",
+      "scanWithApp": "Scan with the {app} app to pay",
+      "provider": "Provider",
+      "payId": "Pay-ID",
+      "accountName": "Account name",
+      "asset": "Asset",
+      "network": "Network",
+      "address": "Wallet address",
+      "sendOnlyOn": "Send {asset} on the {network} network only. Sending on the wrong network will result in permanent loss.",
+      "orderRefNote": "Order reference (not an on-chain memo) — paste into the exchange remark/note field if available.",
+      "manualVerifyTitle": "Manual verification",
+      "manualVerifyDesc": "After sending, please wait a few minutes for admin to confirm, or contact support with your order number.",
+      "zoomQr": "Zoom in QR code for {method}"
+    },
+    "loginLinkInstructions": {
+      "title": "🔗 How to receive your account",
+      "lead": "To receive your account, please follow these steps:",
+      "step1": "Open <b>Gemini / Google AI</b> on your computer and log out the current account",
+      "step2": "Click <b>\"Sign in\"</b> inside the app",
+      "step3": "Google AI will open a browser with a login link like:",
+      "linkExample": "https://gemini.google.com/loginDeepControl?challenge=xxxxx&uuid=xxxxx&mode=login",
+      "step4": "<b>Copy this link IMMEDIATELY</b> and send it to the shop",
+      "noteTitle": "⚠️ Important notes:",
+      "note1": "Do not click sign-in in your web browser",
+      "note2": "Do not use the link if it has redirected to authenticator.cursor.sh — if redirected, click \"Sign in\" again from the start",
+      "note3": "Just copy the link and send it to the shop. We log in for you ✅",
+      "videoBtn": "▶️ Watch tutorial video",
+      "fbBtn": "📘 Facebook",
+      "tgBtn": "✈️ Telegram",
+      "footer": "Please send the login link together with order number <b>#{orderNumber}</b> to receive your account."
+    }
+  },
+  "HeaderUser": {
+    "menu": {
+      "orders": "My Orders",
+      "wallet": "My wallet",
+      "profile": "Profile",
+      "settings": "Settings",
+      "admin": "Admin Dashboard",
+      "signOut": "Sign Out"
+    },
+    "toast": {
+      "success": "Signed out successfully",
+      "error": "An error occurred during sign out"
+    }
+  },
+  "Header": {
+    "home": "Home",
+    "intro": "Intro",
+    "products": "Products",
+    "purchasedCustomers": "Customers",
+    "blog": "Blog",
+    "affiliate": "Partner",
+    "contact": "Contact",
+    "admin": "Admin",
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "dashboard": "Orders",
+    "profile": "Profile",
+    "settings": "Settings",
+    "cart": "Cart",
+    "orders": "Orders",
+    "search": {
+      "placeholder": "Search products...",
+      "empty": "No products found",
+      "hint": "Search"
+    },
+    "wallet": "Wallet"
+  },
+  "Common": {
+    "language": "Language",
+    "vietnamese": "Vietnamese",
+    "english": "English"
+  },
+  "HomePage": {
+    "heroTitle": "<highlight>Buy Google AI Account</highlight> — <highlight>Google AI</highlight> Plans",
+    "heroDescription": "TKAIPro is an independent reseller of Google AI accounts. Ready stock, auto delivery by email after payment, clear warranty terms, and 24/7 support. Not affiliated with Google LLC",
+    "ctaRegister": "View Plans",
+    "ctaPricing": "📊 View Pricing",
+    "disclaimer": "TKAIPro is an independent reseller. Not affiliated with, endorsed by, or sponsored by Google LLC. \"Google\" and \"Google AI\" are trademarks of Google LLC We sell Google AI accounts from our stock for students and design teams.",
+    "badges": {
+      "warranty": "1-to-1 Warranty",
+      "support": "24/7 Support"
+    },
+    "customRequest": {
+      "badge": "HOT",
+      "title": "Need a custom duration?",
+      "subtitle": "Looking for a <highlight>Google AI plan not listed</highlight>? Message us — we quote within 5 minutes.",
+      "cta": "Contact now"
+    },
+    "urgency": {
+      "title": "⚡ Limited Offer - Save up to 90%",
+      "subtitle": "Only <bold>3 days</bold> left for this special offer"
+    },
+    "liveDemo": "🔴 Live Demo",
+    "featuresTitle": "Why design students choose TKAIPro?",
+    "featuresDescription": "Independent Google AI reseller trusted by 5,000+ buyers. Fair pricing, fast email delivery, 1-to-1 warranty.",
+    "features": {
+      "transparentConsulting": {
+        "title": "Clear Guidance",
+        "description": "Our team walks you through buying a Google AI account step by step with transparent pricing and delivery details."
+      },
+      "reasonableSavings": {
+        "title": "Smart Savings",
+        "description": "Pick a plan that fits — pay via VietQR or e-wallets and keep more budget for your design projects."
+      },
+      "support247": {
+        "title": "24/7 Support",
+        "description": "24/7 customer support via Telegram. Quick answers on login, delivery, and warranty."
+      },
+      "longTermCompanion": {
+        "title": "Long-term Companion",
+        "description": "Guides for signing in to Google AI, using Education features, and getting help after delivery."
+      }
+    },
+    "benefitsTitle": "Why Buy a Google AI Account?",
+    "benefitsDescription": "Google AI — professional design collaboration for students and campus teams",
+    "benefits": {
+      "unlimitedCompletion": {
+        "title": "Dev Mode Access",
+        "description": "Hand off designs with Dev Mode so teammates inspect specs without messy exports."
+      },
+      "fastRequests": {
+        "title": "Realtime Collaboration",
+        "description": "Edit frames together live — perfect for group projects and studio critiques."
+      },
+      "maxMode": {
+        "title": "Shared Libraries",
+        "description": "Reuse components and styles across files within Education plan permissions."
+      }
+    },
+    "finalCta": {
+      "title": "Ready to buy a Google AI account?",
+      "description": "Join 5,000+ buyers who chose TKAIPro. Browse Google AI plans and get login details by email.",
+      "register": "View Plans",
+      "viewPackages": "View Pricing"
+    }
+  },
+  "ProofGallery": {
+    "cta": "View Details",
+    "badges": {
+      "featured": "Featured",
+      "verified": "Verified",
+      "authentic": ""
+    },
+    "empty": {
+      "title": "No proofs yet",
+      "description": "Proof gallery will be updated soon."
+    },
+    "zoom": {
+      "zoomIn": "Zoom In",
+      "zoomOut": "Zoom Out",
+      "reset": "Reset",
+      "hint": {
+        "zoom": "Scroll to zoom",
+        "pan": "Drag to pan"
+      }
+    },
+    "details": {
+      "title": "Order Details",
+      "orderCode": "Order Code",
+      "customer": "Customer",
+      "value": "Value",
+      "orderDate": "Date"
+    }
+  },
+  "TrustSocialProof": {
+    "badge": "real proof from customers",
+    "titlePart1": "thousands of customers have trusted",
+    "titlePart2": "and used our service",
+    "description": "View real proof from successful orders. Every order is verified and backed by our 1-to-1 warranty.",
+    "stats": {
+      "successOrders": "successful orders",
+      "avgRating": "average rating"
+    },
+    "cta": "view all customer proofs",
+    "ctaSub": "click to view thousands of successful orders and real customer reviews",
+    "empty": {
+      "title": "proofs will be updated soon"
+    },
+    "labels": {
+      "verified": "verified",
+      "authentic": "Verified Reseller",
+      "warranty": "1-to-1 warranty",
+      "support": "24/7 support"
+    },
+    "productTypes": {
+      "cursor-pro": "Google AI",
+      "cursor-pro-official-1m": "Google AI 1 Month",
+      "github-copilot": "GitHub Copilot",
+      "github-edu": "GitHub EDU",
+      "figma-pro": "Google AI Pro",
+      "jetbrains-edu": "JetBrains"
+    }
+  },
+  "FeaturedProducts": {
+    "title": "Google AI Plans",
+    "subtitle": "Buy Google AI account stock — save more — 1-to-1 warranty",
+    "cta": "View All Plans",
+    "toast": "{name} has been added to cart"
+  },
+  "Footer": {
+    "description": "TKAIPro — independent reseller of Google AI accounts. Not affiliated with Google LLC 1-to-1 warranty, 24/7 support.",
+    "columns": {
+      "products": "Products",
+      "company": "Company",
+      "support": "Support"
+    },
+    "links": {
+      "allPackages": "All Packages",
+      "cursorPro1m": "Google AI 1 Month",
+      "cursorPro3m": "Google AI 3 Months",
+      "cursorPro6m": "Google AI 6 Months",
+      "cursorPro12m": "Google AI 12 Months",
+      "about": "About Us",
+      "careers": "Careers",
+      "affiliate": "Partner",
+      "blog": "Blog",
+      "press": "Press",
+      "contact": "Contact",
+      "customers": "Customers",
+      "help": "Help Center",
+      "shipping": "Shipping & Returns",
+      "warranty": "Warranty",
+      "returnPolicy": "Return Policy",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "disclaimer": "Disclaimer",
+      "cookies": "Cookies",
+      "sitemap": "Sitemap"
+    },
+    "copyright": "All rights reserved.",
+    "schedule": {
+      "title": "Support Hours",
+      "mainHours": "08:00-23:00 (Monday - Sunday)",
+      "fastHours": "Fast response window: Monday - Friday, 08:00-12:00; 13:30-17:00",
+      "telegramPriority": "Prioritize Telegram for faster replies",
+      "emergency": "Emergency: 24/7 via Telegram/Facebook"
+    },
+    "legal": {
+      "disclaimerTitle": "Trademark Disclaimer",
+      "disclaimerBody": "TKAIPro is an independent third-party reseller of Google AI accounts. We are not affiliated with, endorsed by, or sponsored by Google LLC. \"Google\" and \"Google AI\" are trademarks of Google LLC We resell legitimately-acquired accounts/subscriptions for the convenience of design students and UI freelancers. To purchase directly from the trademark owner, visit https://gemini.google.com."
+    },
+    "trustBadges": {
+      "authentic": "Verified Reseller"
+    }
+  },
+  "SEO": {
+    "defaultDescription": "Buy a Google AI account from TKAIPro — an independent reseller. Stock ready, auto email delivery after payment, clear warranty, 24/7 help. Not affiliated with Google LLC",
+    "defaultTitle": "Buy Google AI Account — Google AI Plans | TKAIPro",
+    "slogan": "Buy Google AI accounts — independent reseller",
+    "keywords": "buy Google AI account, Google AI, Google AI, buy Google AI account, TKAIPro, Google AI shop, Google AI reseller"
+  },
+  "CompetitorComparison": {
+    "title": "Compare Design Tools",
+    "description": "Why many students and freelancers buy a Google AI account through TKAIPro instead of staying on limited free tiers or older tools.",
+    "tools": {
+      "cursor": {
+        "description": "Google AI for students & educators",
+        "price": "From competitive reseller pricing",
+        "originalPrice": "Education plan via TKAIPro stock"
+      },
+      "vscode": {
+        "name": "Google AI Free",
+        "description": "Limited personal / free tier",
+        "price": "Free"
+      },
+      "copilot": {
+        "name": "Sketch",
+        "description": "Mac-focused UI design app",
+        "price": "Paid license"
+      },
+      "codeium": {
+        "name": "Adobe XD / Canva",
+        "description": "Alternative design / visual tools",
+        "price": "Varies"
+      }
+    },
+    "features": {
+      "header": "Feature",
+      "completion": "Realtime multiplayer editing",
+      "chat": "Comments & feedback",
+      "models": "Dev Mode handoff",
+      "analysis": "Shared team libraries",
+      "editing": "Cross-platform (web + desktop)",
+      "generation": "Interactive prototypes",
+      "debug": "Classroom / education fit",
+      "performance": "Collaboration speed",
+      "cost": "Typical monthly cost"
+    },
+    "values": {
+      "cursor": {
+        "completion": "Yes (Education)",
+        "chat": "Yes",
+        "models": "Yes",
+        "analysis": "✓ Within plan rules",
+        "editing": "✓ Web & desktop",
+        "generation": "✓ Prototypes",
+        "debug": "✓ Strong for students",
+        "performance": "Excellent for teams",
+        "cost": "Reseller Google AI plans"
+      },
+      "vscode": {
+        "completion": "Limited",
+        "chat": "Basic",
+        "models": "Limited / none",
+        "analysis": "✗ Limited",
+        "editing": "Web & desktop",
+        "generation": "Basic",
+        "debug": "Personal use",
+        "performance": "Good for solos",
+        "cost": "Free (limited)"
+      },
+      "copilot": {
+        "completion": "Local / plugin based",
+        "chat": "Comments via plugins",
+        "models": "Handoff via plugins",
+        "analysis": "Libraries (Sketch)",
+        "editing": "macOS focused",
+        "generation": "Prototypes",
+        "debug": "Pro teams",
+        "performance": "Good on Mac",
+        "cost": "Paid Sketch license"
+      },
+      "codeium": {
+        "completion": "Varies by tool",
+        "chat": "Varies",
+        "models": "Limited handoff",
+        "analysis": "Templates / brands",
+        "editing": "Web focused",
+        "generation": "Presentations / social",
+        "debug": "Marketing / light UI",
+        "performance": "Easy for beginners",
+        "cost": "Free–paid tiers"
+      }
+    },
+    "cards": {
+      "cursor": {
+        "title": "What's Special About Google AI?",
+        "content": [
+          "• <bold>Realtime collab</bold> on the same file with classmates",
+          "• <bold>Dev Mode</bold> for cleaner handoff to builders",
+          "• <bold>Libraries</bold> to reuse components across projects",
+          "• <bold>Prototypes</bold> that feel like the real product"
+        ]
+      },
+      "service": {
+        "title": "Value of Buying at TKAIPro",
+        "content": [
+          "• <bold>Ready stock</bold> — pay and get email delivery",
+          "• <bold>Local payment</bold> via VietQR and e-wallets",
+          "• <bold>Human support</bold> in Vietnamese and English",
+          "• <bold>Clear policies</bold> on warranty and delivery"
+        ]
+      },
+      "commitment": {
+        "title": "Service Commitment",
+        "content": [
+          "• <bold>1-to-1 Replacement</bold> for seller-caused errors within 24h",
+          "• <bold>24/7 Support</bold> via Telegram / Facebook",
+          "• <bold>Setup help</bold> until you can sign in to Google AI"
+        ]
+      }
+    },
+    "recommended": "RECOMMENDED"
+  },
+  "SuccessStories": {
+    "title": "Customers Who Bought Google AI Accounts",
+    "description": "Stories from design students and freelancers who bought Google AI through TKAIPro",
+    "stats": {
+      "developers": "Buyers helped",
+      "speed": "Avg delivery time",
+      "debug": "Support response",
+      "rating": "Average rating"
+    },
+    "stories": {
+      "0": {
+        "role": "UI Design Student",
+        "story": "Bought a Google AI account for my thesis app. Auto Layout and shared libraries saved our group so much time. Delivery email arrived in minutes.",
+        "results": [
+          "Group file always in sync",
+          "Prototype ready before critique",
+          "Less export chaos"
+        ]
+      },
+      "1": {
+        "role": "Freelance UI Designer",
+        "story": "I needed Google AI features for client handoff. Dev Mode made specs clearer and clients approved faster. TKAIPro support answered late at night.",
+        "results": [
+          "Faster client approvals",
+          "Cleaner handoff notes",
+          "More projects per month"
+        ]
+      },
+      "2": {
+        "role": "Design Capstone Lead",
+        "story": "Our campus team used one Education workspace for the whole semester. Components stayed consistent and new members onboarded quickly.",
+        "results": [
+          "One shared design system",
+          "Onboarding under 1 day",
+          "Fewer version conflicts"
+        ]
+      },
+      "3": {
+        "role": "Product Design Intern",
+        "story": "Switching from free Google AI unlocked better team libraries. Mentors could comment live during reviews instead of screenshot threads.",
+        "results": [
+          "Live feedback in files",
+          "Stronger portfolio case studies",
+          "Internship reviews smoother"
+        ]
+      },
+      "4": {
+        "role": "Motion & UI Freelancer",
+        "story": "As a freelancer, time is money. Prototypes in Google AI help me present flows without rebuilding in other tools.",
+        "results": [
+          "Quicker pitch demos",
+          "Higher client satisfaction",
+          "Less tool switching"
+        ]
+      },
+      "5": {
+        "role": "Design Club Organizer",
+        "story": "We bought plans for workshop mentors. Students practiced frames and prototypes together — workshops finally felt hands-on.",
+        "results": [
+          "Workshops ran smoother",
+          "Students shipped mock apps",
+          "Club retention improved"
+        ]
+      }
+    },
+    "cta": {
+      "title": "Want Your Own Success Story?",
+      "description": "Join buyers who upgraded to Google AI with TKAIPro. Your next project could start today.",
+      "start": "🚀 Buy Google AI Now",
+      "follow": "📘 Follow Fanpage"
+    },
+    "resultsLabel": "Results achieved:"
+  },
+  "Tutorial": {
+    "title": "How to Buy & Use Google AI",
+    "description": "From checkout to signing in to Google AI — usually under 15 minutes",
+    "download": {
+      "title": "Open Google AI in browser or app",
+      "version": "Use the <bold>Google AI web app</bold> or desktop app on Windows / macOS",
+      "button": "Go to Google AI",
+      "note": "⚡ After purchase, sign in with the email login we send you"
+    },
+    "steps": {
+      "1": {
+        "title": "Choose a Google AI plan",
+        "description": "Pick the Google AI duration that fits your project or semester",
+        "details": [
+          "Visit TKAIPro shop plans",
+          "Compare durations and price",
+          "Add the plan to cart",
+          "Confirm your order details (2–3 mins)"
+        ],
+        "duration": "3 mins",
+        "difficulty": "Easy"
+      },
+      "2": {
+        "title": "Pay via VietQR or e-wallet",
+        "description": "Complete payment with VietQR, MoMo, ZaloPay, or bank transfer",
+        "details": [
+          "Open checkout and pick a payment method",
+          "Scan VietQR or confirm the wallet transfer",
+          "Wait for payment confirmation on the order page",
+          "Keep your order number for support"
+        ],
+        "duration": "2 mins",
+        "difficulty": "Easy"
+      },
+      "3": {
+        "title": "Receive login by email",
+        "description": "We deliver Google AI login details from stock to your email",
+        "details": [
+          "Check inbox (and spam) for the delivery email",
+          "Save the email and password securely",
+          "Do not share credentials publicly",
+          "Message support if nothing arrives after 15 minutes"
+        ],
+        "duration": "5 mins",
+        "difficulty": "Easy"
+      },
+      "4": {
+        "title": "Sign in to Google AI",
+        "description": "Log in and confirm Education features are available",
+        "details": [
+          "Open Google AI in browser or desktop app",
+          "Sign in with the delivered email and password",
+          "Open a file and check Dev Mode / team features as applicable",
+          "Invite classmates to a shared file if needed"
+        ],
+        "duration": "5 mins",
+        "difficulty": "Easy"
+      },
+      "5": {
+        "title": "Design with Education tools",
+        "description": "Use frames, Auto Layout, components, and prototypes for your coursework",
+        "details": [
+          "Build frames with Auto Layout for responsive UI",
+          "Create components and styles for consistency",
+          "Link screens into an interactive prototype",
+          "Share the file link with your team or instructor"
+        ],
+        "duration": "10 mins",
+        "difficulty": "Medium"
+      }
+    },
+    "tips": {
+      "shortcuts": {
+        "title": "Useful Shortcuts",
+        "list": [
+          "F: Frame tool",
+          "Shift + A: Auto Layout",
+          "Ctrl/Cmd + Alt + K: Create component",
+          "Shift + E: Prototype / present"
+        ]
+      },
+      "bestPractices": {
+        "title": "Best Practices",
+        "list": [
+          "Name layers clearly for teammates",
+          "Use components instead of duplicating frames",
+          "Keep one source-of-truth library per project",
+          "Share view/edit links with the right permissions"
+        ]
+      },
+      "useCases": {
+        "title": "Common Use Cases",
+        "list": [
+          "UI mockups for class assignments",
+          "Capstone app design systems",
+          "Freelance client wireframes",
+          "Interactive prototype demos"
+        ]
+      }
+    },
+    "support": {
+      "freeSetup": "Free setup help for new TKAIPro customers",
+      "messenger": "💬 Chat Messenger Support",
+      "telegram": "📱 Telegram Support"
+    }
+  },
+  "FAQ": {
+    "title": "Frequently Asked Questions",
+    "description": "Answers about buying a Google AI account at TKAIPro.",
+    "items": {
+      "0": {
+        "question": "What is Google AI (Google AI)?",
+        "answer": "Google AI is Google AI's plan for eligible students and educators. It unlocks collaboration, Dev Mode, and library features beyond the free tier. TKAIPro resells Google AI accounts from stock — we are an independent reseller, not affiliated with Google LLC"
+      },
+      "1": {
+        "question": "How is Google AI different from the free Google AI plan?",
+        "answer": "Education plans typically include stronger collab tools, Dev Mode, and shared libraries within plan rules. Free Google AI is fine for light personal use; Google AI fits class projects and team files that need more seats and features."
+      },
+      "2": {
+        "question": "Are you affiliated with Google LLC?",
+        "answer": "No. TKAIPro is an independent reseller. We are not a partner, agent, or sponsored store of Google LLC Trademarks belong to their owners. We disclose this clearly so you know who you are buying from."
+      },
+      "3": {
+        "question": "How do I receive my Google AI account?",
+        "answer": "After payment clears, we email login details from our ready stock (usually within minutes during support hours). Passwords are not shown on the website — check your inbox and spam folder."
+      },
+      "4": {
+        "question": "Is there a warranty? What if login fails?",
+        "answer": "Yes. Within the first 24 hours, if a seller-caused issue occurs (cannot sign in, missing Education benefits as described), we offer a free 1-for-1 replacement. Digital goods are non-refundable after credentials are delivered. If Google suspends an account under their own terms, that is beyond our warranty. 24/7 help via Telegram."
+      },
+      "5": {
+        "question": "How can I pay? Is it safe?",
+        "answer": "We support MoMo, ZaloPay, VietQR, and bank transfer. Transactions use encrypted checkout. One-time payment — no auto-renew from us. We do not store your card numbers."
+      },
+      "6": {
+        "question": "How long until delivery?",
+        "answer": "Usually 1–5 minutes after successful payment. During peak hours it may take a bit longer. You get an email with login steps for Google AI."
+      },
+      "7": {
+        "question": "Do you offer a usage walkthrough?",
+        "answer": "Yes — short guides for signing in, joining files, and using Education features. Our support team can walk you through setup if you get stuck."
+      }
+    },
+    "stillHaveQuestions": "Still have questions?",
+    "contactSupport": "Contact us via Telegram or Facebook. Support team ready to assist 24/7!",
+    "telegram": "Chat now",
+    "messenger": "Chat now",
+    "fanpage": "Fanpage",
+    "email": "Email",
+    "zaloGroup": "Community Group",
+    "facebookGroup": "Facebook Group"
+  },
+  "Community": {
+    "badge": "Community",
+    "title": "Join the Google AI Vietnam Community",
+    "description": "Connect with Vietnamese design students and UI freelancers, share Google AI tips, and get quick support from the community.",
+    "members": "members",
+    "facebook": {
+      "title": "Facebook Group",
+      "description": "Largest community, active discussions and shared experiences using Google AI."
+    },
+    "zalo": {
+      "title": "Zalo Group",
+      "description": "Quick discussions, real-time tech support and latest promotions."
+    },
+    "telegram": {
+      "title": "Telegram Channel",
+      "description": "Get notifications, tips & tricks and learning resources about Google AI."
+    },
+    "benefits": {
+      "support": "Community support",
+      "network": "Network with designers",
+      "exclusive": "Exclusive offers"
+    }
+  },
+  "WarningMarquee": {
+    "text": "⚠️ WARNING: There are currently people impersonating Google AI Fanpage shop. Please only transact via <contact>Shop's Contact Page</contact> or <products>buy directly on TKAIPro website</products>!!!"
+  },
+  "Testimonials": {
+    "title": "Reviews from TKAIPro Buyers",
+    "description": "Thousands of students and freelancers have used our Google AI reseller service",
+    "items": {
+      "0": {
+        "text": "Helpful support, email delivery in about 5 minutes. Price is much lower than I expected for Google AI features. Great deal!",
+        "author": {
+          "name": "Hoang Van Nam",
+          "handle": "@nam.design"
+        }
+      },
+      "1": {
+        "text": "Used free Google AI forever — Education libraries and Dev Mode changed my class projects. Support explained login clearly.",
+        "author": {
+          "name": "Tran Thanh Tu",
+          "handle": "@tutran_ui"
+        }
+      },
+      "2": {
+        "text": "Transparent shop. Bought a semester plan, signed in on my email from the delivery message. Smooth experience.",
+        "author": {
+          "name": "Le Duc Thang",
+          "handle": "@thangld_ux"
+        }
+      },
+      "3": {
+        "text": "Google AI helps our design squad finish mockups faster. TKAIPro support is responsive on Telegram.",
+        "author": {
+          "name": "Pham Minh Tam",
+          "handle": "@tampham_design"
+        }
+      },
+      "4": {
+        "text": "Was careful at first, tried 1 month, then renewed longer. Clear warranty policy. 10/10 for students.",
+        "author": {
+          "name": "Nguyen Quoc Bao",
+          "handle": "@bao_nguyen"
+        }
+      },
+      "5": {
+        "text": "Our team of 5 all bought here for a campus hackathon. Invoices clear, delivery emails on time. Five stars.",
+        "author": {
+          "name": "Vu Thi Hang",
+          "handle": "@hangvu_studio"
+        }
+      }
+    }
+  },
+  "ProductsPage": {
+    "seo": {
+      "title": "Google AI Accounts — Plans for Sale | TKAIPro",
+      "description": "Browse Google AI plans at TKAIPro. Buy a Google AI account from ready stock — email delivery, warranty, VietQR & e-wallet checkout. Not affiliated with Google LLC",
+      "keywords": "Google AI, Google AI account, buy Google AI account, Google AI plans, TKAIPro products, Google AI shop"
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "products": "Google AI"
+    },
+    "breadcrumbs": {
+      "home": "Home",
+      "products": "Buy Google AI"
+    },
+    "title": "Google AI Accounts",
+    "subtitle": "Buy Google AI account (Education) — save more — 1-to-1 warranty — email delivery in minutes",
+    "allCategories": "All",
+    "newBadge": "New",
+    "filterTitle": "Filter by {name}",
+    "emptyState": {
+      "title": "No products found",
+      "categoryEmpty": "No products in category \"{category}\"",
+      "genericEmpty": "No products available at the moment"
+    },
+    "pagination": {
+      "prev": "Prev",
+      "next": "Next"
+    },
+    "toast": {
+      "added": "{name} has been added to cart"
+    },
+    "search": {
+      "placeholder": "Search Google AI plans...",
+      "noResults": "No results for \"{query}\"",
+      "noResultsHint": "Try a different keyword or browse categories"
+    },
+    "sort": {
+      "label": "Sort by",
+      "default": "Default",
+      "priceLowToHigh": "Price: Low → High",
+      "priceHighToLow": "Price: High → Low",
+      "newest": "Newest",
+      "topRated": "Top Rated"
+    },
+    "priceFilter": {
+      "label": "Price range",
+      "apply": "Apply",
+      "clear": "Clear filter"
+    }
+  },
+  "ProductCard": {
+    "popular": "POPULAR",
+    "soldCount": "{count}+ sold",
+    "save": "Save {amount}₫",
+    "warranty": "1-to-1 Warranty",
+    "support": "24/7 Support",
+    "buyNow": "Buy Now",
+    "addToCart": "Add to Cart",
+    "outOfStock": "Out of Stock",
+    "toast": {
+      "added": "{name} has been added to cart"
+    },
+    "aria": {
+      "addToWishlist": "Add to wishlist"
+    },
+    "quickView": {
+      "button": "Quick View",
+      "features": "Key Features",
+      "viewDetail": "View Full Details"
+    }
+  },
+  "SocialShare": {
+    "share": "Share",
+    "facebook": "Share on Facebook",
+    "telegram": "Share on Telegram",
+    "copyLink": "Copy Link",
+    "copied": "Copied!",
+    "linkCopied": "Product link copied to clipboard",
+    "copyFailed": "Failed to copy link",
+    "shareText": "Check out {productName} at TKAIPro!"
+  },
+  "SocialProofPreview": {
+    "badge": "Real Customer Proof",
+    "title": "Customers Bought",
+    "highlight": "thousands of successful orders",
+    "description": "See real proofs from orders of customers who trusted and used our services",
+    "featured": "Featured",
+    "empty": "No proofs yet",
+    "viewAll": "View all proofs",
+    "productTypes": {
+      "cursor-pro": "Google AI",
+      "cursor-pro-official-1m": "Google AI 1 Month",
+      "github-copilot": "GitHub Copilot",
+      "github-edu": "GitHub EDU",
+      "figma-pro": "Google AI Pro",
+      "jetbrains-edu": "JetBrains"
+    },
+    "badges": {
+      "authentic": "Verified Reseller"
+    },
+    "labels": {
+      "authentic": "Verified Reseller"
+    }
+  },
+  "SocialProofPage": {
+    "seo": {
+      "title": "Customers Who Bought Google AI at TKAIPro",
+      "description": "See real buyers who purchased Google AI accounts at TKAIPro. Order proofs, trust signals, and clear reseller policies.",
+      "keywords": "Google AI buyers, buy Google AI account proof, Google AI orders, TKAIPro customers, social proof"
+    },
+    "hero": {
+      "badge": "Real Order Proofs",
+      "title": "Customers Bought",
+      "highlight": "Google AI Accounts",
+      "description": "Thousands of students and freelancers trust TKAIPro to buy Google AI accounts. Browse real order proofs below.",
+      "stats": {
+        "orders": "Orders",
+        "cursor": "Google AI",
+        "github": "Happy buyers",
+        "reviews": "Reviews",
+        "figma": "Google AI",
+        "delivery": "Fast delivery"
+      }
+    },
+    "proofs": {
+      "title": "Real Customer Proofs",
+      "description": "Click each proof to view details and zoom the image",
+      "badges": {
+        "authentic": "Verified Purchase"
+      },
+      "labels": {
+        "authentic": "Verified Purchase"
+      },
+      "verifiedBadge": "VERIFIED PROOF"
+    },
+    "trust": {
+      "title": "Why Choose Us?",
+      "items": {
+        "0": {
+          "title": "Independent Reseller",
+          "description": "Transparent Google AI sales with clear delivery and warranty terms"
+        },
+        "1": {
+          "title": "1-to-1 Warranty",
+          "description": "Replacement for seller-caused issues within the warranty window"
+        },
+        "2": {
+          "title": "24/7 Support",
+          "description": "Friendly support team ready on Telegram and Facebook"
+        }
+      }
+    },
+    "productTypes": {
+      "figmaEdu": "Google AI"
+    },
+    "commitment": {
+      "bannerTitle": "🛡️ REAL ORDER PROOFS",
+      "bannerSubtitle": "200% refund if any fake order is found",
+      "ssl": "SSL Secure",
+      "verified": "Verified",
+      "trusted": "Top trusted"
+    },
+    "whyTrust": {
+      "badge": "WHY CUSTOMERS TRUST US",
+      "title": "Transparent & Trustworthy",
+      "description": "We are an independent reseller of Google AI accounts with thousands of satisfied customers. Not affiliated with Google LLC",
+      "realOrdersTitle": "Real Orders",
+      "realOrdersDesc": "Displayed orders come from our payment system with no staged screenshots.",
+      "dataSecurityTitle": "Data Security",
+      "dataSecurityDesc": "Customer data protected with 256-bit SSL. Names are partially hidden for privacy.",
+      "instantDeliveryTitle": "Fast Delivery",
+      "instantDeliveryDesc": "Receive your Google AI account by email after payment. 24/7 support.",
+      "refundTitle": "200% Refund",
+      "refundDesc": "200% money-back promise if any fake order is found. That is our confidence.",
+      "quote": "Over {count}+ customers have trusted TKAIPro for Google AI accounts. Thank you for your support!",
+      "satisfied": "Satisfied Customers"
+    },
+    "promise": {
+      "badge": "OUR PROMISE"
+    },
+    "cta": {
+      "title": "🎯 What are you waiting for?",
+      "description": "Thousands of customers have bought Google AI accounts at TKAIPro. It's your turn!",
+      "buyNow": "Buy Now",
+      "contact": "Contact Support"
+    }
+  },
+  "BlogPage": {
+    "seo": {
+      "title": "Google AI Blog — Guides & Tips | TKAIPro",
+      "description": "TKAIPro blog: how to buy a Google AI account, Google AI tips, Auto Layout guides, and collaboration advice for students and freelancers.",
+      "keywords": "Google AI blog, Google AI tips, buy Google AI account how-to, TKAIPro blog, Google AI tutorials"
+    },
+    "hero": {
+      "title": "Blog",
+      "highlight": "Google AI",
+      "description": "Guides and tips for Google AI — from buying a Google AI account to Auto Layout, prototypes, and teamwork."
+    },
+    "categories": {
+      "all": "All",
+      "tutorial": "Tutorial",
+      "news": "News",
+      "tips": "Tips"
+    },
+    "featured": {
+      "title": "Featured Post",
+      "readMore": "Read Article",
+      "defaultTitle": "Featured Post",
+      "readTime": "{minutes} min read",
+      "author": "Admin"
+    },
+    "posts": {
+      "title": "Latest Posts",
+      "readMore": "Read More",
+      "defaultImage": "Blog Image",
+      "empty": "No posts yet. Check back soon for Google AI guides.",
+      "loadMore": "Load More Posts"
+    },
+    "newsletter": {
+      "title": "Subscribe to Newsletter",
+      "description": "Get occasional tips on Google AI, shop updates from TKAIPro, and design workflow ideas.",
+      "placeholder": "your.email@example.com",
+      "button": "Subscribe",
+      "privacy": "We respect your privacy. Unsubscribe at any time."
+    },
+    "cta": {
+      "title": "Ready to Buy a Google AI Account?",
+      "description": "Apply tips from our blog and get a Google AI plan from TKAIPro",
+      "buyNow": "Buy Google AI Now",
+      "guide": "View How-to"
+    }
+  },
+  "ContactPage": {
+    "seo": {
+      "title": "Contact — Buy Google AI Account | TKAIPro",
+      "description": "Contact TKAIPro to buy a Google AI account. 24/7 support via Telegram and Facebook. Independent reseller — not affiliated with Google LLC",
+      "keywords": "contact TKAIPro, buy Google AI account support, Google AI help, Google AI reseller contact"
+    },
+    "hero": {
+      "badge": "We are always ready to help",
+      "title": "Contact",
+      "highlight": "TKAIPro",
+      "description": "Support team ready for Google AI purchase questions",
+      "subDescription": "Contact now for free advice on buying a Google AI account!",
+      "stats": {
+        "response": "Response within 5 minutes",
+        "customers": "5000+ trusted customers",
+        "support": "Instant support 24/7"
+      }
+    },
+    "methods": {
+      "title": "Choose Contact Method",
+      "highlight": "That Fits You",
+      "description": "Reach us via Facebook Fanpage or Telegram for the fastest help",
+      "facebook": {
+        "title": "Facebook Fanpage",
+        "description": "Follow and message via Fanpage",
+        "action": "Visit Fanpage"
+      },
+      "telegram": {
+        "title": "Telegram",
+        "description": "Message support on Telegram",
+        "action": "Contact Telegram"
+      },
+      "available": "24/7"
+    },
+    "quickBanner": {
+      "title": "💬 Fastest contact via",
+      "facebook": "Facebook Fanpage",
+      "or": "or",
+      "telegram": "Telegram",
+      "description": "For instant replies about Google AI plans, contact Facebook Fanpage or Telegram. We aim to respond within 5 minutes!",
+      "buttons": {
+        "facebook": "Facebook Fanpage",
+        "telegram": "Telegram Support"
+      }
+    },
+    "info": {
+      "title": "Contact Us",
+      "description": "Please contact via Facebook Fanpage or Telegram for quick support",
+      "note": "💡 Note: We mainly support via Facebook Fanpage and Telegram. Pick one channel for the fastest reply.",
+      "company": {
+        "title": "Shop Information",
+        "name": "TKAIPro",
+        "description": "Independent reseller helping you buy and activate Google AI accounts with clear delivery terms",
+        "addressTitle": "Address",
+        "address": "Ho Chi Minh City, Vietnam",
+        "hoursTitle": "Working Hours",
+        "hours": "• Monday - Sunday: 08:00 - 23:00\n• Evening and weekend replies may be slower\n• Faster response hours: Monday - Friday, 08:00-12:00; 13:30-17:00\n• Lunch break 12:00-13:30 may be slower or answered in the afternoon\n• Prioritize Telegram for faster response than Facebook\n• Emergency: 24/7 via Telegram/Facebook",
+        "responseTitle": "Response Time",
+        "response": "• Telegram (priority): usually faster\n• Facebook Fanpage: can be slower in evenings/weekends"
+      },
+      "faq": {
+        "title": "Frequently Asked Questions",
+        "viewAll": "View All FAQs",
+        "items": {
+          "0": {
+            "question": "Does the account work after delivery?",
+            "answer": "Yes — after payment we email login details from stock. Sign in to Google AI and confirm Education features."
+          },
+          "1": {
+            "question": "Is setup help available?",
+            "answer": "Yes — we help with sign-in and first steps at no extra charge."
+          },
+          "2": {
+            "question": "Is payment safe?",
+            "answer": "Yes — MoMo, banking, ZaloPay, and VietQR with encrypted checkout."
+          }
+        }
+      }
+    },
+    "emergency": {
+      "badge": "🚨",
+      "title": "Need Urgent Support?",
+      "description": "If your Google AI login has issues or you need urgent help, contact Facebook Fanpage or Telegram right away. We stay online 24/7.",
+      "note": "⚡ Response within 2 minutes for emergencies"
+    },
+    "social": {
+      "title": "Contact us via shop channels"
+    }
+  },
+  "Cart": {
+    "trigger": {
+      "ariaLabel": "Open cart"
+    },
+    "title": "Shopping Cart",
+    "empty": {
+      "message": "Your cart is empty",
+      "count": "You have {count} items in your cart",
+      "title": "Empty Cart",
+      "description": "You haven't added any products to your cart.",
+      "viewProducts": "View Products"
+    },
+    "item": {
+      "remove": "Remove item",
+      "decrease": "Decrease quantity",
+      "increase": "Increase quantity"
+    },
+    "summary": {
+      "subtotal": "Subtotal",
+      "discountCode": "Affiliate voucher",
+      "placeholder": "Enter voucher code",
+      "apply": "Apply",
+      "applying": "Checking...",
+      "discount": "Discount",
+      "total": "Total",
+      "checkout": "Checkout",
+      "continue": "Continue Shopping",
+      "clear": "Clear Cart"
+    },
+    "priceChanged": {
+      "title": "Product prices have been updated",
+      "dismiss": "Got it"
+    },
+    "voucher": {
+      "appliedLabel": "Voucher applied",
+      "applied": "Voucher applied!",
+      "removed": "Voucher removed",
+      "remove": "Remove",
+      "invalid": "Invalid voucher code",
+      "networkError": "Connection failed, please try again"
+    }
+  },
+  "Checkout": {
+    "title": "Checkout",
+    "back": "Back to shopping",
+    "greeting": {
+      "user": "Hello {name}! Complete your information to place order",
+      "guest": "Complete your information to place order"
+    },
+    "loginHint": {
+      "text": "to autofill information and track your order",
+      "link": "Sign in"
+    },
+    "walletBanner": "Top up once — buy many times with fewer bank transfers",
+    "loginRequired": {
+      "title": "Please sign in to checkout",
+      "desc": "Pay with your wallet — one transfer, many purchases"
+    },
+    "steps": {
+      "info": "Order Info",
+      "payment": "Payment",
+      "finish": "Finish"
+    },
+    "form": {
+      "customerInfo": "Customer Information",
+      "name": "Full Name",
+      "email": "Email",
+      "phone": "Phone Number",
+      "note": "Order Notes",
+      "notePlaceholder": "Notes for your order (optional)",
+      "autoFill": "✓ Autofilled from your account"
+    },
+    "payment": {
+      "title": "Payment Method",
+      "bankTransfer": "Binance Pay",
+      "bankTransferDesc": "Pay via Binance ID (fast & secure)",
+      "wallet": "Pay with wallet balance",
+      "walletDesc": "Deduct directly from your wallet — order is processed immediately, no QR needed.",
+      "walletBalance": "Balance",
+      "recommended": "Recommended",
+      "shortfall": "Short {amount}",
+      "topupCta": "Top up {amount} to pay",
+      "walletInsufficientHint": "Insufficient balance — please top up first",
+      "walletInsufficient": "Insufficient balance for this order",
+      "walletLoginHint": "to enable fast payment with wallet balance (no per-order transfer needed).",
+      "payWithWalletBtn": "Pay with wallet now"
+    },
+    "summary": {
+      "title": "Order ({count} items)",
+      "subtotal": "Subtotal",
+      "processingFee": "Processing Fee",
+      "free": "Free",
+      "total": "Total",
+      "submit": "Place Order Now",
+      "submitting": "Processing...",
+      "termsHint": "You must confirm all checkboxes above before placing an order.",
+      "voucher": "Voucher ({code})"
+    },
+    "consent": {
+      "title": "Required confirmations",
+      "over18": "I am at least 18 years old.",
+      "termsPrivacy": "I agree to the <terms>Terms of Service</terms> and <privacy>Privacy Policy</privacy>.",
+      "reseller": "I understand TKAIPro is an independent reseller, not affiliated with Google LLC",
+      "cursorTos": "I agree to comply with Google AI terms (<link>www.gemini.google.com/legal</link>)."
+    },
+    "toast": {
+      "cartEmpty": "Cart is empty, please select products",
+      "missingInfo": "Please enter name and email",
+      "missingConsent": "Please confirm all required checkboxes",
+      "missingUpgradeInfo": "Please enter all account credentials for upgrade",
+      "success": "Order placed successfully!",
+      "error": "An error occurred, please try again"
+    },
+    "upgradeInfo": {
+      "title": "Account to Upgrade",
+      "description": "Please enter the email and password of the account you want to upgrade. This information is only used to upgrade your account.",
+      "email": "Account Email",
+      "emailPlaceholder": "Enter email of account to upgrade",
+      "password": "Account Password",
+      "passwordPlaceholder": "Enter account password",
+      "contactInfo": "Telegram / Facebook",
+      "contactPlaceholder": "Enter Telegram username or Facebook link for contact"
+    }
+  },
+  "CookiesPage": {
+    "seo": {
+      "title": "Cookies Policy",
+      "description": "Cookies policy of TKAIPro. Learn how we use cookies to improve user experience and protect personal information.",
+      "keywords": "cookies policy tkaipro, cookie policy vietnam, information security"
+    },
+    "hero": {
+      "title": "Cookies",
+      "highlight": "Policy",
+      "description": "Learn how TKAIPro uses cookies to improve your experience and protect personal information transparently.",
+      "update": "Updated: 15/01/2025"
+    },
+    "definition": {
+      "title": "What are Cookies?",
+      "description": "Cookies are small files stored on your device when you visit a website. They help the website remember information about your visit, making the next experience more convenient.",
+      "whyTitle": "Why do we use cookies?",
+      "reasons": {
+        "1": "Ensure website works normally and securely",
+        "2": "Remember your login and cart",
+        "3": "Improve performance and page load speed",
+        "4": "Understand how you use the website to optimize experience",
+        "5": "Provide relevant content and ads"
+      },
+      "commitment": "Commitment: We never store sensitive information like passwords or credit card details in cookies."
+    },
+    "types": {
+      "title": "Types of Cookies We Use",
+      "description": "Understand each cookie type and its purpose",
+      "purpose": "Purpose:",
+      "examples": "Examples:",
+      "canDisable": "Can disable:",
+      "yes": "✅ Yes",
+      "no": "❌ No",
+      "settings": "Settings",
+      "items": {
+        "essential": {
+          "title": "Essential Cookies",
+          "description": "Necessary for basic operation",
+          "purpose": "Ensure website works normally"
+        },
+        "analytics": {
+          "title": "Analytics Cookies",
+          "description": "Collect website usage data",
+          "purpose": "Understand how users interact with website"
+        },
+        "marketing": {
+          "title": "Marketing Cookies",
+          "description": "Personalize ads and content",
+          "purpose": "Show content matching interests"
+        },
+        "functional": {
+          "title": "Functional Cookies",
+          "description": "Store options and preferences",
+          "purpose": "Remember your settings and options"
+        }
+      }
+    },
+    "details": {
+      "title": "Cookie Details",
+      "description": "Full list of cookies used on the website",
+      "headers": {
+        "name": "Cookie Name",
+        "provider": "Provider",
+        "purpose": "Purpose",
+        "duration": "Duration",
+        "type": "Type"
+      }
+    },
+    "manage": {
+      "title": "Manage Cookies",
+      "description": "You have the right to control the use of cookies on our website:",
+      "browser": "Through browser:",
+      "options": "Available options:",
+      "warning": "⚠️ Important note:",
+      "warningItems": {
+        "1": "• Disabling cookies may affect website experience",
+        "2": "• Some features may not work properly",
+        "3": "• You will need to login again after disabling cookies"
+      },
+      "buttons": {
+        "settings": "Cookie Preferences Settings",
+        "view": "View Current Cookies"
+      }
+    },
+    "thirdParty": {
+      "title": "Third-Party Cookies",
+      "description": "Our website may contain content from third parties (like YouTube videos, maps, social media widgets) that may set their own cookies."
+    },
+    "contact": {
+      "title": "Updates & Contact",
+      "changes": "Policy changes:",
+      "info": "Contact about cookies:"
+    },
+    "cta": {
+      "title": "Have Questions About Cookies?",
+      "description": "Privacy & security team is ready to answer all questions",
+      "contact": "Contact Support",
+      "privacy": "View Privacy Policy"
+    }
+  },
+  "TermsPage": {
+    "seo": {
+      "title": "Terms & Conditions",
+      "description": "Terms and conditions of TKAIPro (tkaipro.shop). Technical support for setup, upgrade, and activation — not an agent or distributor of Google LLC. Warranty, payment, and liability limits.",
+      "keywords": "TKAIPro terms, terms and conditions, Google AI, tkaipro.shop"
+    },
+    "hero": {
+      "title": "Terms &",
+      "highlight": "Conditions",
+      "description": "Please read these Terms carefully before using TKAIPro. By accessing the site, placing an order, or paying for any service, you confirm that you have read, understood, and agree to be bound by them.",
+      "effective": "Effective from: 11/07/2026 (version 2026-07-11)"
+    },
+    "highlights": {
+      "transparent": {
+        "title": "Transparent",
+        "desc": "Clear scope of technical support"
+      },
+      "fair": {
+        "title": "Fair",
+        "desc": "Protects rights of both parties"
+      },
+      "flexible": {
+        "title": "Clear warranty",
+        "desc": "1-for-1 within 24h for shop faults"
+      },
+      "updated": {
+        "title": "Updated",
+        "desc": "Aligned with current operations"
+      }
+    },
+    "sections": {
+      "1": {
+        "title": "1. Scope of Service",
+        "intro": "TKAIPro (tkaipro.shop) provides technical support for setup, upgrade, activation, configuration, or related digital-account needs as requested by the customer.",
+        "items": [
+          "\"TKAIPro\", \"TKAIPro\", or \"we\": an independent technical-support provider — not an agent, distributor, authorized representative, or official partner of Google LLC, Google AI, or any other brand unless clearly stated in writing by the brand owner.",
+          "\"Customer\" or \"you\": the person who requests and uses our support services.",
+          "\"Service\": setup, upgrade, activation, configuration guidance, payment assistance where applicable, and post-delivery care within the published scope.",
+          "\"Account / access\": credentials or access rights related to Google AI (or other described products) delivered after we complete the requested support.",
+          "\"Website\": tkaipro.shop and its subdomains."
+        ],
+        "trademarkNote": "Brand names, logos, and product names mentioned on the website are used only to describe compatibility or the support you request. All trademarks belong to their respective owners."
+      },
+      "2": {
+        "title": "2. Acceptance of Terms",
+        "content": "By accessing the website, registering, submitting a support request, placing an order, making a payment (SePay/VietQR, crypto, wallet balance, or other published methods), or using any service we provide, you confirm that you have read, understood, and agree to these Terms and our Privacy Policy.",
+        "note": "If you do not agree with any term, stop using the service immediately and do not place an order or make a payment.",
+        "paymentMeans": "Payment is treated as confirmation that your request is lawful, that you have the right to use any information you provide, and that you agree to supply details needed for us to perform the service."
+      },
+      "3": {
+        "title": "3. Nature of Service & Third-Party Factors",
+        "package": "Our support may include (without limitation):",
+        "packageItems": [
+          "Help setting up an account or software configuration",
+          "Help upgrading a plan, features, or settings",
+          "Help activating software, accounts, or digital services for a lawful customer need",
+          "Installation, configuration, verification, or usage guidance within our technical competence",
+          "Follow-up on issues arising from work we performed for you"
+        ],
+        "commitment": "Important clarifications:",
+        "commitmentItems": [
+          "We only perform requests that comply with applicable law, the platform provider's terms, and our own policies.",
+          "We may refuse service if a request appears unlawful, infringing, fraudulent, abusive, or harmful to third-party rights.",
+          "We are not an agent or distributor of Google LLC; product names are descriptive only.",
+          "We accompany customers on payment/activation issues within the published warranty scope."
+        ],
+        "note": "Note: TKAIPro is an independent technical-support service and is not part of Google LLC Intellectual property and authority over Google AI products belong to Google LLC",
+        "durationTitle": "Duration, support window & factors beyond our control",
+        "durationIntro": "Each offering may have different usage duration, support window, or conditions. Please read the product description before paying. Continuity may be affected by factors outside our control, including:",
+        "durationItems": [
+          "Policies of the software design student, platform, or original service provider (including Google LLC)",
+          "Changes to third-party terms, activation rules, account rules, or security policies",
+          "Third parties suspending, changing, limiting, or withdrawing features",
+          "System errors, technical changes, or other objective causes from third parties",
+          "Force majeure under applicable law"
+        ],
+        "durationNote": "We will try to help within a reasonable scope, but we do not guarantee full restoration of features, access, or service state when the cause is outside our control.",
+        "cursorTitle": "Google AI Terms of Service",
+        "cursorItems": [
+          "You must comply with Google AI Terms of Service (www.gemini.google.com/legal) and Privacy Policy (www.gemini.google.com/legal).",
+          "We do not control Google LLC pricing, features, uptime, or account suspension decisions.",
+          "Any promotional or referral-related benefits depend on Google LLC policy and may change or be revoked."
+        ]
+      },
+      "4": {
+        "title": "4. Account Information, Security & Post-Delivery Responsibility",
+        "intro": "You are responsible for ensuring that information you provide is accurate, lawful, and within your legitimate right to use. After we complete delivery/handover, the account (or access) is your property and you must secure it yourself.",
+        "items": [
+          "Change email, password, 2FA, and recovery email immediately after receiving credentials if recommended or applicable.",
+          "Store login details, activation codes, and configuration data safely; do not share them with unauthorized persons.",
+          "Protect your devices and accounts against unauthorized access, disclosure, or loss of access.",
+          "For security reasons we may not store or re-provide some information after handover is confirmed — keep your own copies.",
+          "We cannot support cases where, after some time, you cannot access the account because you forgot credentials, password, login details, or lost 2FA.",
+          "No spam, reverse engineering, or unlawful use under Vietnamese or international law.",
+          "Violations may result in immediate service termination without refund.",
+          "You assume full responsibility for all activity on the delivered account."
+        ]
+      },
+      "5": {
+        "title": "5. Ordering & Payment",
+        "order": "Ordering:",
+        "orderItems": [
+          "Choose the support package matching the Google AI plan/duration you need",
+          "Add to cart and proceed to checkout",
+          "Enter accurate contact details and Google AI account information (if required)",
+          "Select a payment method",
+          "Confirm the support request and complete the order"
+        ],
+        "payment": "Payment:",
+        "paymentItems": [
+          "SePay / VietQR (bank transfer), crypto (Binance, Bybit, on-chain), and wallet balance where available",
+          "You pay 100% of the service fee before we begin support",
+          "Receipts are sent by email or shown in the order management system",
+          "Fees are stated clearly and do not include taxes charged by the Google AI publisher"
+        ],
+        "time": "Processing time: We typically start support within 1–5 minutes after successful payment for ordinary cases."
+      },
+      "6": {
+        "title": "6. Warranty, Exchange & Refunds",
+        "noRefundNote": "No refund after credentials are delivered or the account is activated (digital goods), except where we cannot perform the service for reasons attributable to us, or as otherwise agreed in writing via official support channels.",
+        "replacement": "1-for-1 replacement (shop-side errors, first 24 hours):",
+        "replacementItems": [
+          "Cannot log in immediately after receiving credentials (shop fault)",
+          "Missing Pro features within the first 24 hours after login (shop fault)",
+          "Subscription duration does not match the purchased package (shop fault)"
+        ],
+        "warranty": "Support warranty:",
+        "warrantyItems": [
+          "Technical support within the published scope for the package",
+          "Investigation and 1-for-1 replacement for verifiable shop-side delivery errors within 24 hours",
+          "Response within 24 hours for eligible replacement requests"
+        ],
+        "exclusion": "No warranty / no refund / no further support in cases including:",
+        "exclusionItems": [
+          "Credentials delivered and account activated successfully",
+          "Lost password, lost 2FA, forgotten login details, or loss of access after a period of use",
+          "Customer changed configuration, email, password, profile, or security settings after handover",
+          "Google LLC suspends or terminates the account under their ToS or policies",
+          "Misuse or violation of Google AI Terms of Service",
+          "Account sharing, resale, or unauthorized commercial exploitation",
+          "Change of mind after purchase",
+          "Errors caused by the customer's device, network, malware, or factors outside our service scope",
+          "Server outages, maintenance, or policy changes from Google LLC"
+        ]
+      },
+      "7": {
+        "title": "7. Customer Obligations",
+        "commit": "You agree to:",
+        "commitItems": [
+          "Comply with Vietnamese law and other applicable laws",
+          "Provide accurate, complete contact and account information",
+          "Change security settings promptly after delivery and keep credentials safe",
+          "Use the account for lawful personal purposes and comply with Google AI's terms",
+          "Cooperate by providing information needed to complete support"
+        ],
+        "forbid": "You must not:",
+        "forbidItems": [
+          "Request unlawful acts, unauthorized access, cracking, bypassing locks, or violations of third-party terms",
+          "Use the service for fraud, IP infringement, or harm to third parties",
+          "Resell, share, or transfer access in ways that harm TKAIPro, other customers, or third parties",
+          "Provide false information or information you are not entitled to use",
+          "Spam, abuse rate limits, create multiple accounts to abuse promotions, or use illegal payment methods",
+          "Use the account to develop competing products in breach of applicable terms"
+        ]
+      },
+      "8": {
+        "title": "8. Our Obligations & Limitation of Liability",
+        "commit": "We commit to:",
+        "commitItems": [
+          "Be transparent about support scope and related fees",
+          "Perform ordinary support within the published timeframe (typically 1–5 minutes after payment)",
+          "Provide technical accompaniment within the published warranty/support window",
+          "Protect customer information under our Privacy Policy",
+          "Follow the published warranty and refund rules"
+        ],
+        "limit": "Limitation of liability:",
+        "limitItems": [
+          "We do not control Google LLC policies, features, uptime, or account decisions",
+          "We do not guarantee 100% continuity of Google AI service",
+          "We are not liable for indirect, incidental, consequential, lost data, lost revenue, lost profits, business interruption, or loss of account access arising from customer misuse, third-party policy changes, customer security failures (lost password/2FA), or force majeure",
+          "Maximum liability for a specific service, if a direct fault attributable to us cannot be remedied, shall not exceed the amount you paid for that service"
+        ]
+      },
+      "9": {
+        "title": "9. Intellectual Property & Trademarks",
+        "items": [
+          "Website content (text, layout, UI, images, guides we author) belongs to TKAIPro or is used under lawful license.",
+          "Google AI and Google AI are trademarks of Google LLC Other names/logos belong to their owners.",
+          "Mentioning those brands does not mean we are sponsored, endorsed, authorized, distributed by, or officially representing them.",
+          "Customers may not copy, modify, distribute, or exploit website content without written permission from TKAIPro or the lawful owner."
+        ]
+      },
+      "10": {
+        "title": "10. Suspension or Termination",
+        "intro": "We may suspend or terminate service if:",
+        "items": [
+          "You breach these Terms",
+          "You engage in fraud, abuse, disruption, or conduct that harms our systems or other customers",
+          "You request content that appears unlawful or infringes third-party rights",
+          "You fail to provide information needed to perform the service",
+          "Continuing service would create legal, technical, or security risk for TKAIPro, other customers, or third parties"
+        ],
+        "note": "If suspension or termination results from your breach, we may refuse refunds and further support."
+      },
+      "11": {
+        "title": "11. Changes to Terms",
+        "content": "We may update these Terms at any time to reflect our business model, law, third-party policies, or operations.",
+        "reasonItems": [
+          "Business and service changes",
+          "New legal requirements",
+          "Third-party policy changes",
+          "Customer-experience improvements"
+        ],
+        "note": "Updated versions are published on tkaipro.shop and take effect when posted unless otherwise stated. Continued use after an update means you accept the changes. Material updates may also be reflected in TERMS_VERSION at checkout."
+      },
+      "12": {
+        "title": "12. Dispute Resolution",
+        "process": "Resolution process:",
+        "processItems": [
+          "Contact us via Messenger, Telegram, or email",
+          "Discuss and seek a solution within 24 hours",
+          "If unresolved, escalate to management",
+          "Finally, resolve under Vietnamese law at a competent authority in Ho Chi Minh City"
+        ],
+        "law": "Applicable law: These Terms are governed by the laws of Vietnam. Disputes are resolved by the competent court in Ho Chi Minh City."
+      },
+      "13": {
+        "title": "13. Contact",
+        "brand": "TKAIPro",
+        "support": "Support hours",
+        "time": "Support: 24/7",
+        "resp": "Response: Within 5 minutes (ordinary cases)",
+        "web": "Website: tkaipro.shop",
+        "email": "Email: support@tkaipro.shop",
+        "messenger": "Messenger: tkaipro.shop/contact",
+        "telegram": "Telegram: tkaipro.shop/contact"
+      }
+    },
+    "legalSafety": {
+      "title": "Lawful Use Policy & Disclaimer of Liability",
+      "highlight": "By purchasing and using the service, you confirm that you have read, understood, and agree to the rules below.",
+      "prohibitedTitle": "The following are strictly prohibited:",
+      "prohibited": [
+        "Using the account, email, and any provided resources for unlawful purposes is strictly prohibited.",
+        "Fraud, scams, misappropriation of assets, money laundering, or financing illegal activities.",
+        "Sending spam, distributing malware, phishing, cyber attacks, or unauthorized access to systems.",
+        "Impersonation, identity forgery, or falsifying documents and records.",
+        "Infringing intellectual property rights or distributing content prohibited by law.",
+        "Any act that violates the laws of the customer's country of residence and the laws of Vietnam."
+      ],
+      "disclaimerTitle": "Disclaimer of liability:",
+      "disclaimer": [
+        "Accounts/access are provided as-is and as-available; we make no warranty of fitness for any specific purpose other than ordinary lawful use within the published support scope.",
+        "We are NOT responsible for any use of resources for improper purposes.",
+        "After delivery, the customer assumes full legal responsibility for all activities arising from the account.",
+        "The customer is obligated to learn and comply with the laws of their country of residence; legal compliance is the customer's responsibility.",
+        "Our total liability for any claim is capped at the order amount paid for the affected transaction."
+      ],
+      "indemnityTitle": "Indemnification & conditions of use:",
+      "indemnity": [
+        "The customer agrees to indemnify, defend, and hold TKAIPro harmless from any claims, losses, and costs (including legal fees) arising from the customer's breach of terms or misuse.",
+        "The customer confirms they are at least 18 years old and have full legal capacity when using the service.",
+        "We reserve the right to refuse or terminate the service immediately (without refund) if signs of unlawful use are detected.",
+        "Upon a lawful request from authorities, we will cooperate and provide information as required by law.",
+        "Total liability is limited to the amount you paid for the relevant order."
+      ]
+    },
+    "cta": {
+      "title": "Understood the Terms?",
+      "description": "Start with Google AI support from TKAIPro with clear rights and responsibilities",
+      "buy": "Shop now — I agree",
+      "contact": "Questions"
+    }
+  },
+  "ProductDetail": {
+    "back": "Back to Products",
+    "notFound": {
+      "title": "Product Not Found",
+      "description": "The product you are looking for does not exist.",
+      "button": "Back to Products"
+    },
+    "badges": {
+      "popular": "POPULAR",
+      "discount": "{percent}%"
+    },
+    "purchaseMode": {
+      "account": "Buy new account",
+      "upgrade": "Upgrade ownership"
+    },
+    "status": {
+      "inStock": "In Stock",
+      "outOfStock": "Out of Stock",
+      "available": "{count} accounts available"
+    },
+    "actions": {
+      "addToCart": "Add to Cart",
+      "buyNow": "Buy Now",
+      "adding": "Adding…",
+      "added": "{name} has been added to cart"
+    },
+    "item": {
+      "decrease": "Decrease quantity",
+      "increase": "Increase quantity"
+    },
+    "sections": {
+      "description": "Detailed Description",
+      "features": "Key Features",
+      "specs": "Specifications",
+      "reviews": "Product Reviews"
+    },
+    "breadcrumbs": {
+      "home": "Home",
+      "products": "Products"
+    },
+    "quantity": "Quantity",
+    "reviews": "reviews",
+    "soldCount": "{count}+ sold",
+    "save": "Save {amount}",
+    "noDescription": "No description available for this product.",
+    "trust": {
+      "warranty": "Warranty",
+      "warrantyDesc": "Lifetime 1-to-1",
+      "delivery": "Delivery",
+      "deliveryDesc": "Auto in 5 mins",
+      "support": "Support",
+      "supportDesc": "24/7 anytime"
+    },
+    "relatedProducts": {
+      "title": "Related Products",
+      "viewAll": "View all",
+      "added": "{name} has been added to cart"
+    },
+    "restockAlert": {
+      "title": "Get notified when back in stock",
+      "description": "Enter your email and we'll let you know as soon as this product is available again.",
+      "emailLabel": "Email",
+      "emailPlaceholder": "email@example.com",
+      "submit": "Notify me",
+      "submitting": "Subscribing…",
+      "success": "You're subscribed! We'll email you when this product is back in stock.",
+      "error": "Could not subscribe. Please try again.",
+      "alreadyInStock": "This product is currently in stock.",
+      "rateLimited": "Too many requests. Please try again later."
+    }
+  },
+  "ProductReviews": {
+    "title": "Customer Reviews ({count})",
+    "writeReview": {
+      "title": "Write a Review",
+      "description": "Share your experience with this product",
+      "loginRequired": "Please log in to write a review",
+      "loginButton": "Log in Now",
+      "yourRating": "Your Rating",
+      "quickTags": "Quick Tags",
+      "commentLabel": "Comment",
+      "placeholder": "Great product...",
+      "submit": "Submit Review",
+      "submitting": "Submitting..."
+    },
+    "list": {
+      "empty": "No reviews yet.",
+      "loading": "Loading reviews...",
+      "adminReply": "Shop Reply:"
+    },
+    "toast": {
+      "loginRequired": "Please log in to review",
+      "success": "Your review has been submitted!",
+      "error": "An error occurred"
+    },
+    "tags": {
+      "quality": "High quality product.",
+      "support": "Great support.",
+      "reliable": "Reliable service.",
+      "professional": "Professional shop.",
+      "fast": "Fast delivery.",
+      "recommend": "Highly recommended."
+    }
+  },
+  "Auth": {
+    "signIn": {
+      "title": "Sign In",
+      "subtitle": "Enter your email and password to sign in",
+      "emailLabel": "Email",
+      "emailPlaceholder": "email@example.com",
+      "passwordLabel": "Password",
+      "passwordPlaceholder": "Enter password",
+      "forgotPassword": "Forgot password?",
+      "submit": "Sign In",
+      "submitting": "Signing in...",
+      "orContinueWith": "Or continue with",
+      "noAccount": "Don't have an account?",
+      "signUpLink": "Sign up now"
+    },
+    "banner": {
+      "title": "TKAIPro",
+      "slogan": "Buy Google AI accounts at a fair price",
+      "imageAlt": "TKAIPro - Buy Google AI accounts"
+    },
+    "signUp": {
+      "title": "Create Account",
+      "subtitle": "Enter your details to create your account",
+      "nameLabel": "Full Name",
+      "namePlaceholder": "John Doe",
+      "emailLabel": "Email",
+      "emailPlaceholder": "email@example.com",
+      "passwordLabel": "Password",
+      "passwordPlaceholder": "Enter strong password",
+      "passwordHint": "Password must be at least 8 characters",
+      "over18Label": "I confirm I am at least 18 years old.",
+      "over18Required": "You must confirm you are at least 18 years old to register.",
+      "submit": "Create Account",
+      "submitting": "Creating account...",
+      "hasAccount": "Already have an account?",
+      "signInLink": "Sign in"
+    },
+    "errors": {
+      "invalidEmailOrPassword": "Invalid email or password!",
+      "invalidPassword": "Incorrect password. Please try again.",
+      "userNotFound": "Account does not exist. Please sign up first.",
+      "accountNotVerified": "Account not verified. Please check your email.",
+      "accountDisabled": "Account disabled. Please contact support.",
+      "tooManyAttempts": "Too many attempts. Please try again later.",
+      "networkError": "Network error. Please try again.",
+      "serverError": "Server error. Please try again later.",
+      "defaultSignIn": "Sign in failed. Please check your email and password.",
+      "defaultSignUp": "Sign up failed. Please try again or contact support.",
+      "userAlreadyExists": "Email already registered. Please use another email or sign in.",
+      "weakPassword": "Password is too weak. Please use a stronger password.",
+      "passwordTooShort": "Password is too short. Please enter at least 8 characters.",
+      "invalidEmail": "Invalid email address.",
+      "social": {
+        "github": "Sign in with GitHub failed",
+        "google": "Sign in with Google failed"
+      }
+    },
+    "success": {
+      "signIn": "Signed in successfully! Welcome back.",
+      "signUp": "Account created successfully! Welcome to TKAIPro."
+    }
+  },
+  "LiveOrderToast": {
+    "badge": "Just bought",
+    "verified": "Verified",
+    "justPurchased": "just purchased"
+  },
+  "InteractiveCodeDemo": {
+    "badge": "Live Demo",
+    "title": "See Google AI in Action",
+    "subtitle": "Compare slow solo mockups vs designing with Google AI tools — frames, Auto Layout, and prototypes.",
+    "playDemo": "Play Demo",
+    "reset": "Reset",
+    "withoutAI": "Without Education tools",
+    "withCursorPro": "With Google AI",
+    "timeSaved": "time saved",
+    "feature1Title": "Frames & Auto Layout",
+    "feature1Desc": "Build responsive screens faster with Auto Layout instead of manual spacing",
+    "feature2Title": "Lightning Collaboration",
+    "feature2Desc": "Teammates edit the same file live — no more waiting on exports",
+    "feature3Title": "Prototype Ready",
+    "feature3Desc": "Link screens into clickable flows for critiques and client demos"
+  },
+  "ChatWidget": {
+    "title": "AI Support",
+    "open": "Open support chat",
+    "close": "Close",
+    "minimize": "Minimize",
+    "expand": "Expand",
+    "placeholder": "Type a message...",
+    "error": "Sorry, an error occurred. Please try again or contact support via Telegram.",
+    "clearHistory": "Clear history",
+    "notificationTitle": "🤖 24/7 AI Support",
+    "notificationDescription": "Need help choosing a Google AI plan? Chat with AI now!",
+    "notificationAction": "Chat now",
+    "bubbleMessage": "Hi there! I'm your AI assistant. Need any help? 👋",
+    "quickActions": {
+      "pricing": "View pricing",
+      "packages": "Package advice",
+      "payment": "Payment methods",
+      "warranty": "Warranty policy"
+    }
+  },
+  "Email": {
+    "common": {
+      "shopName": "TKAIPro",
+      "shopSubtitle": "Thank you for shopping at TKAIPro",
+      "greeting": "Hello {name}",
+      "supportTitle": "💬 Need help?",
+      "supportIntro": "If you have any questions or need assistance, please contact us:",
+      "supportContactLabel": "📞 Contact support:",
+      "supportFb": "Facebook Page",
+      "supportTg": "Telegram",
+      "supportTgHandle": "Telegram @tkaipro_support",
+      "supportEmailLabel": "✉️ Email:",
+      "supportOr": "or",
+      "footerThanks": "Thank you for trusting TKAIPro! 🎉",
+      "footerAuto": "Automated email — please do not reply",
+      "footerTimePrefix": "Time:",
+      "footerSupport24x7": "TKAIPro — Customer support 24/7",
+      "footerAutoShort": "Automated email",
+      "fields": {
+        "orderNumber": "Order number:",
+        "total": "Total:",
+        "paidAt": "Paid at:",
+        "product": "Product:",
+        "username": "Username:",
+        "password": "Password:",
+        "licenseKey": "License Key:",
+        "expiresAt": "Expires at:",
+        "upgradeEmail": "Upgrade email:"
+      }
+    },
+    "subjects": {
+      "customerOrderConfirmation": "✅ Order #{orderNumber} confirmed — TKAIPro",
+      "activationSuccess": "✅ Order #{orderNumber} activated successfully — Google AI",
+      "subscriptionReminderUrgent": "🚨 URGENT — {productName} account expires in {daysLeft} days!",
+      "subscriptionReminderWarning": "⚠️ Notice — {productName} account expires in {daysLeft} days!",
+      "accountContact": "📞 Contact us to receive your account — Order #{orderNumber}",
+      "upgradeCompleted": "✅ Account upgrade completed — Order #{orderNumber}",
+      "upgradeIssue": "⚠️ Action required — Order #{orderNumber}",
+      "walletTopupSuccess": "✅ Wallet top-up successful {amount} - TKAIPro",
+      "walletTopupRejected": "❌ Wallet top-up rejected {amount}",
+      "restockAlert": "🎉 {productName} is back in stock!"
+    },
+    "customerOrderConfirmation": {
+      "headerTitle": "✅ Order placed successfully!",
+      "intro": "Your order #{orderNumber} has been paid successfully! Below are the details of your order and accounts.",
+      "orderTitle": "📦 Order information",
+      "productsTitle": "🛒 Purchased products",
+      "productItemQty": "Qty: {qty}x — Price: {price}",
+      "credsTitle": "🔑 Your account information",
+      "credsWarning": "⚠️ Please save this information carefully! These are your account login details.",
+      "credsNote": "💡 Note: You can review this info anytime on the order management page.",
+      "otpTitle": "🔐 How to get your Google AI OTP code",
+      "otpLead": "When Google AI asks for a verification code, open the link below (no need to check Outlook).",
+      "otpStep1": "Sign in to Google AI with the email/password provided above",
+      "otpStep2": "When Google AI asks for an OTP, open the link below",
+      "otpStep3": "Verify with the 6-digit code sent to your purchase email",
+      "otpStep4": "Copy the Google AI OTP and paste it into Google AI",
+      "otpBtn": "Get OTP for {email}",
+      "otpNote": "💡 Verify with the 6-digit code sent to your purchase email, then get the Google AI OTP.",
+      "viewOrderBtn": "📋 View order details"
+    },
+    "activationSuccess": {
+      "headerTitle": "✅ Activation successful!",
+      "headerSubtitle": "Your Google AI account is ready on your computer",
+      "intro": "Hello, your order #{orderNumber} has been activated!",
+      "accountTitle": "🔐 Google AI account assigned",
+      "accountEmailLabel": "Google AI email:",
+      "durationLabel": "Validity:",
+      "daysSuffix": "days",
+      "expiresLabel": "Expires:",
+      "note": "👉 Open Google AI IDE on your computer — your account is already signed in and ready to use. If you have any issues, reply to this email or contact Telegram."
+    },
+    "subscriptionReminder": {
+      "headerTitleUrgent": "🚨 Account expiring soon!",
+      "headerTitleWarning": "⏰ Account expiring soon!",
+      "headerSubtitle": "{daysLeft} days left until expiration",
+      "urgencyEmergency": "🚨 URGENT",
+      "urgencyWarning": "⚠️ Notice",
+      "warningBody": "{urgency}: Your account will expire in {daysLeft} more days!",
+      "accountTitle": "📋 Account information",
+      "cta": {
+        "title": "🔄 Renew now!",
+        "body": "To keep using our service without interruption, please renew your account before it expires.",
+        "btn": "🛒 Renew now"
+      },
+      "benefits": {
+        "title": "✨ Don't miss these great features!",
+        "item1": "Unlimited access to Pro features",
+        "item2": "Priority support 24/7",
+        "item3": "Latest feature updates",
+        "item4": "Keep your progress and data"
+      }
+    },
+    "accountContact": {
+      "headerTitle": "📞 Contact us to receive your account",
+      "headerSubtitle": "Please get in touch with us",
+      "orderTitle": "📋 Order information",
+      "messageTitle": "📝 Message",
+      "cta": {
+        "title": "📞 Contact us now to receive your account",
+        "lead": "Please contact us via one of the channels below to exchange information and receive your account:",
+        "fb": "📘 Facebook Page",
+        "tg": "✈️ Telegram @tkaipro_support",
+        "emailIntro": "Or email:"
+      },
+      "note": "⚠️ Note: Please include order number #{orderNumber} when contacting us for the fastest support."
+    },
+    "upgradeCompleted": {
+      "headerTitle": "🎉 Upgrade completed!",
+      "headerSubtitle": "Your account has been upgraded",
+      "intro": "We're happy to let you know that your order #{orderNumber} has been processed successfully!",
+      "successTitle": "Upgrade complete!",
+      "successBody": "The account {upgradeEmail} has been upgraded to {productName}",
+      "nextSteps": {
+        "title": "📌 Next steps",
+        "item1": "Sign in to your account to verify",
+        "item2": "Enjoy your new Pro features",
+        "item3": "If you need help, don't hesitate to contact us"
+      }
+    },
+    "upgradeIssue": {
+      "headerTitle": "⚠️ Action required",
+      "headerSubtitle": "Please get in touch with us",
+      "orderTitle": "📋 Order information",
+      "messageTitle": "📝 Message",
+      "cta": {
+        "title": "📞 Contact us now",
+        "lead": "Please contact us via one of the channels below for the fastest support:",
+        "fb": "📘 Facebook",
+        "tg": "✈️ Telegram",
+        "emailIntro": "Or email:"
+      }
+    },
+    "walletTopupSuccess": {
+      "headerTitle": "✅ Wallet top-up successful",
+      "intro": "Your top-up of {amount} to TKAIPro wallet was successful.",
+      "amountLabel": "Amount topped up:",
+      "balanceLabel": "New balance:",
+      "paidAtLabel": "Time:",
+      "viewWalletBtn": "📊 View my wallet"
+    },
+    "walletTopupRejected": {
+      "headerTitle": "❌ Wallet top-up rejected",
+      "intro": "Your top-up request of {amount} has been rejected.",
+      "reasonLabel": "Reason:",
+      "viewWalletBtn": "📊 View my wallet"
+    },
+    "restockAlert": {
+      "headerTitle": "🎉 Product back in stock!",
+      "intro": "Good news — {productName} is available again! Hurry before it sells out.",
+      "productLabel": "Product",
+      "priceLabel": "Price",
+      "viewProductBtn": "🛒 View product & buy now"
+    }
+  },
+  "AboutPage": {
+    "metaTitle": "About TKAIPro — Independent Google AI Reseller",
+    "metaDescription": "TKAIPro is an independent third-party reseller of Google AI accounts. We help design students and UI freelancers access Google AI at competitive prices. Not affiliated with Google LLC",
+    "metaKeywords": "about TKAIPro, Google AI reseller, buy Google AI account, Google AI shop, tkaipro.shop",
+    "breadcrumbs": {
+      "home": "Home",
+      "about": "About Us"
+    },
+    "hero": {
+      "titlePrefix": "About",
+      "subtitle": "TKAIPro is an independent third-party reseller of Google AI accounts. We help design students and UI freelancers access Google AI at competitive prices through legitimately-acquired account resale.",
+      "disclaimerLabel": "Disclaimer",
+      "disclaimer": "TKAIPro is not affiliated with, endorsed by, or sponsored by Google LLC. \"Google\" and \"Google AI\" are trademarks of Google LLC We are an independent reseller of legitimately-acquired accounts.",
+      "ctaProducts": "View Products",
+      "ctaContact": "Contact Us"
+    },
+    "stats": {
+      "customers": {
+        "number": "5,000+",
+        "label": "Customers Served"
+      },
+      "years": {
+        "number": "2+",
+        "label": "Years of Operation"
+      },
+      "satisfaction": {
+        "number": "99%",
+        "label": "Satisfaction Rate"
+      },
+      "support": {
+        "number": "24/7",
+        "label": "Support Coverage"
+      }
+    },
+    "mission": {
+      "title": "Our Mission",
+      "paragraph1": "At TKAIPro, we believe every design student deserves affordable access to Google AI — regardless of region or budget constraints.",
+      "paragraph2": "We provide consulting, payment assistance and email delivery so you can buy a Google AI account through our reseller channel, simply and safely.",
+      "independenceTitle": "Independent Reseller Service",
+      "independenceDescription": "We do not represent Google LLC Our role is to explain the process and support customers buying Google AI accounts.",
+      "cards": {
+        "process": {
+          "title": "Clear Process",
+          "description": "Step-by-step checklist for purchasing design tool subscriptions."
+        },
+        "warranty": {
+          "title": "Transparent Warranty",
+          "description": "Commit to resolving issues that arise during the support window."
+        },
+        "delivery": {
+          "title": "Instant Delivery",
+          "description": "Payment assistance and activation in 1–5 minutes."
+        },
+        "support": {
+          "title": "24/7 Support",
+          "description": "Available via Telegram and Email anytime."
+        }
+      }
+    },
+    "values": {
+      "title": "Core Values",
+      "subtitle": "The principles guiding TKAIPro operations and growth.",
+      "transparency": {
+        "title": "Integrity & Transparency",
+        "description": "Clear explanation of each step to access design tool subscriptions, with strong customer-data protection."
+      },
+      "efficiency": {
+        "title": "Fast & Effective",
+        "description": "International payment support, account verification, and onboarding within minutes."
+      },
+      "customerFirst": {
+        "title": "Customer-Centric",
+        "description": "We accompany you across the usage lifecycle with transparent warranty and refund policies."
+      },
+      "sustainability": {
+        "title": "Sustainable Growth",
+        "description": "Sharing knowledge and resources to help the design student community leverage AI effectively."
+      }
+    },
+    "cta": {
+      "title": "Need a Google AI account?",
+      "subtitle": "Join thousands of design students who trust TKAIPro to buy Google AI accounts with clear delivery and support.",
+      "ctaPrimary": "View Services",
+      "ctaSecondary": "Free Consultation"
+    }
+  },
+  "DisclaimerBanner": {
+    "message": "TKAIPro provides independent Google AI account resale / support only — not an agent or distributor of Google LLC Brand names describe the product.",
+    "dismiss": "Got it"
+  },
+  "ProductPage": {
+    "actions": {
+      "resellerNoticeTitle": "Technical support notice — read before purchase",
+      "resellerNoticeBody": "TKAIPro provides Google AI accounts / upgrade support according to your request. We are not an agent, distributor, or official representative of Google LLC After delivery, the account is yours — change email, password, 2FA, and recovery email immediately. We cannot help with lost password/2FA later. Benefits and duration may depend on Google AI policy."
+    }
+  },
+  "DisclaimerPage": {
+    "seo": {
+      "title": "Disclaimer",
+      "description": "Legal disclaimer for TKAIPro — independent technical support for Google AI-related setup/activation. Not an agent or distributor of Google LLC.",
+      "keywords": "TKAIPro disclaimer, Google AI reseller disclaimer, not affiliated with Google AI Inc"
+    },
+    "hero": {
+      "title": "Legal",
+      "highlight": "Disclaimer",
+      "description": "Important information about our role as a technical-support provider and the limits of our responsibility regarding Google LLC."
+    },
+    "sections": {
+      "reseller": {
+        "title": "Independent Technical Support",
+        "body": "TKAIPro provides technical support for setup, upgrade, and activation according to customer requests. We are not an agent, distributor, authorized representative, or official partner of Google LLC (Google AI).",
+        "referral": "Brand names and product names on this site describe compatibility or the support requested. Any promotional or platform benefits remain under Google LLC control and may change or be revoked."
+      },
+      "trademark": {
+        "title": "Trademark Notice",
+        "body": "\"Google\" and \"Google AI\" are trademarks of Google LLC Other product names are property of their respective owners. We use these names only to describe compatibility or support needs."
+      },
+      "risks": {
+        "title": "Risks You Should Understand",
+        "items": [
+          "Google LLC may change pricing, features, or terminate subscriptions at any time.",
+          "Google LLC may suspend or terminate accounts that violate their Terms of Service.",
+          "After delivery, you own the account security — change email, password, 2FA, and recovery email; we cannot restore access if you lose credentials later.",
+          "We cannot guarantee uninterrupted access or permanent third-party promotional benefits.",
+          "To purchase directly from the trademark owner, visit www.gemini.google.com."
+        ]
+      },
+      "official": {
+        "title": "Official Purchase Channel",
+        "body": "For Google AI subscriptions purchased directly from Google LLC:"
+      }
+    },
+    "cta": {
+      "title": "Read the Full Terms",
+      "description": "Please review our Terms & Conditions and Privacy Policy before purchasing.",
+      "terms": "Terms & Conditions",
+      "shop": "View Products"
+    }
+  },
+  "CookieConsent": {
+    "title": "Cookie preferences",
+    "description": "We use essential cookies for login, cart, and security. Analytics cookies (Microsoft Clarity) are optional — choose below.",
+    "learnMore": "Learn more in our Cookies Policy",
+    "essentialOnly": "Essential only",
+    "acceptAll": "Accept all"
+  },
+  "Wallet": {
+    "title": "My Wallet",
+    "vndBalance": "VND Balance",
+    "usdBalance": "USD Balance",
+    "topup": "Top up",
+    "topupVnd": "Top up VND",
+    "topupUsd": "Top up USD",
+    "topupAgain": "Create a new topup",
+    "refresh": "Refresh",
+    "backToWallet": "Back to wallet",
+    "returnToCheckout": "Return to checkout",
+    "currency": "Currency",
+    "vnd": "VND",
+    "usd": "USD",
+    "vndDescription": "Top up via bank transfer QR — automatically confirmed within minutes.",
+    "usdDescription": "Top up via crypto (Binance/Bybit/USDT/BTC/ETH/LTC) — admin will confirm after you upload the receipt.",
+    "selectAmount": "Select amount",
+    "customAmount": "Enter a custom amount",
+    "selectMethod": "Top-up method",
+    "selectCryptoMethod": "Choose crypto method",
+    "youWillTopup": "You will top up",
+    "continueToPay": "Continue to payment",
+    "topupTitle": "Top up your wallet",
+    "topupDetailTitle": "Top-up request details",
+    "amount": "Amount",
+    "expiresAt": "Expires at",
+    "bank": "Bank",
+    "accountNumber": "Account number",
+    "accountName": "Account holder",
+    "transferContentLabel": "Transfer content (MUST be exact)",
+    "transferContentWarning": "Enter the exact content below — wrong content will NOT auto-credit your wallet; contact admin.",
+    "payId": "Pay-ID",
+    "network": "Network",
+    "walletAddress": "Wallet address",
+    "onchainWarning": "Send only via {network}. Sending on the wrong network will result in PERMANENT loss.",
+    "submitProofTitle": "Attach receipt (optional)",
+    "submitProofDescription": "After completing the crypto transfer, you may paste the receipt image URL (e.g. Imgur/Cloudinary) for faster review, or leave it blank and click 'I have transferred'.",
+    "submitProof": "Submit receipt",
+    "submitWithoutProof": "I have transferred",
+    "proofSubmitted": "Receipt submitted. Admin will review within a few hours.",
+    "pendingReviewMessage": "You've submitted the receipt. Waiting for admin review. Your balance will update automatically once approved.",
+    "viewProof": "View submitted receipt",
+    "autoConfirmNote": "✅ Your balance will be auto-credited as soon as the bank confirms the transfer (usually 1-3 minutes).",
+    "topupPaidTitle": "Top-up successful",
+    "topupPaidDescription": "{amount} has been added to your wallet.",
+    "topupRejectedTitle": "Top-up request rejected",
+    "topupExpiredTitle": "Top-up request expired",
+    "topupExpiredDescription": "This top-up request exceeded the 30-minute window. Please create a new request.",
+    "paidToast": "Top-up successful, wallet updated!",
+    "rejectedToast": "Top-up request rejected",
+    "expiredToast": "Top-up request expired",
+    "transactionHistory": "Transaction history",
+    "balanceAfter": "Balance after",
+    "noTransactions": "No transactions yet",
+    "copied": "Copied {label}",
+    "copyFailed": "Copy failed",
+    "qrZoom": "Zoom QR",
+    "bankQrAlt": "{bank} QR",
+    "notFound": "Top-up request not found",
+    "status": {
+      "pending": "Pending",
+      "pendingReview": "Pending review"
+    },
+    "txType": {
+      "topup": "Top-up",
+      "debit": "Debit (purchase)",
+      "refund": "Refund",
+      "admin_adjust": "Admin adjustment"
+    },
+    "errors": {
+      "generic": "Something went wrong, please try again",
+      "INVALID_PROOF_URL": "Invalid receipt URL (must be http/https)",
+      "INVALID_AMOUNT": "Invalid amount",
+      "AMOUNT_TOO_SMALL": "Amount is below the minimum",
+      "AMOUNT_TOO_LARGE": "Amount exceeds the per-request limit",
+      "AMOUNT_NOT_ROUND": "VND amount must be a multiple of 1,000",
+      "INVALID_CURRENCY": "Invalid currency",
+      "INVALID_METHOD": "Invalid top-up method",
+      "SEPAY_REQUIRES_VND": "Bank transfer top-up only supports VND",
+      "CRYPTO_REQUIRES_USD": "Crypto only supports USD",
+      "INVALID_CRYPTO_METHOD": "Invalid crypto method",
+      "WALLET_INSUFFICIENT_BALANCE": "Insufficient balance"
+    }
+  },
+  "LegalNoticePopup": {
+    "title": "Notice",
+    "p1": "TKAIPro only provides Google AI account resale / support according to customer needs. TKAIPro is not an agent, distributor, or representative of any brand owner. Brand names, logos, and product names — if mentioned — only describe the product/service and belong to their respective owners. Service scope and liability limits are set out in the Terms & Conditions.",
+    "p2": "Please note: when we hand over an account to you, that account is your property. You must change security details yourself: email, password, 2FA, and recovery email, and keep your asset safe. We cannot help if, after some time, you cannot access the account because you forgot account details, password, login information, or lost 2FA. Change your details right after purchase to protect your account.",
+    "p3": "Thank you for supporting TKAIPro.",
+    "termsLink": "Terms & Conditions",
+    "close": "Close"
+  },
+  "CookiesPageV2": {
+    "types": {
+      "items": {
+        "analytics": {
+          "title": "Analytics Cookies",
+          "description": "Collect website usage data",
+          "purpose": "Understand how users interact with the website"
+        },
+        "marketing": {
+          "title": "Marketing Cookies",
+          "description": "Personalize ads and content",
+          "purpose": "Display content that matches your interests"
+        },
+        "functional": {
+          "title": "Functional Cookies",
+          "description": "Stores options and preferences",
+          "purpose": "Remember your settings and preferences"
+        }
+      }
+    },
+    "details": {
+      "title": "Cookies Details",
+      "description": "Full list of cookies used on the website",
+      "headers": {
+        "name": "Cookie Name",
+        "provider": "Supplier",
+        "purpose": "Purpose",
+        "duration": "Duration",
+        "type": "Type"
+      }
+    },
+    "manage": {
+      "title": "Managing Cookies",
+      "description": "You have the right to control the use of cookies on our website:",
+      "browser": "Through browser:",
+      "options": "Available options:",
+      "warning": "⚠️ Important note:",
+      "warningItems": {
+        "1": "• Disabling cookies may affect website experience",
+        "2": "• Some features may not function properly",
+        "3": "• You will need to log in again after turning off cookies"
+      },
+      "buttons": {
+        "settings": "Cookie Settings Preferences",
+        "view": "View Current Cookies"
+      }
+    },
+    "thirdParty": {
+      "title": "Third-Party Cookies",
+      "description": "Our website may contain content from third parties (such as YouTube videos, maps, social media widgets) which may set their own cookies."
+    },
+    "contact": {
+      "title": "Updates & Contacts",
+      "changes": "Policy changes:",
+      "info": "Contact about cookies:"
+    },
+    "cta": {
+      "title": "Have Questions About Cookies?",
+      "description": "The privacy & security team is ready to answer any questions",
+      "contact": "Contact Support",
+      "privacy": "View Privacy Policy"
+    }
+  }
+}

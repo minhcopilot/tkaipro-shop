@@ -1,0 +1,58 @@
+# Template nginx cho tkaipro-shop. `scripts/setup-vps.sh` thay __DOMAIN__ và
+# __PORT__ rồi ghi ra /etc/nginx/sites-available/__DOMAIN__.
+#
+# Đây là bản HTTP-only cố ý: certbot cần cổng 80 phục vụ được challenge trước
+# đã, sau đó `certbot --nginx` sẽ tự chèn block 443 + redirect vào file này.
+
+server {
+    listen 80;
+    listen [::]:80;
+    server_name __DOMAIN__ www.__DOMAIN__;
+
+    # TAM THOI CHAN INDEX — gỡ khối này (và location /robots.txt) khi nội dung ổn,
+    # rồi `nginx -t && systemctl reload nginx`.
+    add_header X-Robots-Tag "noindex, nofollow, noarchive" always;
+
+    location = /robots.txt {
+        add_header Content-Type text/plain;
+        return 200 "User-agent: *\nDisallow: /\n";
+    }
+
+    # $bad_ip khai báo ở /etc/nginx/conf.d/cursor-order-security.conf (http context),
+    # dùng chung cho mọi site trên VPS.
+    if ($bad_ip) {
+        return 403;
+    }
+
+    # Chặn spam tạo đơn. Zone riêng cho shop này (xem
+    # /etc/nginx/conf.d/tkaipro-shop-security.conf) để traffic của shop khác
+    # không ăn chung hạn mức.
+    location = /api/orders {
+        limit_req zone=tkaipro_orders burst=5 nodelay;
+        limit_req_status 429;
+
+        proxy_pass http://127.0.0.1:__PORT__;
+        proxy_http_version 1.1;
+        proxy_set_header Upgrade $http_upgrade;
+        proxy_set_header Connection 'upgrade';
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+        proxy_cache_bypass $http_upgrade;
+        proxy_read_timeout 86400;
+    }
+
+    location / {
+        proxy_pass http://127.0.0.1:__PORT__;
+        proxy_http_version 1.1;
+        proxy_set_header Upgrade $http_upgrade;
+        proxy_set_header Connection 'upgrade';
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+        proxy_cache_bypass $http_upgrade;
+        proxy_read_timeout 86400;
+    }
+}

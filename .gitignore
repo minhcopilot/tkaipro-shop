@@ -1,0 +1,65 @@
+/auth-schema.ts
+/node_modules
+next-env.d.ts
+*.tsbuildinfo
+.eslintcache
+.DS_Store
+.vercel
+*.log*
+.venv
+.idea
+.next
+.exe
+.dll
+
+# Environment files
+.env
+.env.local
+.env.production
+.env.development
+
+# Production database dumps - NEVER COMMIT THESE
+production_data.sql
+database_dump.sql
+production_dump.sql
+*_dump.sql
+
+# Thư mục chứa file khách upload, chỉ ở gốc repo.
+# Dấu / đầu là bắt buộc: `uploads/` không neo sẽ khớp MỌI thư mục tên uploads ở
+# mọi độ sâu, nuốt luôn src/db/schema/uploads/ và src/app/[locale]/dashboard/uploads/
+# khiến build fail vì thiếu module.
+/uploads/
+
+# Docker volumes
+postgres_data/
+
+# VS Code
+.vscode/
+
+# MacOS
+.DS_Store
+*/.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# Remediation outputs (may contain passwords) — never commit
+scripts/output/
+**/remediate-pro20/
+scripts/remediate-leaked-pro20-*.jsonl
+scripts/remediate-leaked-pro20-*.csv
+
+# Backup files
+*.backup
+*.bak
+*.dump
+
+
+tmp/
+

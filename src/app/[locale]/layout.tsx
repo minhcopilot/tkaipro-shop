@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 
 import { NextSSRPlugin } from "@uploadthing/react/next-ssr-plugin";
-import { Geist, Geist_Mono } from "next/font/google";
+import { Jost, Overpass_Mono } from "next/font/google";
 import Script from "next/script";
 import { headers } from "next/headers";
 import { notFound } from "next/navigation";
@@ -30,16 +30,16 @@ import { ServerActionRecovery } from "~/ui/components/server-action-recovery";
 import { FingerprintTracker } from "~/ui/components/security/fingerprint-tracker";
 import { AntiInspect } from "~/ui/components/security/anti-inspect";
 
-const geistSans = Geist({
+const jost = Jost({
   subsets: ["latin"],
-  variable: "--font-geist-sans",
+  variable: "--font-jost",
   display: "swap",
   preload: true,
 });
 
-const geistMono = Geist_Mono({
+const overpassMono = Overpass_Mono({
   subsets: ["latin"],
-  variable: "--font-geist-mono",
+  variable: "--font-overpass-mono",
   display: "swap",
   preload: true,
 });
@@ -207,8 +207,8 @@ export default async function RootLayout({
         <body
           suppressHydrationWarning
           className={`
-            ${geistSans.variable}
-            ${geistMono.variable}
+            ${jost.variable}
+            ${overpassMono.variable}
             min-h-screen bg-neutral-950 text-neutral-100 antialiased
             flex items-center justify-center
           `}
@@ -239,8 +239,8 @@ export default async function RootLayout({
         <body
           suppressHydrationWarning
           className={`
-            ${geistSans.variable}
-            ${geistMono.variable}
+            ${jost.variable}
+            ${overpassMono.variable}
             min-h-screen bg-white text-neutral-900 antialiased
             dark:bg-neutral-950 dark:text-neutral-100
           `}
@@ -326,10 +326,10 @@ export default async function RootLayout({
       <body
         suppressHydrationWarning
         className={`
-          ${geistSans.variable}
-          ${geistMono.variable}
+          ${jost.variable}
+          ${overpassMono.variable}
           min-h-screen bg-background text-foreground antialiased
-          selection:bg-foreground/10
+          selection:bg-primary/15
         `}
       >
         <NextIntlClientProvider locale={locale} messages={messages}>

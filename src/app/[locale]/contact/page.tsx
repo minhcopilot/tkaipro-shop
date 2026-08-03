@@ -152,7 +152,7 @@ export default async function ContactPage({ params }: Props) {
         <div className="absolute inset-0 bg-transparent" />
         <div className="container relative mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
-            <p className="mb-4 inline-block border-2 border-border bg-primary px-3 py-1 text-sm font-black tracking-tight text-primary-foreground shadow-hard-sm">
+            <p className="mb-4 inline-block rounded-full bg-gradient-brand px-3.5 py-1 text-sm font-semibold tracking-tight text-primary-foreground shadow-soft-sm">
               {SEO_CONFIG.name} · {t("hero.badge")}
             </p>
             <h1 className="mb-6 font-display text-4xl font-black tracking-tight md:text-6xl">
@@ -164,8 +164,8 @@ export default async function ContactPage({ params }: Props) {
               <br className="hidden md:block" />
               {emergencyHoursLabel}
             </p>
-            <div className="mx-auto mb-8 max-w-3xl overflow-hidden rounded-md border-2 border-border bg-background shadow-hard-lg">
-              <div className="border-b-2 border-border bg-secondary px-4 py-3 text-left text-secondary-foreground">
+            <div className="mx-auto mb-8 max-w-3xl overflow-hidden rounded-md border border-border bg-background shadow-soft-lg">
+              <div className="border-b border-border bg-secondary px-4 py-3 text-left text-secondary-foreground">
                 <p className="text-sm font-black">
                   {isVi ? "Bảng giờ làm việc" : "Working hours table"}
                 </p>

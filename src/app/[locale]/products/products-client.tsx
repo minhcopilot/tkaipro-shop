@@ -255,7 +255,7 @@ export function ProductsClient() {
               "md:flex-row md:items-center"
             )}>
               <div className="group relative flex-1 md:max-w-lg">
-                <div className="relative flex items-center overflow-hidden rounded-md border-2 border-border bg-background shadow-hard">
+                <div className="relative flex items-center overflow-hidden rounded-xl border border-border bg-background shadow-soft-sm">
                   <div className="flex shrink-0 items-center justify-center pl-4">
                     {isLoading && searchQuery ? (
                       <Loader2 className="size-[18px] animate-spin text-foreground" />

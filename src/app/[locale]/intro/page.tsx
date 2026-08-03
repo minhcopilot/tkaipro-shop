@@ -68,13 +68,13 @@ export default function IntroPage() {
   return (
     <div className="flex min-h-screen flex-col bg-background">
       {/* Hero — brand first, one composition */}
-      <section className="relative border-b-2 border-border py-24 md:py-32">
+      <section className="relative border-b border-border py-24 md:py-32">
         <div className="container mx-auto max-w-4xl px-4 md:px-6">
           <div className="animate-fade-in-up flex flex-col items-center space-y-8 text-center">
-            <p className="inline-block border-2 border-border bg-primary px-3 py-1 font-display text-sm font-black tracking-tight text-primary-foreground shadow-hard-sm">
+            <p className="inline-block rounded-full bg-gradient-brand px-3.5 py-1 font-display text-sm font-semibold tracking-tight text-primary-foreground shadow-soft-sm">
               {SEO_CONFIG.name}
             </p>
-            <h1 className="font-display text-5xl font-black tracking-tight text-foreground sm:text-6xl md:text-7xl">
+            <h1 className="font-display text-5xl font-bold tracking-tight text-foreground sm:text-6xl md:text-7xl">
               {t("hero.title")}
             </h1>
             <p className="mx-auto max-w-xl text-lg font-medium text-muted-foreground md:text-xl">

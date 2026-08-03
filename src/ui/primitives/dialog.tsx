@@ -31,8 +31,8 @@ function DialogContent({
         className={cn(
           `
             fixed top-[50%] left-[50%] z-50 grid w-full max-w-[calc(100%-2rem)]
-            translate-x-[-50%] translate-y-[-50%] gap-4 rounded-md border-2
-            border-border bg-background p-6 shadow-hard duration-200
+            translate-x-[-50%] translate-y-[-50%] gap-4 rounded-xl border
+            border-border bg-background p-6 shadow-soft-lg duration-200
             data-[state=closed]:animate-out data-[state=closed]:fade-out-0
             data-[state=closed]:zoom-out-95
             data-[state=open]:animate-in data-[state=open]:fade-in-0

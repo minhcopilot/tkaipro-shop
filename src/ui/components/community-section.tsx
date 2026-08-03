@@ -64,12 +64,12 @@ export function CommunitySection() {
   return (
     <section className="py-16 md:py-20">
       <div className="container mx-auto max-w-5xl px-4 sm:px-6 lg:px-8">
-        <div className="rounded-md border-2 border-border bg-primary p-8 text-primary-foreground shadow-hard-lg md:p-12">
+        <div className="rounded-2xl bg-gradient-brand p-8 text-primary-foreground shadow-soft-lg md:p-12">
           <div className="mb-10 text-center">
-            <p className="mb-3 inline-block border-2 border-border bg-background px-3 py-1 text-sm font-black text-foreground shadow-hard-sm">
+            <p className="mb-3 inline-block rounded-full bg-background px-3 py-1 text-sm font-semibold text-foreground shadow-soft-sm">
               {t("badge")}
             </p>
-            <h2 className="font-display text-3xl font-black tracking-tight text-primary-foreground md:text-4xl">
+            <h2 className="font-display text-3xl font-bold tracking-tight text-primary-foreground md:text-4xl">
               {t("title")}
             </h2>
             <p className="mx-auto mt-3 max-w-2xl font-medium text-primary-foreground/90 md:text-lg">
@@ -88,9 +88,9 @@ export function CommunitySection() {
                   rel="noopener noreferrer"
                   className="group"
                 >
-                  <Card className="h-full bg-background transition-all hover:-translate-x-0.5 hover:-translate-y-0.5 hover:shadow-hard-lg">
+                  <Card className="h-full bg-background transition-all hover:-translate-y-0.5 hover:shadow-soft-lg">
                     <CardContent className="flex items-center gap-4 p-6">
-                      <div className="flex h-12 w-12 shrink-0 items-center justify-center rounded-md border-2 border-border bg-secondary text-secondary-foreground shadow-hard-sm">
+                      <div className="flex h-12 w-12 shrink-0 items-center justify-center rounded-xl bg-secondary text-secondary-foreground shadow-soft-sm">
                         <Icon className="h-6 w-6" />
                       </div>
                       <div className="min-w-0 flex-1">

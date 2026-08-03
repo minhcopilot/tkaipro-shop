@@ -78,7 +78,7 @@ export function Header({ showAuth = true }: HeaderProps) {
 
   const renderContent = () => (
     <header
-      className="sticky top-0 z-40 w-full border-b-2 border-border bg-background"
+      className="sticky top-0 z-40 w-full border-b border-border/80 bg-background/85 backdrop-blur-md"
       suppressHydrationWarning
     >
       <div
@@ -96,7 +96,7 @@ export function Header({ showAuth = true }: HeaderProps) {
                 src="/tkaipro-icon.png"
                 width={32}
               />
-              <span className="font-display text-xl font-black tracking-tight text-foreground">
+              <span className="font-display text-xl font-bold tracking-tight text-foreground">
                 {SEO_CONFIG.name}
               </span>
             </Link>
@@ -108,10 +108,10 @@ export function Header({ showAuth = true }: HeaderProps) {
                     (item.href !== "/" && pathname?.startsWith(item.href));
 
                   const linkClass = cn(
-                    "rounded-md border-2 px-3 py-1.5 text-sm font-bold transition-all",
+                    "rounded-lg px-3 py-1.5 text-sm font-semibold transition-colors",
                     isActive
-                      ? "border-border bg-primary text-primary-foreground shadow-hard-sm"
-                      : "border-transparent text-foreground hover:border-border hover:bg-muted",
+                      ? "bg-primary text-primary-foreground shadow-soft-sm"
+                      : "text-muted-foreground hover:bg-muted hover:text-foreground",
                   );
 
                   if (item.href.startsWith("/admin")) {
@@ -226,7 +226,7 @@ export function Header({ showAuth = true }: HeaderProps) {
       </div>
 
       {mobileMenuOpen && (
-        <div className="border-t-2 border-border bg-background md:hidden">
+        <div className="border-t border-border bg-background md:hidden">
           <div className="space-y-2 px-4 py-3">
             {navigation.map((item) => {
               const isActive =
@@ -234,10 +234,10 @@ export function Header({ showAuth = true }: HeaderProps) {
                 (item.href !== "/" && pathname?.startsWith(item.href));
 
               const mobileClass = cn(
-                "block rounded-md border-2 px-3 py-2.5 text-base font-bold",
+                "block rounded-xl px-3 py-2.5 text-base font-semibold transition-colors",
                 isActive
-                  ? "border-border bg-primary text-primary-foreground shadow-hard-sm"
-                  : "border-transparent text-foreground hover:border-border hover:bg-muted",
+                  ? "bg-primary text-primary-foreground shadow-soft-sm"
+                  : "text-foreground hover:bg-muted",
               );
 
               if (item.href.startsWith("/admin")) {
@@ -267,16 +267,16 @@ export function Header({ showAuth = true }: HeaderProps) {
           </div>
 
           {showAuth && !user && (
-            <div className="space-y-2 border-t-2 border-border px-4 py-4">
+            <div className="space-y-2 border-t border-border px-4 py-4">
               <Link
-                className="block rounded-md border-2 border-border px-3 py-2.5 text-center text-base font-bold text-foreground shadow-hard-sm hover:bg-muted"
+                className="block rounded-xl border border-border px-3 py-2.5 text-center text-base font-semibold text-foreground shadow-soft-sm hover:bg-muted"
                 href="/auth/sign-in"
                 onClick={() => setMobileMenuOpen(false)}
               >
                 {t("signIn")}
               </Link>
               <Link
-                className="block rounded-full border-2 border-border bg-primary px-3 py-2.5 text-center text-base font-bold text-primary-foreground shadow-hard"
+                className="block rounded-full bg-gradient-brand px-3 py-2.5 text-center text-base font-semibold text-primary-foreground shadow-soft"
                 href="/auth/sign-up"
                 onClick={() => setMobileMenuOpen(false)}
               >

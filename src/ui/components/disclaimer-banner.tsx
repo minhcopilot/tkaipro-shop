@@ -47,13 +47,13 @@ export function DisclaimerBanner({ className }: { className?: string }) {
       role="region"
       aria-label="Trademark disclaimer"
       className={cn(
-        "w-full border-b-2 border-border bg-secondary text-secondary-foreground",
+        "w-full border-b border-border bg-secondary text-secondary-foreground",
         className,
       )}
     >
       <div className="container mx-auto max-w-7xl px-4 py-2 sm:px-6 lg:px-8 flex items-start gap-3">
         <p className="flex-1 text-xs sm:text-sm leading-snug font-medium text-secondary-foreground">
-          <span className="font-black">⚠ </span>
+          <span className="font-semibold">⚠ </span>
           {t("message")}
         </p>
         <button
@@ -62,7 +62,7 @@ export function DisclaimerBanner({ className }: { className?: string }) {
             writeCookie(COOKIE_NAME, "1", DISMISS_DAYS);
             setVisible(false);
           }}
-          className="shrink-0 flex items-center gap-1 rounded-md border-2 border-secondary-foreground/40 px-2 py-1 text-xs font-bold text-secondary-foreground transition-colors hover:bg-secondary-foreground/10"
+          className="shrink-0 flex items-center gap-1 rounded-lg border border-secondary-foreground/40 px-2 py-1 text-xs font-semibold text-secondary-foreground transition-colors hover:bg-secondary-foreground/10"
           aria-label={t("dismiss")}
         >
           <span>{t("dismiss")}</span>

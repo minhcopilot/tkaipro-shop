@@ -723,7 +723,7 @@ export default function ProductDetailPage() {
       </main>
 
       {/* sticky mobile bottom bar */}
-      <div className="fixed bottom-0 left-0 right-0 z-50 border-t-2 border-border bg-background p-4 shadow-hard lg:hidden">
+      <div className="fixed bottom-0 left-0 right-0 z-50 border-t border-border bg-background p-4 shadow-soft lg:hidden">
         <div className="container flex items-center gap-3">
           <div className="flex-1 min-w-0">
             <p className="text-xs text-muted-foreground truncate">

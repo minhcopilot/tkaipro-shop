@@ -31,8 +31,8 @@ function PopoverContent({
         className={cn(
           `
             z-[9999] w-72 origin-(--radix-popover-content-transform-origin)
-            rounded-md border-2 border-border bg-popover p-4
-            text-popover-foreground shadow-hard outline-hidden
+            rounded-xl border border-border bg-popover p-4
+            text-popover-foreground shadow-soft-lg outline-hidden
             pointer-events-auto
             data-[side=bottom]:slide-in-from-top-2
             data-[side=left]:slide-in-from-right-2

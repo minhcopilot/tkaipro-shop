@@ -16,7 +16,7 @@ export function Footer({ className }: { className?: string }) {
   const t = useTranslations("Footer");
 
   return (
-    <footer className={cn("border-t-2 border-border bg-background", className)}>
+    <footer className={cn("border-t border-border bg-muted/40", className)}>
       <div
         className={`
           container mx-auto max-w-7xl px-4 py-12
@@ -39,15 +39,15 @@ export function Footer({ className }: { className?: string }) {
                 src="/tkaipro-icon.png"
                 width={32}
               />
-              <span className="font-display text-xl font-black tracking-tight text-foreground">
+              <span className="font-display text-xl font-bold tracking-tight text-foreground">
                 {SEO_CONFIG.name}
               </span>
             </Link>
             <p className="text-sm text-muted-foreground">
               {t("description")}
             </p>
-            <div className="rounded-md border-2 border-border bg-primary/20 p-3 text-xs text-foreground shadow-hard-sm">
-              <p className="mb-2 flex items-center gap-1.5 font-bold text-foreground">
+            <div className="rounded-xl border border-border bg-card p-3 text-xs text-foreground shadow-soft-sm">
+              <p className="mb-2 flex items-center gap-1.5 font-semibold text-foreground">
                 <Clock className="h-3.5 w-3.5" />
                 {t("schedule.title")}
               </p>

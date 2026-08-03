@@ -7,7 +7,7 @@ function Input({ className, type, ...props }: React.ComponentProps<"input">) {
     <input
       className={cn(
         `
-          flex h-10 w-full min-w-0 rounded-md border-2 border-input
+          flex h-10 w-full min-w-0 rounded-xl border border-input
           bg-background px-3 py-1 text-base outline-none transition-colors
           selection:bg-primary selection:text-primary-foreground
           file:inline-flex file:h-7 file:border-0 file:bg-transparent

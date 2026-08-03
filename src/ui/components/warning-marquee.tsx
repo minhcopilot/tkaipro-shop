@@ -24,7 +24,7 @@ export function WarningMarquee() {
         contact: (chunks) => (
           <Link
             href="/contact"
-            className="font-black underline underline-offset-2 hover:opacity-80"
+            className="font-semibold underline underline-offset-2 hover:opacity-80"
           >
             {chunks}
           </Link>
@@ -32,7 +32,7 @@ export function WarningMarquee() {
         products: (chunks) => (
           <Link
             href="/products"
-            className="font-black underline underline-offset-2 hover:opacity-80"
+            className="font-semibold underline underline-offset-2 hover:opacity-80"
           >
             {chunks}
           </Link>
@@ -43,7 +43,7 @@ export function WarningMarquee() {
 
   return (
     <div
-      className="relative z-50 w-full overflow-hidden border-b-2 border-border bg-primary py-2.5 text-primary-foreground"
+      className="relative z-50 w-full overflow-hidden border-b border-border bg-gradient-brand py-2.5 text-primary-foreground"
       suppressHydrationWarning
     >
       <div className="flex animate-marquee whitespace-nowrap" suppressHydrationWarning>

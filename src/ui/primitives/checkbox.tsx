@@ -15,13 +15,13 @@ function Checkbox({
     <CheckboxPrimitive.Root
       className={cn(
         `
-          peer size-4 shrink-0 cursor-pointer rounded-[2px] border-2
+          peer size-4 shrink-0 cursor-pointer rounded-md border
           border-border bg-background outline-none transition-colors
           focus-visible:outline-2 focus-visible:outline-offset-2
           focus-visible:outline-ring
           disabled:cursor-not-allowed disabled:opacity-50
           aria-invalid:border-destructive
-          data-[state=checked]:border-border data-[state=checked]:bg-primary
+          data-[state=checked]:border-primary data-[state=checked]:bg-primary
           data-[state=checked]:text-primary-foreground
         `,
         className,

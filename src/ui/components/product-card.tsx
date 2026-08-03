@@ -171,15 +171,15 @@ export function ProductCard({
         <Card
           className={cn(
             `
-              product-card relative h-full overflow-hidden rounded-md py-0
-              transition-all duration-150 ease-out
+              product-card relative h-full overflow-hidden rounded-xl py-0
+              transition-all duration-200 ease-out
             `,
-            isHovered && "-translate-x-0.5 -translate-y-0.5 shadow-hard-lg",
+            isHovered && "-translate-y-0.5 shadow-soft-lg",
           )}
           onMouseEnter={() => setIsHovered(true)}
           onMouseLeave={() => setIsHovered(false)}
         >
-          <div className="relative aspect-square overflow-hidden border-b-2 border-border">
+          <div className="relative aspect-square overflow-hidden border-b border-border">
             {product.image && (
               <Image
                 alt={product.name}

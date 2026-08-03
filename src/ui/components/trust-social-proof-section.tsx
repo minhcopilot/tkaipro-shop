@@ -198,13 +198,13 @@ export function TrustSocialProofSection({ proofs, stats }: TrustSocialProofSecti
   }, [selectedProof]);
 
   return (
-    <section className="relative overflow-hidden border-y-2 border-border bg-muted py-16 md:py-24">
+    <section className="relative overflow-hidden border-y border-border bg-muted py-16 md:py-24">
       <div className="relative container mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         {/* header with badge */}
         <div className="mb-12 flex flex-col items-center text-center">
-          <div className="mb-6 inline-flex items-center gap-2 rounded-md border-2 border-border bg-primary px-6 py-3 text-primary-foreground shadow-hard">
+          <div className="mb-6 inline-flex items-center gap-2 rounded-full bg-gradient-brand px-6 py-3 text-primary-foreground shadow-soft">
             <Sparkles className="h-5 w-5" />
-            <span className="text-sm font-black">{t("badge")}</span>
+            <span className="text-sm font-semibold">{t("badge")}</span>
             <CheckCircle2 className="h-5 w-5" />
           </div>
           

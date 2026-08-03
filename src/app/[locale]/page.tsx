@@ -525,27 +525,26 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
       />
       <main className="flex min-h-screen flex-col gap-y-20 bg-background">
         {/* Hero — brand + headline + CTA + video only in first viewport */}
-        <section className="relative overflow-hidden border-b-2 border-border bg-background py-16 md:py-24">
+        <section className="relative overflow-hidden border-b border-border bg-background py-16 md:py-24">
           <div
             aria-hidden
-            className="pointer-events-none absolute inset-0 opacity-[0.07]"
+            className="pointer-events-none absolute inset-0"
             style={{
-              backgroundImage:
-                "linear-gradient(to right, var(--border) 1px, transparent 1px), linear-gradient(to bottom, var(--border) 1px, transparent 1px)",
-              backgroundSize: "32px 32px",
+              background:
+                "radial-gradient(ellipse 80% 60% at 10% 20%, color-mix(in oklab, var(--primary) 14%, transparent), transparent 55%), radial-gradient(ellipse 70% 50% at 90% 10%, color-mix(in oklab, var(--secondary) 12%, transparent), transparent 50%)",
             }}
           />
           <div className="relative z-10 container mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
             <div className="grid items-center gap-12 lg:grid-cols-2 lg:gap-16">
               <div className="animate-fade-in-up flex flex-col justify-center space-y-8">
                 <div className="space-y-5">
-                  <p className="inline-block border-2 border-border bg-primary px-3 py-1 font-display text-sm font-black tracking-tight text-primary-foreground shadow-hard-sm">
+                  <p className="inline-block rounded-full bg-gradient-brand px-3.5 py-1 font-display text-sm font-semibold tracking-tight text-primary-foreground shadow-soft-sm">
                     {SEO_CONFIG.name}
                   </p>
-                  <h1 className="font-display text-5xl font-black leading-[1.05] tracking-tight text-foreground sm:text-6xl md:text-7xl">
+                  <h1 className="font-display text-5xl font-bold leading-[1.05] tracking-tight text-foreground sm:text-6xl md:text-7xl">
                     {t.rich("heroTitle", {
                       highlight: (chunks) => (
-                        <span className="bg-primary px-1 text-primary-foreground">{chunks}</span>
+                        <span className="bg-gradient-brand bg-clip-text text-transparent">{chunks}</span>
                       ),
                     })}
                   </h1>
@@ -553,9 +552,9 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
                     {t("heroDescription")}
                   </p>
                 </div>
-                <div className="animate-slide-in-hard flex flex-col gap-3 sm:flex-row">
+                <div className="animate-slide-in-soft flex flex-col gap-3 sm:flex-row">
                   <Link href="/products">
-                    <Button className="h-12 w-full gap-1.5 px-8 sm:w-auto" size="lg">
+                    <Button className="h-12 w-full gap-1.5 bg-gradient-brand px-8 sm:w-auto" size="lg">
                       {t("ctaRegister")} <ArrowRight className="h-4 w-4" />
                     </Button>
                   </Link>
@@ -570,7 +569,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
                   </Link>
                 </div>
               </div>
-              <div className="animate-fade-in-up-delayed relative mx-auto w-full max-w-2xl overflow-hidden rounded-md border-2 border-border bg-card shadow-hard-lg lg:block">
+              <div className="animate-fade-in-up-delayed relative mx-auto w-full max-w-2xl overflow-hidden rounded-2xl border border-border bg-card shadow-soft-lg lg:block">
                 <div className="relative aspect-video">
                   <LazyYouTube
                     videoId="4aWPJGsTveU"
@@ -578,7 +577,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
                     priority
                   />
                 </div>
-                <p className="border-t-2 border-border bg-muted px-3 py-2 text-[11px] leading-snug font-medium text-muted-foreground">
+                <p className="border-t border-border bg-muted/70 px-3 py-2 text-[11px] leading-snug font-medium text-muted-foreground">
                   Third-party video, not produced by {SEO_CONFIG.name}.
                   Independent reseller — not affiliated with Google LLC
                 </p>
@@ -591,10 +590,10 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
         <section className="container mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 -mt-8">
           <div className="grid gap-4 md:grid-cols-2">
             <CustomRequestBanner />
-            <div className="flex items-start gap-3 rounded-md border-2 border-border bg-primary/15 p-4 shadow-hard">
-              <AlertCircle className="mt-0.5 h-5 w-5 shrink-0 text-foreground" />
+            <div className="flex items-start gap-3 rounded-xl border border-border bg-accent p-4 shadow-soft-sm">
+              <AlertCircle className="mt-0.5 h-5 w-5 shrink-0 text-primary" />
               <div>
-                <p className="text-sm font-black text-foreground">
+                <p className="text-sm font-semibold text-foreground">
                   {t("urgency.title")}
                 </p>
                 <p className="mt-1 text-sm text-muted-foreground">
@@ -641,37 +640,21 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
             `}
           >
             <div className="mb-8 flex flex-col items-center text-center">
-              <h2
-                className={`
-                  font-display text-3xl leading-tight font-black tracking-tight
-                  md:text-4xl
-                `}
-              >
+              <h2 className="font-display text-3xl font-bold tracking-tight md:text-4xl">
                 {t("featuresTitle")}
               </h2>
-              <p
-                className={`
-                  mt-4 max-w-2xl text-center text-muted-foreground
-                  md:text-lg
-                `}
-              >
+              <p className="mt-4 max-w-2xl text-center text-muted-foreground md:text-lg">
                 {t("featuresDescription")}
               </p>
             </div>
-            <div
-              className={`
-                grid gap-8
-                md:grid-cols-2
-                lg:grid-cols-4
-              `}
-            >
+            <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-4">
               {featuresList.map((feature) => (
                 <Card
-                  className="bg-background transition-all hover:-translate-x-0.5 hover:-translate-y-0.5 hover:shadow-hard-lg"
+                  className="bg-background transition-all hover:-translate-y-0.5 hover:shadow-soft-lg"
                   key={feature.key}
                 >
                   <CardHeader className="pb-2">
-                    <div className="mb-3 flex h-10 w-10 items-center justify-center rounded-md border-2 border-border bg-primary shadow-hard-sm">
+                    <div className="mb-3 flex h-10 w-10 items-center justify-center rounded-xl bg-gradient-brand text-primary-foreground shadow-soft-sm">
                       {feature.icon}
                     </div>
                     <CardTitle>{t(`features.${feature.key}.title`)}</CardTitle>
@@ -688,18 +671,18 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
         </section>
 
         {/* Google AI Benefits Section */}
-        <section className="border-y-2 border-border bg-secondary py-16 text-secondary-foreground md:py-20">
+        <section className="border-y border-border bg-gradient-brand py-16 text-primary-foreground md:py-20">
           <div className="container mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
             <div className="mb-12 flex flex-col items-center text-center">
-              <h2 className="font-display text-3xl font-black tracking-tight text-secondary-foreground md:text-5xl">
+              <h2 className="font-display text-3xl font-bold tracking-tight text-primary-foreground md:text-5xl">
                 {t("benefitsTitle")}
               </h2>
-              <p className="mt-4 max-w-2xl text-center text-secondary-foreground/80 md:text-lg">
+              <p className="mt-4 max-w-2xl text-center text-primary-foreground/85 md:text-lg">
                 {t("benefitsDescription")}
               </p>
             </div>
             <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
-              <Card className="bg-background">
+              <Card className="bg-background/95 backdrop-blur-sm">
                 <CardHeader>
                   <CardTitle className="flex items-center gap-2">
                     <Zap className="h-5 w-5" />
@@ -713,7 +696,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
                 </CardContent>
               </Card>
 
-              <Card className="bg-background">
+              <Card className="bg-background/95 backdrop-blur-sm">
                 <CardHeader>
                   <CardTitle className="flex items-center gap-2">
                     <Star className="h-5 w-5" />
@@ -727,7 +710,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
                 </CardContent>
               </Card>
 
-              <Card className="bg-background">
+              <Card className="bg-background/95 backdrop-blur-sm">
                 <CardHeader>
                   <CardTitle className="flex items-center gap-2">
                     <Shield className="h-5 w-5" />
@@ -801,9 +784,9 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
               lg:px-8
             `}
           >
-            <div className="relative overflow-hidden rounded-md border-2 border-border bg-primary px-8 py-16 text-primary-foreground shadow-hard-lg md:px-12 md:py-20">
+            <div className="relative overflow-hidden rounded-2xl bg-gradient-brand px-8 py-16 text-primary-foreground shadow-soft-lg md:px-12 md:py-20">
               <div className="relative z-10 mx-auto max-w-2xl text-center">
-                <h2 className="font-display text-3xl font-black tracking-tight text-primary-foreground md:text-5xl">
+                <h2 className="font-display text-3xl font-bold tracking-tight text-primary-foreground md:text-5xl">
                   {t("finalCta.title")}
                 </h2>
                 <p className="mt-4 text-lg font-medium text-primary-foreground/90 md:text-xl">
@@ -812,16 +795,16 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
                 <div className="mt-8 flex flex-col items-center justify-center gap-3 sm:flex-row">
                   <Link href="/auth/sign-up" className="w-full sm:w-auto">
                     <Button
-                      className="h-12 w-full bg-secondary px-8 text-secondary-foreground sm:w-auto"
+                      className="h-12 w-full bg-background px-8 text-foreground sm:w-auto"
                       size="lg"
-                      variant="secondary"
+                      variant="outline"
                     >
                       {t("finalCta.register")}
                     </Button>
                   </Link>
                   <Link href="/products" className="w-full sm:w-auto">
                     <Button
-                      className="h-12 w-full border-border bg-background px-8 text-foreground sm:w-auto"
+                      className="h-12 w-full border-primary-foreground/30 bg-transparent px-8 text-primary-foreground hover:bg-primary-foreground/10 sm:w-auto"
                       size="lg"
                       variant="outline"
                     >

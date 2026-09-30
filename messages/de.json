@@ -2731,20 +2731,20 @@
   "AccountCode": {
     "meta": {
       "title": "Anmeldecode abrufen",
-      "description": "Gib die E-Mail des Kontos und den Schlüssel aus dem Shop ein, um den neuesten Anmeldecode zu erhalten."
+      "description": "Gib die E-Mail des Kontos und das Kontopasswort aus dem Shop ein, um den neuesten Anmeldecode zu erhalten."
     },
     "page": {
       "title": "Anmeldecode abrufen",
-      "subtitle": "Gib die Konto-E-Mail und den Schlüssel ein, den du vom Shop erhalten hast."
+      "subtitle": "Gib die Konto-E-Mail und das Passwort ein, das du vom Shop erhalten hast."
     },
     "form": {
       "email": "Konto-E-Mail",
       "emailPlaceholder": "name@example.com",
-      "key": "Zugangsschlüssel",
-      "keyPlaceholder": "XXXX-XXXX-XXXX",
+      "key": "Kontopasswort",
+      "keyPlaceholder": "Passwort vom Shop",
       "submit": "Code abrufen",
       "loading": "Code wird gesucht...",
-      "requireBoth": "Gib sowohl die Konto-E-Mail als auch den Zugangsschlüssel ein."
+      "requireBoth": "Gib sowohl die Konto-E-Mail als auch das Kontopasswort ein."
     },
     "result": {
       "title": "Dein Code",
@@ -2757,7 +2757,7 @@
       "line2": "Wenn kein Code erscheint, fordere beim Dienst eine neue Anmeldung an und versuche es erneut."
     },
     "errors": {
-      "INVALID": "E-Mail oder Zugangsschlüssel ist ungültig.",
+      "INVALID": "E-Mail oder Kontopasswort ist ungültig.",
       "NO_CODE": "Noch kein neuer Anmeldecode im Postfach.",
       "TOO_MANY_REQUESTS": "Zu viele Versuche. Versuche es in einer Minute erneut.",
       "UNAVAILABLE": "Die Code-Abfrage ist nicht konfiguriert.",

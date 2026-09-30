@@ -5,10 +5,11 @@ import { NextRequest, NextResponse } from "next/server";
 import { db } from "~/db";
 import { accountOtpKeysTable } from "~/db/schema";
 import {
-  generateAccessKey,
   hashAccessKey,
   isValidEmail,
+  MAX_ACCESS_KEY_LENGTH,
   normalizeEmail,
+  parseEmailPasswordLine,
 } from "~/lib/account-otp-keys";
 import { getCurrentAdmin } from "~/lib/auth";
 
@@ -36,6 +37,14 @@ function cleanNote(value: unknown): string | null {
   if (value === undefined || value === null) return null;
   const s = String(value).trim().slice(0, 500);
   return s || null;
+}
+
+function cleanPassword(value: unknown): string {
+  return typeof value === "string" ? value.trim() : "";
+}
+
+function isValidPassword(password: string): boolean {
+  return password.length > 0 && password.length <= MAX_ACCESS_KEY_LENGTH;
 }
 
 export async function GET(request: NextRequest) {
@@ -77,21 +86,30 @@ export async function POST(request: NextRequest) {
   }
 
   const note = cleanNote(body?.note);
-  const rawList: string[] =
-    typeof body?.emails === "string"
-      ? body.emails.split(/[\r\n,;]+/)
-      : [String(body?.email ?? "")];
+  const rawEntries: { label: string; email: string; password: string }[] = [];
+  if (typeof body?.entries === "string") {
+    body.entries.split(/\r?\n/).forEach((line: string, i: number) => {
+      if (!line.trim()) return;
+      const parsed = parseEmailPasswordLine(line);
+      if (!parsed) {
+        rawEntries.push({ label: `Dòng ${i + 1} (thiếu |)`, email: "", password: "" });
+        return;
+      }
+      rawEntries.push({ label: parsed.email || `Dòng ${i + 1}`, ...parsed });
+    });
+  } else {
+    const email = String(body?.email ?? "").trim();
+    rawEntries.push({ label: email, email, password: cleanPassword(body?.password) });
+  }
 
   const invalid: string[] = [];
   const seen = new Set<string>();
   const inputDuplicates: string[] = [];
-  const candidates: string[] = [];
-  for (const raw of rawList) {
-    const trimmed = raw.trim();
-    if (!trimmed) continue;
-    const email = normalizeEmail(trimmed);
-    if (!isValidEmail(email)) {
-      invalid.push(trimmed);
+  const candidates: { email: string; password: string }[] = [];
+  for (const entry of rawEntries) {
+    const email = normalizeEmail(entry.email);
+    if (!isValidEmail(email) || !isValidPassword(entry.password)) {
+      invalid.push(entry.label || "(trống)");
       continue;
     }
     if (seen.has(email)) {
@@ -99,12 +117,12 @@ export async function POST(request: NextRequest) {
       continue;
     }
     seen.add(email);
-    candidates.push(email);
+    candidates.push({ email, password: entry.password });
   }
 
   if (candidates.length === 0) {
     return NextResponse.json(
-      { error: "NO_VALID_EMAIL", created: [], invalid, duplicates: [] },
+      { error: "NO_VALID_ENTRY", created: [], invalid, duplicates: inputDuplicates },
       { status: 400 },
     );
   }
@@ -119,20 +137,24 @@ export async function POST(request: NextRequest) {
     const existing = await db
       .select({ email: accountOtpKeysTable.email })
       .from(accountOtpKeysTable)
-      .where(inArray(accountOtpKeysTable.email, candidates));
+      .where(
+        inArray(
+          accountOtpKeysTable.email,
+          candidates.map((c) => c.email),
+        ),
+      );
     const existingSet = new Set(existing.map((r) => r.email));
-    const duplicates = candidates.filter((e) => existingSet.has(e));
-    const toCreate = candidates.filter((e) => !existingSet.has(e));
+    const duplicates = candidates
+      .filter((c) => existingSet.has(c.email))
+      .map((c) => c.email);
+    const toCreate = candidates.filter((c) => !existingSet.has(c.email));
 
     const now = new Date();
-    const created: { email: string; accessKey: string }[] = [];
-    const values = toCreate.map((email) => {
-      const accessKey = generateAccessKey();
-      created.push({ email, accessKey });
+    const values = toCreate.map(({ email, password }) => {
       return {
         id: nanoid(),
         email,
-        keyHash: hashAccessKey(accessKey),
+        keyHash: hashAccessKey(password),
         isActive: true,
         note,
         createdBy: admin.id,
@@ -141,6 +163,7 @@ export async function POST(request: NextRequest) {
       };
     });
 
+    const created: string[] = [];
     if (values.length > 0) {
       const inserted = await db
         .insert(accountOtpKeysTable)
@@ -148,12 +171,9 @@ export async function POST(request: NextRequest) {
         .onConflictDoNothing({ target: accountOtpKeysTable.email })
         .returning({ email: accountOtpKeysTable.email });
       const insertedSet = new Set(inserted.map((r) => r.email));
-      for (let i = created.length - 1; i >= 0; i--) {
-        const item = created[i]!;
-        if (!insertedSet.has(item.email)) {
-          duplicates.push(item.email);
-          created.splice(i, 1);
-        }
+      for (const { email } of values) {
+        if (insertedSet.has(email)) created.push(email);
+        else duplicates.push(email);
       }
     }
 
@@ -187,11 +207,12 @@ export async function PATCH(request: NextRequest) {
   if (!id) return NextResponse.json({ error: "MISSING_ID" }, { status: 400 });
 
   const updates: Partial<typeof accountOtpKeysTable.$inferInsert> = {};
-  let accessKey: string | null = null;
-
-  if (body?.action === "rotate") {
-    accessKey = generateAccessKey();
-    updates.keyHash = hashAccessKey(accessKey);
+  if (body?.action === "setPassword") {
+    const password = cleanPassword(body?.password);
+    if (!isValidPassword(password)) {
+      return NextResponse.json({ error: "INVALID_PASSWORD" }, { status: 400 });
+    }
+    updates.keyHash = hashAccessKey(password);
   }
   if (typeof body?.isActive === "boolean") updates.isActive = body.isActive;
   if ("note" in (body ?? {})) updates.note = cleanNote(body.note);
@@ -208,7 +229,7 @@ export async function PATCH(request: NextRequest) {
       .where(eq(accountOtpKeysTable.id, id))
       .returning(publicColumns);
     if (!row) return NextResponse.json({ error: "NOT_FOUND" }, { status: 404 });
-    return NextResponse.json(accessKey ? { ok: true, row, accessKey } : { ok: true, row });
+    return NextResponse.json({ ok: true, row });
   } catch (err) {
     console.error("[admin/account-otp-keys PATCH] error:", err);
     return NextResponse.json({ error: "Internal" }, { status: 500 });

@@ -1,8 +1,8 @@
 import "server-only";
 
-import { createHash, randomInt, timingSafeEqual } from "node:crypto";
+import { createHash, timingSafeEqual } from "node:crypto";
 
-const KEY_ALPHABET = "ABCDEFGHJKLMNPQRSTUVWXYZ23456789";
+export const MAX_ACCESS_KEY_LENGTH = 256;
 const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 
 export function normalizeEmail(email: string): string {
@@ -13,21 +13,21 @@ export function isValidEmail(email: string): boolean {
   return email.length > 0 && email.length <= 254 && EMAIL_RE.test(email);
 }
 
-/** Khóa dạng XXXX-XXXX-XXXX, bỏ ký tự dễ nhầm (I, O, 0, 1). */
-export function generateAccessKey(): string {
-  const groups: string[] = [];
-  for (let g = 0; g < 3; g++) {
-    let s = "";
-    for (let i = 0; i < 4; i++) {
-      s += KEY_ALPHABET[randomInt(KEY_ALPHABET.length)];
-    }
-    groups.push(s);
-  }
-  return groups.join("-");
+/** Key = mật khẩu tài khoản: phân biệt hoa thường, giữ khoảng trắng bên trong. */
+function normalizeAccessKey(plain: string): string {
+  return (plain || "").trim();
 }
 
-function normalizeAccessKey(plain: string): string {
-  return (plain || "").trim().toUpperCase().replace(/\s+/g, "");
+/** Tách dòng `email|password` tại dấu `|` đầu tiên (mật khẩu có thể chứa `|`). */
+export function parseEmailPasswordLine(
+  line: string,
+): { email: string; password: string } | null {
+  const idx = line.indexOf("|");
+  if (idx < 0) return null;
+  return {
+    email: line.slice(0, idx).trim(),
+    password: line.slice(idx + 1).trim(),
+  };
 }
 
 export function hashAccessKey(plain: string): string {

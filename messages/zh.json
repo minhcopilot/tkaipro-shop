@@ -2731,20 +2731,20 @@
   "AccountCode": {
     "meta": {
       "title": "获取登录验证码",
-      "description": "输入账号邮箱和商店提供的密钥，获取最新的登录验证码。"
+      "description": "输入账号邮箱和商店提供的账号密码，获取最新的登录验证码。"
     },
     "page": {
       "title": "获取登录验证码",
-      "subtitle": "请输入账号邮箱以及商店提供给您的密钥。"
+      "subtitle": "请输入账号邮箱以及商店提供给您的账号密码。"
     },
     "form": {
       "email": "账号邮箱",
       "emailPlaceholder": "name@example.com",
-      "key": "访问密钥",
-      "keyPlaceholder": "XXXX-XXXX-XXXX",
+      "key": "账号密码",
+      "keyPlaceholder": "商店提供的密码",
       "submit": "获取验证码",
       "loading": "正在查找验证码...",
-      "requireBoth": "请同时输入账号邮箱和访问密钥。"
+      "requireBoth": "请同时输入账号邮箱和账号密码。"
     },
     "result": {
       "title": "您的验证码",
@@ -2757,7 +2757,7 @@
       "line2": "如果没有显示验证码，请在服务端重新发起登录，然后再试一次。"
     },
     "errors": {
-      "INVALID": "邮箱或访问密钥无效。",
+      "INVALID": "邮箱或账号密码无效。",
       "NO_CODE": "邮箱中暂无新的登录验证码。",
       "TOO_MANY_REQUESTS": "尝试次数过多，请一分钟后再试。",
       "UNAVAILABLE": "验证码查询功能尚未配置。",

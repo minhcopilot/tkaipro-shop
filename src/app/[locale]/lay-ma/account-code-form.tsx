@@ -117,14 +117,14 @@ export function AccountCodeForm({ defaultEmail = "" }: AccountCodeFormProps) {
           <Label htmlFor="account-code-key">{t("form.key")}</Label>
           <Input
             id="account-code-key"
-            type="text"
+            type="password"
             autoComplete="off"
             spellCheck={false}
             placeholder={t("form.keyPlaceholder")}
             value={accessKey}
             onChange={(e) => setAccessKey(e.target.value)}
             disabled={loading}
-            className="font-mono uppercase"
+            className="font-mono"
           />
         </div>
 

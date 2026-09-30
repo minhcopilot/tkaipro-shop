@@ -2731,20 +2731,20 @@
   "AccountCode": {
     "meta": {
       "title": "Obter código de login",
-      "description": "Digite o e-mail da conta e a chave da loja para obter o código de login mais recente."
+      "description": "Digite o e-mail da conta e a senha da conta fornecida pela loja para obter o código de login mais recente."
     },
     "page": {
       "title": "Obter código de login",
-      "subtitle": "Digite o e-mail da conta e a chave que a loja forneceu a você."
+      "subtitle": "Digite o e-mail da conta e a senha que a loja forneceu a você."
     },
     "form": {
       "email": "E-mail da conta",
       "emailPlaceholder": "name@example.com",
-      "key": "Chave de acesso",
-      "keyPlaceholder": "XXXX-XXXX-XXXX",
+      "key": "Senha da conta",
+      "keyPlaceholder": "Senha fornecida pela loja",
       "submit": "Obter código",
       "loading": "Buscando código...",
-      "requireBoth": "Digite o e-mail da conta e a chave de acesso."
+      "requireBoth": "Digite o e-mail da conta e a senha da conta."
     },
     "result": {
       "title": "Seu código",
@@ -2757,7 +2757,7 @@
       "line2": "Se nenhum código aparecer, solicite um novo login no serviço e tente novamente."
     },
     "errors": {
-      "INVALID": "E-mail ou chave de acesso inválidos.",
+      "INVALID": "E-mail ou senha da conta inválidos.",
       "NO_CODE": "Ainda não há um novo código de login na caixa de entrada.",
       "TOO_MANY_REQUESTS": "Muitas tentativas. Tente novamente em um minuto.",
       "UNAVAILABLE": "A consulta de código não está configurada.",

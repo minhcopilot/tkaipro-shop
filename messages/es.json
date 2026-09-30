@@ -2731,20 +2731,20 @@
   "AccountCode": {
     "meta": {
       "title": "Obtener código de inicio de sesión",
-      "description": "Introduce el correo de la cuenta y la clave de la tienda para obtener el código de inicio de sesión más reciente."
+      "description": "Introduce el correo de la cuenta y la contraseña de la cuenta que te dio la tienda para obtener el código de inicio de sesión más reciente."
     },
     "page": {
       "title": "Obtener código de inicio de sesión",
-      "subtitle": "Introduce el correo de la cuenta y la clave que te dio la tienda."
+      "subtitle": "Introduce el correo de la cuenta y la contraseña que te dio la tienda."
     },
     "form": {
       "email": "Correo de la cuenta",
       "emailPlaceholder": "name@example.com",
-      "key": "Clave de acceso",
-      "keyPlaceholder": "XXXX-XXXX-XXXX",
+      "key": "Contraseña de la cuenta",
+      "keyPlaceholder": "Contraseña de la tienda",
       "submit": "Obtener código",
       "loading": "Buscando código...",
-      "requireBoth": "Introduce el correo de la cuenta y la clave de acceso."
+      "requireBoth": "Introduce el correo de la cuenta y la contraseña de la cuenta."
     },
     "result": {
       "title": "Tu código",
@@ -2757,7 +2757,7 @@
       "line2": "Si no aparece ningún código, solicita un nuevo inicio de sesión en el servicio y vuelve a intentarlo."
     },
     "errors": {
-      "INVALID": "El correo o la clave de acceso no son válidos.",
+      "INVALID": "El correo o la contraseña de la cuenta no son válidos.",
       "NO_CODE": "Aún no hay un nuevo código de inicio de sesión en el buzón.",
       "TOO_MANY_REQUESTS": "Demasiados intentos. Inténtalo de nuevo en un minuto.",
       "UNAVAILABLE": "La búsqueda de códigos no está configurada.",

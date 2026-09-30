@@ -2731,20 +2731,20 @@
   "AccountCode": {
     "meta": {
       "title": "로그인 코드 받기",
-      "description": "계정 이메일과 상점에서 받은 키를 입력하여 최신 로그인 코드를 받으세요."
+      "description": "계정 이메일과 상점에서 받은 계정 비밀번호를 입력하여 최신 로그인 코드를 받으세요."
     },
     "page": {
       "title": "로그인 코드 받기",
-      "subtitle": "계정 이메일과 상점에서 받은 키를 입력하세요."
+      "subtitle": "계정 이메일과 상점에서 받은 비밀번호를 입력하세요."
     },
     "form": {
       "email": "계정 이메일",
       "emailPlaceholder": "name@example.com",
-      "key": "액세스 키",
-      "keyPlaceholder": "XXXX-XXXX-XXXX",
+      "key": "계정 비밀번호",
+      "keyPlaceholder": "상점에서 받은 비밀번호",
       "submit": "코드 받기",
       "loading": "코드를 찾는 중...",
-      "requireBoth": "계정 이메일과 액세스 키를 모두 입력하세요."
+      "requireBoth": "계정 이메일과 계정 비밀번호를 모두 입력하세요."
     },
     "result": {
       "title": "내 코드",
@@ -2757,7 +2757,7 @@
       "line2": "코드가 표시되지 않으면 서비스에서 새 로그인을 요청한 후 다시 시도하세요."
     },
     "errors": {
-      "INVALID": "이메일 또는 액세스 키가 올바르지 않습니다.",
+      "INVALID": "이메일 또는 계정 비밀번호가 올바르지 않습니다.",
       "NO_CODE": "아직 메일함에 새 로그인 코드가 없습니다.",
       "TOO_MANY_REQUESTS": "시도 횟수가 너무 많습니다. 1분 후 다시 시도하세요.",
       "UNAVAILABLE": "코드 조회가 설정되지 않았습니다.",

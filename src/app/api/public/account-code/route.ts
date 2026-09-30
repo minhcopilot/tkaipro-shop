@@ -5,6 +5,7 @@ import { db } from "~/db";
 import { accountOtpKeysTable } from "~/db/schema";
 import {
   isValidEmail,
+  MAX_ACCESS_KEY_LENGTH,
   normalizeEmail,
   verifyAccessKey,
 } from "~/lib/account-otp-keys";
@@ -14,7 +15,7 @@ import { getClientIp, rateLimit } from "~/lib/security/rate-limit";
 export const runtime = "nodejs";
 export const dynamic = "force-dynamic";
 
-const INVALID_MESSAGE = "Email or access key is not valid.";
+const INVALID_MESSAGE = "Email or password is not valid.";
 
 function invalid() {
   return NextResponse.json(
@@ -34,7 +35,7 @@ export async function POST(request: Request) {
   const ip = getClientIp(request);
   if (!rateLimit(`account-code:${ip}`, 8, 60_000).ok) return tooMany();
 
-  let body: { email?: unknown; accessKey?: unknown };
+  let body: { email?: unknown; accessKey?: unknown; password?: unknown };
   try {
     body = (await request.json()) as typeof body;
   } catch {
@@ -42,8 +43,12 @@ export async function POST(request: Request) {
   }
 
   const email = normalizeEmail(String(body?.email ?? ""));
-  const accessKey = String(body?.accessKey ?? "").trim();
-  if (!isValidEmail(email) || !accessKey || accessKey.length > 64) {
+  const accessKey = String(body?.accessKey ?? body?.password ?? "").trim();
+  if (
+    !isValidEmail(email) ||
+    !accessKey ||
+    accessKey.length > MAX_ACCESS_KEY_LENGTH
+  ) {
     return invalid();
   }
 

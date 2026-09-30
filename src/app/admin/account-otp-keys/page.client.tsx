@@ -1,9 +1,8 @@
 "use client";
 
 import {
-  AlertTriangle,
   Check,
-  Copy,
+  CheckCircle2,
   KeyRound,
   Pencil,
   Plus,
@@ -26,19 +25,13 @@ export interface OtpKeyRow {
   lastUsedAt: string | null;
 }
 
-interface RevealedKey {
-  email: string;
-  accessKey: string;
-}
-
 interface ApiResponse {
   error?: string;
   message?: string;
   rows?: OtpKeyRow[];
-  created?: RevealedKey[];
+  created?: string[];
   duplicates?: string[];
   invalid?: string[];
-  accessKey?: string;
 }
 
 async function readJson(res: Response): Promise<ApiResponse> {
@@ -58,15 +51,6 @@ function fmtDate(d: string | null) {
   return Number.isFinite(dd.getTime()) ? dd.toLocaleString("vi-VN") : d;
 }
 
-async function copyText(text: string) {
-  try {
-    await navigator.clipboard.writeText(text);
-    toast.success("Đã sao chép");
-  } catch {
-    toast.error("Không sao chép được");
-  }
-}
-
 export function AccountOtpKeysPageClient({
   initialRows,
 }: AccountOtpKeysPageClientProps) {
@@ -75,11 +59,12 @@ export function AccountOtpKeysPageClient({
   const [busy, setBusy] = React.useState(false);
 
   const [singleEmail, setSingleEmail] = React.useState("");
+  const [singlePassword, setSinglePassword] = React.useState("");
   const [singleNote, setSingleNote] = React.useState("");
-  const [bulkEmails, setBulkEmails] = React.useState("");
+  const [bulkEntries, setBulkEntries] = React.useState("");
   const [bulkNote, setBulkNote] = React.useState("");
 
-  const [revealed, setRevealed] = React.useState<RevealedKey[]>([]);
+  const [saved, setSaved] = React.useState<string[]>([]);
   const [report, setReport] = React.useState<{
     duplicates: string[];
     invalid: string[];
@@ -112,24 +97,24 @@ export function AccountOtpKeysPageClient({
         body: JSON.stringify(payload),
       });
       const data = await readJson(res);
-      const created: RevealedKey[] = data.created ?? [];
+      const created: string[] = data.created ?? [];
       const duplicates: string[] = data.duplicates ?? [];
       const invalid: string[] = data.invalid ?? [];
       if (duplicates.length || invalid.length) setReport({ duplicates, invalid });
       else setReport(null);
       if (!res.ok && created.length === 0) {
         toast.error(
-          data.error === "NO_VALID_EMAIL"
-            ? "Không có email hợp lệ"
-            : (data.message ?? data.error ?? "Không tạo được key"),
+          data.error === "NO_VALID_ENTRY"
+            ? "Không có dòng email|mật khẩu hợp lệ"
+            : (data.message ?? data.error ?? "Không lưu được"),
         );
         return false;
       }
       if (created.length > 0) {
-        setRevealed(created);
-        toast.success(`Đã tạo ${created.length} key`);
+        setSaved(created);
+        toast.success(`Đã lưu ${created.length} tài khoản`);
       } else {
-        toast.info("Không có key mới (email đã tồn tại)");
+        toast.info("Không có tài khoản mới (email đã tồn tại)");
       }
       await reload(search);
       return true;
@@ -140,26 +125,28 @@ export function AccountOtpKeysPageClient({
 
   async function handleAddSingle(e: React.FormEvent) {
     e.preventDefault();
-    if (!singleEmail.trim()) return;
+    if (!singleEmail.trim() || !singlePassword.trim()) return;
     const ok = await create({
       email: singleEmail.trim(),
+      password: singlePassword,
       note: singleNote.trim() || null,
     });
     if (ok) {
       setSingleEmail("");
+      setSinglePassword("");
       setSingleNote("");
     }
   }
 
   async function handleBulk(e: React.FormEvent) {
     e.preventDefault();
-    if (!bulkEmails.trim()) return;
+    if (!bulkEntries.trim()) return;
     const ok = await create({
-      emails: bulkEmails,
+      entries: bulkEntries,
       note: bulkNote.trim() || null,
     });
     if (ok) {
-      setBulkEmails("");
+      setBulkEntries("");
       setBulkNote("");
     }
   }
@@ -167,7 +154,7 @@ export function AccountOtpKeysPageClient({
   async function patch(
     row: OtpKeyRow,
     payload: Record<string, unknown>,
-  ): Promise<{ accessKey?: string } | null> {
+  ): Promise<ApiResponse | null> {
     setBusy(true);
     try {
       const res = await fetch("/api/admin/account-otp-keys", {
@@ -187,20 +174,17 @@ export function AccountOtpKeysPageClient({
     }
   }
 
-  async function handleRotate(row: OtpKeyRow) {
-    if (
-      !window.confirm(
-        `Tạo key mới cho "${row.email}"? Key cũ sẽ không dùng được nữa.`,
-      )
-    ) {
+  async function handleSetPassword(row: OtpKeyRow) {
+    const password = window.prompt(
+      `Nhập mật khẩu mới cho "${row.email}". Mật khẩu cũ sẽ không dùng được nữa.`,
+    );
+    if (password === null) return;
+    if (!password.trim()) {
+      toast.error("Mật khẩu không được để trống");
       return;
     }
-    const data = await patch(row, { action: "rotate" });
-    if (data?.accessKey) {
-      setReport(null);
-      setRevealed([{ email: row.email, accessKey: data.accessKey }]);
-      toast.success("Đã đổi key");
-    }
+    const data = await patch(row, { action: "setPassword", password });
+    if (data) toast.success("Đã đổi mật khẩu");
   }
 
   async function handleSaveNote(row: OtpKeyRow) {
@@ -227,10 +211,6 @@ export function AccountOtpKeysPageClient({
     }
   }
 
-  const allRevealedText = revealed
-    .map((r) => `${r.email}\t${r.accessKey}`)
-    .join("\n");
-
   return (
     <div className="space-y-6 p-4 md:p-6">
       <div>
@@ -239,62 +219,40 @@ export function AccountOtpKeysPageClient({
           Mã lấy OTP
         </h1>
         <p className="text-sm text-gray-500 dark:text-gray-400">
-          Mỗi email tài khoản có 1 key. Khách nhập email + key ở trang
+          Mỗi email tài khoản dùng chính mật khẩu tài khoản làm key. Khách nhập
+          email + mật khẩu ở trang
           <code className="mx-1 rounded bg-gray-100 px-1 dark:bg-gray-800">
             /lay-ma
           </code>
-          để lấy mã đăng nhập mới nhất. Chỉ lưu hash, key chỉ hiện 1 lần lúc
-          tạo / đổi.
+          để lấy mã đăng nhập mới nhất. Chỉ lưu hash, mật khẩu phân biệt hoa
+          thường.
         </p>
       </div>
 
-      {revealed.length > 0 && (
-        <div className="rounded-lg border border-amber-300 bg-amber-50 p-4 dark:border-amber-800 dark:bg-amber-950/40">
+      {saved.length > 0 && (
+        <div className="rounded-lg border border-green-300 bg-green-50 p-4 dark:border-green-800 dark:bg-green-950/40">
           <div className="mb-3 flex items-start justify-between gap-3">
-            <p className="flex items-start gap-2 text-sm font-medium text-amber-900 dark:text-amber-200">
-              <AlertTriangle className="mt-0.5 size-4 shrink-0" />
-              Lưu lại các key bên dưới ngay. Sau khi đóng, key sẽ không hiển
-              thị lại (chỉ có thể đổi key mới).
+            <p className="flex items-start gap-2 text-sm font-medium text-green-900 dark:text-green-200">
+              <CheckCircle2 className="mt-0.5 size-4 shrink-0" />
+              Đã lưu {saved.length} tài khoản. Mật khẩu bạn vừa nhập chính là
+              key khách dùng ở /lay-ma.
             </p>
-            <div className="flex shrink-0 gap-2">
-              {revealed.length > 1 && (
-                <button
-                  type="button"
-                  onClick={() => void copyText(allRevealedText)}
-                  className="flex items-center gap-1 rounded-lg border border-amber-400 px-2 py-1 text-xs hover:bg-amber-100 dark:hover:bg-amber-900"
-                >
-                  <Copy className="size-3" />
-                  Copy tất cả
-                </button>
-              )}
-              <button
-                type="button"
-                onClick={() => setRevealed([])}
-                className="rounded-lg p-1 hover:bg-amber-100 dark:hover:bg-amber-900"
-                aria-label="Đóng"
-              >
-                <X className="size-4" />
-              </button>
-            </div>
+            <button
+              type="button"
+              onClick={() => setSaved([])}
+              className="shrink-0 rounded-lg p-1 hover:bg-green-100 dark:hover:bg-green-900"
+              aria-label="Đóng"
+            >
+              <X className="size-4" />
+            </button>
           </div>
           <ul className="max-h-80 space-y-1 overflow-auto">
-            {revealed.map((r) => (
+            {saved.map((email) => (
               <li
-                key={r.email}
-                className="flex items-center justify-between gap-2 rounded bg-white px-3 py-1.5 text-sm dark:bg-gray-900"
+                key={email}
+                className="truncate rounded bg-white px-3 py-1.5 text-sm dark:bg-gray-900"
               >
-                <span className="truncate">{r.email}</span>
-                <span className="flex items-center gap-2">
-                  <code className="font-mono font-semibold">{r.accessKey}</code>
-                  <button
-                    type="button"
-                    onClick={() => void copyText(r.accessKey)}
-                    className="rounded p-1 hover:bg-gray-100 dark:hover:bg-gray-800"
-                    aria-label="Copy key"
-                  >
-                    <Copy className="size-3.5" />
-                  </button>
-                </span>
+                {email}
               </li>
             ))}
           </ul>
@@ -311,7 +269,10 @@ export function AccountOtpKeysPageClient({
           )}
           {report.invalid.length > 0 && (
             <p className="text-red-600 dark:text-red-400">
-              <span className="font-medium">Email không hợp lệ</span> (
+              <span className="font-medium">
+                Không hợp lệ (email sai / thiếu mật khẩu)
+              </span>{" "}
+              (
               {report.invalid.length}): {report.invalid.join(", ")}
             </p>
           )}
@@ -323,7 +284,7 @@ export function AccountOtpKeysPageClient({
           onSubmit={handleAddSingle}
           className="space-y-3 rounded-lg border bg-white p-4 dark:border-gray-700 dark:bg-gray-800"
         >
-          <h2 className="text-base font-semibold">Thêm 1 email</h2>
+          <h2 className="text-base font-semibold">Thêm 1 tài khoản</h2>
           <input
             type="email"
             placeholder="user@example.com"
@@ -332,6 +293,16 @@ export function AccountOtpKeysPageClient({
             className={cn(inputClass, "w-full")}
             disabled={busy}
             autoComplete="off"
+          />
+          <input
+            type="text"
+            placeholder="Mật khẩu (chính là key)"
+            value={singlePassword}
+            onChange={(e) => setSinglePassword(e.target.value)}
+            className={cn(inputClass, "w-full font-mono")}
+            disabled={busy}
+            autoComplete="off"
+            spellCheck={false}
           />
           <input
             type="text"
@@ -344,11 +315,11 @@ export function AccountOtpKeysPageClient({
           />
           <button
             type="submit"
-            disabled={busy || !singleEmail.trim()}
+            disabled={busy || !singleEmail.trim() || !singlePassword.trim()}
             className="flex items-center justify-center gap-2 rounded-lg bg-amber-600 px-4 py-2 text-sm font-medium text-white hover:bg-amber-700 disabled:opacity-50"
           >
             <Plus className="size-4" />
-            Tạo key
+            Lưu tài khoản
           </button>
         </form>
 
@@ -356,14 +327,17 @@ export function AccountOtpKeysPageClient({
           onSubmit={handleBulk}
           className="space-y-3 rounded-lg border bg-white p-4 dark:border-gray-700 dark:bg-gray-800"
         >
-          <h2 className="text-base font-semibold">Dán nhiều email</h2>
+          <h2 className="text-base font-semibold">
+            Dán nhiều dòng email|mật khẩu
+          </h2>
           <textarea
-            placeholder={"a@example.com\nb@example.com"}
-            value={bulkEmails}
-            onChange={(e) => setBulkEmails(e.target.value)}
+            placeholder={"a@example.com|matkhau1\nb@example.com|matkhau2"}
+            value={bulkEntries}
+            onChange={(e) => setBulkEntries(e.target.value)}
             rows={4}
             className={cn(inputClass, "w-full font-mono")}
             disabled={busy}
+            spellCheck={false}
           />
           <input
             type="text"
@@ -376,11 +350,11 @@ export function AccountOtpKeysPageClient({
           />
           <button
             type="submit"
-            disabled={busy || !bulkEmails.trim()}
+            disabled={busy || !bulkEntries.trim()}
             className="flex items-center justify-center gap-2 rounded-lg bg-amber-600 px-4 py-2 text-sm font-medium text-white hover:bg-amber-700 disabled:opacity-50"
           >
             <Plus className="size-4" />
-            Tạo key hàng loạt
+            Lưu hàng loạt
           </button>
         </form>
       </div>
@@ -503,9 +477,9 @@ export function AccountOtpKeysPageClient({
                     <button
                       type="button"
                       disabled={busy}
-                      onClick={() => void handleRotate(row)}
+                      onClick={() => void handleSetPassword(row)}
                       className="rounded p-1.5 text-amber-600 hover:bg-gray-100 disabled:opacity-50 dark:hover:bg-gray-700"
-                      title="Đổi key"
+                      title="Đổi mật khẩu"
                     >
                       <RefreshCw className="size-4" />
                     </button>

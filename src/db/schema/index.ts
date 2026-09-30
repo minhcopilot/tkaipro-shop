@@ -58,6 +58,10 @@ export * from "./affiliate-voucher/types";
 export * from "./security/tables";
 export * from "./security/types";
 
+// account OTP keys (khóa truy cập trang lấy OTP)
+export * from "./account-otp-keys/tables";
+export * from "./account-otp-keys/types";
+
 // wallet (balance + topup + transaction audit)
 export * from "./wallet/tables";
 export * from "./wallet/relations";

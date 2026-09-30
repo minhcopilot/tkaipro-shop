@@ -2727,5 +2727,42 @@
     "p3": "Obrigado por apoiar a TKAIPro.",
     "termsLink": "Termos e Condições",
     "close": "Fechar"
+  },
+  "AccountCode": {
+    "meta": {
+      "title": "Obter código de login",
+      "description": "Digite o e-mail da conta e a chave da loja para obter o código de login mais recente."
+    },
+    "page": {
+      "title": "Obter código de login",
+      "subtitle": "Digite o e-mail da conta e a chave que a loja forneceu a você."
+    },
+    "form": {
+      "email": "E-mail da conta",
+      "emailPlaceholder": "name@example.com",
+      "key": "Chave de acesso",
+      "keyPlaceholder": "XXXX-XXXX-XXXX",
+      "submit": "Obter código",
+      "loading": "Buscando código...",
+      "requireBoth": "Digite o e-mail da conta e a chave de acesso."
+    },
+    "result": {
+      "title": "Seu código",
+      "copy": "Copiar",
+      "copied": "Copiado",
+      "receivedAt": "Recebido às {time}"
+    },
+    "notice": {
+      "line1": "O código é do e-mail de login mais recente dos últimos 10 minutos.",
+      "line2": "Se nenhum código aparecer, solicite um novo login no serviço e tente novamente."
+    },
+    "errors": {
+      "INVALID": "E-mail ou chave de acesso inválidos.",
+      "NO_CODE": "Ainda não há um novo código de login na caixa de entrada.",
+      "TOO_MANY_REQUESTS": "Muitas tentativas. Tente novamente em um minuto.",
+      "UNAVAILABLE": "A consulta de código não está configurada.",
+      "NETWORK": "Erro de rede. Tente novamente.",
+      "UNKNOWN": "Algo deu errado. Tente novamente."
+    }
   }
 }

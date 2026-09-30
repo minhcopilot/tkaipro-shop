@@ -2727,5 +2727,42 @@
     "p3": "Gracias por apoyar a TKAIPro.",
     "termsLink": "Términos y Condiciones",
     "close": "Cerrar"
+  },
+  "AccountCode": {
+    "meta": {
+      "title": "Obtener código de inicio de sesión",
+      "description": "Introduce el correo de la cuenta y la clave de la tienda para obtener el código de inicio de sesión más reciente."
+    },
+    "page": {
+      "title": "Obtener código de inicio de sesión",
+      "subtitle": "Introduce el correo de la cuenta y la clave que te dio la tienda."
+    },
+    "form": {
+      "email": "Correo de la cuenta",
+      "emailPlaceholder": "name@example.com",
+      "key": "Clave de acceso",
+      "keyPlaceholder": "XXXX-XXXX-XXXX",
+      "submit": "Obtener código",
+      "loading": "Buscando código...",
+      "requireBoth": "Introduce el correo de la cuenta y la clave de acceso."
+    },
+    "result": {
+      "title": "Tu código",
+      "copy": "Copiar",
+      "copied": "Copiado",
+      "receivedAt": "Recibido a las {time}"
+    },
+    "notice": {
+      "line1": "El código es el del correo de inicio de sesión más reciente de los últimos 10 minutos.",
+      "line2": "Si no aparece ningún código, solicita un nuevo inicio de sesión en el servicio y vuelve a intentarlo."
+    },
+    "errors": {
+      "INVALID": "El correo o la clave de acceso no son válidos.",
+      "NO_CODE": "Aún no hay un nuevo código de inicio de sesión en el buzón.",
+      "TOO_MANY_REQUESTS": "Demasiados intentos. Inténtalo de nuevo en un minuto.",
+      "UNAVAILABLE": "La búsqueda de códigos no está configurada.",
+      "NETWORK": "Error de red. Inténtalo de nuevo.",
+      "UNKNOWN": "Algo salió mal. Inténtalo de nuevo."
+    }
   }
 }

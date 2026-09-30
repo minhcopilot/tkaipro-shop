@@ -90,6 +90,12 @@ const navigationItems = [
     description: "Chặn IP & email lạm dụng",
   },
   {
+    label: "Mã lấy OTP",
+    href: "/admin/account-otp-keys",
+    icon: KeyRound,
+    description: "Key cho khách tự lấy mã đăng nhập",
+  },
+  {
     label: "Giám sát IP",
     href: "/admin/ip-monitor",
     icon: Activity,

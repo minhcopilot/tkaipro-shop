@@ -2727,5 +2727,42 @@
     "p3": "Merci d'avoir choisi TKAIPro.",
     "termsLink": "Conditions générales",
     "close": "Fermer"
+  },
+  "AccountCode": {
+    "meta": {
+      "title": "Obtenir le code de connexion",
+      "description": "Saisissez l'e-mail du compte et la clé fournie par la boutique pour obtenir le dernier code de connexion."
+    },
+    "page": {
+      "title": "Obtenir le code de connexion",
+      "subtitle": "Saisissez l'e-mail du compte et la clé que la boutique vous a fournie."
+    },
+    "form": {
+      "email": "E-mail du compte",
+      "emailPlaceholder": "name@example.com",
+      "key": "Clé d'accès",
+      "keyPlaceholder": "XXXX-XXXX-XXXX",
+      "submit": "Obtenir le code",
+      "loading": "Recherche du code...",
+      "requireBoth": "Saisissez l'e-mail du compte et la clé d'accès."
+    },
+    "result": {
+      "title": "Votre code",
+      "copy": "Copier",
+      "copied": "Copié",
+      "receivedAt": "Reçu à {time}"
+    },
+    "notice": {
+      "line1": "Le code provient du dernier e-mail de connexion reçu au cours des 10 dernières minutes.",
+      "line2": "Si aucun code n'apparaît, demandez une nouvelle connexion sur le service, puis réessayez."
+    },
+    "errors": {
+      "INVALID": "L'e-mail ou la clé d'accès n'est pas valide.",
+      "NO_CODE": "Aucun nouveau code de connexion dans la boîte mail pour le moment.",
+      "TOO_MANY_REQUESTS": "Trop de tentatives. Réessayez dans une minute.",
+      "UNAVAILABLE": "La recherche de code n'est pas configurée.",
+      "NETWORK": "Erreur réseau. Réessayez.",
+      "UNKNOWN": "Une erreur s'est produite. Réessayez."
+    }
   }
 }

@@ -2727,5 +2727,42 @@
     "p3": "Xin cảm ơn đã ủng hộ TKAIPro.",
     "termsLink": "Điều khoản và điều kiện",
     "close": "Đóng"
+  },
+  "AccountCode": {
+    "meta": {
+      "title": "Lấy mã đăng nhập",
+      "description": "Nhập email tài khoản và key shop cung cấp để lấy mã đăng nhập mới nhất."
+    },
+    "page": {
+      "title": "Lấy mã đăng nhập",
+      "subtitle": "Nhập email tài khoản và key mà shop đã gửi cho bạn nhé."
+    },
+    "form": {
+      "email": "Email tài khoản",
+      "emailPlaceholder": "name@example.com",
+      "key": "Key truy cập",
+      "keyPlaceholder": "XXXX-XXXX-XXXX",
+      "submit": "Lấy mã",
+      "loading": "Đang tìm mã...",
+      "requireBoth": "Vui lòng nhập đủ email tài khoản và key truy cập."
+    },
+    "result": {
+      "title": "Mã của bạn",
+      "copy": "Sao chép",
+      "copied": "Đã sao chép",
+      "receivedAt": "Nhận lúc {time}"
+    },
+    "notice": {
+      "line1": "Mã là email đăng nhập mới nhất trong 10 phút gần đây.",
+      "line2": "Nếu chưa thấy mã, bạn hãy yêu cầu đăng nhập lại trên dịch vụ rồi thử lại nhé."
+    },
+    "errors": {
+      "INVALID": "Email hoặc key truy cập không hợp lệ.",
+      "NO_CODE": "Hộp thư chưa có mã đăng nhập mới.",
+      "TOO_MANY_REQUESTS": "Bạn thử quá nhiều lần. Vui lòng thử lại sau 1 phút.",
+      "UNAVAILABLE": "Chức năng lấy mã chưa được cấu hình.",
+      "NETWORK": "Lỗi kết nối mạng. Vui lòng thử lại.",
+      "UNKNOWN": "Có lỗi xảy ra. Vui lòng thử lại."
+    }
   }
 }

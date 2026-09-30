@@ -2727,5 +2727,42 @@
       "contact": "Contact Support",
       "privacy": "View Privacy Policy"
     }
+  },
+  "AccountCode": {
+    "meta": {
+      "title": "Get sign-in code",
+      "description": "Enter your account email and the key from the shop to get the latest sign-in code."
+    },
+    "page": {
+      "title": "Get sign-in code",
+      "subtitle": "Enter the account email and the key the shop gave you."
+    },
+    "form": {
+      "email": "Account email",
+      "emailPlaceholder": "name@example.com",
+      "key": "Access key",
+      "keyPlaceholder": "XXXX-XXXX-XXXX",
+      "submit": "Get code",
+      "loading": "Looking up code...",
+      "requireBoth": "Enter both the account email and the access key."
+    },
+    "result": {
+      "title": "Your code",
+      "copy": "Copy",
+      "copied": "Copied",
+      "receivedAt": "Received at {time}"
+    },
+    "notice": {
+      "line1": "The code is the latest sign-in email from the last 10 minutes.",
+      "line2": "If no code appears, request a new sign-in on the service, then try again."
+    },
+    "errors": {
+      "INVALID": "Email or access key is not valid.",
+      "NO_CODE": "No new sign-in code in the mailbox yet.",
+      "TOO_MANY_REQUESTS": "Too many attempts. Try again in a minute.",
+      "UNAVAILABLE": "Code lookup is not configured.",
+      "NETWORK": "Network error. Try again.",
+      "UNKNOWN": "Something went wrong. Try again."
+    }
   }
 }

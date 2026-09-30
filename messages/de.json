@@ -2727,5 +2727,42 @@
     "p3": "Vielen Dank für Ihre Unterstützung von TKAIPro.",
     "termsLink": "Allgemeine Geschäftsbedingungen",
     "close": "Schließen"
+  },
+  "AccountCode": {
+    "meta": {
+      "title": "Anmeldecode abrufen",
+      "description": "Gib die E-Mail des Kontos und den Schlüssel aus dem Shop ein, um den neuesten Anmeldecode zu erhalten."
+    },
+    "page": {
+      "title": "Anmeldecode abrufen",
+      "subtitle": "Gib die Konto-E-Mail und den Schlüssel ein, den du vom Shop erhalten hast."
+    },
+    "form": {
+      "email": "Konto-E-Mail",
+      "emailPlaceholder": "name@example.com",
+      "key": "Zugangsschlüssel",
+      "keyPlaceholder": "XXXX-XXXX-XXXX",
+      "submit": "Code abrufen",
+      "loading": "Code wird gesucht...",
+      "requireBoth": "Gib sowohl die Konto-E-Mail als auch den Zugangsschlüssel ein."
+    },
+    "result": {
+      "title": "Dein Code",
+      "copy": "Kopieren",
+      "copied": "Kopiert",
+      "receivedAt": "Empfangen um {time}"
+    },
+    "notice": {
+      "line1": "Der Code stammt aus der neuesten Anmelde-E-Mail der letzten 10 Minuten.",
+      "line2": "Wenn kein Code erscheint, fordere beim Dienst eine neue Anmeldung an und versuche es erneut."
+    },
+    "errors": {
+      "INVALID": "E-Mail oder Zugangsschlüssel ist ungültig.",
+      "NO_CODE": "Noch kein neuer Anmeldecode im Postfach.",
+      "TOO_MANY_REQUESTS": "Zu viele Versuche. Versuche es in einer Minute erneut.",
+      "UNAVAILABLE": "Die Code-Abfrage ist nicht konfiguriert.",
+      "NETWORK": "Netzwerkfehler. Versuche es erneut.",
+      "UNKNOWN": "Etwas ist schiefgelaufen. Versuche es erneut."
+    }
   }
 }

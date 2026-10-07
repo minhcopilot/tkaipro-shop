@@ -35,7 +35,9 @@ export default getRequestConfig(async ({requestLocale}) => {
   // Các file dịch không đồng đều (vd ru thiếu cả khối VerificationCode). Thay vì
   // để next-intl ném MISSING_MESSAGE và hiện key thô, gộp lên bản dự phòng:
   // locale hiện tại > en > vi.
-  const chain = [...new Set(['vi', 'en', locale])];
+  // Thứ tự gộp: phần tử sau đè phần tử trước, nên locale hiện tại phải đứng cuối
+  // (Set(['vi','en','vi']) giữ 'vi' ở đầu → en đè mất tiếng Việt).
+  const chain = [...['vi', 'en'].filter((l) => l !== locale), locale];
   const loaded = await Promise.all(
     chain.map(async (l) => (await import(`../../messages/${l}.json`)).default as Messages)
   );

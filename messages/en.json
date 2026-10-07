@@ -2764,5 +2764,176 @@
       "NETWORK": "Network error. Try again.",
       "UNKNOWN": "Something went wrong. Try again."
     }
+  },
+  "SitemapPage": {
+    "seo": {
+      "title": "Sitemap",
+      "description": "Overview of every page on our store — products, support, policies and your account.",
+      "keywords": "sitemap, store pages, site map"
+    },
+    "hero": {
+      "title": "Site",
+      "highlight": "Map",
+      "description": "Find any page quickly — products, support, policies and account pages in one place.",
+      "badge": "All pages in one place"
+    },
+    "stats": {
+      "pages": "Pages",
+      "customers": "Customers",
+      "support": "Support",
+      "uptime": "Uptime"
+    },
+    "quickLinks": {
+      "title": "Quick links",
+      "buy": "Buy now",
+      "support": "Contact support",
+      "guide": "User guide",
+      "login": "Sign in"
+    },
+    "sections": {
+      "main": {
+        "title": "Main pages",
+        "description": "Core shopping pages",
+        "pages": {
+          "home": {
+            "name": "Home",
+            "desc": "Homepage and featured products"
+          },
+          "products": {
+            "name": "Products",
+            "desc": "All available plans"
+          },
+          "checkout": {
+            "name": "Checkout",
+            "desc": "Complete your order and payment"
+          },
+          "notifications": {
+            "name": "Notifications",
+            "desc": "Latest announcements and updates"
+          }
+        }
+      },
+      "company": {
+        "title": "Company",
+        "description": "About us",
+        "pages": {
+          "about": {
+            "name": "About us",
+            "desc": "Our story and mission"
+          },
+          "contact": {
+            "name": "Contact",
+            "desc": "Get in touch with our team"
+          },
+          "careers": {
+            "name": "Careers",
+            "desc": "Join our team"
+          },
+          "press": {
+            "name": "Press",
+            "desc": "News and media resources"
+          },
+          "blog": {
+            "name": "Blog",
+            "desc": "Guides, tips and news"
+          }
+        }
+      },
+      "support": {
+        "title": "Support",
+        "description": "Help and after-sales service",
+        "pages": {
+          "help": {
+            "name": "Help center",
+            "desc": "Frequently asked questions and guides"
+          },
+          "shipping": {
+            "name": "Delivery",
+            "desc": "How and when your account is delivered"
+          },
+          "warranty": {
+            "name": "Warranty",
+            "desc": "Warranty and replacement policy"
+          }
+        }
+      },
+      "policy": {
+        "title": "Policies",
+        "description": "Terms and legal information",
+        "pages": {
+          "terms": {
+            "name": "Terms of service",
+            "desc": "Rules for using our service"
+          },
+          "privacy": {
+            "name": "Privacy policy",
+            "desc": "How we handle your personal data"
+          },
+          "cookies": {
+            "name": "Cookie policy",
+            "desc": "How we use cookies"
+          }
+        }
+      },
+      "account": {
+        "title": "Account",
+        "description": "Manage your account and orders",
+        "pages": {
+          "signin": {
+            "name": "Sign in",
+            "desc": "Access your account"
+          },
+          "signup": {
+            "name": "Sign up",
+            "desc": "Create a new account"
+          },
+          "dashboard": {
+            "name": "Dashboard",
+            "desc": "Overview of your account"
+          },
+          "orders": {
+            "name": "My orders",
+            "desc": "Order history and details"
+          },
+          "profile": {
+            "name": "Profile",
+            "desc": "Your personal information"
+          },
+          "settings": {
+            "name": "Settings",
+            "desc": "Account preferences"
+          }
+        }
+      }
+    },
+    "search": {
+      "title": "Can't find what you need?",
+      "description": "Search the site or contact us — we are happy to help.",
+      "placeholder": "Search pages...",
+      "button": "Search",
+      "support": "Support hotline",
+      "chat": "Live chat",
+      "email": "Email"
+    },
+    "technical": {
+      "title": "Technical sitemap",
+      "xmlTitle": "XML files",
+      "statsTitle": "Site information",
+      "stats": {
+        "pages": "Total pages",
+        "language": "Language",
+        "framework": "Framework",
+        "update": "Updated",
+        "ssl": "SSL",
+        "mobile": "Mobile"
+      },
+      "tip": "Tip: search engines use sitemap.xml to index the site automatically."
+    },
+    "cta": {
+      "title": "Ready to get started?",
+      "description": "Browse our plans and get your account delivered within minutes.",
+      "viewProducts": "View products",
+      "learnMore": "Learn more about us"
+    }
   }
 }

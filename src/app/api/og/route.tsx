@@ -74,7 +74,7 @@ export async function GET(request: NextRequest) {
                 color: "transparent",
               }}
             >
-              ⚡ {SEO_CONFIG.name}
+              {`⚡ ${SEO_CONFIG.name}`}
             </div>
           </div>
           

@@ -2764,5 +2764,176 @@
       "NETWORK": "Lỗi kết nối mạng. Vui lòng thử lại.",
       "UNKNOWN": "Có lỗi xảy ra. Vui lòng thử lại."
     }
+  },
+  "SitemapPage": {
+    "seo": {
+      "title": "Sơ đồ trang web",
+      "description": "Tổng quan mọi trang trên cửa hàng — sản phẩm, hỗ trợ, chính sách và tài khoản.",
+      "keywords": "sơ đồ trang web, sitemap, các trang cửa hàng"
+    },
+    "hero": {
+      "title": "Sơ đồ",
+      "highlight": "trang web",
+      "description": "Tìm nhanh mọi trang — sản phẩm, hỗ trợ, chính sách và tài khoản ở cùng một nơi.",
+      "badge": "Tất cả các trang ở một nơi"
+    },
+    "stats": {
+      "pages": "Trang",
+      "customers": "Khách hàng",
+      "support": "Hỗ trợ",
+      "uptime": "Thời gian hoạt động"
+    },
+    "quickLinks": {
+      "title": "Liên kết nhanh",
+      "buy": "Mua ngay",
+      "support": "Liên hệ hỗ trợ",
+      "guide": "Hướng dẫn",
+      "login": "Đăng nhập"
+    },
+    "sections": {
+      "main": {
+        "title": "Trang chính",
+        "description": "Các trang mua sắm chính",
+        "pages": {
+          "home": {
+            "name": "Trang chủ",
+            "desc": "Trang chủ và sản phẩm nổi bật"
+          },
+          "products": {
+            "name": "Sản phẩm",
+            "desc": "Tất cả các gói đang bán"
+          },
+          "checkout": {
+            "name": "Thanh toán",
+            "desc": "Hoàn tất đơn hàng và thanh toán"
+          },
+          "notifications": {
+            "name": "Thông báo",
+            "desc": "Thông báo và cập nhật mới nhất"
+          }
+        }
+      },
+      "company": {
+        "title": "Công ty",
+        "description": "Về chúng tôi",
+        "pages": {
+          "about": {
+            "name": "Giới thiệu",
+            "desc": "Câu chuyện và sứ mệnh của chúng tôi"
+          },
+          "contact": {
+            "name": "Liên hệ",
+            "desc": "Liên hệ với đội ngũ của chúng tôi"
+          },
+          "careers": {
+            "name": "Tuyển dụng",
+            "desc": "Gia nhập đội ngũ"
+          },
+          "press": {
+            "name": "Báo chí",
+            "desc": "Tin tức và tài liệu truyền thông"
+          },
+          "blog": {
+            "name": "Blog",
+            "desc": "Hướng dẫn, mẹo và tin tức"
+          }
+        }
+      },
+      "support": {
+        "title": "Hỗ trợ",
+        "description": "Trợ giúp và dịch vụ sau bán hàng",
+        "pages": {
+          "help": {
+            "name": "Trung tâm trợ giúp",
+            "desc": "Câu hỏi thường gặp và hướng dẫn"
+          },
+          "shipping": {
+            "name": "Giao hàng",
+            "desc": "Cách và thời gian nhận tài khoản"
+          },
+          "warranty": {
+            "name": "Bảo hành",
+            "desc": "Chính sách bảo hành và đổi mới"
+          }
+        }
+      },
+      "policy": {
+        "title": "Chính sách",
+        "description": "Điều khoản và thông tin pháp lý",
+        "pages": {
+          "terms": {
+            "name": "Điều khoản dịch vụ",
+            "desc": "Quy định khi sử dụng dịch vụ"
+          },
+          "privacy": {
+            "name": "Chính sách bảo mật",
+            "desc": "Cách chúng tôi xử lý dữ liệu cá nhân"
+          },
+          "cookies": {
+            "name": "Chính sách cookies",
+            "desc": "Cách chúng tôi sử dụng cookies"
+          }
+        }
+      },
+      "account": {
+        "title": "Tài khoản",
+        "description": "Quản lý tài khoản và đơn hàng",
+        "pages": {
+          "signin": {
+            "name": "Đăng nhập",
+            "desc": "Truy cập tài khoản của bạn"
+          },
+          "signup": {
+            "name": "Đăng ký",
+            "desc": "Tạo tài khoản mới"
+          },
+          "dashboard": {
+            "name": "Bảng điều khiển",
+            "desc": "Tổng quan tài khoản"
+          },
+          "orders": {
+            "name": "Đơn hàng của tôi",
+            "desc": "Lịch sử và chi tiết đơn hàng"
+          },
+          "profile": {
+            "name": "Hồ sơ",
+            "desc": "Thông tin cá nhân"
+          },
+          "settings": {
+            "name": "Cài đặt",
+            "desc": "Tùy chỉnh tài khoản"
+          }
+        }
+      }
+    },
+    "search": {
+      "title": "Không tìm thấy trang cần tìm?",
+      "description": "Tìm kiếm trên trang hoặc liên hệ với chúng tôi — luôn sẵn sàng hỗ trợ.",
+      "placeholder": "Tìm trang...",
+      "button": "Tìm kiếm",
+      "support": "Hotline hỗ trợ",
+      "chat": "Chat trực tuyến",
+      "email": "Email"
+    },
+    "technical": {
+      "title": "Sơ đồ kỹ thuật",
+      "xmlTitle": "File XML",
+      "statsTitle": "Thông tin trang web",
+      "stats": {
+        "pages": "Tổng số trang",
+        "language": "Ngôn ngữ",
+        "framework": "Framework",
+        "update": "Cập nhật",
+        "ssl": "SSL",
+        "mobile": "Di động"
+      },
+      "tip": "Mẹo: công cụ tìm kiếm dùng sitemap.xml để tự động lập chỉ mục trang web."
+    },
+    "cta": {
+      "title": "Sẵn sàng bắt đầu?",
+      "description": "Xem các gói và nhận tài khoản chỉ trong vài phút.",
+      "viewProducts": "Xem sản phẩm",
+      "learnMore": "Tìm hiểu về chúng tôi"
+    }
   }
 }

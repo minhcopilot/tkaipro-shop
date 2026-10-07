@@ -6,6 +6,18 @@ import { Card, CardContent, CardHeader, CardTitle } from "~/ui/primitives/card";
 
 export async function CompetitorComparison() {
   const t = await getTranslations("CompetitorComparison");
+  // Số dòng mỗi card khác nhau giữa các ngôn ngữ (en chỉ có 3) — đếm theo
+  // dữ liệu thật thay vì cố định 0..3 để không gọi key không tồn tại.
+  // Một số file lưu dạng mảng, số khác dạng object {"0": ..., "1": ...}.
+  const contentIndexes = (card: string) => {
+    const raw = t.raw(`cards.${card}.content`) as unknown;
+    const count = Array.isArray(raw)
+      ? raw.length
+      : raw && typeof raw === "object"
+        ? Object.keys(raw).length
+        : 0;
+    return Array.from({ length: count }, (_, i) => i);
+  };
 
   const comparisonData = [
     {
@@ -191,7 +203,7 @@ export async function CompetitorComparison() {
               </CardTitle>
             </CardHeader>
             <CardContent className="space-y-2 text-sm text-muted-foreground">
-              {[0, 1, 2, 3].map((i) => (
+              {contentIndexes("cursor").map((i) => (
                 <p key={i}>
                   {t.rich(`cards.cursor.content.${i}`, {
                     bold: (chunks) => <strong className="text-foreground">{chunks}</strong>
@@ -209,7 +221,7 @@ export async function CompetitorComparison() {
               </CardTitle>
             </CardHeader>
             <CardContent className="space-y-2 text-sm text-muted-foreground">
-              {[0, 1, 2, 3].map((i) => (
+              {contentIndexes("service").map((i) => (
                 <p key={i}>
                   {t.rich(`cards.service.content.${i}`, {
                     bold: (chunks) => <strong className="text-foreground">{chunks}</strong>
@@ -227,7 +239,7 @@ export async function CompetitorComparison() {
               </CardTitle>
             </CardHeader>
             <CardContent className="space-y-2 text-sm text-muted-foreground">
-              {[0, 1, 2, 3].map((i) => (
+              {contentIndexes("commitment").map((i) => (
                 <p key={i}>
                   {t.rich(`cards.commitment.content.${i}`, {
                     bold: (chunks) => <strong className="text-foreground">{chunks}</strong>

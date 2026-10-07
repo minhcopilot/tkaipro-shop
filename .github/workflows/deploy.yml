@@ -1,0 +1,62 @@
+name: Deploy
+
+# Push lên main → SSH vào VPS → chạy scripts/deploy.sh (git pull, build, chờ
+# healthcheck, dọn rác Docker).
+#
+# Secret cần có (Settings → Secrets and variables → Actions):
+#   DEPLOY_SSH_KEY — private key ~/.ssh/gha_deploy_tkaipro trên server. Public key của nó
+#                    nằm trong authorized_keys với command="... deploy.sh", nên
+#                    key này chỉ chạy được deploy, không mở được shell.
+
+on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - "**.md"
+      - "docs/**"
+  workflow_dispatch:
+
+# Không cho 2 lần deploy chạy chồng nhau; push mới chờ lần trước xong.
+concurrency:
+  group: deploy-tkaipro-shop
+  cancel-in-progress: false
+
+env:
+  DEPLOY_HOST: 103.72.57.246
+  DEPLOY_USER: root
+  # Host key của server — ghim cố định để chống MITM.
+  DEPLOY_HOST_KEY: "103.72.57.246 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHSf7aJH7Yn8PuJChJ6b1OTeQ80hkL+bP+fBJclzlLKJ"
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Set up SSH key
+        env:
+          DEPLOY_SSH_KEY: ${{ secrets.DEPLOY_SSH_KEY }}
+        run: |
+          if [ -z "$DEPLOY_SSH_KEY" ]; then
+            echo "::error::Thiếu secret DEPLOY_SSH_KEY"
+            exit 1
+          fi
+          mkdir -p ~/.ssh
+          printf '%s\n' "$DEPLOY_SSH_KEY" > ~/.ssh/deploy_key
+          chmod 600 ~/.ssh/deploy_key
+          echo "$DEPLOY_HOST_KEY" > ~/.ssh/known_hosts
+
+      - name: Run deploy.sh on server
+        run: |
+          # Key bị ép command="bash .../deploy.sh" trên server nên không cần
+          # truyền lệnh; ServerAlive giữ kết nối trong lúc build lâu.
+          ssh -i ~/.ssh/deploy_key \
+            -o StrictHostKeyChecking=yes \
+            -o ServerAliveInterval=30 \
+            -o ServerAliveCountMax=10 \
+            "$DEPLOY_USER@$DEPLOY_HOST"
+
+      - name: Check site is up
+        run: |
+          code=$(curl -s -o /dev/null -w '%{http_code}' --max-time 20 https://tkaipro.shop/api/health || echo 000)
+          echo "https://tkaipro.shop/api/health → $code"
+          [ "$code" = "200" ] || echo "::warning::Health qua domain trả $code (deploy.sh đã kiểm tra localhost OK)"

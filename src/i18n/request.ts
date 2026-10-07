@@ -32,8 +32,32 @@ export default getRequestConfig(async ({requestLocale}) => {
     locale = routing.defaultLocale;
   }
 
+  // Các file dịch không đồng đều (vd ru thiếu cả khối VerificationCode). Thay vì
+  // để next-intl ném MISSING_MESSAGE và hiện key thô, gộp lên bản dự phòng:
+  // locale hiện tại > en > vi.
+  const chain = [...new Set(['vi', 'en', locale])];
+  const loaded = await Promise.all(
+    chain.map(async (l) => (await import(`../../messages/${l}.json`)).default as Messages)
+  );
+
   return {
     locale,
-    messages: (await import(`../../messages/${locale}.json`)).default
+    messages: loaded.reduce((acc, m) => deepMerge(acc, m), {} as Messages)
   };
 });
+
+type Messages = {[key: string]: unknown};
+
+const isPlainObject = (v: unknown): v is Messages =>
+  typeof v === 'object' && v !== null && !Array.isArray(v);
+
+// Merge object lồng nhau; mảng và chuỗi của bản ưu tiên thay thế nguyên khối
+// (không trộn từng phần tử, tránh lẫn danh sách của hai ngôn ngữ).
+function deepMerge(base: Messages, override: Messages): Messages {
+  const out: Messages = {...base};
+  for (const [key, value] of Object.entries(override)) {
+    const prev = out[key];
+    out[key] = isPlainObject(prev) && isPlainObject(value) ? deepMerge(prev, value) : value;
+  }
+  return out;
+}

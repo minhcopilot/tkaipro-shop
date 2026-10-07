@@ -22,7 +22,7 @@ export async function SuccessStories() {
     {
       name: "Trần Thị Lan",
       company: "VinTech",
-      avatar: "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=150&h=150&fit=crop&crop=face",
+      avatar: "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150&h=150&fit=crop&crop=face",
       techStack: ["Vue.js", "Nuxt", "TailwindCSS"]
     },
     {

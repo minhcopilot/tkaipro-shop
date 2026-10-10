@@ -11,6 +11,11 @@
 # Ép build sạch khi nghi cache hỏng:  NO_CACHE=1 bash scripts/deploy.sh
 # ----------------------------------------------------------------------------
 set -euo pipefail
+# Both CI and direct/manual deployments must go through the shared VPS lock.
+if [ "${SHOP_DEPLOY_LOCKED:-}" != "tkaipro-shop" ] || \
+   [ "$(readlink /proc/$$/fd/9 2>/dev/null || true)" != /var/lock/cursor-shops-deploy.lock ]; then
+  exec /usr/local/bin/shop-deploy.sh tkaipro-shop
+fi
 
 APP_DIR="${APP_DIR:-/app/tkaipro-shop}"
 COMPOSE_FILE="${COMPOSE_FILE:-docker-compose.production.yml}"
@@ -29,9 +34,9 @@ fi
 echo "=== Disk trước khi deploy ==="
 df -h / | tail -1
 
-AVAIL_GB=$(df --output=avail -BG / | tail -1 | tr -dc '0-9')
-if [ "${AVAIL_GB}" -lt 10 ]; then
-  echo "DỪNG: chỉ còn ${AVAIL_GB}GB trống, build Next.js cần ~10GB."
+AVAIL_BYTES=$(df -B1 --output=avail / | tail -1 | tr -d '[:space:]')
+if [ "${AVAIL_BYTES}" -lt 10737418240 ]; then
+  echo "DỪNG: chỉ còn ${AVAIL_BYTES} bytes trống, build Next.js cần ~10GB."
   echo "Dọn trước:  /usr/local/bin/cursor-shop-docker-prune.sh"
   exit 1
 fi
@@ -39,7 +44,7 @@ fi
 if [ -d .git ]; then
   echo
   echo "=== git pull ==="
-  git pull --ff-only || echo "  (bỏ qua: không pull được, deploy code hiện tại)"
+  git pull --ff-only
 fi
 
 echo

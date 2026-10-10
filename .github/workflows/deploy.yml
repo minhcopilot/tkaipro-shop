@@ -5,7 +5,7 @@ name: Deploy
 #
 # Secret cần có (Settings → Secrets and variables → Actions):
 #   DEPLOY_SSH_KEY — private key ~/.ssh/gha_deploy_tkaipro trên server. Public key của nó
-#                    nằm trong authorized_keys với command="... deploy.sh", nên
+#                    nằm trong authorized_keys với command="/usr/local/bin/shop-deploy.sh ...", nên
 #                    key này chỉ chạy được deploy, không mở được shell.
 
 on:
@@ -30,7 +30,7 @@ env:
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 120
     steps:
       - name: Set up SSH key
         env:
@@ -47,7 +47,7 @@ jobs:
 
       - name: Run deploy.sh on server
         run: |
-          # Key bị ép command="bash .../deploy.sh" trên server nên không cần
+          # Key bị ép command="/usr/local/bin/shop-deploy.sh ..." trên server nên không cần
           # truyền lệnh; ServerAlive giữ kết nối trong lúc build lâu.
           ssh -i ~/.ssh/deploy_key \
             -o StrictHostKeyChecking=yes \

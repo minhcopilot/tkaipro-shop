@@ -13,7 +13,7 @@
 set -euo pipefail
 # Both CI and direct/manual deployments must go through the shared VPS lock.
 if [ "${SHOP_DEPLOY_LOCKED:-}" != "tkaipro-shop" ] || \
-   [ "$(readlink /proc/$$/fd/9 2>/dev/null || true)" != /var/lock/cursor-shops-deploy.lock ]; then
+   [ ! /proc/$$/fd/9 -ef /var/lock/cursor-shops-deploy.lock ]; then
   exec /usr/local/bin/shop-deploy.sh tkaipro-shop
 fi
 

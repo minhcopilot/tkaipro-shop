@@ -1,4 +1,5 @@
 "use client";
+import { orderExchangeRate } from "~/lib/exchange-rate";
 
 import { CheckCircle, Copy, QrCode, RefreshCw, ArrowLeft, Clock, Mail } from "lucide-react";
 import Image from "next/image";
@@ -14,7 +15,7 @@ import { Card, CardContent, CardHeader, CardTitle } from "~/ui/primitives/card";
 import { Separator } from "~/ui/primitives/separator";
 import { Skeleton } from "~/ui/primitives/skeleton";
 import { UserOrderCredentials } from "~/ui/components/orders/user-order-credentials";
-import { formatPrice } from "~/lib/product-localization";
+import { usePricing } from "~/ui/components/exchange-rate-provider";
 import { CelebrationConfetti } from "~/ui/components/effects/celebration-confetti";
 import { useCurrentUser } from "~/lib/auth-client";
 import { buildVietQrUrl } from "~/lib/payment/vietqr";
@@ -53,6 +54,7 @@ interface Order {
     quantity: number;
     image: string;
     productType?: string;
+    exchangeRate?: number;
   }>;
   createdAt: string;
   sepayQrCode?: string;
@@ -73,6 +75,7 @@ export function PaymentInner() {
   const isGuest = !isAuthPending && !user;
 
   const [order, setOrder] = React.useState<Order | null>(null);
+  const { formatPrice, exchangeRate } = usePricing(order ? orderExchangeRate(order.items) : undefined);
   const [loading, setLoading] = React.useState(true);
   const [error, setError] = React.useState<string | null>(null);
   const [paymentChecking, setPaymentChecking] = React.useState(false);
@@ -568,6 +571,7 @@ export function PaymentInner() {
                   orderNumber={orderNumber}
                   paymentMemo={order.paymentMemo ?? transferContent}
                   amount={order.total}
+                  exchangeRate={exchangeRate}
                   locale={locale}
                   paymentStatus={order.paymentStatus}
                   paymentChecking={paymentChecking}

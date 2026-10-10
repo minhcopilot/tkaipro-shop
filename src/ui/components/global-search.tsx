@@ -6,7 +6,7 @@ import { useCallback, useEffect, useRef, useState } from "react";
 import { useTranslations, useLocale } from "next-intl";
 import { useRouter } from "~/i18n/navigation";
 
-import { formatPrice } from "~/lib/product-localization";
+import { usePricing } from "~/ui/components/exchange-rate-provider";
 import {
   Dialog,
   DialogContent,
@@ -39,6 +39,7 @@ interface GlobalSearchProps {
 }
 
 export function GlobalSearch({ open, onOpenChange }: GlobalSearchProps) {
+  const { formatPrice } = usePricing();
   const t = useTranslations("Header");
   const locale = useLocale();
   const router = useRouter();

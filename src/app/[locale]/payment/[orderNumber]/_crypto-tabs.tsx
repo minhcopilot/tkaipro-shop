@@ -17,12 +17,13 @@ import {
   type CryptoMethod,
   DEFAULT_CRYPTO_METHOD_ID,
 } from "~/lib/payment/crypto-methods";
-import { formatPrice } from "~/lib/product-localization";
+import { usePricing } from "~/ui/components/exchange-rate-provider";
 
 interface CryptoTabsPanelProps {
   orderNumber: string;
   paymentMemo: string;
   amount: number;
+  exchangeRate?: number;
   locale: string;
   paymentStatus: "pending" | "paid" | "failed" | string;
   paymentChecking: boolean;
@@ -42,12 +43,14 @@ export function CryptoTabsPanel({
   orderNumber,
   paymentMemo,
   amount,
+  exchangeRate,
   locale,
   paymentStatus,
   paymentChecking,
   onCheckPayment,
   onCopy,
 }: CryptoTabsPanelProps) {
+  const { formatPrice } = usePricing(exchangeRate);
   const t = useTranslations("PaymentResult");
   const tCrypto = useTranslations("PaymentResult.crypto");
   const tTransfer = useTranslations("PaymentResult.transfer");

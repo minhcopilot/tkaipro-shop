@@ -1,3 +1,5 @@
+import { getExchangeRateQuote } from "~/lib/exchange-rate-server";
+import { ExchangeRateProvider } from "~/ui/components/exchange-rate-provider";
 import type { Metadata } from "next";
 
 import { NextSSRPlugin } from "@uploadthing/react/next-ssr-plugin";
@@ -355,6 +357,7 @@ export default async function RootLayout({
             <NextSSRPlugin routerConfig={extractRouterConfig(ourFileRouter)} />
             <FingerprintTracker />
             <AntiInspect />
+            <ExchangeRateProvider initialQuote={await getExchangeRateQuote()}>
             <CartProvider>
               <ServerActionRecovery />
               <div suppressHydrationWarning>
@@ -368,6 +371,7 @@ export default async function RootLayout({
                 <LayoutWidgets />
               </div>
             </CartProvider>
+            </ExchangeRateProvider>
           </ThemeProvider>
         </NextIntlClientProvider>
       </body>

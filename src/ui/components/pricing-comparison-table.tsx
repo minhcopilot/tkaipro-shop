@@ -5,7 +5,7 @@ import Link from "next/link";
 import { useState } from "react";
 import { useTranslations, useLocale } from "next-intl";
 
-import { formatPrice } from "~/lib/product-localization";
+import { usePricing } from "~/ui/components/exchange-rate-provider";
 
 import { cn } from "~/lib/cn";
 import { Badge } from "~/ui/primitives/badge";
@@ -56,6 +56,7 @@ const pricingMetadata = [
 ];
 
 export function PricingComparisonTable() {
+  const { formatPrice } = usePricing();
   const t = useTranslations("Pricing");
   const locale = useLocale();
   const [selectedPlan, setSelectedPlan] = useState("3-months");

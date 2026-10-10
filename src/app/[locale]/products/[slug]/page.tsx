@@ -28,7 +28,8 @@ import { CustomRequestBanner } from "~/ui/components/custom-request-banner";
 import { RestockAlertForm } from "~/ui/components/restock-alert-form";
 import { ProductCard } from "~/ui/components/product-card";
 import { SocialShareButtons } from "~/ui/components/social-share-buttons";
-import { formatPrice, getLocalizedProduct } from "~/lib/product-localization";
+import { getLocalizedProduct } from "~/lib/product-localization";
+import { usePricing } from "~/ui/components/exchange-rate-provider";
 import { Button } from "~/ui/primitives/button";
 import { Skeleton } from "~/ui/primitives/skeleton";
 import { ProductReviewsWrapper } from "~/ui/components/product-reviews-wrapper";
@@ -85,6 +86,7 @@ const slugify = (str: string) =>
 const range = (length: number) => Array.from({ length }, (_, i) => i);
 
 export default function ProductDetailPage() {
+  const { formatPrice } = usePricing();
   const { slug } = useParams<{ slug: string }>();
   const router = useRouter();
   const t = useTranslations("ProductDetail");

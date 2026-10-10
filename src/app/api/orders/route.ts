@@ -33,7 +33,7 @@ import {
   type WalletCurrency,
 } from "~/lib/queries/wallet";
 import type { CartItem } from "~/lib/hooks/use-cart";
-import { EXCHANGE_RATE } from "~/lib/product-localization";
+import { resolveCheckoutRate } from "~/lib/exchange-rate-server";
 import { notifyFraudAttempt } from "~/lib/notifications/fraud-alert";
 import { guardBannedRequest } from "~/lib/security/ban-guard";
 import {
@@ -60,18 +60,19 @@ import { TERMS_VERSION } from "~/lib/legal/terms-version";
 /**
  * Tính số tiền cần deduct từ ví theo locale.
  *  - VI/vi: ví VND, deduct nguyên VND (1:1 với order.total).
- *  - Non-VI: ví USD, quy đổi VND → USD cents bằng EXCHANGE_RATE.
+ *  - Non-VI: ví USD, quy đổi VND → USD cents bằng tỷ giá đã chốt.
  *    Round-up cents để khách không bị thiếu cent so với hiển thị $X.YY.
  */
 function computeWalletDebit(
   totalVnd: number,
   locale: string,
+  exchangeRate: number,
 ): { currency: WalletCurrency; amount: number } {
   if (locale === "vi") {
     return { currency: WALLET_CURRENCY.VND, amount: totalVnd };
   }
   // ceil để không "ăn gian" (vd: 412.5 cents → 413 cents)
-  const cents = Math.ceil((totalVnd / EXCHANGE_RATE) * 100);
+  const cents = Math.ceil((totalVnd / exchangeRate) * 100);
   return { currency: WALLET_CURRENCY.USD, amount: cents };
 }
 
@@ -202,6 +203,13 @@ export async function POST(request: NextRequest) {
       termsAccepted,
     } = body;
     const wantsWalletPay = bodyPaymentMethod === "wallet";
+    if (!adminBypass && typeof locale === "string" && locale !== "vi" && typeof body.exchangeRateToken !== "string") {
+      return NextResponse.json({ code: "EXCHANGE_RATE_EXPIRED", error: "Please reload checkout to confirm the current exchange rate." }, { status: 409 });
+    }
+    const exchangeRate = await resolveCheckoutRate(body.exchangeRateToken);
+    if (exchangeRate === null) {
+      return NextResponse.json({ code: "EXCHANGE_RATE_EXPIRED", error: "Tỷ giá đã hết hạn. Vui lòng tải lại trang / Exchange rate expired. Please reload." }, { status: 409 });
+    }
 
     if (!adminBypass && CHECKOUT_WALLET_ONLY && !sessionUser) {
       return NextResponse.json(
@@ -447,7 +455,7 @@ export async function POST(request: NextRequest) {
             throw new Error("INVALID_SUBTOTAL");
           }
 
-          const walletDebit = computeWalletDebit(total, safeLocale);
+          const walletDebit = computeWalletDebit(total, safeLocale, exchangeRate);
 
           await debitForOrderInTx(tx, {
             userId: sessionUser.id,
@@ -461,7 +469,7 @@ export async function POST(request: NextRequest) {
             id: orderId,
             userId: sessionUser.id,
             orderNumber,
-            items: orderItems,
+            items: orderItems.map((item) => ({ ...item, exchangeRate })),
             subtotal,
             discount,
             discountCode,
@@ -653,6 +661,7 @@ export async function POST(request: NextRequest) {
           typeof locale === "string" ? locale : undefined,
           clientMeta,
           termsConsent,
+          exchangeRate,
         );
       } catch (err) {
         if (err instanceof NoActiveBankAccountError) {
@@ -815,7 +824,7 @@ export async function POST(request: NextRequest) {
         id: orderId,
         userId,
         orderNumber,
-        items: orderItems,
+        items: orderItems.map((item) => ({ ...item, exchangeRate })),
         subtotal,
         discount,
         discountCode: voucher.code,

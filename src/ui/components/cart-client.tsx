@@ -13,7 +13,8 @@ import { useCart } from "~/lib/hooks/use-cart";
 import { useMediaQuery } from "~/lib/hooks/use-media-query";
 import { Badge } from "~/ui/primitives/badge";
 import { Button } from "~/ui/primitives/button";
-import { formatPrice, getLocalizedProduct } from "~/lib/product-localization";
+import { getLocalizedProduct } from "~/lib/product-localization";
+import { usePricing } from "~/ui/components/exchange-rate-provider";
 import {
   Drawer,
   DrawerClose,
@@ -51,6 +52,7 @@ interface CartProps {
 }
 
 export function CartClient({ className }: CartProps) {
+  const { formatPrice } = usePricing();
   const t = useTranslations("Cart");
   const locale = useLocale();
   const [isOpen, setIsOpen] = React.useState(false);

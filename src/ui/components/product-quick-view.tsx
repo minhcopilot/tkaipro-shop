@@ -7,7 +7,8 @@ import * as React from "react";
 import { toast } from "sonner";
 import { useTranslations, useLocale } from "next-intl";
 
-import { formatPrice, getLocalizedProduct } from "~/lib/product-localization";
+import { getLocalizedProduct } from "~/lib/product-localization";
+import { usePricing } from "~/ui/components/exchange-rate-provider";
 import { cn } from "~/lib/cn";
 import { useCart, type CartItem } from "~/lib/hooks/use-cart";
 import { Badge } from "~/ui/primitives/badge";
@@ -63,6 +64,7 @@ export function ProductQuickView({
   productPrice,
   originalPrice,
 }: ProductQuickViewProps) {
+  const { formatPrice } = usePricing();
   const t = useTranslations("ProductCard");
   const locale = useLocale();
   const router = useRouter();

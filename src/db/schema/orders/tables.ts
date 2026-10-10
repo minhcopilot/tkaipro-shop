@@ -123,6 +123,8 @@ export const sepayTransactionTable = pgTable("sepay_transaction", {
 
 // types
 export interface OrderItem {
+  /** VND per USDT fixed when this order was created. */
+  exchangeRate?: number;
   id: string;
   name: string;
   category: string;

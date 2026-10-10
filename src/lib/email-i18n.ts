@@ -2,7 +2,8 @@ import "server-only";
 import { getTranslations, getFormatter } from "next-intl/server";
 
 import { routing } from "~/i18n/navigation";
-import { EXCHANGE_RATE } from "~/lib/product-localization";
+import { getExchangeRate } from "~/lib/exchange-rate-server";
+import { FALLBACK_EXCHANGE_RATE } from "~/lib/exchange-rate";
 
 export type SupportedLocale =
   | "vi"
@@ -42,12 +43,12 @@ const INTL_TAG: Record<SupportedLocale, string> = {
 };
 
 // định dạng tiền: vi giữ "100.000đ" (VND); mọi locale khác convert sang USD format en-US ($4.17).
-export function formatPrice(amount: number, locale: string): string {
+export function formatPrice(amount: number, locale: string, exchangeRate = FALLBACK_EXCHANGE_RATE): string {
   const loc = normalizeLocale(locale);
   if (loc === "vi") {
     return `${new Intl.NumberFormat("vi-VN").format(amount)}đ`;
   }
-  const usd = amount / EXCHANGE_RATE;
+  const usd = amount / exchangeRate;
   return usd.toLocaleString("en-US", {
     style: "currency",
     currency: "USD",
@@ -93,7 +94,9 @@ export function urlFor(path: string, locale: string): string {
 export async function getEmailT(
   locale: string,
   namespace: string,
+  snapshotRate?: number,
 ) {
+  const exchangeRate = snapshotRate ?? (await getExchangeRate()).rate;
   const loc = normalizeLocale(locale);
   const t = await getTranslations({ locale: loc, namespace });
   const formatter = await getFormatter({ locale: loc });
@@ -101,7 +104,7 @@ export async function getEmailT(
     t,
     formatter,
     locale: loc,
-    formatPrice: (amount: number) => formatPrice(amount, loc),
+    formatPrice: (amount: number) => formatPrice(amount, loc, exchangeRate),
     formatDateTime: (date: Date) => formatDateTime(date, loc),
     formatDateLong: (date: Date) => formatDateLong(date, loc),
     urlFor: (path: string) => urlFor(path, loc),

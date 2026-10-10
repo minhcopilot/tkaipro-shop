@@ -7,7 +7,7 @@ import * as React from "react";
 import { toast } from "sonner";
 import { useTranslations, useLocale } from "next-intl";
 
-import { formatPrice } from "~/lib/product-localization";
+import { usePricing } from "~/ui/components/exchange-rate-provider";
 import { cn } from "~/lib/cn";
 import { useCart } from "~/lib/hooks/use-cart";
 import { Badge } from "~/ui/primitives/badge";
@@ -49,6 +49,7 @@ export function ProductCard({
   variant = "default",
   ...props
 }: ProductCardProps) {
+  const { formatPrice } = usePricing();
   const router = useRouter();
   const { addItem } = useCart();
   const t = useTranslations("ProductCard");

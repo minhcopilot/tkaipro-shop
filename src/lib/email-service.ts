@@ -1,3 +1,4 @@
+import { orderExchangeRate } from "~/lib/exchange-rate";
 import { TransactionalEmailsApi, TransactionalEmailsApiApiKeys } from "@getbrevo/brevo";
 
 import { SEO_CONFIG } from "~/app";
@@ -183,6 +184,7 @@ interface OrderNotificationData {
     category: string;
     price: number;
     quantity: number;
+    exchangeRate?: number;
   }>;
   paidAt: Date;
 }
@@ -285,6 +287,7 @@ interface CustomerOrderConfirmationData {
     category: string;
     price: number;
     quantity: number;
+    exchangeRate?: number;
   }>;
   assignedCredentials: Array<{
     productName: string;
@@ -299,7 +302,7 @@ interface CustomerOrderConfirmationData {
 export async function sendCustomerOrderConfirmation(orderData: CustomerOrderConfirmationData): Promise<boolean> {
   try {
     const loc = normalizeLocale(orderData.locale);
-    const { t: tCommon, formatPrice, formatDateTime, urlFor } = await getEmailT(loc, "Email.common");
+    const { t: tCommon, formatPrice, formatDateTime, urlFor } = await getEmailT(loc, "Email.common", orderExchangeRate(orderData.items));
     const { t: tFields } = await getEmailT(loc, "Email.common.fields");
     const { t: tSubj } = await getEmailT(loc, "Email.subjects");
     const { t: tTpl } = await getEmailT(loc, "Email.customerOrderConfirmation");
@@ -783,6 +786,7 @@ interface LoginLinkOrderEmailData {
     category: string;
     price: number;
     quantity: number;
+    exchangeRate?: number;
   }>;
   paidAt: Date;
   activationCode?: string | null;
@@ -792,7 +796,7 @@ interface LoginLinkOrderEmailData {
 export async function sendLoginLinkOrderEmail(data: LoginLinkOrderEmailData): Promise<boolean> {
   try {
     const loc = normalizeLocale(data.locale);
-    const { t: tCommon, formatPrice, formatDateTime, urlFor } = await getEmailT(loc, "Email.common");
+    const { t: tCommon, formatPrice, formatDateTime, urlFor } = await getEmailT(loc, "Email.common", orderExchangeRate(data.items));
     const { t: tFields } = await getEmailT(loc, "Email.common.fields");
     const { t: tSubj } = await getEmailT(loc, "Email.subjects");
     const { t: tTpl } = await getEmailT(loc, "Email.loginLinkOrder");

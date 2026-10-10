@@ -13,7 +13,8 @@ import { CHECKOUT_WALLET_ONLY } from "~/lib/checkout-config";
 import { useCart } from "~/lib/hooks/use-cart";
 import { Button } from "~/ui/primitives/button";
 import { Card, CardContent, CardHeader, CardTitle } from "~/ui/primitives/card";
-import { EXCHANGE_RATE, formatPrice, getLocalizedProduct } from "~/lib/product-localization";
+import { getLocalizedProduct } from "~/lib/product-localization";
+import { usePricing } from "~/ui/components/exchange-rate-provider";
 import { Input } from "~/ui/primitives/input";
 import { Label } from "~/ui/primitives/label";
 import { Checkbox } from "~/ui/primitives/checkbox";
@@ -28,6 +29,7 @@ interface CheckoutFormData {
 }
 
 export function CheckoutPageClient() {
+  const { formatPrice, exchangeRate, exchangeRateToken } = usePricing();
   const router = useRouter();
   const t = useTranslations("Checkout");
   const tCart = useTranslations("Cart");
@@ -100,7 +102,7 @@ export function CheckoutPageClient() {
   const walletAmountNeeded =
     walletCurrency === "vnd"
       ? orderTotal
-      : Math.ceil((orderTotal / EXCHANGE_RATE) * 100);
+      : Math.ceil((orderTotal / exchangeRate) * 100);
   const walletBalanceCurrent = walletBalance
     ? walletCurrency === "vnd"
       ? walletBalance.vnd
@@ -312,6 +314,7 @@ export function CheckoutPageClient() {
         },
         body: JSON.stringify({
           items: itemsWithCredentials,
+          exchangeRateToken,
           customerInfo: formData,
           userId: user?.id,
           locale,

@@ -1,4 +1,5 @@
 "use client";
+import { orderExchangeRate } from "~/lib/exchange-rate";
 
 import type { ColumnDef } from "@tanstack/react-table";
 import { useMemo, useState, useCallback } from "react";
@@ -19,7 +20,8 @@ import {
 import { format } from "date-fns";
 import { Link } from "~/i18n/navigation";
 import { useTranslations, useLocale } from "next-intl";
-import { formatPrice, getLocalizedProduct } from "~/lib/product-localization";
+import { getLocalizedProduct } from "~/lib/product-localization";
+import { usePricing } from "~/ui/components/exchange-rate-provider";
 
 import type { Order } from "~/db/schema/orders/types";
 interface User {
@@ -60,6 +62,7 @@ export default function UserOrdersClient({
   initialPage,
   totalPages: initialTotalPages
 }: UserOrdersClientProps) {
+  const { formatPrice } = usePricing();
   const t = useTranslations("DashboardOrders");
   const locale = useLocale();
   
@@ -196,7 +199,7 @@ export default function UserOrdersClient({
       ),
       cell: ({ row }) => (
         <div className="font-semibold">
-          {formatPrice(row.original.total, locale)}
+          {formatPrice(row.original.total, locale, orderExchangeRate(row.original.items))}
         </div>
       ),
     },
@@ -252,7 +255,7 @@ export default function UserOrdersClient({
         </div>
       ),
     },
-  ], []);
+  ], [formatPrice]);
 
   // event handlers
   const handleFilterChange = useCallback((type: 'status' | 'payment', value: string) => {

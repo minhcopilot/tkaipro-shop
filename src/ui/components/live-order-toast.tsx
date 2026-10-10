@@ -8,7 +8,7 @@ import { X, CheckCircle2, Sparkles, ShoppingBag, MapPin } from "lucide-react";
 import Image from "next/image";
 
 import { cn } from "~/lib/cn";
-import { formatPrice } from "~/lib/product-localization";
+import { usePricing } from "~/ui/components/exchange-rate-provider";
 
 type OrderToast = {
   id: string;
@@ -65,6 +65,7 @@ export function LiveOrderToast({
   interval = 15000, // show every 15 seconds
   duration = 6000   // visible for 6 seconds
 }: LiveOrderToastProps) {
+  const { formatPrice } = usePricing();
   const t = useTranslations("LiveOrderToast");
   const locale = useLocale();
   const [currentToast, setCurrentToast] = useState<OrderToast | null>(null);

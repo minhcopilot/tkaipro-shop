@@ -1,3 +1,4 @@
+import { getExchangeRate } from "~/lib/exchange-rate-server";
 import "server-only";
 import { eq, desc, or, and, ilike, count, inArray, isNull, isNotNull, sql } from "drizzle-orm";
 import { nanoid } from "nanoid";
@@ -54,6 +55,7 @@ export async function createOrder(
   locale?: string,
   clientMeta?: { clientIp?: string; userAgent?: string },
   termsConsent?: { termsAcceptedAt: Date; termsVersion: string },
+  exchangeRateSnapshot?: number,
 ): Promise<Order | null> {
   try {
     const id = nanoid();
@@ -76,7 +78,8 @@ export async function createOrder(
       dbProducts.map((p) => [p.id, p]),
     );
 
-    const orderItems = buildValidatedOrderItems(cartItems, productMap);
+    const rate = exchangeRateSnapshot ?? (await getExchangeRate()).rate;
+    const orderItems = buildValidatedOrderItems(cartItems, productMap).map((item) => ({ ...item, exchangeRate: rate }));
     const orderNumber = generateOrderNumber(orderItems.map((item) => item.price));
     const subtotal = computeOrderSubtotal(orderItems);
     assertPositiveSubtotal(subtotal);

@@ -9,7 +9,7 @@ import Image from "next/image";
 
 import type { Order } from "~/db/schema/orders/types";
 import { cn } from "~/lib/cn";
-import { formatPrice } from "~/lib/product-localization";
+import { usePricing } from "~/ui/components/exchange-rate-provider";
 
 type OrderWithAvatar = Order & {
   userAvatar?: string | null;
@@ -53,6 +53,7 @@ const getCuteGuestName = (locale: string) => {
 };
 
 export function RecentPurchases({ orders, locale, visitorName }: Props) {
+  const { formatPrice } = usePricing();
   const t = useTranslations("RecentPurchases");
   const [mounted, setMounted] = useState(false);
   const [liveViewers, setLiveViewers] = useState(0);

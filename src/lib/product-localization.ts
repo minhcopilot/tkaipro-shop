@@ -2,7 +2,8 @@
 import { SEO_CONFIG } from "~/app";
 import { type Product } from "~/db/schema/products/types";
 
-export const EXCHANGE_RATE = 24000; // 1 USD = 24,000 VND
+export { FALLBACK_EXCHANGE_RATE as EXCHANGE_RATE } from "./exchange-rate";
+import { FALLBACK_EXCHANGE_RATE } from "./exchange-rate";
 
 interface ProductTranslation {
   name: string;
@@ -794,7 +795,7 @@ const LEGACY_PRODUCT_TRANSLATIONS: Record<string, ProductTranslation> = {
   }
 };
 
-export const formatPrice = (price: number, locale: string) => {
+export const formatPrice = (price: number, locale: string, exchangeRate = FALLBACK_EXCHANGE_RATE) => {
   if (locale === 'vi') {
     return price.toLocaleString('vi-VN', {
       style: 'currency',
@@ -802,7 +803,7 @@ export const formatPrice = (price: number, locale: string) => {
     });
   }
   // Mọi locale khác: hợp nhất hiển thị USD theo format en-US đồng nhất ($4.13).
-  const usdPrice = price / EXCHANGE_RATE;
+  const usdPrice = price / exchangeRate;
   return usdPrice.toLocaleString('en-US', {
     style: 'currency',
     currency: 'USD',

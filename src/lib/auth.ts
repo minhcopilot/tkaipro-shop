@@ -12,7 +12,7 @@ import { headers } from "next/headers";
 import { redirect } from "next/navigation";
 
 
-import { TransactionalEmailsApi, TransactionalEmailsApiApiKeys } from "@getbrevo/brevo";
+import { createSharedEmailClient } from "~/lib/shared-email-client";
 
 import type { UserDbType } from "~/lib/auth-types";
 
@@ -38,8 +38,7 @@ import { enforceActor } from "~/lib/security/abuse-detect";
 import { hasRecentVerifiedOtp } from "~/lib/auth/registration-otp";
 
 // khởi tạo brevo client
-const brevoEmailAPI = new TransactionalEmailsApi();
-brevoEmailAPI.setApiKey(TransactionalEmailsApiApiKeys.apiKey, process.env.BREVO_API_KEY || "");
+const brevoEmailAPI = createSharedEmailClient();
 
 
 

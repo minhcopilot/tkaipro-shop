@@ -1,12 +1,13 @@
 import { orderExchangeRate } from "~/lib/exchange-rate";
-import { TransactionalEmailsApi, TransactionalEmailsApiApiKeys } from "@getbrevo/brevo";
+import { createSharedEmailClient } from "~/lib/shared-email-client";
 
 import { SEO_CONFIG } from "~/app";
 
 import { getEmailT, normalizeLocale } from "./email-i18n";
 
-const brevoEmailAPI = new TransactionalEmailsApi();
-brevoEmailAPI.setApiKey(TransactionalEmailsApiApiKeys.apiKey, process.env.BREVO_API_KEY || "");
+const brevoEmailAPI = createSharedEmailClient();
+const promotionalEmailAPI = createSharedEmailClient("bulk");
+const restockEmailAPI = createSharedEmailClient("restock");
 
 const SENDER = {
   name: SEO_CONFIG.name,
@@ -1046,7 +1047,7 @@ export async function sendBulkPromotionalEmail(data: BulkEmailData): Promise<Bul
 
   for (const recipient of recipients) {
     try {
-      await brevoEmailAPI.sendTransacEmail({
+      await promotionalEmailAPI.sendTransacEmail({
         to: [{ email: recipient.email, name: recipient.name }],
         subject,
         htmlContent: `
@@ -1333,7 +1334,7 @@ export async function sendRestockAlertEmail(input: {
       </div>
     `;
 
-    await brevoEmailAPI.sendTransacEmail({
+    await restockEmailAPI.sendTransacEmail({
       to: [{ email: input.email }],
       subject: tSubj("restockAlert", { productName: input.productName }),
       htmlContent: emailShell({

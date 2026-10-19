@@ -4,6 +4,7 @@ import type { OrderItem } from "~/db/schema/orders/tables";
 import type { CartItem } from "~/lib/hooks/use-cart";
 
 export type OrderBuildError =
+  | "PRODUCT_UNAVAILABLE"
   | "INVALID_PRODUCT"
   | "INVALID_PRICE"
   | "INVALID_QTY"
@@ -17,6 +18,8 @@ export interface DbProductForOrder {
   image: string | null;
   productType: string;
   upgradeEmailOnly: boolean;
+  status: string;
+  inStock: boolean;
 }
 
 export class OrderValidationError extends Error {
@@ -44,6 +47,10 @@ export function buildValidatedOrderItems(
     const dbp = productMap.get(item.id);
     if (!dbp) {
       throw new OrderValidationError("INVALID_PRODUCT");
+    }
+
+    if (dbp.status !== "active" || !dbp.inStock) {
+      throw new OrderValidationError("PRODUCT_UNAVAILABLE");
     }
 
     if (typeof dbp.price !== "number" || !Number.isFinite(dbp.price) || dbp.price <= 0) {
@@ -95,6 +102,7 @@ export function assertPositiveSubtotal(subtotal: number): void {
 }
 
 export const ORDER_VALIDATION_MESSAGES: Record<OrderBuildError, string> = {
+  PRODUCT_UNAVAILABLE: "Sản phẩm hiện đã hết hàng hoặc ngừng bán",
   INVALID_PRODUCT: "Có sản phẩm không hợp lệ trong giỏ hàng",
   INVALID_PRICE: "Giá sản phẩm không hợp lệ",
   INVALID_QTY: "Số lượng sản phẩm không hợp lệ",

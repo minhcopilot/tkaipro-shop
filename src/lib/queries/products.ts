@@ -174,7 +174,7 @@ export async function getAllProducts(options: ProductListOptions & { includeDele
   // get products with pagination
   const products = await db.query.productTable.findMany({
     where: whereClause,
-    orderBy: [orderBy(sortColumn)],
+    orderBy: [orderBy(sortColumn), asc(productTable.id)],
     limit,
     offset,
     with: {

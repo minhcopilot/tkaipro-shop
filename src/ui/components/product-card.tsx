@@ -68,6 +68,7 @@ export function ProductCard({
   const handleAddToCart = (e: React.MouseEvent) => {
     e.preventDefault();
     e.stopPropagation();
+    if (!product.inStock) return;
     if (onAddToCart) {
       setIsAddingToCart(true);
       setTimeout(() => {
@@ -94,6 +95,7 @@ export function ProductCard({
   const handleQuickBuy = (e: React.MouseEvent) => {
     e.preventDefault();
     e.stopPropagation();
+    if (!product.inStock) return;
     addItem(
       {
         category: product.category,
@@ -390,7 +392,7 @@ export function ProductCard({
                 </div>
                 <Button
                   className="h-8 w-8 rounded-full"
-                  disabled={isAddingToCart}
+                  disabled={isAddingToCart || !product.inStock}
                   onClick={handleAddToCart}
                   size="icon"
                   variant="ghost"

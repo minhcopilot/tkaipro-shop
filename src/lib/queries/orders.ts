@@ -70,6 +70,8 @@ export async function createOrder(
         image: productTable.image,
         productType: productTable.productType,
         upgradeEmailOnly: productTable.upgradeEmailOnly,
+        status: productTable.status,
+        inStock: productTable.inStock,
       })
       .from(productTable)
       .where(inArray(productTable.id, productIds));

@@ -5,7 +5,7 @@ import nextDynamic from "next/dynamic";
 import { unstable_cache } from "next/cache";
 import { getTranslations } from "next-intl/server";
 import { Link } from "~/i18n/navigation";
-import { eq, desc, sql } from "drizzle-orm";
+import { eq, desc, asc, and, sql } from "drizzle-orm";
 
 import { SEO_CONFIG } from "~/app";
 import { db } from "~/db";
@@ -252,8 +252,8 @@ const getCachedFeaturedProducts = unstable_cache(
   async () => {
     try {
       const products = await db.query.productTable.findMany({
-        where: eq(productTable.status, "active"),
-        orderBy: [desc(productTable.isFeatured), desc(productTable.sortOrder), desc(productTable.createdAt)],
+        where: and(eq(productTable.status, "active"), eq(productTable.hiddenFromListing, false)),
+        orderBy: [desc(productTable.isFeatured), asc(productTable.sortOrder), asc(productTable.id)],
         columns: {
           id: true,
           name: true,
@@ -267,6 +267,12 @@ const getCachedFeaturedProducts = unstable_cache(
           images: true,
           inStock: true,
           stockQuantity: true,
+          productType: true,
+          upgradeEmailOnly: true,
+          nameLocales: true,
+          descriptionLocales: true,
+          shortDescriptionLocales: true,
+          featuresLocales: true,
           isPopular: true,
           isFeatured: true,
           rating: true,

@@ -132,6 +132,12 @@ function validationErrorResponse(
   email?: string,
   userAgent?: string,
 ) {
+  if (code === "PRODUCT_UNAVAILABLE") {
+    return NextResponse.json(
+      { code, error: ORDER_VALIDATION_MESSAGES[code] },
+      { status: 409 },
+    );
+  }
   notifyFraudAttempt({
     reason: code,
     ip,
@@ -154,6 +160,8 @@ async function fetchProductMap(productIds: string[]) {
       image: productTable.image,
       productType: productTable.productType,
       upgradeEmailOnly: productTable.upgradeEmailOnly,
+      status: productTable.status,
+      inStock: productTable.inStock,
     })
     .from(productTable)
     .where(inArray(productTable.id, productIds));

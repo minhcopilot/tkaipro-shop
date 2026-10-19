@@ -45,7 +45,7 @@ export function FeaturedProductsSection({ products }: FeaturedProductsSectionPro
   const handleAddToCart = React.useCallback(
     (productId: string) => {
       const product = products.find((p) => p.id === productId);
-      if (product) {
+      if (product?.inStock) {
         addItem(
           {
             category: product.category,

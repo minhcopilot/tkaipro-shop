@@ -1,18 +1,17 @@
 import { NextRequest, NextResponse } from "next/server";
 
-import { getClientIp, rateLimit } from "~/lib/security/rate-limit";
+import { createRegistrationOtp } from "~/lib/auth/registration-otp";
+import { sendRegistrationOtpEmail } from "~/lib/email-service";
 import { guardBannedRequest } from "~/lib/security/ban-guard";
 import { validateRegistrationEmail } from "~/lib/security/email-blocklist";
-import { verifyTurnstileToken } from "~/lib/security/turnstile";
 import {
   getCountryFromHeaders,
   getDeviceIdFromRequest,
   getFingerprintFromRequest,
   logUserIp,
 } from "~/lib/security/ip-log";
-import { evaluateActor } from "~/lib/security/abuse-detect";
-import { createRegistrationOtp } from "~/lib/auth/registration-otp";
-import { sendRegistrationOtpEmail } from "~/lib/email-service";
+import { getClientIp, rateLimit } from "~/lib/security/rate-limit";
+import { verifyTurnstileToken } from "~/lib/security/turnstile";
 
 export const runtime = "nodejs";
 
@@ -21,7 +20,7 @@ export const runtime = "nodejs";
  * Body: { email, locale?, turnstileToken? }
  *
  * Gửi OTP về gmail TRƯỚC khi tạo account. Chặn bot: gmail-only + ban check +
- * Turnstile + abuse heuristic + rate-limit (per IP + per email).
+ * Turnstile + rate-limit (per IP + per email).
  */
 export async function POST(request: NextRequest) {
   try {
@@ -79,22 +78,6 @@ export async function POST(request: NextRequest) {
 
     const fingerprint = getFingerprintFromRequest(request);
     const did = getDeviceIdFromRequest(request);
-
-    // Abuse heuristic: nếu thiết bị/IP đang lạm dụng -> chặn (enforceActor auto-ban
-    // ở đây cũng được, nhưng chỉ cần đánh giá để chặn gửi OTP).
-    const decision = await evaluateActor({
-      ip,
-      fingerprint,
-      did,
-      email,
-      userAgent: request.headers.get("user-agent"),
-    });
-    if (decision.action === "ban_device") {
-      return NextResponse.json(
-        { error: "Yêu cầu bị từ chối do hành vi bất thường." },
-        { status: 403 },
-      );
-    }
 
     const code = await createRegistrationOtp({ email, ip, fingerprint, did });
     await sendRegistrationOtpEmail(email, code, body.locale);

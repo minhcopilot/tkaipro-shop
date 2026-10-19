@@ -3,13 +3,7 @@ import { getClientIp, rateLimit } from "~/lib/security/rate-limit";
 import { getOrderByNumber } from "~/lib/queries/orders";
 import { getCurrentUser, isAdmin } from "~/lib/auth";
 import { guardBannedRequest } from "~/lib/security/ban-guard";
-import {
-  detectCredentialScrape,
-  getDeviceIdFromRequest,
-  getFingerprintFromRequest,
-  logUserIp,
-} from "~/lib/security/ip-log";
-import { autoBanScraper, recordOrderProbe } from "~/lib/security/abuse-detect";
+import { logUserIp } from "~/lib/security/ip-log";
 
 // Public endpoint: khách hàng xem đơn của mình ở thank-you page.
 // Sensitive fields (assignedCredentials, customerPhone,
@@ -161,64 +155,15 @@ export async function GET(
           requiresEmail: true,
         };
 
-    // SECURITY forensics: chỉ log + phát hiện bất thường khi caller truy cập
-    // được dữ liệu nhạy cảm. Ghi IP cho event 'credential_view' rồi kiểm tra
-    // hành vi scrape (1 IP xem nhiều đơn/email trong thời gian ngắn) -> auto-ban.
-    // Fire-and-forget, không chặn response.
+    // Keep the access log for admin review without automatically banning visitors.
     if (granted) {
-      void (async () => {
-        const userAgent = request.headers.get("user-agent") ?? undefined;
-        await logUserIp({
-          email: order.customerEmail,
-          eventType: "credential_view",
-          ip,
-          userAgent,
-          orderId: order.id,
-        });
-        const signal = await detectCredentialScrape({ ip });
-        if (signal.suspicious) {
-          // TỰ ĐỘNG BAN kẻ scrape: IP (tạm) + fingerprint (vĩnh viễn).
-          // KHÔNG ban email (là email khách/đơn, không phải attacker).
-          await autoBanScraper(
-            {
-              ip,
-              fingerprint: getFingerprintFromRequest(request),
-              did: getDeviceIdFromRequest(request),
-            },
-            {
-              source: "order_detail_scrape",
-              details: {
-                windowMinutes: signal.windowMinutes,
-                totalViews: signal.totalViews,
-                distinctOrders: signal.distinctOrders,
-                distinctEmails: signal.distinctEmails,
-                lastOrder: order.orderNumber,
-              },
-            },
-          );
-        }
-          })().catch((err) => console.error("[order-detail] forensics failed:", err));
-    } else {
-      // Không cấp quyền (không email/không phải chủ đơn): theo dõi quét mã đơn.
-      // 1 IP tra nhiều orderNumber khác nhau trong thời gian ngắn -> auto-ban.
-      void (async () => {
-        const probe = recordOrderProbe(ip, order.orderNumber);
-        if (probe.suspicious) {
-          await autoBanScraper(
-            {
-              ip,
-              fingerprint: getFingerprintFromRequest(request),
-              did: getDeviceIdFromRequest(request),
-            },
-            {
-              source: "order_enumeration",
-              details: { distinctOrders: probe.distinctOrders },
-            },
-          );
-        }
-      })().catch((err) =>
-        console.error("[order-detail] enum-detect failed:", err),
-      );
+      void logUserIp({
+        email: order.customerEmail,
+        eventType: "credential_view",
+        ip,
+        userAgent: request.headers.get("user-agent") ?? undefined,
+        orderId: order.id,
+      }).catch((err) => console.error("[order-detail] forensics failed:", err));
     }
 
     return NextResponse.json(payload);

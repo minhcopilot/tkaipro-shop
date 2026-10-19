@@ -27,10 +27,8 @@ import { WarningMarquee } from "~/ui/components/warning-marquee";
 import { DisclaimerBanner } from "~/ui/components/disclaimer-banner";
 import { CookieConsentBanner } from "~/ui/components/cookie-consent-banner";
 import { AnalyticsLoader } from "~/ui/components/analytics-loader";
-import { Toaster } from "~/ui/primitives/sonner";
-import { ServerActionRecovery } from "~/ui/components/server-action-recovery";
 import { FingerprintTracker } from "~/ui/components/security/fingerprint-tracker";
-import { AntiInspect } from "~/ui/components/security/anti-inspect";
+import { Toaster } from "~/ui/primitives/sonner";
 
 const roboto = Roboto({
   subsets: ["latin"],
@@ -273,35 +271,6 @@ export default async function RootLayout({
   return (
     <html lang={locale} suppressHydrationWarning>
       <head>
-        {/* CRITICAL: inline script to detect server action cache mismatch and force reload
-            this runs BEFORE any bundled JS, so it works for users with old cached JavaScript */}
-        <script
-          dangerouslySetInnerHTML={{
-            __html: `
-(function(){
-  var originalFetch = window.fetch;
-  var reloading = false;
-  window.fetch = function(url, options) {
-    var isPost = options && options.method && options.method.toUpperCase() === 'POST';
-    return originalFetch.apply(this, arguments).then(function(response) {
-      if (!reloading && isPost && response.status >= 500) {
-        response.clone().text().then(function(text) {
-          if (text.indexOf('Failed to find Server Action') !== -1 || 
-              text.indexOf('older or newer deployment') !== -1 ||
-              text.indexOf('Cannot read properties of undefined') !== -1) {
-            reloading = true;
-            console.warn('[ServerAction] Cache mismatch detected, reloading...');
-            setTimeout(function() { location.reload(); }, 100);
-          }
-        }).catch(function(){});
-      }
-      return response;
-    });
-  };
-})();
-            `.trim(),
-          }}
-        />
         {/* preconnect to external resources for faster loading */}
         <link rel="preconnect" href="https://img.youtube.com" crossOrigin="anonymous" />
         <link rel="dns-prefetch" href="https://img.youtube.com" />
@@ -356,10 +325,8 @@ export default async function RootLayout({
           >
             <NextSSRPlugin routerConfig={extractRouterConfig(ourFileRouter)} />
             <FingerprintTracker />
-            <AntiInspect />
             <ExchangeRateProvider initialQuote={await getExchangeRateQuote()}>
             <CartProvider>
-              <ServerActionRecovery />
               <div suppressHydrationWarning>
                 <DisclaimerBanner />
                 <HeaderWrapper showAuth={true} />

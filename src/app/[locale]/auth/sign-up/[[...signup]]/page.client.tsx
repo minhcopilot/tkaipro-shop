@@ -169,19 +169,27 @@ export function SignUpPageClient() {
     return t("errors.defaultSignUp");
   };
 
-  const handleSubmit = async (e: React.FormEvent) => {
+  const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
+    // Read the visible values even when browser autofill did not emit onChange.
+    const submitted = new FormData(e.currentTarget);
+    const submittedData = {
+      email: String(submitted.get("email") ?? "").trim().toLowerCase(),
+      name: String(submitted.get("name") ?? ""),
+      password: String(submitted.get("password") ?? ""),
+    };
+    setFormData(submittedData);
     setError("");
     
     // Check frontend validation
-    const passwordValidation = validatePassword(formData.password);
+    const passwordValidation = validatePassword(submittedData.password);
     if (passwordValidation) {
       setPasswordError(passwordValidation);
       return;
     }
 
     // Chỉ cho đăng ký bằng @gmail.com (server cũng enforce lại).
-    if (!/@gmail\.com$/i.test(formData.email.trim())) {
+    if (!/@gmail\.com$/i.test(submittedData.email.trim())) {
       const msg = "Chỉ chấp nhận email @gmail.com để đăng ký.";
       setError(msg);
       toast.error(msg);
@@ -201,7 +209,7 @@ export function SignUpPageClient() {
       const res = await fetch("/api/register/request-otp", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ email: formData.email.trim().toLowerCase() }),
+        body: JSON.stringify({ email: submittedData.email.trim().toLowerCase() }),
       });
       const data = (await res.json().catch(() => ({}))) as { error?: string };
       if (!res.ok) {

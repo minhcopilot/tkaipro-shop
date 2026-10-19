@@ -110,8 +110,14 @@ export function SignInPageClient() {
     return t("errors.defaultSignIn");
   };
 
-  const handleEmailLogin = async (e: React.FormEvent) => {
+  const handleEmailLogin = async (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
+    // Password managers can fill inputs without firing React change events.
+    const submitted = new FormData(e.currentTarget);
+    const email = String(submitted.get("email") ?? "").trim();
+    const password = String(submitted.get("password") ?? "");
+    setEmail(email);
+    setPassword(password);
     setError("");
     setLoading(true);
 

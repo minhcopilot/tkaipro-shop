@@ -1,18 +1,15 @@
 // note: run `bun db:auth` to generate the `users.ts`
 // schema after making breaking changes to this file
 
-import { betterAuth } from "better-auth";
-import { APIError } from "better-auth/api";
-import { drizzleAdapter } from "better-auth/adapters/drizzle";
-import { twoFactor } from "better-auth/plugins";
 import { polar } from "@polar-sh/better-auth";
 import { Polar } from "@polar-sh/sdk";
+import { betterAuth } from "better-auth";
+import { drizzleAdapter } from "better-auth/adapters/drizzle";
+import { APIError } from "better-auth/api";
+import { twoFactor } from "better-auth/plugins";
 import { eq } from "drizzle-orm";
 import { headers } from "next/headers";
 import { redirect } from "next/navigation";
-
-
-import { createSharedEmailClient } from "~/lib/shared-email-client";
 
 import type { UserDbType } from "~/lib/auth-types";
 
@@ -25,7 +22,9 @@ import {
   userTable,
   verificationTable,
 } from "~/db/schema";
+import { hasRecentVerifiedOtp } from "~/lib/auth/registration-otp";
 import { isEmailBanned, isFingerprintBanned, isIpBanned } from "~/lib/security/ban-list";
+import { validateRegistrationEmail } from "~/lib/security/email-blocklist";
 import {
   getClientIpFromHeaders,
   getCountryFromHeaders,
@@ -33,9 +32,7 @@ import {
   getFingerprintFromHeaders,
   logUserIp,
 } from "~/lib/security/ip-log";
-import { validateRegistrationEmail } from "~/lib/security/email-blocklist";
-import { enforceActor } from "~/lib/security/abuse-detect";
-import { hasRecentVerifiedOtp } from "~/lib/auth/registration-otp";
+import { createSharedEmailClient } from "~/lib/shared-email-client";
 
 // khởi tạo brevo client
 const brevoEmailAPI = createSharedEmailClient();
@@ -148,8 +145,7 @@ export const auth = betterAuth({
       create: {
         // CHẶN TRƯỚC KHI TẠO USER:
         //  1) Chỉ cho đăng ký @gmail.com.
-        //  2) Heuristic auto-ban: 1 thiết bị/IP tạo nhiều account / spam -> ban
-        //     thiết bị+email (vĩnh viễn) + IP (tạm) và từ chối đăng ký.
+        //  2) Kiểm tra ban thủ công và xác thực OTP.
         before: async (user, context) => {
           const h = context?.headers ?? context?.request?.headers;
           const email = (user as { email?: string })?.email ?? "";
@@ -208,29 +204,6 @@ export const auth = betterAuth({
             }
           }
 
-          // (2) Auto-ban heuristic
-          try {
-            const { blocked } = await enforceActor(
-              {
-                ip,
-                fingerprint,
-                did,
-                email,
-                userAgent: h?.get("user-agent") ?? null,
-              },
-              { source: "register" },
-            );
-            if (blocked) {
-              throw new APIError("FORBIDDEN", {
-                message:
-                  "Đăng ký bị từ chối do hệ thống phát hiện hành vi bất thường.",
-              });
-            }
-          } catch (err) {
-            if (err instanceof APIError) throw err;
-            // Lỗi detector không được phép chặn đăng ký hợp lệ -> fail-open.
-            console.warn("[auth] abuse-detect register failed:", err);
-          }
           return;
         },
         after: async (user, context) => {

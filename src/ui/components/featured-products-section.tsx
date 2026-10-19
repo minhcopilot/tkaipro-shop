@@ -81,8 +81,8 @@ export function FeaturedProductsSection({ products }: FeaturedProductsSectionPro
           </p>
         </div>
 
-        {/* Equal 2×2 product grid — same card size for all SKUs */}
-        <div className="grid auto-rows-fr grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-2 lg:gap-5">
+        {/* Four products per row on desktop, with equal-height cards. */}
+        <div className="grid auto-rows-fr grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-4 lg:gap-5">
           {products.map((product) => (
             <ProductCard
               key={product.id}

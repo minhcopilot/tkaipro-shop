@@ -16,7 +16,6 @@ const nextConfig: NextConfig = {
   output: "standalone",
   // externalize server-side packages that have issues with standalone mode bundling
   serverExternalPackages: [
-    "@getbrevo/brevo",
     "bcryptjs",
     "better-auth",
     "@polar-sh/better-auth",
@@ -113,7 +112,6 @@ const nextConfig: NextConfig = {
         "pg",
         "postgres",
         "drizzle-orm",
-        "@getbrevo/brevo",
         "bcryptjs",
       ];
     }

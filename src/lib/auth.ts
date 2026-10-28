@@ -34,8 +34,8 @@ import {
 } from "~/lib/security/ip-log";
 import { createSharedEmailClient } from "~/lib/shared-email-client";
 
-// khởi tạo brevo client
-const brevoEmailAPI = createSharedEmailClient();
+// khởi tạo Resend client
+const transactionalEmailAPI = createSharedEmailClient();
 
 
 
@@ -287,8 +287,8 @@ export const auth = betterAuth({
     enabled: true,
     sendResetPassword: async ({ user, url, token }, request) => {
       try {
-        // gửi email bằng brevo api mới
-        const result = await brevoEmailAPI.sendTransacEmail({
+        // gửi email bằng Resend api mới
+        const result = await transactionalEmailAPI.sendTransacEmail({
           to: [
             {
               email: user.email,
@@ -314,13 +314,13 @@ export const auth = betterAuth({
           `,
           sender: {
             name: SEO_CONFIG.name,
-            email: process.env.BREVO_EMAIL || ""
+            email: process.env.EMAIL_FROM_EMAIL || "no-reply@tkcuso.com"
           }
         });
         
-        console.log("Reset password email sent successfully via Brevo:", result.body);
+        console.log("Reset password email sent successfully via Resend:", result.body);
       } catch (error) {
-        console.error("Failed to send reset password email via Brevo:", error);
+        console.error("Failed to send reset password email via Resend:", error);
         throw error;
       }
     },

@@ -5,24 +5,24 @@ import { SEO_CONFIG } from "~/app";
 
 import { getEmailT, normalizeLocale } from "./email-i18n";
 
-const brevoEmailAPI = createSharedEmailClient();
+const transactionalEmailAPI = createSharedEmailClient();
 const promotionalEmailAPI = createSharedEmailClient("bulk");
 const restockEmailAPI = createSharedEmailClient("restock");
 
 const SENDER = {
   name: SEO_CONFIG.name,
-  email: process.env.BREVO_EMAIL || "",
+  email: process.env.EMAIL_FROM_EMAIL || "no-reply@tkcuso.com",
 };
 const REPLY_TO = {
   name: `${SEO_CONFIG.name} Support`,
-  email: SEO_CONFIG.supportContacts.email || process.env.BREVO_EMAIL || "",
+  email: SEO_CONFIG.supportContacts.email || process.env.EMAIL_FROM_EMAIL || "no-reply@tkcuso.com",
 };
 
 const FB_URL = SEO_CONFIG.supportContacts.facebook;
 const TG_URL = SEO_CONFIG.supportContacts.telegram
   ? `https://t.me/${SEO_CONFIG.supportContacts.telegram.replace(/^@/, "")}`
   : "";
-const SUPPORT_EMAIL = SEO_CONFIG.supportContacts.email || process.env.BREVO_EMAIL || "";
+const SUPPORT_EMAIL = SEO_CONFIG.supportContacts.email || process.env.EMAIL_FROM_EMAIL || "no-reply@tkcuso.com";
 // Địa chỉ nhận thông báo nội bộ (đơn hàng mới, đăng ký mới).
 const ADMIN_NOTIFICATION_EMAIL =
   process.env.ADMIN_NOTIFICATION_EMAIL || SEO_CONFIG.supportContacts.email;
@@ -101,7 +101,7 @@ export async function sendRegistrationOtpEmail(
       ? "Nếu bạn không yêu cầu đăng ký, hãy bỏ qua email này."
       : "If you did not request this, please ignore this email.";
 
-    await brevoEmailAPI.sendTransacEmail({
+    await transactionalEmailAPI.sendTransacEmail({
       to: [{ email }],
       subject,
       htmlContent: `
@@ -146,7 +146,7 @@ export async function sendVerificationAccessOtpEmail(
       ? "Nếu bạn không yêu cầu lấy mã OTP, hãy bỏ qua email này."
       : "If you did not request this, please ignore this email.";
 
-    await brevoEmailAPI.sendTransacEmail({
+    await transactionalEmailAPI.sendTransacEmail({
       to: [{ email: customerEmail }],
       subject,
       htmlContent: `
@@ -197,7 +197,7 @@ export async function sendAdminOrderNotification(orderData: OrderNotificationDat
       `<li>${item.name} (${item.category}) - ${item.quantity}x - ${item.price.toLocaleString('vi-VN')}đ</li>`
     ).join('');
 
-    const result = await brevoEmailAPI.sendTransacEmail({
+    const result = await transactionalEmailAPI.sendTransacEmail({
       to: [{ email: ADMIN_NOTIFICATION_EMAIL, name: `Admin ${SEO_CONFIG.name}` }],
       subject: `🎉 Đơn hàng mới #${orderNumber} - ${total.toLocaleString('vi-VN')}đ`,
       htmlContent: `
@@ -249,7 +249,7 @@ export async function sendAdminMissingPasswordAlert(data: {
 }): Promise<boolean> {
   try {
     const list = data.missingEmails.map((e) => `<li>${e}</li>`).join("");
-    await brevoEmailAPI.sendTransacEmail({
+    await transactionalEmailAPI.sendTransacEmail({
       to: [{ email: ADMIN_NOTIFICATION_EMAIL, name: `Admin ${SEO_CONFIG.name}` }],
       subject: `⚠️ Thiếu mật khẩu manager — đơn #${data.orderNumber}`,
       htmlContent: `
@@ -407,7 +407,7 @@ export async function sendCustomerOrderConfirmation(orderData: CustomerOrderConf
       </div>
     `;
 
-    const result = await brevoEmailAPI.sendTransacEmail({
+    const result = await transactionalEmailAPI.sendTransacEmail({
       to: [{ email: customerEmail, name: customerName }],
       subject: tSubj("customerOrderConfirmation", { orderNumber }),
       htmlContent: emailShell({
@@ -512,7 +512,7 @@ export async function sendSubscriptionExpirationReminder(data: SubscriptionRemin
       ${supportBlock(tCommon)}
     `;
 
-    const result = await brevoEmailAPI.sendTransacEmail({
+    const result = await transactionalEmailAPI.sendTransacEmail({
       to: [{ email: customerEmail, name: displayName }],
       subject: tSubj(subjectKey, { productName, daysLeft }),
       htmlContent: emailShell({
@@ -594,7 +594,7 @@ export async function sendAccountContactEmail(data: AccountContactEmailData): Pr
       </div>
     `;
 
-    const result = await brevoEmailAPI.sendTransacEmail({
+    const result = await transactionalEmailAPI.sendTransacEmail({
       to: [{ email: customerEmail, name: customerName }],
       subject: tSubj("accountContact", { orderNumber }),
       htmlContent: emailShell({
@@ -668,7 +668,7 @@ export async function sendUpgradeCompletedEmail(data: UpgradeCompletedEmailData)
       ${supportBlock(tCommon)}
     `;
 
-    const result = await brevoEmailAPI.sendTransacEmail({
+    const result = await transactionalEmailAPI.sendTransacEmail({
       to: [{ email: customerEmail, name: customerName }],
       subject: tSubj("upgradeCompleted", { orderNumber }),
       htmlContent: emailShell({
@@ -748,7 +748,7 @@ export async function sendUpgradeIssueEmail(data: UpgradeIssueEmailData): Promis
       </div>
     `;
 
-    const result = await brevoEmailAPI.sendTransacEmail({
+    const result = await transactionalEmailAPI.sendTransacEmail({
       to: [{ email: customerEmail, name: customerName }],
       subject: tSubj("upgradeIssue", { orderNumber }),
       htmlContent: emailShell({
@@ -920,7 +920,7 @@ export async function sendLoginLinkOrderEmail(data: LoginLinkOrderEmailData): Pr
       </div>
     `;
 
-    const result = await brevoEmailAPI.sendTransacEmail({
+    const result = await transactionalEmailAPI.sendTransacEmail({
       to: [{ email: customerEmail, name: customerName }],
       subject: tSubj("loginLinkOrder", { orderNumber }),
       htmlContent: emailShell({
@@ -994,7 +994,7 @@ export async function sendActivationSuccessEmail(
       ${supportBlock(tCommon)}
     `;
 
-    const result = await brevoEmailAPI.sendTransacEmail({
+    const result = await transactionalEmailAPI.sendTransacEmail({
       to: [{ email: customerEmail, name: customerEmail.split("@")[0] || customerEmail }],
       subject: tSubj("activationSuccess", { orderNumber }),
       htmlContent: emailShell({
@@ -1188,7 +1188,7 @@ export async function sendWalletTopupSuccessEmail(
       </div>
     `;
 
-    await brevoEmailAPI.sendTransacEmail({
+    await transactionalEmailAPI.sendTransacEmail({
       to: [{ email: data.customerEmail, name: data.customerName }],
       subject: tSubj("walletTopupSuccess", { amount: amountFmt }),
       htmlContent: emailShell({
@@ -1259,7 +1259,7 @@ export async function sendWalletTopupRejectedEmail(
       </div>
     `;
 
-    await brevoEmailAPI.sendTransacEmail({
+    await transactionalEmailAPI.sendTransacEmail({
       to: [{ email: data.customerEmail, name: data.customerName }],
       subject: tSubj("walletTopupRejected", { amount: amountFmt }),
       htmlContent: emailShell({

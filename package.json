@@ -22,7 +22,6 @@
   },
   "dependencies": {
     "@fingerprintjs/fingerprintjs": "^5.2.0",
-    "@getbrevo/brevo": "^3.0.1",
     "@marsidev/react-turnstile": "^1.5.2",
     "@paralleldrive/cuid2": "^2.2.2",
     "@polar-sh/better-auth": "^0.1.1",

@@ -33,7 +33,7 @@ services:
       timeout: 30s
       retries: 10
       start_period: 180s
-    # Secrets (DATABASE_URL, AUTH_*, BREVO_*, SePay, …) đến từ env_file —
+    # Secrets (DATABASE_URL, AUTH_*, RESEND_*, SePay, …) đến từ env_file —
     # không bao giờ commit plaintext secret vào file này.
     environment:
       - NODE_ENV=production

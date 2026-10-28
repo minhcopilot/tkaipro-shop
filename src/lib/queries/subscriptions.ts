@@ -375,7 +375,7 @@ export async function processExpirationReminders(): Promise<{
       locale: string | undefined;
     }): Promise<boolean> => {
       const ok = await sendSubscriptionExpirationReminder(params);
-      // throttle nhẹ giữa các email để tránh Brevo rate limit khi batch lớn
+      // throttle nhẹ giữa các email để tránh Resend rate limit khi batch lớn
       await new Promise((resolve) => setTimeout(resolve, 200));
       return ok;
     };

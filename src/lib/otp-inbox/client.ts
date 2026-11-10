@@ -46,7 +46,7 @@ function getConfig(): { base: string; key: string } | null {
   return { base, key };
 }
 
-/** Regex lấy mã 6 số (EN / RU / VI). Ưu tiên pattern có ngữ cảnh. */
+/** Regex lấy mã 6 số (EN / RU / VI / ZH / JA / KO). Ưu tiên pattern có ngữ cảnh. */
 const OTP_CODE_PATTERNS: RegExp[] = [
   /one-time code is[:\s]+(\d{6})/i,
   /your one-time code[:\s]+(\d{6})/i,
@@ -59,6 +59,8 @@ const OTP_CODE_PATTERNS: RegExp[] = [
   /mã[:\s]+(\d{6})/i,
   /verification code[:\s]+(\d{6})/i,
   /(?:code|mã|код)[:\s]+(\d{6})/i,
+  // ZH / JA / KO: "您的一次性验证码是 954235" / "ワンタイムコードは 123456" / "코드: 123456"
+  /(?:验证码|驗證碼|代码|代碼|コード|코드)[^0-9]{0,12}(\d{6})/,
 ];
 
 const SIGNIN_SUBJECT_MATCHERS = [
@@ -85,7 +87,51 @@ const SIGNIN_SUBJECT_MATCHERS = [
   "проверку кодом",
   "проверка",
   "одноразовый код",
+  "войдите в cursor",
+  // ZH (giản/phồn thể), JA, KO
+  "登录 cursor",
+  "登入 cursor",
+  "登錄 cursor",
+  "验证码",
+  "驗證碼",
+  "cursor にサインイン",
+  "コード",
+  "cursor에 로그인",
+  "인증 코드",
 ];
+
+/**
+ * Mail giao dịch của Cursor (mã đăng nhập, reset mật khẩu…) gửi từ
+ * `@em175.cursor.sh`; mail marketing/billing từ `pm-bounces.cursor.com`.
+ * Cursor dịch subject theo ngôn ngữ trình duyệt của khách nên không thể liệt kê
+ * hết subject — mail từ sender giao dịch được nhận luôn (trừ loại bên dưới),
+ * miễn là body có mã 6 số.
+ */
+const TRANSACTIONAL_SENDER_RE = /@em\d*\.cursor\.sh$/i;
+
+/** Subject giao dịch KHÔNG phải mã đăng nhập (đa ngôn ngữ). */
+const NON_SIGNIN_SUBJECT_MATCHERS = [
+  "reset",
+  "password",
+  "mật khẩu",
+  "пароль",
+  "密码",
+  "密碼",
+  "パスワード",
+  "비밀번호",
+  "passwort",
+  "contraseña",
+  "mot de passe",
+  "senha",
+];
+
+function isSigninCandidate(it: InboxItem): boolean {
+  if (subjectMatches(it.subject, SIGNIN_SUBJECT_MATCHERS)) return true;
+  return (
+    TRANSACTIONAL_SENDER_RE.test(normAddr(it.envelope_from)) &&
+    !subjectMatches(it.subject, NON_SIGNIN_SUBJECT_MATCHERS)
+  );
+}
 
 function normAddr(a: string): string {
   return (a || "").trim().toLowerCase();
@@ -102,25 +148,70 @@ function subjectMatches(subject: string, matchers: string[]): boolean {
  */
 export function decodeQuotedPrintable(input: string): string {
   if (!input) return "";
-  const noBreaks = input.replace(/=\r?\n/g, "");
+  const src = Buffer.from(input.replace(/=\r?\n/g, ""), "utf-8");
   const bytes: number[] = [];
-  for (let i = 0; i < noBreaks.length; i++) {
-    const ch = noBreaks[i];
-    if (ch === "=" && i + 2 < noBreaks.length) {
-      const hex = noBreaks.substr(i + 1, 2);
+  for (let i = 0; i < src.length; i++) {
+    const b = src[i]!;
+    if (b === 0x3d && i + 2 < src.length) {
+      const hex = String.fromCharCode(src[i + 1]!, src[i + 2]!);
       if (/^[0-9A-Fa-f]{2}$/.test(hex)) {
         bytes.push(parseInt(hex, 16));
         i += 2;
         continue;
       }
     }
-    bytes.push(ch.charCodeAt(0) & 0xff);
+    bytes.push(b);
   }
-  try {
-    return Buffer.from(bytes).toString("utf-8");
-  } catch {
-    return noBreaks;
+  return Buffer.from(bytes).toString("utf-8");
+}
+
+function splitHeadersBody(part: string): { headers: string; body: string } {
+  const m = /\r?\n\r?\n/.exec(part);
+  if (!m) return { headers: part, body: "" };
+  return {
+    headers: part.slice(0, m.index),
+    body: part.slice(m.index + m[0].length),
+  };
+}
+
+function headerValue(headers: string, name: string): string {
+  const unfolded = headers.replace(/\r?\n[ \t]+/g, " ");
+  const re = new RegExp(`^${name}:[ \\t]*(.*)$`, "im");
+  return re.exec(unfolded)?.[1]?.trim() ?? "";
+}
+
+function decodePartBody(body: string, cte: string): string {
+  const enc = cte.toLowerCase();
+  if (enc === "base64") {
+    return Buffer.from(body.replace(/\s+/g, ""), "base64").toString("utf-8");
   }
+  if (enc === "quoted-printable") return decodeQuotedPrintable(body);
+  return body;
+}
+
+/**
+ * Giải raw MIME thành text của các phần text/* (đệ quy multipart), decode
+ * base64 / quoted-printable đúng theo Content-Transfer-Encoding từng phần.
+ * Không có header MIME (raw chỉ là body) → coi như text, thử QP nếu thấy dấu.
+ */
+export function decodeMimeText(raw: string, depth = 0): string {
+  const { headers, body } = splitHeadersBody(raw);
+  const ctype = headerValue(headers, "Content-Type");
+  const cte = headerValue(headers, "Content-Transfer-Encoding");
+  if (!ctype && !cte) {
+    return /=\r?\n|=[0-9A-F]{2}/.test(raw) ? decodeQuotedPrintable(raw) : raw;
+  }
+  const boundary = /boundary="?([^";]+)"?/i.exec(ctype)?.[1];
+  if (/^multipart\//i.test(ctype) && boundary && depth < 5) {
+    return body
+      .split(`--${boundary}`)
+      .slice(1)
+      .filter((part) => !part.startsWith("--"))
+      .map((part) => decodeMimeText(part.replace(/^\r?\n/, ""), depth + 1))
+      .join("\n");
+  }
+  if (ctype && !/^text\//i.test(ctype)) return "";
+  return decodePartBody(body, cte);
 }
 
 async function apiGet(path: string): Promise<Response> {
@@ -173,20 +264,21 @@ function cleanForOtp(decoded: string): string {
     .replace(/<[^>]+>/g, " ")
     .replace(/#[0-9a-fA-F]{3,8}\b/g, " ") // mã màu CSS (#333333, #202020)
     .replace(/&nbsp;|&#160;/gi, " ")
+    .replace(/&#(\d+);/g, (_, n: string) => String.fromCodePoint(Number(n)))
     .replace(/[ ]/g, " ")
     .replace(/\s+/g, " ");
 }
 
-function extractOtpFromRaw(raw: string): string | null {
-  const decoded = decodeQuotedPrintable(raw);
+export function extractOtpFromRaw(raw: string): string | null {
+  // Chạy regex trên text đã bỏ tag/CSS để không khớp nhầm attribute.
+  const cleaned = cleanForOtp(decodeMimeText(raw));
   for (const re of OTP_CODE_PATTERNS) {
-    const m = decoded.match(re);
+    const m = cleaned.match(re);
     if (m) {
       if (m[2]) return `${m[1]}${m[2]}`;
       if (m[1]) return m[1];
     }
   }
-  const cleaned = cleanForOtp(decoded);
   const standalone = cleaned.match(
     /(?<![0-9A-Za-z#+/_-])(\d{6})(?![0-9A-Za-z])/,
   );
@@ -208,7 +300,7 @@ export async function getLatestSigninCode(
   const candidates = msgs.filter((it) => {
     // Subject phải khớp mẫu sign-in/one-time code để tránh mail marketing
     // ("Connect your repos") dù cũng từ Cursor.
-    if (!subjectMatches(it.subject, SIGNIN_SUBJECT_MATCHERS)) return false;
+    if (!isSigninCandidate(it)) return false;
     const t = new Date(it.received_at).getTime();
     return now - t <= maxAgeMs;
   });

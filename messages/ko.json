@@ -2757,12 +2757,12 @@
       "line2": "코드가 표시되지 않으면 서비스에서 새 로그인을 요청한 후 다시 시도하세요."
     },
     "errors": {
-      "INVALID": "이메일 또는 계정 비밀번호가 올바르지 않습니다.",
-      "NO_CODE": "아직 메일함에 새 로그인 코드가 없습니다.",
-      "TOO_MANY_REQUESTS": "시도 횟수가 너무 많습니다. 1분 후 다시 시도하세요.",
-      "UNAVAILABLE": "코드 조회가 설정되지 않았습니다.",
-      "NETWORK": "네트워크 오류입니다. 다시 시도하세요.",
-      "UNKNOWN": "문제가 발생했습니다. 다시 시도하세요."
+      "INVALID": "Email or account password is incorrect. Please check again or contact the admin for help.",
+      "NO_CODE": "No sign-in code found in the last 10 minutes. Request a sign-in code on Cursor, wait about 30 seconds, then try again. If it still fails, please contact the admin.",
+      "TOO_MANY_REQUESTS": "Unable to get the code right now. Please contact the admin for help.",
+      "UNAVAILABLE": "Code lookup is temporarily unavailable. Please contact the admin for help.",
+      "NETWORK": "Network error. Please try again; if it keeps failing, contact the admin.",
+      "UNKNOWN": "Something went wrong while getting the code. Please contact the admin for help."
     }
   }
 }

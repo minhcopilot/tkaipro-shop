@@ -10,7 +10,6 @@ import {
   verifyAccessKey,
 } from "~/lib/account-otp-keys";
 import { pollLatestSigninCode } from "~/lib/otp-inbox/client";
-import { getClientIp, rateLimit } from "~/lib/security/rate-limit";
 
 export const runtime = "nodejs";
 export const dynamic = "force-dynamic";
@@ -24,17 +23,7 @@ function invalid() {
   );
 }
 
-function tooMany() {
-  return NextResponse.json(
-    { code: "TOO_MANY_REQUESTS", error: "Too many requests." },
-    { status: 429 },
-  );
-}
-
 export async function POST(request: Request) {
-  const ip = getClientIp(request);
-  if (!rateLimit(`account-code:${ip}`, 8, 60_000).ok) return tooMany();
-
   let body: { email?: unknown; accessKey?: unknown; password?: unknown };
   try {
     body = (await request.json()) as typeof body;
@@ -50,10 +39,6 @@ export async function POST(request: Request) {
     accessKey.length > MAX_ACCESS_KEY_LENGTH
   ) {
     return invalid();
-  }
-
-  if (!rateLimit(`account-code-email:${email}`, 5, 10 * 60_000).ok) {
-    return tooMany();
   }
 
   try {

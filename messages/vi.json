@@ -2757,12 +2757,12 @@
       "line2": "Nếu chưa thấy mã, bạn hãy yêu cầu đăng nhập lại trên dịch vụ rồi thử lại nhé."
     },
     "errors": {
-      "INVALID": "Email hoặc mật khẩu tài khoản không đúng.",
-      "NO_CODE": "Hộp thư chưa có mã đăng nhập mới.",
-      "TOO_MANY_REQUESTS": "Bạn thử quá nhiều lần. Vui lòng thử lại sau 1 phút.",
-      "UNAVAILABLE": "Chức năng lấy mã chưa được cấu hình.",
-      "NETWORK": "Lỗi kết nối mạng. Vui lòng thử lại.",
-      "UNKNOWN": "Có lỗi xảy ra. Vui lòng thử lại."
+      "INVALID": "Email hoặc mật khẩu tài khoản không đúng. Vui lòng kiểm tra lại hoặc liên hệ admin để được hỗ trợ.",
+      "NO_CODE": "Chưa tìm thấy mã đăng nhập trong 10 phút gần đây. Hãy bấm gửi mã đăng nhập trên Cursor, đợi khoảng 30 giây rồi thử lại. Nếu vẫn không được, vui lòng liên hệ admin.",
+      "TOO_MANY_REQUESTS": "Không lấy được mã lúc này. Vui lòng liên hệ admin để được hỗ trợ.",
+      "UNAVAILABLE": "Chức năng lấy mã đang tạm ngưng. Vui lòng liên hệ admin để được hỗ trợ.",
+      "NETWORK": "Lỗi kết nối mạng. Vui lòng thử lại; nếu vẫn lỗi, hãy liên hệ admin.",
+      "UNKNOWN": "Có lỗi xảy ra khi lấy mã. Vui lòng liên hệ admin để được hỗ trợ."
     }
   },
   "SitemapPage": {

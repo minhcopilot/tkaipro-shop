@@ -2757,12 +2757,12 @@
       "line2": "If no code appears, request a new sign-in on the service, then try again."
     },
     "errors": {
-      "INVALID": "Email or account password is not valid.",
-      "NO_CODE": "No new sign-in code in the mailbox yet.",
-      "TOO_MANY_REQUESTS": "Too many attempts. Try again in a minute.",
-      "UNAVAILABLE": "Code lookup is not configured.",
-      "NETWORK": "Network error. Try again.",
-      "UNKNOWN": "Something went wrong. Try again."
+      "INVALID": "Email or account password is incorrect. Please check again or contact the admin for help.",
+      "NO_CODE": "No sign-in code found in the last 10 minutes. Request a sign-in code on Cursor, wait about 30 seconds, then try again. If it still fails, please contact the admin.",
+      "TOO_MANY_REQUESTS": "Unable to get the code right now. Please contact the admin for help.",
+      "UNAVAILABLE": "Code lookup is temporarily unavailable. Please contact the admin for help.",
+      "NETWORK": "Network error. Please try again; if it keeps failing, contact the admin.",
+      "UNKNOWN": "Something went wrong while getting the code. Please contact the admin for help."
     }
   },
   "SitemapPage": {

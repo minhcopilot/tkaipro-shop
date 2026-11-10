@@ -2757,12 +2757,12 @@
       "line2": "Si no aparece ningún código, solicita un nuevo inicio de sesión en el servicio y vuelve a intentarlo."
     },
     "errors": {
-      "INVALID": "El correo o la contraseña de la cuenta no son válidos.",
-      "NO_CODE": "Aún no hay un nuevo código de inicio de sesión en el buzón.",
-      "TOO_MANY_REQUESTS": "Demasiados intentos. Inténtalo de nuevo en un minuto.",
-      "UNAVAILABLE": "La búsqueda de códigos no está configurada.",
-      "NETWORK": "Error de red. Inténtalo de nuevo.",
-      "UNKNOWN": "Algo salió mal. Inténtalo de nuevo."
+      "INVALID": "Email or account password is incorrect. Please check again or contact the admin for help.",
+      "NO_CODE": "No sign-in code found in the last 10 minutes. Request a sign-in code on Cursor, wait about 30 seconds, then try again. If it still fails, please contact the admin.",
+      "TOO_MANY_REQUESTS": "Unable to get the code right now. Please contact the admin for help.",
+      "UNAVAILABLE": "Code lookup is temporarily unavailable. Please contact the admin for help.",
+      "NETWORK": "Network error. Please try again; if it keeps failing, contact the admin.",
+      "UNKNOWN": "Something went wrong while getting the code. Please contact the admin for help."
     }
   }
 }

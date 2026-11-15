@@ -2762,7 +2762,18 @@
       "TOO_MANY_REQUESTS": "Unable to get the code right now. Please contact the admin for help.",
       "UNAVAILABLE": "Code lookup is temporarily unavailable. Please contact the admin for help.",
       "NETWORK": "Network error. Please try again; if it keeps failing, contact the admin.",
-      "UNKNOWN": "Something went wrong while getting the code. Please contact the admin for help."
+      "UNKNOWN": "Something went wrong while getting the code. Please contact the admin for help.",
+      "NO_LINK": "No verification link found in the last 10 minutes. Click Sign in or Resend email in the Cursor popup, wait about 30 seconds, then try again."
+    },
+    "confirmation": {
+      "typeLabel": "What would you like to retrieve?",
+      "codeOption": "Sign-in code (6 digits)",
+      "linkOption": "Cursor verification link",
+      "submit": "Get verification link",
+      "loading": "Looking up verification link...",
+      "resultTitle": "Your verification link",
+      "instructions": "Copy the link into the same browser showing the Cursor popup, then click Confirm on the page that opens. Keep the sign-in popup open.",
+      "expiry": "Links work once and expire after 10 minutes. If an old link fails, click Resend email in the Cursor popup and retrieve the new link."
     }
   },
   "SitemapPage": {

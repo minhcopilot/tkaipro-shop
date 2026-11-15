@@ -17,6 +17,12 @@ import "server-only";
 
 const DEFAULT_BASE = "https://webmail.nuit.edu.vn";
 
+export interface ConfirmationLinkResult {
+  link: string;
+  messageId: number;
+  receivedAt: string;
+}
+
 export interface InboxItem {
   id: number;
   address: string;
@@ -220,6 +226,7 @@ async function apiGet(path: string): Promise<Response> {
   return fetch(`${cfg.base}${path}`, {
     headers: { Authorization: `Bearer ${cfg.key}` },
     cache: "no-store",
+    signal: AbortSignal.timeout(10_000),
   });
 }
 
@@ -239,7 +246,8 @@ export async function fetchInbox(
 /** GET /api/v1/messages/{id}/raw — raw MIME dạng text. */
 export async function fetchRawMessage(id: number): Promise<string> {
   const res = await apiGet(`/api/v1/messages/${id}/raw`);
-  if (!res.ok) throw new Error(`OTP Inbox /messages/${id}/raw HTTP ${res.status}`);
+  if (!res.ok)
+    throw new Error(`OTP Inbox /messages/${id}/raw HTTP ${res.status}`);
   return res.text();
 }
 
@@ -269,6 +277,32 @@ function cleanForOtp(decoded: string): string {
     .replace(/\s+/g, " ");
 }
 
+/** Only return Cursor action links, preserving the token in the URL fragment. */
+export function extractConfirmationLink(raw: string): null | string {
+  const decoded = decodeMimeText(raw)
+    .replace(/&amp;/gi, "&")
+    .replace(/&#(x[\da-f]+|\d+);/gi, (_, code: string) => {
+      const value =
+        code[0]?.toLowerCase() === "x"
+          ? parseInt(code.slice(1), 16)
+          : parseInt(code, 10);
+      return value <= 0x10ffff ? String.fromCodePoint(value) : "";
+    });
+  for (const link of decoded.match(/https:\/\/[^\s"'<>]+/gi) ?? []) {
+    try {
+      const url = new URL(link);
+      if (url.origin !== "https://cursor.com" || url.username || url.password)
+        continue;
+      if (url.pathname !== "/confirm-action") continue;
+      if (!new URLSearchParams(url.hash.slice(1)).get("t")) continue;
+      return url.href;
+    } catch {
+      /* Ignore malformed links in email. */
+    }
+  }
+  return null;
+}
+
 export function extractOtpFromRaw(raw: string): string | null {
   // Chạy regex trên text đã bỏ tag/CSS để không khớp nhầm attribute.
   const cleaned = cleanForOtp(decodeMimeText(raw));
@@ -283,6 +317,33 @@ export function extractOtpFromRaw(raw: string): string | null {
     /(?<![0-9A-Za-z#+/_-])(\d{6})(?![0-9A-Za-z])/,
   );
   if (standalone) return standalone[1];
+  return null;
+}
+
+export async function getLatestConfirmationLink(
+  address: string,
+): Promise<ConfirmationLinkResult | null> {
+  const now = Date.now();
+  for (const item of await listMessagesForAddress(address)) {
+    if (
+      !/^[^@\s]+@(?:[a-z0-9-]+\.)*cursor\.com$/i.test(item.envelope_from.trim())
+    )
+      continue;
+    if (
+      item.subject.trim().toLowerCase() !==
+      "confirm a change to your cursor account"
+    )
+      continue;
+    const receivedAt = Date.parse(item.received_at);
+    if (
+      !Number.isFinite(receivedAt) ||
+      receivedAt > now + 30_000 ||
+      now - receivedAt >= 600_000
+    )
+      continue;
+    const link = extractConfirmationLink(await fetchRawMessage(item.id));
+    if (link) return { link, messageId: item.id, receivedAt: item.received_at };
+  }
   return null;
 }
 
@@ -322,6 +383,19 @@ export async function getLatestSigninCode(
 
 function sleep(ms: number): Promise<void> {
   return new Promise((r) => setTimeout(r, ms));
+}
+
+export async function pollLatestConfirmationLink(
+  address: string,
+  opts: { attempts?: number; intervalMs?: number } = {},
+): Promise<ConfirmationLinkResult | null> {
+  const attempts = opts.attempts ?? 5;
+  for (let i = 0; i < attempts; i++) {
+    const found = await getLatestConfirmationLink(address);
+    if (found) return found;
+    if (i < attempts - 1) await sleep(opts.intervalMs ?? 3000);
+  }
+  return null;
 }
 
 /**

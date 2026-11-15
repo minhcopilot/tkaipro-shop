@@ -2762,7 +2762,18 @@
       "TOO_MANY_REQUESTS": "Unable to get the code right now. Please contact the admin for help.",
       "UNAVAILABLE": "Code lookup is temporarily unavailable. Please contact the admin for help.",
       "NETWORK": "Network error. Please try again; if it keeps failing, contact the admin.",
-      "UNKNOWN": "Something went wrong while getting the code. Please contact the admin for help."
+      "UNKNOWN": "Something went wrong while getting the code. Please contact the admin for help.",
+      "NO_LINK": "لم يتم العثور على رابط خلال آخر 10 دقائق. اضغط Sign in أو Resend email في Cursor، وانتظر 30 ثانية ثم حاول مجددًا."
+    },
+    "confirmation": {
+      "typeLabel": "ماذا تريد استرداده؟",
+      "codeOption": "رمز الدخول (6 أرقام)",
+      "linkOption": "رابط التحقق من Cursor",
+      "submit": "الحصول على رابط التحقق",
+      "loading": "جارٍ البحث عن الرابط...",
+      "resultTitle": "رابط التحقق الخاص بك",
+      "instructions": "الصق الرابط في المتصفح نفسه الذي يعرض نافذة Cursor، ثم اضغط Confirm. أبقِ نافذة تسجيل الدخول مفتوحة.",
+      "expiry": "الرابط صالح لمرة واحدة وينتهي بعد 10 دقائق. إذا لم يعمل رابط قديم، اضغط Resend email في Cursor ثم احصل على الرابط الجديد."
     }
   }
 }

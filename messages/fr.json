@@ -2762,7 +2762,18 @@
       "TOO_MANY_REQUESTS": "Unable to get the code right now. Please contact the admin for help.",
       "UNAVAILABLE": "Code lookup is temporarily unavailable. Please contact the admin for help.",
       "NETWORK": "Network error. Please try again; if it keeps failing, contact the admin.",
-      "UNKNOWN": "Something went wrong while getting the code. Please contact the admin for help."
+      "UNKNOWN": "Something went wrong while getting the code. Please contact the admin for help.",
+      "NO_LINK": "Aucun lien dans les 10 dernières minutes. Cliquez sur Sign in ou Resend email dans Cursor, attendez 30 secondes et réessayez."
+    },
+    "confirmation": {
+      "typeLabel": "Que souhaitez-vous récupérer ?",
+      "codeOption": "Code de connexion (6 chiffres)",
+      "linkOption": "Lien de vérification Cursor",
+      "submit": "Obtenir le lien",
+      "loading": "Recherche du lien...",
+      "resultTitle": "Votre lien de vérification",
+      "instructions": "Collez le lien dans le même navigateur que la fenêtre Cursor, puis cliquez sur Confirm. Gardez la fenêtre de connexion ouverte.",
+      "expiry": "Le lien est à usage unique et expire après 10 minutes. Si un ancien lien échoue, cliquez sur Resend email dans Cursor et récupérez le nouveau lien."
     }
   }
 }

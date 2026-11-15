@@ -2762,7 +2762,18 @@
       "TOO_MANY_REQUESTS": "暂时无法获取验证码，请联系管理员获取帮助。",
       "UNAVAILABLE": "验证码查询功能暂不可用，请联系管理员获取帮助。",
       "NETWORK": "网络错误，请重试；如仍失败，请联系管理员。",
-      "UNKNOWN": "获取验证码时出错，请联系管理员获取帮助。"
+      "UNKNOWN": "获取验证码时出错，请联系管理员获取帮助。",
+      "NO_LINK": "未找到最近10分钟内的验证链接。请在 Cursor 弹窗点击 Sign in 或 Resend email，等待30秒后重试。"
+    },
+    "confirmation": {
+      "typeLabel": "您想获取什么？",
+      "codeOption": "登录验证码（6位）",
+      "linkOption": "Cursor 验证链接",
+      "submit": "获取验证链接",
+      "loading": "正在查找验证链接...",
+      "resultTitle": "您的验证链接",
+      "instructions": "将链接粘贴到显示 Cursor 弹窗的同一浏览器中，然后点击 Confirm。请保持登录弹窗打开。",
+      "expiry": "链接仅可使用一次，10分钟后失效。如旧链接无法使用，请在 Cursor 弹窗点击 Resend email，再获取新链接。"
     }
   }
 }

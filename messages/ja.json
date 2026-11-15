@@ -2762,7 +2762,18 @@
       "TOO_MANY_REQUESTS": "Unable to get the code right now. Please contact the admin for help.",
       "UNAVAILABLE": "Code lookup is temporarily unavailable. Please contact the admin for help.",
       "NETWORK": "Network error. Please try again; if it keeps failing, contact the admin.",
-      "UNKNOWN": "Something went wrong while getting the code. Please contact the admin for help."
+      "UNKNOWN": "Something went wrong while getting the code. Please contact the admin for help.",
+      "NO_LINK": "過去10分以内のリンクが見つかりません。CursorでSign inまたはResend emailを押し、30秒待ってから再試行してください。"
+    },
+    "confirmation": {
+      "typeLabel": "何を取得しますか？",
+      "codeOption": "ログインコード（6桁）",
+      "linkOption": "Cursor確認リンク",
+      "submit": "確認リンクを取得",
+      "loading": "確認リンクを検索中...",
+      "resultTitle": "確認リンク",
+      "instructions": "Cursorのポップアップが表示されている同じブラウザーにリンクを貼り付け、Confirmを押してください。ログインのポップアップは開いたままにしてください。",
+      "expiry": "リンクは1回のみ使用でき、10分で期限切れになります。古いリンクが使えない場合はCursorでResend emailを押し、新しいリンクを取得してください。"
     }
   }
 }

@@ -2762,7 +2762,18 @@
       "TOO_MANY_REQUESTS": "Unable to get the code right now. Please contact the admin for help.",
       "UNAVAILABLE": "Code lookup is temporarily unavailable. Please contact the admin for help.",
       "NETWORK": "Network error. Please try again; if it keeps failing, contact the admin.",
-      "UNKNOWN": "Something went wrong while getting the code. Please contact the admin for help."
+      "UNKNOWN": "Something went wrong while getting the code. Please contact the admin for help.",
+      "NO_LINK": "За последние 10 минут ссылка не найдена. Нажмите Sign in или Resend email в Cursor, подождите 30 секунд и повторите попытку."
+    },
+    "confirmation": {
+      "typeLabel": "Что вы хотите получить?",
+      "codeOption": "Код входа (6 цифр)",
+      "linkOption": "Ссылка подтверждения Cursor",
+      "submit": "Получить ссылку",
+      "loading": "Поиск ссылки...",
+      "resultTitle": "Ваша ссылка подтверждения",
+      "instructions": "Вставьте ссылку в тот же браузер, где открыто окно Cursor, и нажмите Confirm. Не закрывайте окно входа.",
+      "expiry": "Ссылка одноразовая и действует 10 минут. Если старая ссылка не работает, нажмите Resend email в Cursor и получите новую."
     }
   }
 }

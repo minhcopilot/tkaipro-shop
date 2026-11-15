@@ -2762,7 +2762,18 @@
       "TOO_MANY_REQUESTS": "Unable to get the code right now. Please contact the admin for help.",
       "UNAVAILABLE": "Code lookup is temporarily unavailable. Please contact the admin for help.",
       "NETWORK": "Network error. Please try again; if it keeps failing, contact the admin.",
-      "UNKNOWN": "Something went wrong while getting the code. Please contact the admin for help."
+      "UNKNOWN": "Something went wrong while getting the code. Please contact the admin for help.",
+      "NO_LINK": "Kein Link aus den letzten 10 Minuten gefunden. Klicke im Cursor-Popup auf Sign in oder Resend email, warte 30 Sekunden und versuche es erneut."
+    },
+    "confirmation": {
+      "typeLabel": "Was möchtest du abrufen?",
+      "codeOption": "Anmeldecode (6 Ziffern)",
+      "linkOption": "Cursor-Bestätigungslink",
+      "submit": "Bestätigungslink abrufen",
+      "loading": "Bestätigungslink wird gesucht...",
+      "resultTitle": "Dein Bestätigungslink",
+      "instructions": "Kopiere den Link in denselben Browser mit dem Cursor-Popup und klicke auf Confirm. Lass das Anmelde-Popup geöffnet.",
+      "expiry": "Links gelten einmal und laufen nach 10 Minuten ab. Klicke bei einem alten Link im Cursor-Popup auf Resend email und rufe den neuen Link ab."
     }
   }
 }

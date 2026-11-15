@@ -2762,7 +2762,18 @@
       "TOO_MANY_REQUESTS": "Không lấy được mã lúc này. Vui lòng liên hệ admin để được hỗ trợ.",
       "UNAVAILABLE": "Chức năng lấy mã đang tạm ngưng. Vui lòng liên hệ admin để được hỗ trợ.",
       "NETWORK": "Lỗi kết nối mạng. Vui lòng thử lại; nếu vẫn lỗi, hãy liên hệ admin.",
-      "UNKNOWN": "Có lỗi xảy ra khi lấy mã. Vui lòng liên hệ admin để được hỗ trợ."
+      "UNKNOWN": "Có lỗi xảy ra khi lấy mã. Vui lòng liên hệ admin để được hỗ trợ.",
+      "NO_LINK": "Chưa tìm thấy link xác minh trong 10 phút gần đây. Hãy bấm Sign in hoặc Resend email trong popup Cursor, đợi khoảng 30 giây rồi thử lại."
+    },
+    "confirmation": {
+      "typeLabel": "Bạn muốn lấy gì?",
+      "codeOption": "Mã đăng nhập (6 số)",
+      "linkOption": "Link xác minh Cursor",
+      "submit": "Lấy link xác minh",
+      "loading": "Đang tìm link xác minh...",
+      "resultTitle": "Link xác minh của bạn",
+      "instructions": "Sao chép link, dán vào chính trình duyệt đang hiện popup Cursor, rồi bấm Confirm trên trang vừa mở. Giữ popup đăng nhập mở.",
+      "expiry": "Link chỉ dùng một lần và hết hạn sau 10 phút. Nếu link cũ không dùng được, bấm Resend email trong popup Cursor rồi lấy lại link."
     }
   },
   "SitemapPage": {

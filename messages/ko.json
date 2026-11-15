@@ -2762,7 +2762,18 @@
       "TOO_MANY_REQUESTS": "Unable to get the code right now. Please contact the admin for help.",
       "UNAVAILABLE": "Code lookup is temporarily unavailable. Please contact the admin for help.",
       "NETWORK": "Network error. Please try again; if it keeps failing, contact the admin.",
-      "UNKNOWN": "Something went wrong while getting the code. Please contact the admin for help."
+      "UNKNOWN": "Something went wrong while getting the code. Please contact the admin for help.",
+      "NO_LINK": "최근 10분 내 링크가 없습니다. Cursor에서 Sign in 또는 Resend email을 누르고 30초 후 다시 시도하세요."
+    },
+    "confirmation": {
+      "typeLabel": "무엇을 가져올까요?",
+      "codeOption": "로그인 코드 (6자리)",
+      "linkOption": "Cursor 인증 링크",
+      "submit": "인증 링크 받기",
+      "loading": "인증 링크 검색 중...",
+      "resultTitle": "인증 링크",
+      "instructions": "Cursor 팝업이 표시된 같은 브라우저에 링크를 붙여넣고 Confirm을 누르세요. 로그인 팝업은 열어 두세요.",
+      "expiry": "링크는 한 번만 사용할 수 있으며 10분 후 만료됩니다. 이전 링크가 작동하지 않으면 Cursor에서 Resend email을 누르고 새 링크를 받으세요."
     }
   }
 }

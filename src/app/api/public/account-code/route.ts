@@ -9,7 +9,10 @@ import {
   normalizeEmail,
   verifyAccessKey,
 } from "~/lib/account-otp-keys";
-import { pollLatestSigninCode } from "~/lib/otp-inbox/client";
+import {
+  pollLatestConfirmationLink,
+  pollLatestSigninCode,
+} from "~/lib/otp-inbox/client";
 
 export const runtime = "nodejs";
 export const dynamic = "force-dynamic";
@@ -24,7 +27,12 @@ function invalid() {
 }
 
 export async function POST(request: Request) {
-  let body: { email?: unknown; accessKey?: unknown; password?: unknown };
+  let body: {
+    email?: unknown;
+    accessKey?: unknown;
+    password?: unknown;
+    type?: unknown;
+  };
   try {
     body = (await request.json()) as typeof body;
   } catch {
@@ -33,7 +41,9 @@ export async function POST(request: Request) {
 
   const email = normalizeEmail(String(body?.email ?? ""));
   const accessKey = String(body?.accessKey ?? body?.password ?? "").trim();
+  const type = body?.type ?? "code";
   if (
+    (type !== "code" && type !== "confirm-link") ||
     !isValidEmail(email) ||
     !accessKey ||
     accessKey.length > MAX_ACCESS_KEY_LENGTH
@@ -63,10 +73,16 @@ export async function POST(request: Request) {
       );
     }
 
-    const found = await pollLatestSigninCode(email);
+    const found =
+      type === "confirm-link"
+        ? await pollLatestConfirmationLink(email)
+        : await pollLatestSigninCode(email);
     if (!found) {
       return NextResponse.json(
-        { code: "NO_CODE", error: "No recent code found." },
+        {
+          code: type === "confirm-link" ? "NO_LINK" : "NO_CODE",
+          error: "No recent sign-in email found.",
+        },
         { status: 404 },
       );
     }
@@ -76,11 +92,14 @@ export async function POST(request: Request) {
       .set({ lastUsedAt: new Date() })
       .where(eq(accountOtpKeysTable.id, row.id));
 
-    return NextResponse.json({
-      success: true,
-      code: found.code,
-      receivedAt: found.receivedAt,
-    });
+    return NextResponse.json(
+      {
+        success: true,
+        ...("link" in found ? { link: found.link } : { code: found.code }),
+        receivedAt: found.receivedAt,
+      },
+      { headers: { "Cache-Control": "no-store" } },
+    );
   } catch (err) {
     console.error(
       "[public/account-code] error:",
